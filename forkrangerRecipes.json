@@ -2555,6 +2555,132 @@
       "filter": [
         "plants"
       ],
+      "url": "https://forkranger.com/nl/crunchy-noedels/?share",
+      "id": 19,
+      "title": "Crunchy Noedels",
+      "description": "De pinda’s en taugé geven deze noedelsoep een knapperige bite. De sojasaus en bouillon maken het lekker zout, dus wees voorzichtig met het toevoegen van extra zout.",
+      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/crunchy-noodles.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Noedels (udon)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kastanjechampignons",
+          "type": "fresh",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Lente-uitjes",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Pinda's",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "el"
+        },
+        {
+          "name": "Witte wijnazijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Bouillon (paddenstoelen)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "L"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij de gember fijn ",
+        "Snij de champignons in plakjes",
+        "Snij de wortels in plakjes",
+        "Snij de lente-uitjes in ringetjes"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Bak de champignons",
+          "detail": "op hoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de wortels en gember toe",
+          "detail": "verlaag het vuur en sudder tot het vocht van de\nchampignons weg is",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Kook de noedels in bouillon",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de sojasaus, azijn en ca. 100 ml van de bouillon toe waar de noedels in koken",
+          "detail": "roer en breng aan de kook, laat sudderen",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg de pinda’s, taugé, en lente-ui toe",
+          "detail": "meng goed, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de gekookte noedels toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
       "id": 20,
       "title": "Frisse Wraps met Aubergine",
       "description": "De eerste keer dat ik aubergines in een tosti-ijzer klaarmaakte liep mijn vader de keuken binnen en vroeg of ik vlees aan het braden was, het rook net zo lekker.",

@@ -5317,7 +5317,7 @@
     },
     {
       "filter": [
-        "pasta"
+        "potato"
       ],
       "url": "https://forkranger.com/nl/spaghetti-met-knoflook-en-limoen/?share",
       "id": 39,
@@ -5533,12 +5533,6 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
-        },
-        {
-          "name": "Knoflooktenen",
-          "type": "taste",
-          "quantity": 2,
-          "quantityType": ""
         }
       ],
       "prepTime": 15,
@@ -5597,6 +5591,346 @@
           "title": "Meng de pasta en sperziebonen met de saus",
           "detail": "",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice"
+      ],
+      "url": "https://forkranger.com/nl/thaise-pinda-curry/?share",
+      "id": 41,
+      "title": "Thaise Pinda Curry",
+      "description": "Een rijke en romige curry geïnspireerd op de Thaise 'Panang' curry. De sojasaus, pindakaas en kokosmelk geven samen met de kruiden een heerlijke smaak waar je veel verschillende groenten aan kunt toevoegen. Voor het gemak kun je de kruiden vervangen door een Thaise currypasta.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Thai-Peanut-Curry.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Basmati rijst",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Paprika",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "g"
+        },
+        {
+          "name": "Limoen (voor limoensap)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kokosmelk",
+          "type": "taste",
+          "quantity": 600,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Chili(vlokken)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Currypoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Citroengraspoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snij de knoflook fijn",
+        "Snij wortels in lange dunne reepjes",
+        "Snij paprika in lange dunne reepjes",
+        "Snij de broccoli in roosjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Fruit de gember, knoflook en wortels",
+          "detail": "op middelhoog vuur, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg paprika en broccoli toe",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Kook de rijst",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Voeg komijn, chillivlokken, currypoeder, paprikapoeder, kurkuma en citroengraspoeder toe",
+          "detail": "roer goed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg kokosmelk, water, pindakaas en sojasaus toe",
+          "detail": "op middelhoog vuur, doe het deksel erop en laat sudderen",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Knijp limoen uit en voeg erwten toe",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice"
+      ],
+      "url": "https://forkranger.com/nl/thaise-pinda-curry/?share",
+      "id": 41,
+      "title": "Thaise Pinda Curry",
+      "description": "Een rijke en romige curry geïnspireerd op de Thaise 'Panang' curry. De sojasaus, pindakaas en kokosmelk geven samen met de kruiden een heerlijke smaak waar je veel verschillende groenten aan kunt toevoegen. Voor het gemak kun je de kruiden vervangen door een Thaise currypasta.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Thai-Peanut-Curry.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Basmati rijst",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Paprika",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "g"
+        },
+        {
+          "name": "Limoen (voor limoensap)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kokosmelk",
+          "type": "taste",
+          "quantity": 600,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Chili(vlokken)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Currypoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Citroengraspoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snij de knoflook fijn",
+        "Snij wortels in lange dunne reepjes",
+        "Snij paprika in lange dunne reepjes",
+        "Snij de broccoli in roosjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Fruit de gember, knoflook en wortels",
+          "detail": "op middelhoog vuur, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg paprika en broccoli toe",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Kook de rijst",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Voeg komijn, chillivlokken, currypoeder, paprikapoeder, kurkuma en citroengraspoeder toe",
+          "detail": "roer goed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg kokosmelk, water, pindakaas en sojasaus toe",
+          "detail": "op middelhoog vuur, doe het deksel erop en laat sudderen",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Knijp limoen uit en voeg erwten toe",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
         }
       ]
     }

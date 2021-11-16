@@ -5768,10 +5768,10 @@
       "filter": [
         "rice"
       ],
-      "url": "https://forkranger.com/nl/thaise-pinda-curry/?share",
-      "id": 41,
-      "title": "Thaise Pinda Curry",
-      "description": "Een rijke en romige curry geïnspireerd op de Thaise 'Panang' curry. De sojasaus, pindakaas en kokosmelk geven samen met de kruiden een heerlijke smaak waar je veel verschillende groenten aan kunt toevoegen. Voor het gemak kun je de kruiden vervangen door een Thaise currypasta.",
+      "url": "https://forkranger.com/nl/curry-met-zoete-aardappel-en-linzen/?share",
+      "id": 42,
+      "title": "Curry met Zoete Aardappel en Linzen",
+      "description": "Deze eenpanscurry is geïnspireerd op een van de populairste recepten van BBC Good Food. Door de rode linzen (gebruik geen linzen uit blik) in de saus te koken wordt het een hartige stamppot met veel eiwitten en vezels. Je kunt de kruiden ook vervangen door een Thaise rode currypasta.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Thai-Peanut-Curry.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -5779,34 +5779,40 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rijst",
+          "name": "Zoete aardappels",
           "type": "base",
-          "quantity": 300,
+          "quantity": 500,
           "quantityType": "g"
         },
         {
-          "name": "Wortels",
+          "name": "Rode linzen",
           "type": "fresh",
-          "quantity": 2,
-          "quantityType": ""
-        },
-        {
-          "name": "Broccoli",
-          "type": "fresh",
-          "quantity": 1,
-          "quantityType": ""
-        },
-        {
-          "name": "Paprika",
-          "type": "fresh",
-          "quantity": 1,
-          "quantityType": ""
-        },
-        {
-          "name": "Tuinerwten uit de diepvries",
-          "type": "fresh",
-          "quantity": 200,
+          "quantity": 150,
           "quantityType": "g"
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pinda's",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kokosmelk",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
         },
         {
           "name": "Gember",
@@ -5815,46 +5821,10 @@
           "quantityType": "g"
         },
         {
-          "name": "Limoen (voor limoensap)",
-          "type": "taste",
-          "quantity": 1,
-          "quantityType": ""
-        },
-        {
-          "name": "Sojasaus",
-          "type": "taste",
-          "quantity": 1,
-          "quantityType": "tl"
-        },
-        {
           "name": "Pindakaas",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
-        },
-        {
-          "name": "Kokosmelk",
-          "type": "taste",
-          "quantity": 600,
-          "quantityType": "ml"
-        },
-        {
-          "name": "Chili(vlokken)",
-          "type": "taste",
-          "quantity": 1,
-          "quantityType": "tl"
-        },
-        {
-          "name": "Komijn",
-          "type": "taste",
-          "quantity": 2,
-          "quantityType": "tl"
-        },
-        {
-          "name": "Paprikapoeder",
-          "type": "taste",
-          "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "el"
         },
         {
           "name": "Currypoeder",
@@ -5863,16 +5833,34 @@
           "quantityType": "el"
         },
         {
-          "name": "Kurkuma",
-          "type": "taste",
-          "quantity": 2,
-          "quantityType": "tl"
-        },
-        {
-          "name": "Citroengraspoeder",
+          "name": "Chili(vlokken)",
           "type": "taste",
           "quantity": 1,
           "quantityType": "tl"
+        },
+        {
+          "name": "Citroengras",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Laos",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
         },
         {
           "name": "Knoflooktenen",
@@ -5883,54 +5871,51 @@
       ],
       "prepTime": 5,
       "prepSteps": [
-        "Snij de knoflook fijn",
-        "Snij wortels in lange dunne reepjes",
-        "Snij paprika in lange dunne reepjes",
-        "Snij de broccoli in roosjes"
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Rasp de gember",
+        "Schil de zoete aardappels en snij deze in blokjes van 1 cm"
       ],
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Fruit de gember, knoflook en wortels",
-          "detail": "op middelhoog vuur, breng op smaak met zout en peper",
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Voeg paprika en broccoli toe",
+          "title": "Voeg de gember en knoflook toe",
           "detail": "op middelhoog vuur",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 4
+          "time": 2
         },
         {
-          "title": "Kook de rijst",
-          "detail": "",
-          "panType": "cookingPan1",
-          "emoji": "",
-          "time": 10
-        },
-        {
-          "title": "Voeg komijn, chillivlokken, currypoeder, paprikapoeder, kurkuma en citroengraspoeder toe",
-          "detail": "roer goed",
+          "title": "Voeg currypoeder, chilivlokken, citroengras en laos toe",
+          "detail": "op middelhoog vuur",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 1
         },
         {
-          "title": "Voeg kokosmelk, water, pindakaas en sojasaus toe",
-          "detail": "op middelhoog vuur, doe het deksel erop en laat sudderen",
+          "title": "Voeg kokosmelk, water, pindakaas, linzen en zoete aardappels toe",
+          "detail": "roer goed, verlaag het vuur, laat sudderen en roer af en toe",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 10
+          "time": 12
         },
         {
-          "title": "Knijp limoen uit en voeg erwten toe",
-          "detail": "op middelhoog vuur",
+          "title": "Voeg spinazie en limoensap toe",
+          "detail": "voeg spinazie toe en knijp de limoen uit, laat alles sudderen tot het warm is, proef en voeg zo nodig zout en peper toe",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 4
+          "time": 3
+        },
+        {
+          "title": "Garneer met pinda's",
+          "detail": "",
+          "emoji": ""
         }
       ]
     }

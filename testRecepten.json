@@ -6066,6 +6066,135 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta"
+      ],
+      "url": "https://forkranger.com/nl/tagliatelle-met-pesto-rosso/?share",
+      "id": 44,
+      "title": "Tagliatelle met Pesto Rosso",
+      "description": "Dit romige pastarecept is gebaseerd op 'pesto rosso', gemaakt van zongedroogde tomaten in plaats van basilicum. De amandelen maken het lekker knapperig en de rucola voegt een beetje pittigheid toe. Je kunt spelen met de hoeveelheid room; als je veel saus wilt kun je wat meer toevoegen.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/red-pasta-pesto.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tagliatelle (whole wheat)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Gele paprika",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Rucola",
+          "type": "fresh",
+          "quantity": 85,
+          "quantityType": "g"
+        },
+        {
+          "name": "Amandelen",
+          "type": "taste",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode zongedroogde tomaten pesto",
+          "type": "taste",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Verse rozemarijn",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Halveer de courgette en snij in stukjes",
+        "Snij de paprika in stukjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Kook de pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Voeg de knoflook, courgette en paprika toe",
+          "detail": "op middelhoog vuur, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg de rode pesto, (soja) room en verse rozemarijn twijgjes toe",
+          "detail": "laat sudderen op laag vuur met het deksel erop",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Hak ondertussen de amandelen in stukjes",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de gekookte pasta toe",
+          "panType": "fryingPan1",
+          "detail": "meng de saus en de pasta goed",
+          "emoji": ""
+        },
+        {
+          "title": "Verwijder de rozemarijntakjes en serveer met de rucola en amandelen",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

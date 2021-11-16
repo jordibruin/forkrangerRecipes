@@ -5860,7 +5860,7 @@
           "name": "Ui",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "el"
+          "quantityType": ""
         },
         {
           "name": "Knoflooktenen",
@@ -6058,6 +6058,7 @@
         {
           "title": "Voeg tuinerwten en limoensap toe",
           "detail": "knijp de limoen uit en laat alles sudderen tot het warm is, proef en voeg zo nodig zout en peper toe",
+          "panType": "fryingPan1",
           "emoji": ""
         },
         {
@@ -6112,7 +6113,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Rode zongedroogde tomaten pesto",
+          "name": "Rode pesto",
           "type": "taste",
           "quantity": 90,
           "quantityType": "g"

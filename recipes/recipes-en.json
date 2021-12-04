@@ -4731,7 +4731,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Pre-cooked chickpeas",
+          "name": "Canned chickpeas",
           "type": "fresh",
           "quantity": 400,
           "quantityType": "g"
@@ -4785,7 +4785,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Beef or veggie stock",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 500,
           "quantityType": "ml"
@@ -4807,7 +4807,7 @@
       "cookTime": 30,
       "cookSteps": [
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "",
           "emoji": ""
         },
@@ -4820,7 +4820,7 @@
         },
         {
           "title": "Add potatoes and carrots",
-          "detail": "cover with a lid ",
+          "detail": "cover with a lid, season with salt and pepper",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
@@ -4833,7 +4833,7 @@
           "time": 2
         },
         {
-          "title": "Add stock",
+          "title": "Add bouillon",
           "detail": "bring to boil, then reduce heat and simmer",
           "panType": "cookingPan1",
           "emoji": "",
@@ -4863,7 +4863,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Spinach tortellini (or other)",
+          "name": "Tortellini (spinach)",
           "type": "base",
           "quantity": 450,
           "quantityType": "g"
@@ -4875,7 +4875,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Frozen green beans",
+          "name": "Green beans",
           "type": "fresh",
           "quantity": 250,
           "quantityType": "g"
@@ -4914,13 +4914,14 @@
       "prepTime": 5,
       "prepSteps": [
         "Dice onion and mince garlic",
-        "Cut leek into rings"
+        "Cut leek into rings",
+        "Cut off the ends of the green beans and cut them in half"
       ],
       "cookTime": 15,
       "cookSteps": [
         {
-          "title": "Cook tortellini",
-          "detail": "",
+          "title": "Cook tortellini, after ~5 min add green beans",
+          "detail": "tortellini usually needs about 15 min and the beans 10 min",
           "panType": "cookingPan1",
           "emoji": ""
         },
@@ -4933,21 +4934,14 @@
         },
         {
           "title": "Add leek",
-          "detail": "stir",
+          "detail": "stir, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
-          "title": "After ~5 min add beans",
-          "detail": "Tortellini often need around 15 min. Beans need around 10 min",
-          "panType": "cookingPan1",
-          "emoji": "",
-          "time": 10
-        },
-        {
           "title": "Add tomatoes, garlic and pesto",
-          "detail": "stir and bring to boil, then simmer ",
+          "detail": "stir and bring to boil, then simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 10

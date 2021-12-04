@@ -1216,7 +1216,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Spaghetti or other pasta",
+          "name": "Spaghetti",
           "type": "base",
           "quantity": 400,
           "quantityType": "g"
@@ -1302,14 +1302,14 @@
         },
         {
           "title": "Add tomatoes and bell peppers",
-          "detail": "cook until soft",
+          "detail": "cook until soft, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "🍅🫑",
           "time": 5
         },
         {
           "title": "Add ca. 100 ml pasta water, sugar and the lentils",
-          "detail": "simmer",
+          "detail": "simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
@@ -1466,7 +1466,7 @@
         },
         {
           "title": "Add lentils, lemon juice and add ca. 100 ml of the potato water",
-          "detail": "~2 min",
+          "detail": "season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "🧄",
           "time": 2
@@ -1533,7 +1533,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Veggie stock",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 1,
           "quantityType": "L"
@@ -1574,14 +1574,15 @@
           "time": 5
         },
         {
-          "title": "Prepare veggie stock",
+          "title": "Prepare vegetable bouillon",
           "detail": "(1,1 l for 250 gr polenta). Taste and add more stock powder if necessary.",
           "panType": "cookingPan1",
-          "emoji": ""
+          "emoji": "",
+          "time": 5
         },
         {
           "title": "Add zucchini, tomatoes, oregano and balsamic vinegar",
-          "detail": "let everything simmer until warm",
+          "detail": "let everything simmer until warm, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "🧄",
           "time": 3
@@ -1594,7 +1595,7 @@
           "time": 1
         },
         {
-          "title": "Add the margarine and half the cheese",
+          "title": "Add the margarine and half of the cheese",
           "detail": "stir well",
           "panType": "cookingPan1",
           "emoji": "🧄",
@@ -1625,7 +1626,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Penne or other pasta",
+          "name": "Penne (whole wheat)",
           "type": "base",
           "quantity": 400,
           "quantityType": "g"
@@ -1643,7 +1644,7 @@
           "quantityType": ""
         },
         {
-          "name": "Chopped, frozen spinach",
+          "name": "Spinach",
           "type": "fresh",
           "quantity": 200,
           "quantityType": "g"
@@ -1690,7 +1691,7 @@
       "cookSteps": [
         {
           "title": "Sauté onion and mushrooms",
-          "detail": "high heat",
+          "detail": "high heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 4
@@ -1704,7 +1705,7 @@
         },
         {
           "title": "Cook pasta and after ~2 minutes add green beans",
-          "detail": "the beans need ~10 minutes so adjust cooking time of pasta accordingly",
+          "detail": "the beans need ~10 minutes so adjust based on the cooking time of pasta accordingly",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
@@ -1718,7 +1719,7 @@
         },
         {
           "title": "Add spinach",
-          "detail": "simmer until spinach is cooked in and everything is warm",
+          "detail": "simmer until spinach is cooked in and everything is warm, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 8

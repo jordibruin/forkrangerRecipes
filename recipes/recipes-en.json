@@ -5459,7 +5459,7 @@
       ],
       "url": "https://forkranger.com/creamy-pear-pasta/?share",
       "id": 40,
-      "title": "Romige Pasta met Peer",
+      "title": "Creamy Pear Pasta",
       "description": "Pears and walnuts are a delicious combination. In this creamy pasta, this perfect couple comes into its own. Because of the mustard and enough pepper, there is also a bit of spice in it.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Creamy-Pear-pasta.jpg",
       "duration": 30,
@@ -6077,10 +6077,10 @@
       "filter": [
         "pasta"
       ],
-      "url": "https://forkranger.com/nl/tagliatelle-met-pesto-rosso/?share",
+      "url": "https://forkranger.com/tagliatelle-with-pesto-rosso/?share",
       "id": 44,
-      "title": "Tagliatelle met Pesto Rosso",
-      "description": "Dit romige pastarecept is gebaseerd op 'pesto rosso', gemaakt van zongedroogde tomaten in plaats van basilicum. De amandelen maken het lekker knapperig en de rucola voegt een beetje pittigheid toe. Je kunt spelen met de hoeveelheid room; als je veel saus wilt kun je wat meer toevoegen.",
+      "title": "Tagliatelle with Pesto Rosso",
+      "description": "This creamy pasta recipe uses 'pesto rosso', made from sun-dried tomatoes instead of basil. The almonds give a nice crunch and the rocket adds a bit of spiciness. You can play around with the amount of cream; if you want a lot of sauce you can add a bit more.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/red-pasta-pesto.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -6088,61 +6088,61 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Tagliatelle (volkoren)",
+          "name": "Tagliatelle (whole wheat)",
           "type": "base",
           "quantity": 400,
           "quantityType": "g"
         },
         {
-          "name": "Courgette",
+          "name": "Zucchini",
           "type": "fresh",
           "quantity": 2,
           "quantityType": ""
         },
         {
-          "name": "Gele paprika",
+          "name": "Yellow bell pepper",
           "type": "fresh",
           "quantity": 2,
           "quantityType": ""
         },
         {
-          "name": "Rucola",
+          "name": "Rocket salad",
           "type": "fresh",
           "quantity": 85,
           "quantityType": "g"
         },
         {
-          "name": "Amandelen",
+          "name": "Almonds",
           "type": "taste",
           "quantity": 150,
           "quantityType": "g"
         },
         {
-          "name": "Rode pesto",
+          "name": "Red pesto paste",
           "type": "taste",
           "quantity": 90,
           "quantityType": "g"
         },
         {
-          "name": "(Soja)room",
+          "name": "(Soy) cream",
           "type": "taste",
           "quantity": 300,
           "quantityType": "ml"
         },
         {
-          "name": "Verse rozemarijn",
+          "name": "Fresh rosemary",
           "type": "taste",
           "quantity": 10,
           "quantityType": "g"
         },
         {
-          "name": "Ui",
+          "name": "Onion",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Knoflooktenen",
+          "name": "Garlic cloves",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
@@ -6150,53 +6150,53 @@
       ],
       "prepTime": 10,
       "prepSteps": [
-        "Snipper de ui en pers of snij de knoflook fijn",
-        "Halveer de courgette en snij in stukjes",
-        "Snij de paprika in stukjes"
+        "Dice onion and mince garlic",
+        "Cut zucchini into quartered slices",
+        "Cut yellow bell pepper into short strips"
       ],
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Fruit de ui",
-          "detail": "op middelhoog vuur",
+          "title": "Sauté onion",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Kook de pasta",
+          "title": "Cook pasta",
           "detail": "",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Voeg de knoflook, courgette en paprika toe",
-          "detail": "op middelhoog vuur, breng op smaak met zout en peper",
+          "title": "Add garlic, zucchini and bell pepper",
+          "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Voeg de rode pesto, (soja) room en verse rozemarijn twijgjes toe",
-          "detail": "laat sudderen op laag vuur met het deksel erop",
+          "title": "Add red pesto, (soy) cream and fresh rosemary twigs",
+          "detail": "simmer on low/medium heat with the lid on",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 8
         },
         {
-          "title": "Hak ondertussen de amandelen in stukjes",
+          "title": "In the meantime, chop almonds",
           "detail": "",
           "emoji": ""
         },
         {
-          "title": "Voeg de gekookte pasta toe",
+          "title": "Add cooked pasta",
           "panType": "fryingPan1",
-          "detail": "meng de saus en de pasta goed",
+          "detail": "mix sauce and pasta well",
           "emoji": ""
         },
         {
-          "title": "Verwijder de rozemarijntakjes en serveer met de rucola en amandelen",
+          "title": "Remove the rosemary twigs and serve with the rocket salad and almonds",
           "detail": "",
           "emoji": ""
         }

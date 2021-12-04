@@ -4377,11 +4377,6 @@
           "time": 2
         },
         {
-          "title": "Boil water and mix bouillon",
-          "detail": "",
-          "emoji": ""
-        },
-        {
           "title": "Add ginger and carrots",
           "detail": "reduce heat and simmer until moisture of the mushrooms is gone",
           "panType": "fryingPan1",
@@ -4389,9 +4384,8 @@
           "time": 5
         },
         {
-          "title": "Cook noodles",
+          "title": "Boil water and mix bouillon",
           "detail": "",
-          "panType": "cookingPan1",
           "emoji": ""
         },
         {
@@ -4402,8 +4396,15 @@
           "time": 2
         },
         {
-          "title": "Add peanut butter, sugar and stock",
-          "detail": "stir and bring to boil/simmer",
+          "title": "Cook noodles in bouillon",
+          "detail": "see instructions for cooking time",
+          "panType": "cookingPan1",
+          "emoji": ""
+          "time": 4
+        },
+        {
+          "title": "Add peanut butter, sugar and bouillon (200 ml)",
+          "detail": "stir and bring to boil/simmer, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
@@ -4530,7 +4531,7 @@
         },
         {
           "title": "Sauté onion, leek and carrots",
-          "detail": "medium/high heat",
+          "detail": "medium/high heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 4
@@ -4670,7 +4671,7 @@
         },
         {
           "title": "Sauté onions and mushrooms",
-          "detail": "high heat",
+          "detail": "high heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 4
@@ -4698,7 +4699,7 @@
         },
         {
           "title": "Add (soy) cream",
-          "detail": "simmer",
+          "detail": "simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5

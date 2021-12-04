@@ -2524,7 +2524,7 @@
       "cookSteps": [
         {
           "title": "Sauté mushrooms",
-          "detail": "medium heat, simmer until most of the moisture from the mushrooms is gone",
+          "detail": "medium heat, simmer until most of the moisture from the mushrooms is gone, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
@@ -2544,7 +2544,7 @@
         },
         {
           "title": "Add spinach and peas",
-          "detail": "simmer until spinach is thawed/cooked in ",
+          "detail": "simmer until spinach is thawed/cooked in, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
@@ -2555,6 +2555,7 @@
       "filter": [
         "plants"
       ],
+      "url": "https://forkranger.com/crunchy-noodles/?share",
       "id": 19,
       "title": "Crunchy Noodles",
       "description": "The peanuts and mung bean sprouts give this noodle soup a crunchy bite. The soy sauce and stock create a nice salty flavour, so be careful with extra seasoning.",
@@ -2565,7 +2566,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Udon noodles",
+          "name": "Noodles (udon)",
           "type": "base",
           "quantity": 400,
           "quantityType": "g"
@@ -2613,7 +2614,7 @@
           "quantityType": "TBL sp"
         },
         {
-          "name": "Mushroom stock",
+          "name": "Bouillon (mushroom)",
           "type": "taste",
           "quantity": 1,
           "quantityType": "L"
@@ -2649,7 +2650,7 @@
           "time": 5
         },
         {
-          "title": "Cook noodles in stock",
+          "title": "Cook noodles in bouillon",
           "detail": "",
           "panType": "cookingPan1",
           "emoji": ""
@@ -2680,6 +2681,7 @@
       "filter": [
         "plants"
       ],
+      "url":"https://forkranger.com/minty-aubergine-wraps/?share",
       "id": 20,
       "title": "Minty Aubergine Wraps",
       "description": "The first time I grilled aubergines in a sandwich maker, my dad walked into the kitchen and asked whether I was cooking meat, that’s how great it smelled.",
@@ -2708,13 +2710,13 @@
           "quantityType": ""
         },
         {
-          "name": "Black beans (canned)",
+          "name": "Canned black beans",
           "type": "fresh",
           "quantity": 400,
           "quantityType": "g"
         },
         {
-          "name": "Corn",
+          "name": "Canned corn",
           "type": "fresh",
           "quantity": 300,
           "quantityType": "g"
@@ -2767,27 +2769,27 @@
       "cookSteps": [
         {
           "title": "Grill aubergine",
-          "detail": "Option 1: cut aubergines into four thick slices and grill in a sandwich maker. Then cut into strips.\nOption 2: cut aubergines into strips or cubes and grill in oven or frying pan",
+          "detail": "Option 1: cut aubergines into four thick slices and grill in a sandwich maker. Then cut into strips.\nOption 2: cut aubergines into strips or cubes, sprinkle with salt and pepper, and grill in oven or frying pan",
           "emoji": ""
         },
         {
           "title": "Sauté onion",
           "detail": "medium/high heat",
-          "panType": "fryingPan2",
+          "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
           "title": "Add chilli, cumin and ginger",
           "detail": "",
-          "panType": "fryingPan2",
+          "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
           "title": "Add tomatoes, corn and black beans",
-          "detail": "stir and simmer",
-          "panType": "fryingPan2",
+          "detail": "stir and simmer, season with salt and pepper",
+          "panType": "fryingPan1",
           "emoji": "",
           "time": 10
         },

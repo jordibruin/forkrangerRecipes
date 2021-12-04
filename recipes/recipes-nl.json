@@ -5659,7 +5659,7 @@
           "name": "Sojasaus",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "el"
         },
         {
           "name": "Pindakaas",

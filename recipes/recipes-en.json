@@ -4953,6 +4953,7 @@
         "plants",
         "pasta"
       ],
+      "url": "https://forkranger.com/caponata/?share",
       "id": 36,
       "title": "Caponata",
       "description": "This traditional starter from Sicily is adapted to be a full meal. The combination of tomatoes, celery and Balsamic vinegar create an Italian sweet and sour sauce.",
@@ -4963,7 +4964,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Fussili or other pasta",
+          "name": "Fussili",
           "type": "base",
           "quantity": 400,
           "quantityType": "g"
@@ -4975,7 +4976,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Aubergine",
+          "name": "Aubergines",
           "type": "fresh",
           "quantity": 2,
           "quantityType": ""
@@ -5034,7 +5035,7 @@
       "cookSteps": [
         {
           "title": "Sauté onions and aubergine",
-          "detail": "medium/high heat",
+          "detail": "medium/high heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
@@ -5061,15 +5062,10 @@
         },
         {
           "title": "Add capers, vinegar, sugar and oregano",
-          "detail": "simmer ",
+          "detail": "simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 10
-        },
-        {
-          "title": "Taste and add more sugar if it’s too sour",
-          "detail": "",
-          "emoji": ""
         }
       ]
     },
@@ -5077,6 +5073,7 @@
       "filter": [
         "potato"
       ],
+      "url": "https://forkranger.com/oven-pesto-potatoes/?share",
       "id": 37,
       "title": "Oven Pesto Potatoes",
       "description": "A simple oven dish for the potato lovers, with the pesto giving ‘a taste of summer’ as one review described it. ",
@@ -5165,7 +5162,7 @@
           "time": 7
         },
         {
-          "title": "Cook potato slices, after 3 minutes add broccoli (or cook in separate pan)",
+          "title": "Cook potato slices, after ~3 min add broccoli (or cook in separate pan)",
           "detail": "cook for ~5 more minutes so potatoes and broccoli are almost done",
           "panType": "cookingPan1",
           "emoji": "",
@@ -5173,7 +5170,7 @@
         },
         {
           "title": "Add garlic, paprika powder, bell peppers, pesto and (soy) cream",
-          "detail": "mix well and let everything simmer until warm",
+          "detail": "mix well and let everything simmer until warm, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3

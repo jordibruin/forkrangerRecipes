@@ -2806,6 +2806,7 @@
         "fruity",
         "plants"
       ],
+      "url": "https://forkranger.com/banana-curry/?share",
       "id": 21,
       "title": "Banana curry",
       "description": "On the shores of Sri Lanka, I walked into a tiny restaurant with eight seats. I was the first. There was a buffet to serve yourself, and one of the meals was banana curry. It remains one of the best meals I’ve ever had and this is my version that almost comes close to the original.",
@@ -2816,7 +2817,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rice",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -2880,6 +2881,12 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
         }
       ],
       "prepTime": 10,
@@ -2900,7 +2907,7 @@
         },
         {
           "title": "Heat up new oil in the same pan and sauté onions, ginger, garlic and aubergine",
-          "detail": "medium heat. Scrape sticky bits of banana from bottom of pan into the mix. Wait until aubergine is golden brown",
+          "detail": "medium heat, season with salt and pepper. Scrape sticky bits of banana from bottom of pan into the mix. Wait until aubergine is golden brown",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 6
@@ -2927,10 +2934,15 @@
         },
         {
           "title": "Add cashews and bananas",
-          "detail": "",
+          "detail": "taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
+        },
+        {
+          "title": "Garnish with fresh coriander",
+          "detail": "",
+          "emoji": ""
         }
       ]
     },
@@ -2939,6 +2951,7 @@
         "spicy",
         "plants"
       ],
+      "url": "https://forkranger.com/smokey-chilli/?share",
       "id": 22,
       "title": "Smokey Chilli",
       "description": "In the late 1800s, the chilli queens of San Antonio created chilli con carne. They entertained the plaza and supported their families in a time when women weren't supposed to. Hopefully this recipe can inspire you to also do something that isn't supposed to be: a delicious chilli sin carne. Don’t worry about the coffee, you won’t taste it at the end, but it is an essential ingredient to get the ‘smokey’ taste. ",
@@ -2955,7 +2968,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Black beans (canned)",
+          "name": "Canned black beans",
           "type": "fresh",
           "quantity": 800,
           "quantityType": "g"
@@ -3043,14 +3056,14 @@
         },
         {
           "title": "Add tomatoes, and coffee",
-          "detail": "simmer",
+          "detail": "simmer, season with salt and pepper",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 15
         },
         {
           "title": "Add black beans",
-          "detail": "simmer with lid on",
+          "detail": "simmer with lid on, taste and add salt and pepper if needed",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10

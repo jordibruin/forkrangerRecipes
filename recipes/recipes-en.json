@@ -883,28 +883,28 @@
         },
         {
           "title": "Add oats and garlic to the onion",
-          "detail": "stir so the oats are heated but don't let them brown.",
+          "detail": "stir so the oats are heated but don't let them brown, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
           "title": "Add white wine",
-          "detail": "it should sizzle. Cook until you don't see any liquid from the wine",
+          "detail": "it should sizzle, cook until you don't see any liquid from the wine",
           "panType": "fryingPan1",
           "emoji": "🍷",
           "time": 2
         },
         {
           "title": "Start adding hot stock, one bit at a time",
-          "detail": "stir until nearly all has been absorbed - the oats should always be soft rather than dry. Repeat this process until the oats are soft but still have a little bite (so it's important to taste it regularly). Keep stirring often and adjust heat if it's too hot, you have to avoid burning the oats.",
+          "detail": "stir until nearly all has been absorbed - the oats should always be soft rather than dry. Repeat this process until the oats are soft but still have a little bite (so it's important to taste it regularly). Add salt and pepper if needed. \nKeep stirring often and adjust heat if it's too hot, you have to avoid burning the oats.",
           "panType": "fryingPan1",
           "emoji": "🧄",
           "time": 15
         },
         {
           "title": "In the meantime, sauté mushroom in a new pan",
-          "detail": "start with high heat and then lower the heat until all moisture is gone ~10 min",
+          "detail": "start with high heat and then lower the heat until all moisture is gone, season with salt and pepper",
           "panType": "fryingPan2",
           "emoji": "",
           "time": 10
@@ -1014,7 +1014,6 @@
       "prepTime": 15,
       "prepSteps": [
         "Pre-heat oven to 200°C",
-        "Cut potatoes in half and cook until almost done ~10 minutes",
         "Cut 1 onion into rings and dice the other",
         "Cut broccoli into florets",
         "Cut carrots and parsnips into long slices",
@@ -1024,7 +1023,14 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Spread potatoes, broccoli, parsnips, carrots and onion rings on a baking sheet and drizzle with some olive oil",
+          "title": "Halve the baby potatoes and cook shortly",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Spread potatoes, broccoli, parsnips, carrots and onion rings on a baking sheet and drizzle with some olive oil, season with salt and pepper",
           "detail": "200°C",
           "panType": "oven",
           "emoji": "🧄",
@@ -1046,18 +1052,11 @@
         },
         {
           "title": "Add (soy)cream and sun-dried tomatoes",
-          "detail": "",
+          "detail": "taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
-        {
-          "title": "Serve the roasted vegetables with the sauce",
-          "detail": "",
-          "panType": "fryingPan1",
-          "emoji": "🧄",
-          "time": 5
-        }
       ]
     },
     {
@@ -1075,7 +1074,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Penne whole wheat",
+          "name": "Penne (whole wheat)",
           "type": "base",
           "quantity": 400,
           "quantityType": "g"
@@ -1166,7 +1165,7 @@
         },
         {
           "title": "Cook pasta and green beans",
-          "detail": "Add the beans about 2 minutes later. The beans need ~10 minutes so adjust cooking time of pasta accordingly",
+          "detail": "Add the beans about 2 minutes later. The beans need ~10 minutes so adjust based on the cooking time of pasta accordingly",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 12
@@ -1187,7 +1186,7 @@
         },
         {
           "title": "Add (soy) cream, oregano and olives",
-          "detail": "",
+          "detail": "season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5

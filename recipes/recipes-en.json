@@ -3654,6 +3654,7 @@
       "filter": [
         "pasta"
       ],
+      "url": "https://forkranger.com/saffron-pasta/?share",
       "id": 27,
       "title": "Saffron Pasta",
       "description": "Saffron is the most expensive spice in the world, but luckily you only need very little. Simmering the sauce for a total of 25 minutes allows the taste to fully develop.",
@@ -3740,13 +3741,13 @@
       "cookSteps": [
         {
           "title": "Sauté onion, garlic and ginger",
-          "detail": "medium heat",
+          "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 4
         },
         {
-          "title": "Add tomatoes",
+          "title": "Add tomatoes and bell pepper",
           "detail": "",
           "panType": "fryingPan1",
           "emoji": "",
@@ -3766,15 +3767,15 @@
           "emoji": ""
         },
         {
-          "title": "Add coconut milk, zucchini, bell pepper and lemon zest",
-          "detail": "simmer",
+          "title": "Add coconut milk, zucchini, and lemon zest",
+          "detail": "simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 8
+          "time": 10
         },
         {
           "title": "Crumble the walnuts and add",
-          "detail": "simmer",
+          "detail": "simmer, taste and add lemon juice to taste",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
@@ -3786,6 +3787,7 @@
         "rice",
         "plants"
       ],
+      "url": "https://forkranger.com/mushroom-coconut-rice/?share",
       "id": 28,
       "title": "Mushroom Coconut Rice",
       "description": "A simple and rich rice that you can add your favourite vegetables to. The soy sauce and mushrooms create awesome umami flavours while the coconut milk creates silky smooth rice.",
@@ -3796,7 +3798,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rice",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -3838,7 +3840,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Mushroom stock",
+          "name": "Bouillon (mushroom)",
           "type": "taste",
           "quantity": 200,
           "quantityType": "ml"
@@ -3854,6 +3856,12 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
+        },
+        {
+          "name": "Dried baked onion strips",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
         }
       ],
       "prepTime": 10,
@@ -3868,7 +3876,7 @@
       "cookSteps": [
         {
           "title": "Sauté onions and mushrooms",
-          "detail": "medium/high heat",
+          "detail": "medium/high heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
@@ -3881,7 +3889,7 @@
           "time": 5
         },
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "",
           "emoji": ""
         },
@@ -3893,6 +3901,13 @@
           "time": 2
         },
         {
+          "title": "Add coconut milk and bouillon",
+          "detail": "bring to boil. Then reduce heat to simmer and put on the lid. Taste halfway and add more salt, pepper and bouillon if necessary",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 12
+        },
+        {
           "title": "Cook broccoli",
           "detail": "",
           "panType": "cookingPan1",
@@ -3900,19 +3915,17 @@
           "time": 5
         },
         {
-          "title": "Add coconut milk and stock",
-          "detail": "bring to boil. Then reduce heat to simmer and put on the lid. Taste halfway and add more stock if necessary",
-          "panType": "fryingPan1",
-          "emoji": "",
-          "time": 12
-        },
-        {
           "title": "Add spinach",
           "detail": "mix",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
-        }
+        },
+        {
+          "title": "Serve with the dried baked onion strips",
+          "detail": "",
+          "emoji": ""
+        },
       ]
     },
     {

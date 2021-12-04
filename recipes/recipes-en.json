@@ -2182,6 +2182,7 @@
         "fruity",
         "plants"
       ],
+      "url": "https://forkranger.com/orange-prune-rice/?share",
       "id": 16,
       "title": "Orange prune rice",
       "description": "Orange juice with cinnamon is a wonderful combination, especially with the prunes. It sounds sweet but it’s more savoury than you might expect. You can serve it with a salad or other veggies; I used broccoli.",
@@ -2192,7 +2193,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rice",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -2234,7 +2235,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Vegetable stock",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 300,
           "quantityType": "ml"
@@ -2264,7 +2265,7 @@
           "time": 5
         },
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "",
           "panType": "cookingPan1",
           "emoji": "",
@@ -2285,8 +2286,8 @@
           "time": 2
         },
         {
-          "title": "Add orange juice with stock",
-          "detail": "Mix orange juice with stock so that you have 1,5 times the amount of rice. Bring to boil, then reduce heat to simmer and cover with a lid. Taste regularly and add more stock if necessary",
+          "title": "Add orange juice with bouillon",
+          "detail": "Mix orange juice with bouillon so that you have 1,5 times the amount of rice. Bring to boil, then reduce heat to simmer and cover with a lid. Taste regularly and add more salt, pepper or bouillon if necessary",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 15
@@ -2316,7 +2317,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rice",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -2328,7 +2329,7 @@
           "quantityType": ""
         },
         {
-          "name": "Kidney beans",
+          "name": "Canned kidney beans",
           "type": "fresh",
           "quantity": 400,
           "quantityType": "g"
@@ -2430,7 +2431,7 @@
         },
         {
           "title": "Add garlic, all spices and bell pepper",
-          "detail": "",
+          "detail": "stir well, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
@@ -2449,8 +2450,8 @@
           "emoji": ""
         },
         {
-          "title": "Add lime juice, kidney beans and\ncoconut milk",
-          "detail": "mix well and simmer",
+          "title": "Add lime juice, kidney beans and coconut milk",
+          "detail": "mix well and simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 15

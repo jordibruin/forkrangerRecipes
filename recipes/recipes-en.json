@@ -523,6 +523,7 @@
         "potato",
         "plants"
       ],
+      "url": "https://forkranger.com/roasted-sweet-potato/?share",
       "id": 4,
       "title": "Sweet Potato Roast",
       "description": "This is a variation on the typical Dutch meal of having potatoes, veggies and meat. A bit of soy sauce gives the extra umami to the creamy spinach.",
@@ -632,7 +633,7 @@
         },
         {
           "title": "Add spinach, vinegar, walnuts and (soy) cream",
-          "detail": "cook until you have a thick spinach sauce",
+          "detail": "cook until you have a thick spinach sauce, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
@@ -645,6 +646,7 @@
         "fruity",
         "plants"
       ],
+      "url": "https://forkranger.com/peanut-fruit-rice/?share"
       "id": 5,
       "title": "Peanut Fruit Rice",
       "description": "This recipe is orginally from Rwanda. There is no sauce, but because the rice is cooked in coconut milk it still is a creamy dish.",
@@ -709,7 +711,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Stock",
+          "name": "Stock (vegetable)",
           "type": "taste",
           "quantity": 250,
           "quantityType": "ml"
@@ -738,39 +740,45 @@
       "cookSteps": [
         {
           "title": "Cook rice in coconut milk and stock",
-          "detail": "Mix the coconut milk and stock so you have 1,5 times the amount of rice. Bring to boil with the rice, then reduce heat to low and put on a lid. Taste regularly and add more water if necessary.",
+          "detail": "Mix the coconut milk and stock so you have 1,5 times the amount of rice. Bring to boil with the rice, then reduce heat to low and put on a lid. Taste regularly and add more water, salt and pepper if necessary.",
           "panType": "cookingPan1",
           "emoji": "🥥🍚",
           "time": 12
         },
         {
           "title": "Sauté onions and carrots",
-          "detail": "medium/high heat",
+          "detail": "medium/high heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "🧄🥕",
           "time": 3
         },
         {
           "title": "Cook green beans",
-          "detail": "~10 min. Add to the other veggies when done.",
+          "detail": "",
           "emoji": "",
           "panType": "cookingPan2",
           "time": 10
         },
         {
-          "title": "Lower heat and add garlic, apple, 1 tea sp chilli and 1 TBL sp curry",
+          "title": "Lower heat and add garlic, apple, chilli and curry",
           "detail": "stir occasionally and don't let it burn",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Add 2 TBL sp of water and the peanuts and raisins",
+          "title": "Add 2-3 TBL sp of water and the peanuts and raisins",
           "detail": "",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
-        }
+        },
+        {
+          "title": "Add the cooked green beans",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },      
       ]
     },
     {

@@ -5324,10 +5324,10 @@
       "filter": [
         "potato"
       ],
-      "url": "https://forkranger.com/nl/spaghetti-met-knoflook-en-limoen/?share",
+      "url": "https://forkranger.com/garlic-lime-pasta/?share",
       "id": 39,
-      "title": "Spaghetti met Knoflook en Limoen",
-      "description": "Een fris pasta recept met Aziatische smaak! Je zou ook iets minder knoflook kunnen gebruiken maar wees vooral niet te zuinig met de limoensap. Als je geen fan bent van aubergine kun je deze ook vervangen door courgette.",
+      "title": "Garlic Lime Pasta",
+      "description": "A fresh pasta recipe with an Asian touch! You could use less garlic if you want to but make sure to use plenty of lime juice. If you're not a fan of aubergine you could replace it with zucchini.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Garlic-Lime-Spaghetti.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -5341,7 +5341,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Pinda's",
+          "name": "Peanuts",
           "type": "fresh",
           "quantity": 150,
           "quantityType": "g"
@@ -5359,31 +5359,31 @@
           "quantityType": ""
         },
         {
-          "name": "(Soja)room",
+          "name": "(Soy) cream",
           "type": "taste",
           "quantity": 200,
           "quantityType": "ml"
         },
         {
-          "name": "Limoen",
+          "name": "Lime",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Chili(vlokken)",
+          "name": "Chilli(flakes)",
           "type": "taste",
           "quantity": 1,
           "quantityType": "tl"
         },
         {
-          "name": "Knoflooktenen",
+          "name": "Garlic cloves",
           "type": "taste",
           "quantity": 4,
           "quantityType": ""
         },
         {
-          "name": "Bosje verse koriander",
+          "name": "Fresh coriander bush",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
@@ -5391,63 +5391,63 @@
       ],
       "prepTime": 10,
       "prepSteps": [
-        "Snij de knoflook fijn",
-        "Snij de aubergine in 1 cm blokjes",
-        "Snij de broccoli in roosjes",
-        "Snij de verse koriander"
+        "Mince garlic",
+        "Cut aubergine into 1 cm cubes",
+        "Cut broccoli into florets",
+        "Cut the fresh coriander"
       ],
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Fruit de aubergine",
-          "detail": "op hoog vuur, haal de aubergine uit de pan en houd deze apart",
+          "title": "Sauté aubergine",
+          "detail": "high heat, take out aubergine and put aside",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Kook de pasta",
+          "title": "Cook pasta",
           "detail": "",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Fruit de pinda's, knoflook en chilivlokken in een ruime hoeveelheid olie",
-          "detail": "op laag/middelhoog vuur, breng op smaak met zout en peper",
+          "title": "Sauté peanuts, garlic and chilli flakes in plenty of oil",
+          "detail": "low/medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Kook de broccoli",
-          "detail": "giet daarna af onder koud water",
+          "title": "Cook broccoli",
+          "detail": "drain under cold water afterwards",
           "panType": "cookingPan2",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Voeg (soja) room toe",
-          "detail": "roer goed",
+          "title": "Add (soy) cream",
+          "detail": "mix well",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Voeg de aubergine, broccoli en pasta toe",
-          "detail": "roer goed",
+          "title": "Add the aubergine, broccoli and pasta",
+          "detail": "mix well",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Voeg limoensap toe",
-          "detail": "knijp de limoen uit en laat alles sudderen tot het warm is, proef en voeg zo nodig zout en peper toe",
+          "title": "Add lime juice",
+          "detail": "squeeze the lime and let everything simmer until warm, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": ""
         },
         {
-          "title": "Garneer met verse koriander",
+          "title": "Garnish with fresh coriander",
           "detail": "",
           "emoji": ""
         }

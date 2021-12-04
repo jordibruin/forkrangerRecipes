@@ -5457,10 +5457,10 @@
       "filter": [
         "pasta"
       ],
-      "url": "https://forkranger.com/nl/romige-peren-pasta/?share",
+      "url": "https://forkranger.com/creamy-pear-pasta/?share",
       "id": 40,
       "title": "Romige Pasta met Peer",
-      "description": "Peren en walnoten zijn een heerlijke combi. In deze romige pasta komt dit perfecte stel goed tot zijn recht. Door de mosterd en genoeg peper zit er ook een beetje pit in.",
+      "description": "Pears and walnuts are a delicious combination. In this creamy pasta, this perfect couple comes into its own. Because of the mustard and enough pepper, there is also a bit of spice in it.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Creamy-Pear-pasta.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -5468,73 +5468,73 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Fussili (volkoren)",
+          "name": "Fussili (whole wheat)",
           "type": "base",
           "quantity": 400,
           "quantityType": "g"
         },
         {
-          "name": "Peren",
+          "name": "Pears",
           "type": "fresh",
           "quantity": 2,
           "quantityType": ""
         },
         {
-          "name": "Prei",
+          "name": "Leek",
           "type": "fresh",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Walnoten",
+          "name": "Walnuts",
           "type": "fresh",
           "quantity": 100,
           "quantityType": "g"
         },
         {
-          "name": "Sperziebonen",
+          "name": "Green beans",
           "type": "fresh",
           "quantity": 400,
           "quantityType": "g"
         },
         {
-          "name": "(Soja)room",
+          "name": "(Soy) cream",
           "type": "taste",
           "quantity": 200,
           "quantityType": "ml"
         },
         {
-          "name": "Nootmuskaat",
+          "name": "Nutmeg",
           "type": "taste",
           "quantity": 0.5,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Tijm",
+          "name": "Thyme",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "el"
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Mosterd",
+          "name": "Musterd",
           "type": "taste",
           "quantity": 2,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Citroen",
+          "name": "Lemon",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Ui",
+          "name": "Onion",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Knoflooktenen",
+          "name": "Garlic cloves",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
@@ -5542,58 +5542,58 @@
       ],
       "prepTime": 15,
       "prepSteps": [
-        "Snipper de ui en pers of snij de knoflook fijn",
-        "Snij de prei in ringen",
-        "Schil de peren en snij ze in plakjes",
-        "Verkruimel de walnoten in kleine stukjes",
-        "Haal de uiteinden van de sperziebonen eraf en halveer ze"
+        "Dice onion and mince garlic",
+        "Cut leek into rings",
+        "Peel pears and cut into slices",
+        "Crush walnuts into small pieces",
+        "Cut off the ends of the green beans and cut them in half"
       ],
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Fruit de ui",
-          "detail": "op middelhoog vuur",
+          "title": "Sauté onion",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Kook de pasta en sperziebonen",
-          "detail": "als je sperziebonen uit de diepvries gebruikt, voeg ze dan alleen de laatste 4 min toe",
+          "title": "Cook pasta and green beans",
+          "detail": "when using frozen green beans, only add them the last 4 min of cooking pasta",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Voeg knoflook en prei toe",
-          "detail": "op middelhoog vuur ~4 min, breng op smaak met zout en peper",
+          "title": "Add garlic and leek",
+          "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Voeg (soja)room, tijm, nootmuskaat en mosterd toe",
-          "detail": "roer goed",
+          "title": "Add (soy) cream, thyme, nutmeg and mustard",
+          "detail": "mix well",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Voeg de peren en walnoten toe",
+          "title": "Add pear and walnuts",
           "detail": "",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Voeg citroensap toe en breng op smaak met veel peper",
-          "detail": "proef en voeg zout toe zo nodig, voeg meer mosterd en tijm toe voor een sterkere smaak",
+          "title": "Add lemon juice and season with plenty of pepper",
+          "detail": "taste and add salt if needed, add more mustard and thyme for a stronger flavour",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Meng de pasta en sperziebonen met de saus",
+          "title": "Mix the pasta and green beans with the sauce",
           "detail": "",
           "emoji": ""
         }
@@ -5603,9 +5603,9 @@
       "filter": [
         "rice"
       ],
-      "url": "https://forkranger.com/nl/thaise-pinda-curry/?share",
+      "url": "https://forkranger.com/thai-peanut-curry/?share",
       "id": 41,
-      "title": "Thaise Pinda Curry",
+      "title": "Thaise Peanut Curry",
       "description": "Een rijke en romige curry geïnspireerd op de Thaise 'Panang' curry. De sojasaus, pindakaas en kokosmelk geven samen met de kruiden een heerlijke smaak waar je veel verschillende groenten aan kunt toevoegen. Voor het gemak kun je de kruiden vervangen door een Thaise currypasta.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Thai-Peanut-Curry.jpg",
       "duration": 30,
@@ -5614,13 +5614,13 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rijst",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 300,
           "quantityType": "g"
         },
         {
-          "name": "Wortels",
+          "name": "Carrots",
           "type": "fresh",
           "quantity": 2,
           "quantityType": ""
@@ -5632,85 +5632,85 @@
           "quantityType": ""
         },
         {
-          "name": "Paprika",
+          "name": "Bell pepper",
           "type": "fresh",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Tuinerwten uit de diepvries",
+          "name": "Frozen peas",
           "type": "fresh",
           "quantity": 200,
           "quantityType": "g"
         },
         {
-          "name": "Gember",
+          "name": "Ginger",
           "type": "taste",
           "quantity": 20,
           "quantityType": "g"
         },
         {
-          "name": "Limoen (voor limoensap)",
+          "name": "Lime (for lime juice)",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Sojasaus",
+          "name": "Soy sauce",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Pindakaas",
+          "name": "Peanut butter",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Kokosmelk",
+          "name": "Coconut milk",
           "type": "taste",
           "quantity": 600,
           "quantityType": "ml"
         },
         {
-          "name": "Chili(vlokken)",
+          "name": "Chilli(flakes)",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Komijn",
+          "name": "Cumin",
           "type": "taste",
           "quantity": 2,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Paprikapoeder",
+          "name": "Paprika powder",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Currypoeder",
+          "name": "Curry powder",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "el"
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Kurkuma",
+          "name": "Turmeric",
           "type": "taste",
           "quantity": 2,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Citroengraspoeder",
+          "name": "Lemongrass powder",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Knoflooktenen",
+          "name": "Garlic cloves",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
@@ -5718,51 +5718,51 @@
       ],
       "prepTime": 5,
       "prepSteps": [
-        "Snij de knoflook fijn",
-        "Snij wortels in lange dunne reepjes",
-        "Snij paprika in lange dunne reepjes",
-        "Snij de broccoli in roosjes"
+        "Mince garlic",
+        "Cut carrots into long and thin strips",
+        "Cut bell pepper into long and thin stripes",
+        "Cut broccoli into florets"
       ],
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Fruit de gember, knoflook en wortels",
-          "detail": "op middelhoog vuur, breng op smaak met zout en peper",
+          "title": "Sauté ginger, garlic and carrots",
+          "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Voeg paprika en broccoli toe",
-          "detail": "op middelhoog vuur",
+          "title": "Add bell pepper and broccoli",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 4
         },
         {
-          "title": "Kook de rijst",
+          "title": "Cook rice",
           "detail": "",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Voeg komijn, chillivlokken, currypoeder, paprikapoeder, kurkuma en citroengraspoeder toe",
-          "detail": "roer goed",
+          "title": "Add cumin, chili flakes, curry powder, paprika powder, turmeric, lemongrass powder",
+          "detail": "mix well",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 1
         },
         {
-          "title": "Voeg kokosmelk, water, pindakaas en sojasaus toe",
-          "detail": "op middelhoog vuur, doe het deksel erop en laat sudderen",
+          "title": "Add coconut milk, peanut butter, soy sauce",
+          "detail": "medium heat, cover with a lid and simmer",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Knijp limoen uit en voeg erwten toe",
-          "detail": "op middelhoog vuur",
+          "title": "Squeeze lime and add peas",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 4

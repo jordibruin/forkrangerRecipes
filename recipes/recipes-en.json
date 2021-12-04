@@ -5,7 +5,7 @@
         "pasta",
         "fruity"
       ],
-      "url": "https://forkranger.com/orange-chilli-spaghetti-2/?share"
+      "url": "https://forkranger.com/orange-chilli-spaghetti-2/?share",
       "id": 0,
       "title": "Orange Chilli Spaghetti",
       "description": "This might seem like a weird combination but it’s more subtle than you would expect. You could even eat the spaghetti just like that without any vegetables.",
@@ -136,7 +136,7 @@
         "spicy",
         "plants"
       ],
-      "url":"https://forkranger.com/aubergine-tomato-curry/?share"
+      "url":"https://forkranger.com/aubergine-tomato-curry/?share",
       "id": 1,
       "title": "Aubergine Tomato Curry",
       "description": "A curry inspired by a Pakistani recipe. The aubergine is extra delicious if you first brown it on high heat. The original recipe is a dry curry without coconut milk, which also works, just add some water. You could replace the rice with quinoa.",
@@ -264,6 +264,7 @@
         "quick",
         "plants"
       ],
+      "url": "https://forkranger.com/green-lemon-spaghetti/?share",
       "id": 2,
       "title": "Green Lemon Spaghetti",
       "description": "A straightforward and fresh spaghetti. You could even leave away the cream to make it lighter.",
@@ -344,7 +345,7 @@
         },
 {
           "title": "Add zucchini and garlic",
-          "detail": "",
+          "detail": "season with salt and pepper",
           "panType": "fryingPan1",
           "time": 3,
           "emoji": ""
@@ -368,7 +369,7 @@
           "time": 3,
           "panType": "fryingPan1",
           "emoji": "👋",
-          "detail": ""
+          "detail": "taste and add salt and pepper if needed"
         }
       ],
       "credits": ""
@@ -378,6 +379,7 @@
         "spicy",
         "plants"
       ],
+      "url": "https://forkranger.com/african-peanut-soup/?share",
       "id": 3,
       "title": "African Peanut Soup",
       "description": "Tomato paste with chilli and peanut butter is a West African sauce for sweet potatoes, rice, meat or veggies in countries like Benin. You could also puree the sweet potatoes instead of leaving them in blocks.",
@@ -436,7 +438,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Beef stock",
+          "name": "Bouillon (beef)",
           "type": "taste",
           "quantity": 500,
           "quantityType": "ml"
@@ -465,7 +467,7 @@
       "cookSteps": [
         {
           "title": "Sauté onions and sweet potato",
-          "detail": "medium heat",
+          "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "🧄🍠",
           "time": 4
@@ -482,8 +484,8 @@
           "emoji": "🫖"
         },
         {
-          "title": "Add 1 tea sp cinnamon and 1 tea sp chilli",
-          "detail": "~1 min",
+          "title": "Add cinnamon and chilli",
+          "detail": "",
           "panType": "fryingPan1",
           "emoji": "🌶️",
           "time": 1
@@ -496,8 +498,8 @@
           "time": 1
         },
         {
-          "title": "Add peanut butter and 500 ml bouillon",
-          "detail": "Simmer with lid on",
+          "title": "Add peanut butter and bouillon",
+          "detail": "Simmer with lid on, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "🥜",
           "time": 10

@@ -4363,6 +4363,7 @@
       "prepSteps": [
         "Snipper de ui en pers of snij de knoflook fijn",
         "Snij de gember fijn",
+        "Snij de champignons in plakjes",
         "Snij de wortels in (schuine) plakjes",
         "Snij de stam van de paksoi in stukjes en het blad in wat grotere repen"
       ],
@@ -4376,20 +4377,14 @@
           "time": 2
         },
         {
-          "title": "Voeg de gember, sojasaus en knoflook toe",
-          "detail": "roer ",
+          "title": "Voeg de wortels en gember toe",
+          "detail": "verlaag het vuur en laat sudderen tot het vocht van de champignons weg is",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Kook de noedels in water",
-          "detail": "",
-          "panType": "cookingPan1",
-          "emoji": ""
-        },
-        {
-          "title": "Kook water voor de bouillon",
+          "title": "Kook water en voeg bouillon toe",
           "detail": "",
           "emoji": ""
         },
@@ -4399,6 +4394,13 @@
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
+        },
+        {
+          "title": "Kook de noedels in bouillon",
+          "detail": "zie verpakking voor de kooktijd",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
         },
         {
           "title": "Voeg de pindakaas, suiker en bouillon toe (200 ml)",

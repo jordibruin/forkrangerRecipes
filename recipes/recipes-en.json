@@ -1730,6 +1730,7 @@
       "filter": [
         "rice"
       ],
+      "url": "https://forkranger.com/fennel-risotto/?share",
       "id": 13,
       "title": "Fennel risotto",
       "description": "Geting risotto right isn't always easy but incredibly delicious. It doesn’t have to take long but requires your constant attention. Also: it’s worth buying high quality ingredients, especially for the stock and rice.",
@@ -1776,7 +1777,7 @@
           "quantityType": "TBL sp"
         },
         {
-          "name": "Veggie stock",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 1,
           "quantityType": "L"
@@ -1800,7 +1801,7 @@
           "quantityType": ""
         },
         {
-          "name": "Onions",
+          "name": "Onion",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
@@ -1825,7 +1826,7 @@
           "time": 20
         },
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "keep it at a low boil",
           "panType": "cookingPan1",
           "emoji": ""
@@ -1839,21 +1840,21 @@
         },
         {
           "title": "Add risotto rice and garlic",
-          "detail": "stir so the rice becomes glassy but don't let it brown",
+          "detail": "stir so the rice becomes glassy but don't let it brown, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
           "title": "Add white wine",
-          "detail": "It should sizzle. Cook until you don't see any liquid from the wine",
+          "detail": "it should sizzle, cook until you don't see any liquid from the wine",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
-          "title": "Start adding hot stock, one bit at a time",
-          "detail": "stir until nearly all has been absorbed - the rice should always be soft rather than dry. Repeat this process until the risotto is soft but still has a little bite (so it's important to taste it regularly). Keep stirring often. Adjust the heat if it's too hot, you have to avoid burning the risotto.",
+          "title": "Start adding hot bouillon, one bit at a time",
+          "detail": "stir until nearly all has been absorbed - the rice should always be soft rather than dry. Repeat this process until the risotto is soft but still has a little bite (so it's important to taste it regularly). Add salt and pepper if needed. Keep stirring often. Adjust the heat if it's too hot, you have to avoid burning the risotto.",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 12
@@ -1883,7 +1884,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Rice Basmati",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -1913,7 +1914,7 @@
           "quantityType": ""
         },
         {
-          "name": "Sugar snaps",
+          "name": "Sugar snaps (frozen)",
           "type": "fresh",
           "quantity": 200,
           "quantityType": "g"
@@ -1973,7 +1974,7 @@
       "cookSteps": [
         {
           "title": "Sauté onions and carrots",
-          "detail": "medium heat",
+          "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
@@ -2016,6 +2017,7 @@
       ]
     },
     {
+      "url": "https://forkranger.com/moroccan-soup/?share",
       "filter": [
         "potato",
         "plants"
@@ -2036,13 +2038,13 @@
           "quantityType": "g"
         },
         {
-          "name": "Pre-cooked chickpeas",
+          "name": "Canned chickpeas",
           "type": "fresh",
           "quantity": 400,
           "quantityType": "g"
         },
         {
-          "name": "Pre-cooked lentils",
+          "name": "Canned lentils",
           "type": "fresh",
           "quantity": 200,
           "quantityType": "g"
@@ -2096,7 +2098,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Veggie stock",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 500,
           "quantityType": "ml"
@@ -2125,7 +2127,7 @@
       "cookSteps": [
         {
           "title": "Sauté onions and carrots",
-          "detail": "medium/high heat",
+          "detail": "medium/high heat, season with salt and pepper",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 3
@@ -2138,7 +2140,7 @@
           "time": 4
         },
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "",
           "panType": "cookingPan2",
           "emoji": "",
@@ -2159,7 +2161,7 @@
           "time": 1
         },
         {
-          "title": "Add bell pepper, canned tomatoes and stock",
+          "title": "Add bell pepper, canned tomatoes and bouillon",
           "detail": "simmer",
           "panType": "cookingPan1",
           "emoji": "",

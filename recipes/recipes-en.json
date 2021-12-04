@@ -3162,7 +3162,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Beef stock",
+          "name": "Bouillon (beef)",
           "type": "taste",
           "quantity": 200,
           "quantityType": "ml"
@@ -3205,13 +3205,13 @@
         },
         {
           "title": "Add thyme, onion, garlic, celery and carrots",
-          "detail": "",
+          "detail": "season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "",
           "emoji": ""
         },
@@ -3237,7 +3237,7 @@
           "time": 2
         },
         {
-          "title": "Add stock",
+          "title": "Add bouillon",
           "detail": "stir",
           "panType": "fryingPan2",
           "emoji": "",
@@ -3270,6 +3270,7 @@
         "rice",
         "plants"
       ],
+      "url": "https://forkranger.com/brazilian-strogonof/?share",
       "id": 24,
       "title": "Brazilian Strogonof",
       "description": "This is a classic dish from Brazil that I turned into a meatless version. The unique flavour comes from using lots of mustard. The parmesan and crisps are also important. In Brazil they use a certain kind of crisps called 'batata palha'.",
@@ -3280,7 +3281,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rice",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -3363,7 +3364,7 @@
         },
         {
           "title": "Add garlic and zucchini",
-          "detail": "medium heat, simmer until most of the moisture from the mushrooms is gone",
+          "detail": "medium heat, simmer until most of the moisture from the mushrooms is gone, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
@@ -3376,7 +3377,7 @@
         },
         {
           "title": "Add tomatoes, mustard and coconut milk",
-          "detail": "stir and bring to boil/simmer",
+          "detail": "stir and bring to boil, lower heat and let simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 10
@@ -3415,7 +3416,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Fuji apples",
+          "name": "Apples (Fuji)",
           "type": "fresh",
           "quantity": 2,
           "quantityType": ""
@@ -3480,7 +3481,7 @@
       "cookSteps": [
         {
           "title": "Sauté onion",
-          "detail": "",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
@@ -3501,13 +3502,13 @@
         },
         {
           "title": "Add (soy) cream and vinegar",
-          "detail": "",
+          "detail": "season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Add everything into an oven dish and\ntop with cheese and walnuts",
+          "title": "Add everything into an oven dish and top with cheese and walnuts",
           "detail": " 200°C",
           "panType": "oven",
           "emoji": "",
@@ -3519,6 +3520,7 @@
       "filter": [
         "pasta"
       ],
+      "url": "https://forkranger.com/cauliflower-oven-pasta/?share"
       "id": 26,
       "title": "Cauliflower Oven Pasta",
       "description": "This is a simple oven dish that is very flexible. You could variate with different kinds of vegetables, but I would keep in something with a bite like the sun-dried tomatoes.",
@@ -3627,14 +3629,14 @@
         },
         {
           "title": "Add zucchini and garlic",
-          "detail": "",
+          "detail": "season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
           "title": "Add (soy) cream, sun-dried tomatoes, vinegar and herbs",
-          "detail": "",
+          "detail": "taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3

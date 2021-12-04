@@ -5928,10 +5928,10 @@
       "filter": [
         "rice"
       ],
-      "url": "https://forkranger.com/nl/indonesische-spicy-spitskool/?share",
+      "url": "https://forkranger.com/indonesian-spicy-cabbage/?share",
       "id": 43,
-      "title": "Indonesische Spicy Spitskool",
-      "description": "Geïnspireerd door Indonesische Sajoerboontjes, plaatst dit recept de vrij onbekende smaak van Laos centraal in het gerecht. Overweldigd door alle kruiden? Zoek eens in de supermarkt naar Sajoerboontjes boemboe. Het is ook lekker met tofu als je op zoek bent naar een extra eiwit boost.",
+      "title": "Indonesian Spicy Cabbage",
+      "description": "Inspired by the Indonesian Sajoer Bean dish, this recipe puts the not-so-common laos taste at the center of the dish. Overwhelmed by all the spices? Try looking for Sajoer Bean mix in the supermarket. It's also nice with tofu if you want to get a protein boost.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/Indosian-spicy-spitskool.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -5939,31 +5939,31 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Rijst",
+          "name": "Rice",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
         },
         {
-          "name": "Cashewnoten",
+          "name": "Cashews",
           "type": "fresh",
           "quantity": 150,
           "quantityType": "g"
         },
         {
-          "name": "Spitskool",
+          "name": "Oxheart cabbage",
           "type": "fresh",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Tuinerwten uit de diepvries",
+          "name": "Frozen peas",
           "type": "fresh",
           "quantity": 200,
           "quantityType": "g"
         },
         {
-          "name": "Kokosmelk",
+          "name": "Coconut milk",
           "type": "taste",
           "quantity": 800,
           "quantityType": "ml"
@@ -5972,46 +5972,46 @@
           "name": "Laos",
           "type": "taste",
           "quantity": 2,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
           "name": "Sambal",
           "type": "taste",
           "quantity": 2,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Sojasaus",
+          "name": "Soy sauce",
           "type": "taste",
           "quantity": 2,
-          "quantityType": "el"
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Gember",
+          "name": "Ginger",
           "type": "taste",
           "quantity": 20,
           "quantityType": "g"
         },
         {
-          "name": "Limoen",
+          "name": "Lime",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Bouillonblokje (groente)",
+          "name": "Bouillon tablet (vegetable)",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Uien",
+          "name": "Onions",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
         },
         {
-          "name": "Knoflooktenen",
+          "name": "Garlic cloves",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
@@ -6019,55 +6019,55 @@
       ],
       "prepTime": 5,
       "prepSteps": [
-        "Snipper de ui en pers of snij de knoflook fijn",
-        "Rasp de gember",
-        "Snij de spitskool in reepjes"
+        "Mince garlic and dice onion",
+        "Cut cabbage in strips",
+        "Grate ginger"
       ],
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Fruit de ui, knoflook en gember",
-          "detail": "op middelhoog vuur",
+          "title": "Sauté onion, garlic and ginger",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Voeg kokosmelk en het bouillonblokje toe",
-          "detail": "op middelhoog vuur",
+          "title": "Add coconut milk and bouillon tablet",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
-          "title": "Kook de rijst",
+          "title": "Cook rice",
           "detail": "",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Voeg laos, sambal en sojasaus toe",
-          "detail": "op middelhoog vuur",
+          "title": "Add laos, sambal, and soy sauce",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 1
         },
         {
-          "title": "Voeg de spitskool toe",
-          "detail": "roer goed, laat sudderen",
+          "title": "Add cabbage",
+          "detail": "mix well, simmer",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 8
         },
         {
-          "title": "Voeg tuinerwten en limoensap toe",
-          "detail": "knijp de limoen uit en laat alles sudderen tot het warm is, proef en voeg zo nodig zout en peper toe",
+          "title": "Add peas and lime juice",
+          "detail": "squeeze the lime and let everything simmer until warm, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": ""
         },
         {
-          "title": "Garneer met cashewnoten",
+          "title": "Garnish with cashew nuts",
           "detail": "",
           "emoji": ""
         }

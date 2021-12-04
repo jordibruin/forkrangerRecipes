@@ -5605,8 +5605,8 @@
       ],
       "url": "https://forkranger.com/thai-peanut-curry/?share",
       "id": 41,
-      "title": "Thaise Peanut Curry",
-      "description": "Een rijke en romige curry geïnspireerd op de Thaise 'Panang' curry. De sojasaus, pindakaas en kokosmelk geven samen met de kruiden een heerlijke smaak waar je veel verschillende groenten aan kunt toevoegen. Voor het gemak kun je de kruiden vervangen door een Thaise currypasta.",
+      "title": "Thai Peanut Curry",
+      "description": "A rich and creamy curry inspired by the Thai 'Panang' curry. The soy sauce, peanut butter and coconut milk together with the spices give a great flavour to which you can add many different veggies. You could replace the spices with a Thai curry paste for convenience.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Thai-Peanut-Curry.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -5773,10 +5773,10 @@
       "filter": [
         "rice"
       ],
-      "url": "https://forkranger.com/nl/curry-met-zoete-aardappel-en-linzen/?share",
+      "url": "https://forkranger.com/sweet-potato-and-lentil-curry/?share",
       "id": 42,
-      "title": "Curry met Zoete Aardappel en Linzen",
-      "description": "Deze eenpanscurry is geïnspireerd op een van de populairste recepten van BBC Good Food. Door de rode linzen (gebruik geen linzen uit blik) in de saus te koken wordt het een hartige stamppot met veel eiwitten en vezels. Je kunt de kruiden ook vervangen door een Thaise rode currypasta.",
+      "title": "Sweet Potato and Lentil Curry",
+      "description": "This one-pot curry is inspired by one of BBC Good Food's most popular recipes. By cooking the red lentils (don't use canned lentils) in the sauce it becomes a savoury stew with plenty of protein and fibre. You could also replace the spices with a Thai red curry paste.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Thai-Peanut-Curry.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -5784,31 +5784,31 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Zoete aardappels",
+          "name": "Sweet potatoes",
           "type": "base",
           "quantity": 500,
           "quantityType": "g"
         },
         {
-          "name": "Rode linzen",
+          "name": "Red lentils",
           "type": "fresh",
           "quantity": 150,
           "quantityType": "g"
         },
         {
-          "name": "Spinazie",
+          "name": "Spinach",
           "type": "fresh",
           "quantity": 400,
           "quantityType": "g"
         },
         {
-          "name": "Pinda's",
+          "name": "Peanuts",
           "type": "fresh",
           "quantity": 100,
           "quantityType": "g"
         },
         {
-          "name": "Kokosmelk",
+          "name": "Coconut milk",
           "type": "taste",
           "quantity": 400,
           "quantityType": "ml"
@@ -5820,55 +5820,55 @@
           "quantityType": "ml"
         },
         {
-          "name": "Gember",
+          "name": "Ginger",
           "type": "taste",
           "quantity": 20,
           "quantityType": "g"
         },
         {
-          "name": "Pindakaas",
+          "name": "Peanut butter",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "el"
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Currypoeder",
+          "name": "Curry powder",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "el"
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Chili(vlokken)",
+          "name": "Chilli (flakes)",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Citroengras",
+          "name": "Lemongrass",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
           "name": "Laos",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "tea sp"
         },
         {
-          "name": "Limoen",
+          "name": "Lime",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Ui",
+          "name": "Onion",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Knoflooktenen",
+          "name": "Garlic cloves",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
@@ -5876,49 +5876,49 @@
       ],
       "prepTime": 5,
       "prepSteps": [
-        "Snipper de ui en pers of snij de knoflook fijn",
-        "Rasp de gember",
-        "Schil de zoete aardappels en snij deze in blokjes van 1 cm"
+        "Mince garlic and dice onion",
+        "Grate ginger",
+        "Peel sweet potatoes and cut into 1 cm cubes"
       ],
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Fruit de ui",
-          "detail": "op middelhoog vuur",
+          "title": "Sauté onion",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Voeg de gember en knoflook toe",
-          "detail": "op middelhoog vuur",
+          "title": "Add ginger and garlic",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
-          "title": "Voeg currypoeder, chilivlokken, citroengras en laos toe",
-          "detail": "op middelhoog vuur",
+          "title": "Add curry powder, chilli flakes, lemongrass and laos",
+          "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 1
         },
         {
-          "title": "Voeg kokosmelk, water, pindakaas, linzen en zoete aardappels toe",
-          "detail": "roer goed, verlaag het vuur, laat sudderen en roer af en toe",
+          "title": "Add coconut milk, water, peanut butter, lentils and sweet potatoes",
+          "detail": "mix well, lower heat, simmer and stir occasionally",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 12
         },
         {
-          "title": "Voeg spinazie en limoensap toe",
-          "detail": "voeg spinazie toe en knijp de limoen uit, laat alles sudderen tot het warm is, proef en voeg zo nodig zout en peper toe",
+          "title": "Add spinach and lime juice",
+          "detail": "add spinach and squeeze the lime and let everything simmer until warm, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Garneer met pinda's",
+          "title": "Garnish with peanuts",
           "detail": "",
           "emoji": ""
         }

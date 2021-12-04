@@ -86,7 +86,7 @@
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Spread cauliflower and cherry tomatoes on a baking sheet and crumble feta on top",
+          "title": "Spread cauliflower and cherry tomatoes on a baking sheet and crumble feta on top, season with salt and pepper",
           "detail": "220°C",
           "emoji": "🍅🧀",
           "panType": "oven",
@@ -115,7 +115,7 @@
         },
         {
           "title": "Add orange juice",
-          "detail": "Bring to boil and simmer",
+          "detail": "Bring to boil and simmer, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "🍊",
           "time": 5
@@ -136,6 +136,7 @@
         "spicy",
         "plants"
       ],
+      "url":"https://forkranger.com/aubergine-tomato-curry/?share"
       "id": 1,
       "title": "Aubergine Tomato Curry",
       "description": "A curry inspired by a Pakistani recipe. The aubergine is extra delicious if you first brown it on high heat. The original recipe is a dry curry without coconut milk, which also works, just add some water. You could replace the rice with quinoa.",
@@ -154,7 +155,7 @@
         {
           "name": "Aubergine",
           "type": "fresh",
-          "quantity": 1,
+          "quantity": 2,
           "quantityType": ""
         },
         {
@@ -219,14 +220,14 @@
           "panType": "fryingPan1",
           "emoji": "🍆🧅",
           "time": 2,
-          "detail": "high heat"
+          "detail": "high heat, season with salt and pepper"
         },
         {
           "panType": "fryingPan1",
           "emoji": "🧄",
           "time": 5,
           "title": "Reduce heat and add garlic and ginger",
-          "detail": "medium heat, until aubergine is golden brown ~5 min"
+          "detail": "medium heat, until aubergine is golden brown"
         },
         {
           "title": "Cook rice",
@@ -236,7 +237,7 @@
         },
         {
           "panType": "fryingPan1",
-          "title": "Add 2 TBL sp curry powder and 1 tea sp chilli powder",
+          "title": "Add curry powder and chilli powder",
           "detail": "",
           "time": 1
         },
@@ -244,7 +245,7 @@
           "emoji": "🍅",
           "panType": "fryingPan1",
           "title": "Add tomatoes",
-          "detail": "bring to boil and simmer",
+          "detail": "bring to boil and simmer, taste and add salt and pepper if needed",
           "time": 3
         },
         {

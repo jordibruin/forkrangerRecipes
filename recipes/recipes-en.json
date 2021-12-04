@@ -3942,7 +3942,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rice",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -4077,14 +4077,14 @@
         },
         {
           "title": "Add garlic and ginger",
-          "detail": "add a splash of water if it almost burns",
+          "detail": "add a splash of water if it almost burns, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
           "title": "Add tomatoes",
-          "detail": "",
+          "detail": "taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
@@ -4111,7 +4111,7 @@
         },
         {
           "title": "Puree into a smooth sauce",
-          "detail": "This isn't crucial to the taste but makes it more appealing. If\nyou don't puree, take out the cardamom pods at the end.",
+          "detail": "This isn't crucial to the taste but makes it more appealing. If you don't puree, take out the cardamom pods at the end.",
           "panType": "fryingPan1",
           "emoji": ""
         },
@@ -4149,7 +4149,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Basmati rice",
+          "name": "Rice (basmati)",
           "type": "base",
           "quantity": 350,
           "quantityType": "g"
@@ -4215,7 +4215,7 @@
           "quantityType": ""
         },
         {
-          "name": "Veg or chicken stock",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 1,
           "quantityType": "L"
@@ -4244,14 +4244,14 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Spread bell peppers, broccoli and zucchini on a baking sheet and crumble feta on top",
+          "title": "Spread bell peppers, broccoli and zucchini on a baking sheet and crumble feta on top, sprinkle with olive oil, salt and pepper",
           "detail": "at 200°C",
           "panType": "oven",
           "emoji": "",
           "time": 25
         },
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "",
           "emoji": ""
         },
@@ -4271,7 +4271,7 @@
         },
         {
           "title": "Add tomatoes, lemon juice, oregano and stock",
-          "detail": "mix well and bring to a boil. Then reduce heat to simmer and put on the lid. Let it cook with lid. Taste regularly and add more water if necessary",
+          "detail": "mix well and bring to a boil. Then reduce heat to simmer and put on the lid. Let it cook with lid. Taste regularly and add more water, salt and pepper if necessary",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 15
@@ -4282,6 +4282,7 @@
       "filter": [
         "plants"
       ],
+      "url": "https://forkranger.com/peanut-butter-noodles/?share",
       "id": 31,
       "title": "Peanut Butter Noodles",
       "description": "The winning combination is the peanut butter with soy sauce and ginger. Pakchoy has a nice bite if you add it at the end. You could also replace it with spinach leaves.",
@@ -4346,7 +4347,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Veggie stock",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 200,
           "quantityType": "ml"
@@ -4376,7 +4377,7 @@
           "time": 2
         },
         {
-          "title": "Boil water and mix stock",
+          "title": "Boil water and mix bouillon",
           "detail": "",
           "emoji": ""
         },

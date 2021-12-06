@@ -778,7 +778,7 @@
           "detail": "",
           "panType": "fryingPan1",
           "emoji": ""
-        },      
+        }      
       ]
     },
     {
@@ -1056,7 +1056,7 @@
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
-        },
+        }
       ]
     },
     {
@@ -3520,7 +3520,7 @@
       "filter": [
         "pasta"
       ],
-      "url": "https://forkranger.com/cauliflower-oven-pasta/?share"
+      "url": "https://forkranger.com/cauliflower-oven-pasta/?share",
       "id": 26,
       "title": "Cauliflower Oven Pasta",
       "description": "This is a simple oven dish that is very flexible. You could variate with different kinds of vegetables, but I would keep in something with a bite like the sun-dried tomatoes.",
@@ -3925,7 +3925,7 @@
           "title": "Serve with the dried baked onion strips",
           "detail": "",
           "emoji": ""
-        },
+        }
       ]
     },
     {
@@ -4399,7 +4399,7 @@
           "title": "Cook noodles in bouillon",
           "detail": "see instructions for cooking time",
           "panType": "cookingPan1",
-          "emoji": ""
+          "emoji": "",
           "time": 4
         },
         {

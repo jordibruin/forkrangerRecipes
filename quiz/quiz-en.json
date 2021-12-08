@@ -1,0 +1,61 @@
+{
+  "quizes": [
+    {
+      "id": 22,
+      "intro": {
+        "title": "How sustainable is chocolate?",
+        "subtitle": "We can already tell you that cookies (or 'kruidnoten') have a lower footprint because they're mostly made of sugar and wheat.",
+        "emoji": "🍫"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "A bar of chocolate can have a higher footprint than a steak",
+          "subtitle": "",
+          "answerOptions": [
+            "true",
+            "false"
+          ],
+          "correctAnswer": "true",
+          "explanationText": "There is lots of variation in the impact of chocolate.\n\nLuckily, most chocolate has a lower footprint than chicken.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat veroorzaakt de grote CO2 impact van chocolade?",
+          "subtitle": "",
+          "answerOptions": [
+            "Transport",
+            "Landgebruik",
+            "Productie"
+          ],
+          "correctAnswer": "Landgebruik",
+          "explanationText": "Landgebruik: in veel gebieden wordt bos gekapt om plaats te maken voor cacao plantages. Grote chocolade bedrijven hebben vaak geen toezicht waar de cacao precies vandaan komt.\n\nDit zorgt er voor dat naast ontbossing ook kinderarbeid gewoon door kan gaan. Daarom kun je het beste kleine merken kopen die direct in contact met de boer staan.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao-production.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Wat is een duurzamere keuze?",
+          "subtitle": "Hint: in beiden is evenveel cacao verwerkt",
+          "answerOptions": [
+            "200 g melk chocolade",
+            "100 g pure chocolade"
+          ],
+          "correctAnswer": "100 g pure chocolade",
+          "explanationText": "\nIn beide zit ongeveer evenveel cacao, maar bij pure chocolade komt er geen melk aan te pas en dat kan flink schelen (13,5% - 70% minder CO2).\n\nMisschien nog wel belangrijker: met een stuk pure chocolade doe je waarschijnlijk langer omdat je door de intense smaak niet alles in één keer opeet.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "chocolade is een luxeproduct en zorgt voor ontbossing",
+        "goal": "koop pure chocolade van kleine merken (en sowieso Fairtrade)",
+        "impact": 2,
+        "impactReason": "(chocolade heeft een relatief hoge impact maar we eten er veel minder van dan vlees of zuivel)"
+      },
+      "outroRecipe": {
+        "title": "Je hoeft chocolade niet op te geven als je duurzaam wil eten. Het belangrijkste is dat we het zien als luxeproduct en er dus ook eerlijk voor betalen.\n\n\nDus geen gigantische chocoladeletters voor de laagste prijs maar extra genieten van een luxe en pure chocoladereep. Dat is is gezonder, lekkerder en duurzamer.\n\n\nNet als vlees en zuivel kun je chocolade het beste niet in de supermarkt kopen maar bij speciaalzaakjes of biowinkels met kleinere merken die direct in contact staan met de cacaoboeren.",
+        "emoji": "🍫"
+      }
+    }
+  ]
+}

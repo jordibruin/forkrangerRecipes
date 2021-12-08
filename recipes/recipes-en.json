@@ -6240,6 +6240,12 @@
           "quantity": 2,
           "quantityType": ""
         },
+         {
+          "name": "Celery sticks",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
         {
           "name": "Smoked paprika powder",
           "type": "taste",

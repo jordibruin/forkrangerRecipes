@@ -1322,6 +1322,7 @@
       ]
     },
     {
+      "url (copy)": "https://forkranger.com/nl/shepherds-pie/?app",
       "filter": [
         "potato"
       ],
@@ -4363,6 +4364,7 @@
       "prepSteps": [
         "Snipper de ui en pers of snij de knoflook fijn",
         "Snij de gember fijn",
+        "Snij de champignons in plakjes",
         "Snij de wortels in (schuine) plakjes",
         "Snij de stam van de paksoi in stukjes en het blad in wat grotere repen"
       ],
@@ -4376,20 +4378,14 @@
           "time": 2
         },
         {
-          "title": "Voeg de gember, sojasaus en knoflook toe",
-          "detail": "roer ",
+          "title": "Voeg de wortels en gember toe",
+          "detail": "verlaag het vuur en laat sudderen tot het vocht van de champignons weg is",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         },
         {
-          "title": "Kook de noedels in water",
-          "detail": "",
-          "panType": "cookingPan1",
-          "emoji": ""
-        },
-        {
-          "title": "Kook water voor de bouillon",
+          "title": "Kook water en voeg bouillon toe",
           "detail": "",
           "emoji": ""
         },
@@ -4399,6 +4395,13 @@
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
+        },
+        {
+          "title": "Kook de noedels in bouillon",
+          "detail": "zie verpakking voor de kooktijd",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
         },
         {
           "title": "Voeg de pindakaas, suiker en bouillon toe (200 ml)",
@@ -5455,7 +5458,7 @@
       "filter": [
         "pasta"
       ],
-      "url": "https://forkranger.com/nl/romige-peren-pasta/?share",
+      "url": "https://forkranger.com/nl/romige-pasta-met-peer/?share",
       "id": 40,
       "title": "Romige Pasta met Peer",
       "description": "Peren en walnoten zijn een heerlijke combi. In deze romige pasta komt dit perfecte stel goed tot zijn recht. Door de mosterd en genoeg peper zit er ook een beetje pit in.",
@@ -5657,13 +5660,13 @@
           "name": "Sojasaus",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "el"
         },
         {
           "name": "Pindakaas",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tl"
+          "quantityType": "el"
         },
         {
           "name": "Kokosmelk",
@@ -6195,6 +6198,124 @@
         },
         {
           "title": "Verwijder de rozemarijntakjes en serveer met de rucola en amandelen",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice"
+      ],
+      "url": "https://forkranger.com/vegetable-jambalaya/?share",
+      "id": 45,
+      "title": "Groente Jambalaya",
+      "description": "Een lichte en smaakvolle groenteversie van een klassiek Creools gerecht dat zijn oorsprong vindt in de koloniale mix van Europese, Afrikaanse en inheemse Amerikaanse tradities. De 'heilige drie-eenheid' van de Creoolse keuken is selderij, paprika en uien. In deze versie is het erg belangrijk om gerookt paprikapoeder te gebruiken en niet zo'n beetje ook!",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/Jambalaya-819x1024-square.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rijst (zilvervliesrijst)",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lima bonen uit blik",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Gele paprika's",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Gerookt paprikapoeder",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Chili(vlokken)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Tijm",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Bouillon",
+          "type": "taste",
+          "quantity": 800,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Uien",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de paprika in kleine stukjes",
+        "Snij de bleekselderij in plakjes",
+        "Giet limabonen uit blik af en spoel af"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui, bleekselderij en paprika",
+          "detail": "op middelhoog vuur, totdat groentes zacht worden ~5 min, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg gerookt paprikapoeder, chilivlokken, tijm en knoflook toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg bouillon, rijst, tomaten en lima bonen uit blik",
+          "detail": "Laat sudderen met de deksel erop ~25 min. Roer af en toe door, voeg extra water toe indien nodig om te zorgen dat de rijst niet aanbakt in de pan.",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 25
+        },
+        {
+          "title": "Garneer het gerecht met peterselie",
           "detail": "",
           "emoji": ""
         }

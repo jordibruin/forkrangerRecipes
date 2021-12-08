@@ -586,7 +586,7 @@
           ],
           "correctAnswer": "herring",
           "explanationText": "Herring is a much smaller fish and is therefore a better choice.\n\nThe carbon footprint of fish is similar to that of chicken. But only looking at CO2 can be misleading because there are so many other issues, such as overfishing. Herring is also a better choice when considering those other issues.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish-EN.png"
         },
         {
           "id": 2,
@@ -599,7 +599,7 @@
           ],
           "correctAnswer": "They eat other fish",
           "explanationText": "Salmon and tuna eat other fish and are carnivores. They're high up on the food chain, which means their role in the ecosystem is extra vulnerable.\n\nBecause you have to feed salmon with other fish, a piece of (farmed) salmon requires almost double the amount of fish. That's why it's more sustainable to eat smaller fish.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/see-food-chain.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/see-food-chain-EN.png"
         },
         {
           "id": 3,
@@ -611,7 +611,7 @@
           ],
           "correctAnswer": "Mussels, oysters and clams",
           "explanationText": "Mussels, oysters and clams are a great choice of seafood! They have a very low impact. Shrimp on the other hand, have one of the highest impacts of seafood because in some cases, mangrove forests are cut down or huge nets dragged across the Ocean floor.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish-2.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish-2-EN.png"
         }
       ],
       "outro": {

@@ -136,7 +136,7 @@
         "spicy",
         "plants"
       ],
-      "url":"https://forkranger.com/aubergine-tomato-curry/?share",
+      "url": "https://forkranger.com/aubergine-tomato-curry/?share",
       "id": 1,
       "title": "Aubergine Tomato Curry",
       "description": "A curry inspired by a Pakistani recipe. The aubergine is extra delicious if you first brown it on high heat. The original recipe is a dry curry without coconut milk, which also works, just add some water. You could replace the rice with quinoa.",
@@ -343,7 +343,7 @@
           "time": 3,
           "emoji": "🧅"
         },
-{
+        {
           "title": "Add zucchini and garlic",
           "detail": "season with salt and pepper",
           "panType": "fryingPan1",
@@ -401,7 +401,7 @@
           "quantity": 400,
           "quantityType": "g"
         },
- {
+        {
           "name": "Cucumber",
           "type": "fresh",
           "quantity": 1,
@@ -778,7 +778,7 @@
           "detail": "",
           "panType": "fryingPan1",
           "emoji": ""
-        }      
+        }
       ]
     },
     {
@@ -2681,7 +2681,7 @@
       "filter": [
         "plants"
       ],
-      "url":"https://forkranger.com/minty-aubergine-wraps/?share",
+      "url": "https://forkranger.com/minty-aubergine-wraps/?share",
       "id": 20,
       "title": "Minty Aubergine Wraps",
       "description": "The first time I grilled aubergines in a sandwich maker, my dad walked into the kitchen and asked whether I was cooking meat, that’s how great it smelled.",
@@ -6197,6 +6197,124 @@
         },
         {
           "title": "Remove the rosemary twigs and serve with the rocket salad and almonds",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice"
+      ],
+      "url": "https://forkranger.com/vegetable-jambalaya/?share",
+      "id": 45,
+      "title": "Vegetable Jambalaya",
+      "description": "A light and flavourful vegetable version of a classic Creole dish that has its roots in the colonial mix of European, African and indigenous American traditions. The 'holy trinity' of Creole cuisine is celery, peppers, and onions. In this version it's really important to use smoked paprika powder and use plenty of it.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/Jambalaya.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rice (brown)",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomatoes (canned)",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lima beans (canned)",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Yellow bell pepper",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Smoked paprika powder",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Chilli flakes",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Thyme",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Bouillon",
+          "type": "taste",
+          "quantity": 800,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut bell peppers in small pieces",
+        "Cut celery sticks into slices",
+        "Drain canned lima beans and rinse"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Sauté onions, celery and bell pepper",
+          "detail": "medium heat, until vegetables start to soften. Season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add smoked paprika powder, chilli flakes, thyme, garlic",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add bouillon, rice, canned tomatoes and lima beans",
+          "detail": "keep stirring every now and then, add extra water if needed to prevent the rice from sticking to the pan",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 25
+        },
+        {
+          "title": "Garnish the dish with parsley",
           "detail": "",
           "emoji": ""
         }

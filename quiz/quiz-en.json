@@ -571,57 +571,57 @@
       "id": 23,
       "intro": {
         "title": "The impact of fish",
-        "subtitle": "Labels over 'duurzame vis' zijn vaak best wel misleidend of ingewikkeld, dus hoe kun je duurzame vis keuzes maken?",
+        "subtitle": "Labels about sustainable fish are often misleading and compliacted, so how you can make sustainable fish choices?",
         "emoji": "🐟"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Welke vis heeft de laagste milieu-impact?",
+          "title": "Which type of fish has the lowest environmental impact?",
           "subtitle": "",
           "answerOptions": [
-            "haring",
-            "zalm",
-            "tonijn"
+            "herring",
+            "salmon",
+            "tuna"
           ],
-          "correctAnswer": "haring",
-          "explanationText": "Haring is een veel kleinere vis en daarom een betere keuze.\n\nDe CO2 impact van vis is ongeveer vergelijkbaar met kip. Alleen naar CO2 kijken kan bij vis wel misleidend zijn omdat er ook veel andere problemen spelen, zoals overbevissing. Ook in dat opzicht is haring een duurzamere keuze.",
+          "correctAnswer": "herring",
+          "explanationText": "Herring is a much smaller fish and is therefore a better choice.\n\nThe carbon footprint of fish is similar to that of chicken. But only looking at CO2 can be misleading because there are so many other issues, such as overfishing. Herring is also a better choice when considering those other issues.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish.png"
         },
         {
           "id": 2,
-          "title": "Wat is het grootste probleem met zalm en tonijn?",
+          "title": "What's the biggest issue with salmon and tuna?",
           "subtitle": "",
           "answerOptions": [
-            "Ze leven in zout water",
-            "Ze eten andere vis",
-            "Ze zwemmen heel snel"
+            "They live in salt water",
+            "They eat other fish",
+            "They swim very fast"
           ],
-          "correctAnswer": "Ze eten andere vis",
-          "explanationText": "Zalm en tonijnen eten andere vis en zijn dus carnivoor. Ze zitten hoog op de voedselketen waardoor hun rol in het ecosysteem extra belangrijk, maar daardoor ook, kwetsbaar is.\n\nOmdat je zalm moet voeren met andere vis is er voor een stuk (gekweekte) zalm bijna twee keer zoveel vis nodig. Het is dus veel duurzamer om kleinere vissen te eten.",
+          "correctAnswer": "They eat other fish",
+          "explanationText": "Salmon and tuna eat other fish and are carnivores. They're high up on the food chain, which means their role in the ecosystem is extra vulnerable.\n\nBecause you have to feed salmon with other fish, a piece of (farmed) salmon requires almost double the amount of fish. That's why it's more sustainable to eat smaller fish.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/see-food-chain.png"
         },
         {
           "id": 3,
-          "title": "Welke van deze is een duurzame keuze?",
+          "title": "Which of these is a sustainable choice?",
           "subtitle": "",
           "answerOptions": [
-            "Oesters en mosselen",
-            "Garnalen"
+            "Mussels, oysters and clams",
+            "Shrimp"
           ],
-          "correctAnswer": "Oesters en mosselen",
-          "explanationText": "Oesters en mosselen zijn een super keuze! Ze hebben altijd een lage impact. Garnalen hebben juist een van de hoogste impact omdat hiervoor mangrove bossen worden gekapt of grote netten over de zeebodem worden gesleept.",
+          "correctAnswer": "Mussels, oysters and clams",
+          "explanationText": "Mussels, oysters and clams are a great choice of seafood! They have a very low impact. Shrimp on the other hand, have one of the highest impacts of seafood because in some cases, mangrove forests are cut down or huge nets dragged across the Ocean floor.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish-2.png"
         }
       ],
       "outro": {
-        "insight": "vis heeft een vergelijkbare impact als kip",
-        "goal": "koop kleinere vissen (haring, ansjovis) of mosselen en oesters",
+        "insight": "fish has a similar footprint to chicken",
+        "goal": "eat smaller fish (herring, anchovies) or mussels, oysters and clams",
         "impact": 2,
-        "impactReason": "(we eten in Nederland niet heel veel vis dus dat maakt de impact ook iets lager)"
+        "impactReason": "(most Western countries eat less fish than meat)"
       },
       "outroRecipe": {
-        "title": "Vis heeft een vergelijkbare impact als kip. Het is dus een duurzamere keuze dan rood vlees of zuivel, maar er zit wel veel variatie in de impact van vis.\n\nDe beste keuze is om vis- en schaaldieren minder hoog op de voedselketen te eten. Dus minder tonijn, minder zalm en juist meer kleinere opties. Vooral mosselen, oesters en zeewier zijn een goede keuze.\n\nDe rivierkreeft is zelfs een plaag waarvan we het beste zoveel mogelijk kunnen eten! Kijk voor meer info op www.goodfish.nl",
+        "title": "Fish has a similar impact as chicken. So it's a more sustainable alternative to red meat or dairy but there the impact of fish can variate a lot.\n\nThe best hoice is to eat (shell)fish that are lower on the food chain. So less tuna and salmon and more of the smaller fish. Especially mussels, oysters and clams are a good choice.\n\nCrayfish is an invasive species in the Netherlands, so eating them is even helping the environment.",
         "emoji": "🦞"
       }
     }

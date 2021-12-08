@@ -6241,6 +6241,12 @@
           "quantity": 2,
           "quantityType": ""
         },
+         {
+          "name": "Bleekselderij stengels",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
         {
           "name": "Gerookt paprikapoeder",
           "type": "taste",

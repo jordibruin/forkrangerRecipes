@@ -624,6 +624,62 @@
         "title": "Vis heeft een vergelijkbare impact als kip. Het is dus een duurzamere keuze dan rood vlees of zuivel, maar er zit wel veel variatie in de impact van vis.\n\nDe beste keuze is om vis- en schaaldieren minder hoog op de voedselketen te eten. Dus minder tonijn, minder zalm en juist meer kleinere opties. Vooral mosselen, oesters en zeewier zijn een goede keuze.\n\nDe rivierkreeft is zelfs een plaag waarvan we het beste zoveel mogelijk kunnen eten! Kijk voor meer info op www.goodfish.nl",
         "emoji": "🦞"
       }
-    }
+    },
+    {
+      "id": 24,
+      "intro": {
+        "title": "Margarine vs. Boter",
+        "subtitle": "Margarine is gemaakt van palm olie maar boter komt van koeien. Dus welke kun je het beste kiezen?",
+        "emoji": "🥞"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Boter",
+            "Margarine"
+          ],
+          "correctAnswer": "Margarine",
+          "explanationText": "Boter heeft per kg zelfs een hogere impact dan varkensvlees! Maar dit is niet het hele plaatje...",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/butter-and-margarine-carbon-footprint-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoeveel boter eten we per jaar?",
+          "subtitle": "(gemiddeld per persoon in Europa en de VS)",
+          "answerOptions": [
+            "0,2 kg",
+            "3,3 kg",
+            "15,8 kg"
+          ],
+          "correctAnswer": "3,3 kg",
+          "explanationText": "3,3 kg. In Frankrijk, Zweden en Duitsland eet men de meeste boter, namelijk 6-7 kg. Maar zelfs dat is lager dan de hoeveelheid andere zuivelproducten (vooral melk, kaas, yoghurt) en vlees.\n\nDat betekent dat de TOTALE impact van boter erg laag is vergeleken met vlees en andere zuivelconsumptie.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Total-carbon-footprint-butter-and-margarine-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Welk broodje heeft een lagere CO2 impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Margarine en kip 🍗",
+            "Boter en kaas 🧀"
+          ],
+          "correctAnswer": "Margarine en kip 🍗",
+          "explanationText": "Ai, wat een onplezierige verassing voor kaasliefhebbers.\n\nAls iets van een koe komt, heeft het vaak een hogere impact dan andere voedselproducten. De reden hiervoor is dat koeien veel land nodig hebben (voor de teelt hun voedsel) en ze methaan boeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/sandwiches-butter-and-margarine.png"
+        }
+      ],
+      "outro": {
+        "insight": "margarine is duurzamer dan boter",
+        "goal": "kies margarine als standaard optie en gun jezelf soms wat boter",
+        "impact": 2,
+        "impactReason": "(we eten vrij weinig boter, dus het vervangen maakt een relatief klein verschil)"
+      },
+      "outroRecipe": {
+        "title": "De totale hoeveelheid boter die we eten is veel kleiner dan onze vlees, melk en kaasconsumptie. Dus voel je niet te schuldig als je boter eet.\n\nMaar als je er echt voor gaat, is boter vervangen door margarine een duurzamere keuze omdat de impact van margarine drie keer lager is.\n\nDeze quiz dekte niet de andere impact types zoals water- en landgebruik, maar in dat geval is de uitkomst hetzelfde: margarine scoort veel beter. Maar hoe zit het dan met palmolie? Dat is een onderwerp voor een andere keer.",
+        "emoji": "🥞"
+      }
   ]
 }

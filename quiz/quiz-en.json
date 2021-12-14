@@ -624,6 +624,63 @@
         "title": "Fish has a similar impact as chicken. So it's a more sustainable alternative to red meat or dairy but there the impact of fish can variate a lot.\n\nThe best hoice is to eat (shell)fish that are lower on the food chain. So less tuna and salmon and more of the smaller fish. Especially mussels, oysters and clams are a good choice.\n\nCrayfish is an invasive species in the Netherlands, so eating them is even helping the environment.",
         "emoji": "🦞"
       }
+    },
+    {
+      "id": 24,
+      "intro": {
+        "title": "Margarine vs. Butter",
+        "subtitle": "Margarine is made from palm oil but butter comes from cows. So which one should you choose?",
+        "emoji": "🥞"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which one has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Butter",
+            "Margarine"
+          ],
+          "correctAnswer": "Margarine",
+          "explanationText": "Per kg, butter even has a higher footprint than chicken! But this is not the full story...",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/butter-and-margarine-carbon-footprint.png"
+        },
+        {
+          "id": 2,
+          "title": "How much butter do we eat per year?",
+          "subtitle": "(average per person in Europe and USA)",
+          "answerOptions": [
+            "0,2 kg",
+            "3,3 kg",
+            "15,8 kg"
+          ],
+          "correctAnswer": "3,3 kg",
+          "explanationText": "3,3 kg. France, Sweden and Germany eat the most butter at around 6-7 kg. But even that is much lower than the amount of other milk products (mostly milk, cheese, yoghurt) and meat.\n\nThat means the TOTAL footprint of butter is very low compared to meat and other dairy consumption.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Total-carbon-footprint-butter-and-margarine.png"
+        },
+        {
+          "id": 3,
+          "title": "Which sandwich has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Margarine and chicken 🍗",
+            "Butter and cheese 🧀"
+          ],
+          "correctAnswer": "Margarine and chicken 🍗",
+          "explanationText": "Ouch, what an unpleasant surprise for the cheese lovers.\n\nIf something comes from a cow, it usually has a higher footprint than other food products. The reason is that cows require a lot of land (for feed) and burp methane.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/sandwiches-butter-and-margarine-1.png"
+        }
+      ],
+      "outro": {
+        "insight": "margarine is more sustainable than butter",
+        "goal": "Use margarine as standard option and butter as a special treat",
+        "impact": 1,
+        "impactReason": "(we don't eat much butter so replacing it makes a relatively small difference)"
+      },
+      "outroRecipe": {
+        "title": "The total amount of butter we eat is much lower than our meat, milk and cheese consumption. So don't feel too guilty if you're eating butter.\n\nBut if you're really going for it, replacing butter with margarine is a sustainable choice because the impact of margarine is around three times lower.\n\nThis quiz didn't cover other issues like water use or land use, but in those cases the result is the same: margarine scores much better. And what about palm oil? That's a topic for another time.",
+        "emoji": "🥞"
+      }
     }
   ]
 }

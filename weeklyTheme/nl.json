@@ -350,6 +350,22 @@
       "id": 24,
       "date": 1639533600,
       "backgroundColor": "0b9d8e",
+      "title": "Margarine vs. Boter - welke is duurzamer?🥞",
+      "recipes": [
+        32,
+        25,
+        42,
+        34
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Boter of margarine - Wat is duurzamer?",
+      "notificationBody": "Het recept van de week: Curry met Zoete Aardappel en Linzen"
+    },
+    {
+      "id": 25,
+      "date": 1640138400,
+      "backgroundColor": "0b9d8e",
       "title": "X",
       "recipes": [
         2,
@@ -359,8 +375,8 @@
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
-      "notificationTitle": "Boter of margarine - Wat is duurzamer?",
-      "notificationBody": "Het recept van de week: Curry met Zoete Aardappel en Linzen"
+      "notificationTitle": "All I want for Christmas is... 🎄",
+      "notificationBody": "Het recept van de week: een special kerstgerecht"
     }
   ]
 }

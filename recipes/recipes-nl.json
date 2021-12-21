@@ -1877,7 +1877,7 @@
       ],
       "id": 14,
       "title": "Curry met Ananas",
-	"url":"https://forkranger.com/nl/pineapple-curry/?share",
+      "url": "https://forkranger.com/nl/pineapple-curry/?share",
       "description": "De basis van dit recept is de curry met kokosmelk en ananas. De cashewnoten geven een goede bite en extra eiwitten. De andere groente kun je naar eigen voorkeur aanpassen. Koop bij voorkeur een fairtrade ananas. Je kunt de ananas in dit gerecht, en ook in andere gerechten, vervangen door een zure appel, zoals de Granny Smith.",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/pineapple-curry.jpg",
       "duration": 30,
@@ -1885,7 +1885,7 @@
       "rewardText": "Well done!",
       "servings": 4,
       "variationHeader": "Tip",
-	"variationBody": "In de winter komen verse sugarsnaps, peulen en sperziebonen vaak per vliegtuig. Dus van september t/m april kun je ze beter uit de diepvries kopen",
+      "variationBody": "In de winter komen verse sugarsnaps, peulen en sperziebonen vaak per vliegtuig. Dus van september t/m april kun je ze beter uit de diepvries kopen",
       "ingredients": [
         {
           "name": "Rijst (basmati)",
@@ -2476,7 +2476,7 @@
       ],
       "id": 18,
       "title": "Balsamico Ravioli",
-	"url": "https://forkranger.com/nl/balsamic-ravioli/?share",
+      "url": "https://forkranger.com/nl/balsamic-ravioli/?share",
       "description": "Een heerlijk recept voor als het even snel en makkelijk moet zijn. ",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Balsamic-Ravioli.jpg",
       "duration": 20,
@@ -6248,7 +6248,7 @@
           "quantity": 2,
           "quantityType": ""
         },
-         {
+        {
           "name": "Bleekselderij stengels",
           "type": "fresh",
           "quantity": 4,
@@ -6331,6 +6331,111 @@
           "title": "Garneer het gerecht met peterselie",
           "detail": "",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice"
+      ],
+      "url": "https://forkranger.com/nl/nut-roast/?share",
+      "id": 46,
+      "title": "Nut Roast",
+      "description": "Speciaal voor kerst 🎄 Nut roast is een populair vegetarisch kerstgerecht in het Verenigd Koninkrijk, als alternatief voor meat loaf. Serveer dit hartige gerecht met een soep en een salade en je hebt een smakelijk kerstdiner!",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Nut-roast.jpg",
+      "duration": 65,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Gemengde noten",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bleekselderij stengels",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Wortel",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Tomatenpuree",
+          "type": "taste",
+          "quantity": 140,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Panko broodkruim",
+          "type": "taste",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 20,
+      "prepSteps": [
+        "Doe de noten in een keukenmachine of blender (of hak zo klein als je kunt), houd apart",
+        "Doe de bleekselderij, wortel en champignons in een keukenmachine of blender (of hak zo klein als je kunt)",
+        "Snij de verse peterselie",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui, knoflook, bleekselderij, wortel, champignons, tomatenpuree en sojasaus",
+          "detail": "totdat de groenten zacht zijn op middelhoog vuur, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Zet het vuur uit, voeg noten, broodkruim en verse peterselie toe",
+          "detail": "meng goed tot het een dikke pasta is, voeg een beetje water toe als het te droog is (het brokkelt) en voeg wat broodkruim toe als het te nat is",
+          "emoji": ""
+        },
+        {
+          "title": "Doe bakpapier in een cakevorm en vul met de dikke nut roast pasta",
+          "detail": "op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 40
         }
       ]
     }

@@ -366,6 +366,22 @@
       "id": 25,
       "date": 1640138400,
       "backgroundColor": "0b9d8e",
+      "title": "Hoe maak je Kerstmis het makkelijkste duurzaam?🎄",
+      "recipes": [
+        4,
+        14,
+        18,
+        46
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "All I want for Christmas is... 🎄",
+      "notificationBody": "Het recept van de week: een special kerstgerecht"
+    },
+    {
+      "id": 26,
+      "date": 1640743200,
+      "backgroundColor": "0b9d8e",
       "title": "X",
       "recipes": [
         2,
@@ -375,8 +391,8 @@
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
-      "notificationTitle": "All I want for Christmas is... 🎄",
-      "notificationBody": "Het recept van de week: een special kerstgerecht"
+      "notificationTitle": "Zet de champagne voor oud en nieuw maar klaar 🍾 ",
+      "notificationBody": "Maar hoe duurzaam is alcohol eigenlijk? Recept van de week: Romige Spitskool Stamppot"
     }
   ]
 }

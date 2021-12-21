@@ -1853,6 +1853,8 @@
 			"rewardTitle": "You're a chef!",
 			"rewardText": "Well done!",
 			"servings": 4,
+			"variationHeader": "Tip",
+			"variationBody": "In winter, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s better to buy them frozen.",
 			"ingredients": [{
 					"name": "Rice (basmati)",
 					"type": "base",

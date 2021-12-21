@@ -681,6 +681,64 @@
         "title": "De totale hoeveelheid boter die we eten is veel kleiner dan onze vlees, melk en kaasconsumptie. Dus voel je niet te schuldig als je boter eet.\n\nMaar als je er echt voor gaat, is boter vervangen door margarine een duurzamere keuze omdat de impact van margarine drie keer lager is.\n\nDeze quiz dekte niet de andere impact types zoals water- en landgebruik, maar in dat geval is de uitkomst hetzelfde: margarine scoort veel beter. Maar hoe zit het dan met palmolie? Dat is een onderwerp voor een andere keer.",
         "emoji": "🥞"
       }
+    },
+    {
+      "id": 25,
+      "intro": {
+        "title": "Hoe maak je Kerstmis het makkelijkste duurzaam?",
+        "subtitle": "We kennen het allemaal wel van de liedjes: it’s the most wonderful time of the year. Maar bij kerst horen ook minder duurzame tradities, van Beef Wellington tot kerstverlichting. Dus, wat zijn een paar makkelijke manier om klimaatvriendelijk Kerstmis te vieren?",
+        "emoji": "🎄"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke van deze heeft de laagste impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Kerststol",
+            "Kaasfondue",
+            "Kerstboom"
+          ],
+          "correctAnswer": "Kerstboom",
+          "explanationText": "Verrast? De boom is natuurlijk echt plantaardig 😉 en heeft maar weinig ruimte nodig om te groeien.\n\nDe kerststol bevat eieren, melk, boter, amandelen en suiker en al deze producten vragen flink wat ruimte en hebben daarmee meer impact.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/christmas-tree-vs-food-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoeveel neemt afval toe tijdens Kerstmis?",
+          "subtitle": "al het afval",
+          "answerOptions": [
+            "ca. 11%",
+            "ca. 25%",
+            "ca. 40%"
+          ],
+          "correctAnswer": "ca. 25%",
+          "explanationText": "Afval neemt 25-30% toe tijdens Kerstmis... Mensen gebruiken veel cadeaupapier, maar het ergste soort afval is voedselverspilling. In Nederland gooit men alleen tijdens kerst voedsel ter waarde van 124 miljoen euro weg.\n\nEat food, not too much, mostly plants. En eet alle restjes.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke actie bespaart de meeste emissies?",
+          "subtitle": "",
+          "answerOptions": [
+            "Low waste en vegetarisch kerstdiner",
+            "Geen ongewenste cadeautjes kopen"
+          ],
+          "correctAnswer": "Geen ongewenste cadeautjes kopen",
+          "explanationText": "Dit was een beetje een strikvraag: één maaltijd maakt een kleiner verschil dan één ongewenst cadeautje, maar een heel jaar minder vlees eten maakt een heel groot verschil.\n\nDit onderzoek uit het VK kwam ook tot de conclusie dat het hebben van extravagante kerstverlichting enorm veel effect heeft op je totale impact.\n\nDus, deze grafiek vertelt ons hetzelfde verhaal als altijd: eet minder vlees, gebruik een fiets of OV en stop met het kopen van zoveel spullen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Christmas-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "ook al maakt één maaltijd niet zo’n grote verschil, toch doen alle maaltijden samen dat wel",
+        "goal": "geniet van Kerstmis en voel je niet schuldig, het maakt vooral uit wat je de rest van het jaar doet",
+        "impact": 5,
+        "impactReason": "(plezier hebben is belangrijk voor een duurzaam leven)"
+      },
+      "outroRecipe": {
+        "title": "Kerstmis is echt een bijzondere tijd van het jaar. De aandacht voor familie en goed eten kan ons weer even eraan herinneren wat echt belangrijk is in het leven. Kerst kan echt goed voor ons zijn als we het los kunnen breken van al dat consumeren.\n\nHet belangrijkste advies is om geen ongewenste cadeautjes te kopen. Geef iemand een ervaring of een goed boek. Wist je dat er ook een Fork Ranger kookboek is?😜\n\nGa naar forkranger.nl voor het boek en een uitgebreidere blog post over Kerstmis.",
+        "emoji": "🎄"
+      }
     }
   ]
 }

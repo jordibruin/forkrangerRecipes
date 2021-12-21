@@ -366,7 +366,7 @@
       "id": 25,
       "date": 1640138400,
       "backgroundColor": "f7a56d",
-      "title": "X",
+      "title": "What’s the easiest way to make Christmas more sustainable?🎄",
       "recipes": [
         2,
         3,
@@ -377,6 +377,22 @@
       "category": "meat",
       "notificationTitle": "All I want for Christmas🎄",
       "notificationBody": "The recipe of the week: a Christmas special"
+    },
+    {
+      "id": 26,
+      "date": 1640743200,
+      "backgroundColor": "f7a56d",
+      "title": "X",
+      "recipes": [
+        2,
+        3,
+        10,
+        40
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Get the champagne ready for new year's eve 🍾",
+      "notificationBody": "But how sustainable is alochol? The recipe of the week: Creamy Cabbage Potato Mash"
     }
   ]
 }

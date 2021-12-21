@@ -3400,6 +3400,7 @@
         "pasta"
       ],
       "id": 25,
+      "isSpecial": true,
       "title": "Spruitjes met Appel",
       "description": "Niet iedereen houdt van spruitjes, maar hun licht bittere smaak is een heerlijke combinatie met de zoete appels, het zuur van de azijn en de hartige smaak van de kaas.",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Brussels-sprouts-oven-pasta.jpg",

@@ -681,6 +681,64 @@
         "title": "The total amount of butter we eat is much lower than our meat, milk and cheese consumption. So don't feel too guilty if you're eating butter.\n\nBut if you're really going for it, replacing butter with margarine is a sustainable choice because the impact of margarine is around three times lower.\n\nThis quiz didn't cover other issues like water use or land use, but in those cases the result is the same: margarine scores much better. And what about palm oil? That's a topic for another time.",
         "emoji": "🥞"
       }
+    },
+    {
+      "id": 25,
+      "intro": {
+        "title": "Sustainable Christmas",
+        "subtitle": "We all know it from the songs: it’s the most wonderful time of the year. But it also comes with some less sustainable traditions, from beef wellington to Christmas lights. So what are some easy ways to have a climate-friendly Christmas?",
+        "emoji": "🎄"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which of these has the lowest footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Christmas stollen (cake)",
+            "Cheese fondue",
+            "Christmas tree"
+          ],
+          "correctAnswer": "Christmas tree",
+          "explanationText": "Surprised? Well, the tree is plant-based 😉 It only needs a small space to grow. The Christmas stollen or cheese fondue seems a lot smaller than a tree, but it requires quite some space to grow the ingredients, from grasslands for milk to fields of sugar cane.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/christmas-tree-vs-food.png"
+        },
+        {
+          "id": 2,
+          "title": "How much does waste increase during Christmas time?",
+          "subtitle": "general waste",
+          "answerOptions": [
+            "ca. 11 %",
+            "ca. 25%",
+            "ca. 45%"
+          ],
+          "correctAnswer": "ca. 25%",
+          "explanationText": "Waste increases 25-30% during Christmas time... People use lots of wrapping paper for presents but the worst form of waste is food waste. The Netherlands throws away 124 million euros worth of food during Christmas!\n\nEat food, not too much, mostly plants. And save leftovers.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Which action saves more emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            "Low waste and vegetarian Christmas dinner",
+            "Not buying unwanted presents"
+          ],
+          "correctAnswer": "Not buying unwanted presents",
+          "explanationText": "This was a bit of a trick question: one meal makes a smaller difference than one unwanted present, but a whole year of eating less meat does **make a huge difference.\n\nThis research from the UK also found that having extravagant Christmas lights can also add a lot to your footprint.\n\nOverall, the graph tells the same story as always: eat less meat, use a bike or public transport, and stop buying so much stuff.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Christmas-.png"
+        }
+      ],
+      "outro": {
+        "insight": "margarine is more sustainable than butter",
+        "goal": "Use margarine as standard option and butter as a special treat",
+        "impact": 1,
+        "impactReason": "(we don't eat much butter so replacing it makes a relatively small difference)"
+      },
+      "outroRecipe": {
+        "title": "Christmas is a wonderful time of the year. The focus on family and good meals can help us remember what matters most in life. Christmas can be great for us if we disconnect it from consumerism.\n\nThe most important advice is not to buy unnecessary presents. Give someone an experience or a good book. Did you know we have a Fork Ranger cookbook? 😜 Go to forkranger.com for the book and a more in-depth blog post about Christmas.\n\nMerry Christmas dear Fork Rangers!",
+        "emoji": "🎄"
+      }
     }
   ]
 }

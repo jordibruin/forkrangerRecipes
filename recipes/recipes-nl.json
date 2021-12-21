@@ -1877,6 +1877,7 @@
       ],
       "id": 14,
       "title": "Curry met Ananas",
+	"url":"https://forkranger.com/nl/pineapple-curry/?share"
       "description": "De basis van dit recept is de curry met kokosmelk en ananas. De cashewnoten geven een goede bite en extra eiwitten. De andere groente kun je naar eigen voorkeur aanpassen. Koop bij voorkeur een fairtrade ananas. Je kunt de ananas in dit gerecht, en ook in andere gerechten, vervangen door een zure appel, zoals de Granny Smith.",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/pineapple-curry.jpg",
       "duration": 30,
@@ -1884,7 +1885,7 @@
       "rewardText": "Well done!",
       "servings": 4,
       "variationHeader": "Tip",
-			"variationBody": "In de winter komen verse sugarsnaps, peulen en sperziebonen vaak per vliegtuig. Dus van september t/m april kun je ze beter uit de diepvries kopen",
+	"variationBody": "In de winter komen verse sugarsnaps, peulen en sperziebonen vaak per vliegtuig. Dus van september t/m april kun je ze beter uit de diepvries kopen",
       "ingredients": [
         {
           "name": "Rijst (basmati)",
@@ -1983,7 +1984,7 @@
           "time": 2
         },
         {
-          "title": "Voeg de paprika, sugarsnaps, knoflook en\ngember toe",
+          "title": "Voeg de paprika, sugarsnaps, knoflook en gember toe",
           "detail": "",
           "panType": "fryingPan1",
           "emoji": "",
@@ -2475,6 +2476,7 @@
       ],
       "id": 18,
       "title": "Balsamico Ravioli",
+	"url": "https://forkranger.com/nl/balsamic-ravioli/?share",
       "description": "Een heerlijk recept voor als het even snel en makkelijk moet zijn. ",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Balsamic-Ravioli.jpg",
       "duration": 20,

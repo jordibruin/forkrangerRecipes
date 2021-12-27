@@ -6339,7 +6339,7 @@
         "rice"
       ],
       "url": "https://forkranger.com/nl/nut-roast/?share",
-      "isSpecial":true,
+      "isSpecial": true,
       "id": 46,
       "title": "Nut Roast",
       "description": "Speciaal voor kerst 🎄 Nut roast is een populair vegetarisch kerstgerecht in het Verenigd Koninkrijk, als alternatief voor meat loaf. Serveer dit hartige gerecht met een soep en een salade en je hebt een smakelijk kerstdiner!",
@@ -6437,6 +6437,133 @@
           "panType": "oven",
           "emoji": "",
           "time": 40
+        }
+      ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://forkranger.com/nl/romige-spitskool-stamppot/?share",
+      "id": 47,
+      "title": "Romige Spitskool Stamppot",
+      "description": "De spitskool zorgt dat dit gerecht veel groente bevat en het een beetje knapperig maakt, terwijl de brie het een rijke, romige textuur geeft. De walnoten en zongedroogde tomaten voegen extra eiwit en bite toe. Je kunt de stamppot op de conventionele manier maken met boter en melk, maar wij gebruiken sojaroom voor een gladde en smeuïge stamppot.",
+      "imageUrl": "http://forkranger.com/wp-content/uploads/2021/11/Creamy-mashed-potato.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Kruimige aardappels",
+          "type": "base",
+          "quantity": 1000,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spitskool",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Brie",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Currypoeder",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Verse tijm",
+          "type": "taste",
+          "quantity": 8,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode uien",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui",
+        "Schil de aardappels en snij in stukjes",
+        "Snij spitskool in reepjes",
+        "Verkruimel de walnoten in kleine stukjes",
+        "Snij de brie in stukjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Kook de aardappels",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur, breng op smaak met zout en peper",
+          "emoji": "",
+          "panType": "fryingPan1",
+          "time": 3
+        },
+        {
+          "title": "Voeg currypoeder toe",
+          "detail": "roer goed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg de spitskool toe",
+          "detail": "roer goed, blijf regelmatig roeren totdat de spitskool goudbruin wordt",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Giet de aardappels af, voeg (soja)room toe en stamp ze",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de spitskool toe",
+          "detail": "roer goed",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de brie, walnoten, zongedroogde tomaten en verse tijm blaadjes toe",
+          "detail": "haal de tijmblaadjes van de twijgjes, roer door de stamppot",
+          "panType": "cookingPan1",
+          "emoji": ""
         }
       ]
     }

@@ -1322,7 +1322,7 @@
       ]
     },
     {
-       "url": "https://forkranger.com/shepherds-pie/?share",
+      "url": "https://forkranger.com/shepherds-pie/?share",
       "filter": [
         "potato"
       ],
@@ -6341,7 +6341,7 @@
         "rice"
       ],
       "url": "https://forkranger.com/nut-roast/?share",
-      "isSpecial":true,
+      "isSpecial": true,
       "id": 46,
       "title": "Nut Roast",
       "description": "Christmas special 🎄 Nut roast is a popular vegetarian Christmas dish in the UK, as an alternative to meat loaf or other roast dinners. Serve this savoury loaf with a soup and a salad and you have yourself a tasty Christmas dinner!",
@@ -6439,6 +6439,133 @@
           "panType": "oven",
           "emoji": "",
           "time": 40
+        }
+      ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://forkranger.com/creamy-cabbage-potato-mash/?share",
+      "id": 47,
+      "title": "Creamy Cabbage Potato Mash",
+      "description": "The cabbage adds lots of vegetable and some nice crunch, while the brie gives it a rich, creamy texture. With the walnuts and sun-dried tomatoes it has some extra protein and bite. You can make the potato mash the conventional way with some butter and milk but we're using soy cream for a smooth and fluffy mash.",
+      "imageUrl": "http://forkranger.com/wp-content/uploads/2021/11/Creamy-mashed-potato.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Floury potatoes",
+          "type": "base",
+          "quantity": 1000,
+          "quantityType": "g"
+        },
+        {
+          "name": "Oxheart cabbage",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Brie",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sundried tomatoes",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Curry powder",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Fresh thyme",
+          "type": "taste",
+          "quantity": 8,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red onions",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion",
+        "Peel potatoes and cut into pieces ",
+        "Cut cabbage into rings",
+        "Crush walnuts into small pieces",
+        "Cut brie into small pieces"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Cook potatoes",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Sauté onion",
+          "detail": "medium heat, season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add curry powder",
+          "detail": "mix well",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add cabbage",
+          "detail": "mix well, keep stirring regularly until the cabbage turns golden brown",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Drain potatoes, add (soy)cream, and mash them",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Add cabbage mixture",
+          "detail": "mix well",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Add brie, walnuts, sundried tomatoes and fresh thyme leaves",
+          "detail": "tear thyme leaves from the twigs, stir through the mash",
+          "panType": "cookingPan1",
+          "emoji": ""
         }
       ]
     }

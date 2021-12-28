@@ -6568,6 +6568,162 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://forkranger.com/carrot-cauliflower-biryani/?share",
+      "id": 48,
+      "title": "Carrot Cauliflower Biryani",
+      "description": "Biryani is the most ordered take-away dish in India. The flavourful rice is a wonderful combination with some fresh yoghurt and lime. In our simplified version we use cauliflower, which soaks up all the spices. It's important to use a pan with a lid so the cauliflower is steamed. This recipe is great for using the healthier brown rice.",
+      "imageUrl": "http://forkranger.com/wp-content/uploads/2021/11/Carrot-biryani.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Brown basmati rice",
+          "type": "base",
+          "quantity": 240,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Cauliflower",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Peas",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cashews",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Plant-based) yoghurt",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Chilliflakes",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Curry powder (garam masala)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic clove",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Grate carrots coarsely",
+        "Cut onion in rings and mince garlic",
+        "Cut cauliflower into small florets"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Cook rice",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Sauté onion in the meantime",
+          "detail": "medium/high heat, season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add cauliflower and garlic",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add chiliflakes, curry powder, turmeric and water",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add carrots and then put on lid",
+          "detail": "medium heat and let it 'steam' with the lid on, check once in a while so the vegetables don't become too soft",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Add peas, cashews and cooked rice",
+          "detail": "mix and keep on high heat so the rice at the bottom becomes a little crispy",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Serve with the yoghurt and coriander and squeeze some lime over the dish",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

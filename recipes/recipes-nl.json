@@ -6707,7 +6707,8 @@
           "title": "Voeg wortels toe en doe de deksel erop",
           "detail": "op middelhoog vuur en laat het 'stomen' met de deksel erop, check af en toe zodat de groente niet te zacht worden",
           "panType": "fryingPan1",
-          "emoji": 7
+          "emoji": "",
+          "time": 7
         },
         {
           "title": "Voeg de tuinerwten, cashewnoten en gekookte rijst toe",

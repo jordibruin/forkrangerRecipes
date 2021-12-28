@@ -6566,6 +6566,161 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "rice"
+      ],
+      "url": "https://forkranger.com/nl/biryani-met-wortel-en-bloemkool/?share",
+      "id": 48,
+      "title": "Biryani met Wortel en Bloemkool",
+      "description": "Biryani is het meest bestelde afhaalgerecht in India. De smaakvolle rijst geeft een heerlijke combinatie met wat verse yoghurt en limoen. In onze vereenvoudigde versie gebruiken we bloemkool, die alle kruiden opneemt. Het is belangrijk om een pan met deksel te gebruiken zodat de bloemkool gestoomd wordt. In dit recept kun je ook makkelijk kiezen voor gezondere rijst, namelijk bruine rijst.",
+      "imageUrl": "http://forkranger.com/wp-content/uploads/2021/11/Carrot-biryani.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Volkoren basmati rijst",
+          "type": "base",
+          "quantity": 240,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Bloemkool",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Plantaardige) yoghurt",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Chilivlokken",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Currypoeder (garam masala)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflookteen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Rasp de wortels grof",
+        "Snij ui in ringen en snij knoflook fijn",
+        "Snij de bloemkool in kleine roosjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Kook de rijst",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Fruit de ui ondertussen",
+          "detail": "op hoog vuur, breng op smaak met zout en peper",
+          "emoji": "",
+          "panType": "fryingPan1",
+          "time": 2
+        },
+        {
+          "title": "Voeg de bloemkool en knoflook toe",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg chilivlokken, currypoeder, kurkuma en water toe",
+          "detail": "op middelhoog vuur, proef en voeg zo nodig zout en peper toe",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg wortels toe en doe de deksel erop",
+          "detail": "op middelhoog vuur en laat het 'stomen' met de deksel erop, check af en toe zodat de groente niet te zacht worden",
+          "panType": "fryingPan1",
+          "emoji": 7
+        },
+        {
+          "title": "Voeg de tuinerwten, cashewnoten en gekookte rijst toe",
+          "detail": "mix en houd op hoog vuur zodat de rijst aan de onderkant van de pan een beetje knapperig wordt ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Serveer met yoghurt en koriander en knijp de limoen uit over het gerecht",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

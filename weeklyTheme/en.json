@@ -382,17 +382,33 @@
       "id": 26,
       "date": 1640743200,
       "backgroundColor": "f7a56d",
-      "title": "X",
+      "title": "How sustainable is wine and beer?",
       "recipes": [
-        2,
-        3,
-        10,
-        40
+        47,
+        9,
+        13,
+        5
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
       "notificationTitle": "Get the champagne ready for new year's eve 🍾",
       "notificationBody": "But how sustainable is alochol? The recipe of the week: Creamy Cabbage Potato Mash"
+    },
+    {
+      "id": 27,
+      "date": 1641348000,
+      "backgroundColor": "f7a56d",
+      "title": "X",
+      "recipes": [
+        48,
+        22,
+        11,
+        35
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Is drinking less coffee among your new year's resolutions? Here's some extra motivation💪",
+      "notificationBody": "The recipe of the week: Smokey Chili (with coffee)"
     }
   ]
 }

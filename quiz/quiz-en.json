@@ -739,6 +739,62 @@
         "title": "Christmas is a wonderful time of the year. The focus on family and good meals can help us remember what matters most in life. Christmas can be great for us if we disconnect it from consumerism.\n\nThe most important advice is not to buy unnecessary presents. Give someone an experience or a good book. Did you know we have a Fork Ranger cookbook? 😜 Go to forkranger.com for the book and a more in-depth blog post about Christmas.\n\nMerry Christmas dear Fork Rangers!",
         "emoji": "🎄"
       }
+    },
+    {
+      "id": 26,
+      "intro": {
+        "title": "What about alcohol?",
+        "subtitle": "Wow it’s (almost) 2022. Time to celebrate! Unfortunately it’s also a time where a lot of people have a few too many drinks. So this is a good time to take a look at the sustainability of the most popular drug.",
+        "emoji": "🍷"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which of these drinks has the lowest carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "🍺 One beer (330 ml)",
+            "🍷 A glass of wine (150 ml)"
+          ],
+          "correctAnswer": "🍷 A glass of wine (150 ml)",
+          "explanationText": "Wine has a higher footprint per liter, but a glass of wine is usually half as big as a beer.\n\nAs a reference we’ve also added a glass of milk. The impact of both wine and beer is still lower than a glass of milk - which doesn’t mean you should substitute milk for wine or beer every time 😉.",
+          "imageUrl": "http://forkranger.com/wp-content/uploads/2021/12/milk-beer-wine.png"
+        },
+        {
+          "id": 2,
+          "title": "What is different about a bottle of wine compared to the environmental impact of most other food?",
+          "subtitle": "",
+          "answerOptions": [
+            "Transport and packaging emissions are high",
+            "Farming emissions are high"
+          ],
+          "correctAnswer": "Transport and packaging emissions are high",
+          "explanationText": "Farming is almost always by far the largest impact of a food product. But when it comes to wine, it’s different. It’s a liquid; it’s quite heavy and the glass bottle also weighs a lot. That makes wine an exception: transport and packaging emissions are high.\n\nRoad transport of this heavy ‘food’ product also adds quite some emissions, whereas shipping of wine adds far less emissions. However due to the large shipping distances, the European wines still have a 10-20% lower impact compared to the South-American or Australian ones (assuming you live in Europe).",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Let’s have a nice dinner! Which part has a lower footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "One bottle of wine",
+            "Risotto for 4 people"
+          ],
+          "correctAnswer": "One bottle of wine",
+          "explanationText": "Wine has a lower footprint! Half of the risotto’s emissions are lots of butter and some parmesan. This is the footprint of the Fennel Risotto of this week’s recipes.\n\nThere are definitely meals with a lower footprint but it’s more than four times better than a spaghetti bolognese with 400 g of beef!",
+          "imageUrl": "http://forkranger.com/wp-content/uploads/2021/12/wine-and-risotto.png"
+        }
+      ],
+      "outro": {
+        "insight": "The impact of beer and wine is not very high, but packaging and transport play a large role",
+        "goal": "Drink responsibly, prefer local beers and wines and recycle your bottles",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Because beer and wine are liquids and come in bottles, they are quite heavy and that means transportation plays a bigger role than usual. But it’s the road transportation that counts. Shipping by boat usually has a lower impact. Except, if the distances are very large, like from Australia, Chile and Argentina.\n\nSo if you know a local brewery or wine maker, that is a great option. But if you end up with a bottle from half-way around the world, it’s not a big deal. Better make sure you don’t drink it next to a Brazilian steak 😉",
+        "emoji": "🍷"
+      }
     }
   ]
 }

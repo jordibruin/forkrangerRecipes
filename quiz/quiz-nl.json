@@ -683,61 +683,59 @@
       }
     },
     {
-      "id": 25,
+      "id": 26,
       "intro": {
-        "title": "Duurzaam Kerstmis",
-        "subtitle": "We kennen het allemaal wel van de liedjes: it’s the most wonderful time of the year. Maar bij kerst horen ook minder duurzame tradities, van Beef Wellington tot kerstverlichting. Dus, wat zijn een paar makkelijke manier om klimaatvriendelijk Kerstmis te vieren?",
-        "emoji": "🎄"
+        "title": "En alcohol dan?",
+        "subtitle": "Wauw, het is (bijna) 2022. Tijd voor een feestje! Helaas is het ook een tijd waarin veel mensen een paar drankjes te veel op hebben. Een goed moment dus om te kijken naar de duurzaamheid van de meest populaire drug.",
+        "emoji": "🍷"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Welke van deze heeft de laagste impact?",
+          "title": "Welke van deze drankjes heeft de laagste CO2 impact?",
           "subtitle": "",
           "answerOptions": [
-            "Kerststol",
-            "Kaasfondue",
-            "Kerstboom"
+            "🍺 Een biertje (330 ml)",
+            "🍷Een glas wijn (150 ml)"
           ],
-          "correctAnswer": "Kerstboom",
-          "explanationText": "Verrast? De boom is natuurlijk echt plantaardig 😉 en heeft maar weinig ruimte nodig om te groeien.\n\nDe kerststol bevat eieren, melk, boter, amandelen en suiker en al deze producten vragen flink wat ruimte en hebben daarmee meer impact.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/christmas-tree-vs-food-NL.png"
+          "correctAnswer": "🍷Een glas wijn (150 ml)",
+          "explanationText": "Wijn heeft een grotere impact per liter, maar een glas wijn is meestal half zo groot als een biertje.\n\nAls referentie hebben we er ook nog een glas melk bij gedaan. De impact van zowel wijn als bier is nog steeds lager dan die van een glas melk - wat niet betekent dat je elke keer wijn of bier moet vervangen door melk 😉.",
+          "imageUrl": "http://forkranger.com/wp-content/uploads/2021/12/milk-beer-wine-NL.png"
         },
         {
           "id": 2,
-          "title": "Hoeveel neemt afval toe tijdens Kerstmis?",
-          "subtitle": "al het afval",
+          "title": "Wat is er anders aan een fles wijn in vergelijking met de impact van de meeste andere voedingsmiddelen?",
+          "subtitle": "",
           "answerOptions": [
-            "ca. 11%",
-            "ca. 25%",
-            "ca. 40%"
+            "De uitstoot van transport en verpakking is hoog",
+            "De uitstoot van landbouw is hoog"
           ],
-          "correctAnswer": "ca. 25%",
-          "explanationText": "Afval neemt 25-30% toe tijdens Kerstmis... Mensen gebruiken veel cadeaupapier, maar het ergste soort afval is voedselverspilling. In Nederland gooit men alleen tijdens kerst voedsel ter waarde van 124 miljoen euro weg.\n\nEat food, not too much, mostly plants. En eet alle restjes.",
+          "correctAnswer": "De uitstoot van transport en verpakking is hoog",
+          "explanationText": "Landbouw is bijna altijd veruit de grootste impact van een voedingsproduct. Maar als het om wijn gaat, is het anders. Het is een vloeistof, daardoor vrij zwaar en de glazen fles weegt ook veel. Dat maakt wijn een uitzondering: de uitstoot van transport en verpakking is hoog.\n\nOok het wegtransport van dit zware ‘voedings’product zorgt voor behoorlijk wat uitstoot, terwijl het verschepen van wijn veel minder uitstoot. Door de grote afstanden over zee hebben de Europese wijnen echter nog steeds een 10-20% lagere impact in vergelijking met de Zuid-Amerikaanse of Australische wijnen (ervan uitgaande dat je in Europa woont).",
           "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Welke actie bespaart de meeste emissies?",
+          "title": "Laten we gezellig tafelen! Welke heeft een lagere impact?",
           "subtitle": "",
           "answerOptions": [
-            "Low waste en vegetarisch kerstdiner",
-            "Geen ongewenste cadeautjes kopen"
+            "Een fles wijn",
+            "Risotto voor 4 personen"
           ],
-          "correctAnswer": "Geen ongewenste cadeautjes kopen",
-          "explanationText": "Dit was een beetje een strikvraag: één maaltijd maakt een kleiner verschil dan één ongewenst cadeautje, maar een heel jaar minder vlees eten maakt een heel groot verschil.\n\nDit onderzoek uit het VK kwam ook tot de conclusie dat het hebben van extravagante kerstverlichting enorm veel effect heeft op je totale impact.\n\nDus, deze grafiek vertelt ons hetzelfde verhaal als altijd: eet minder vlees, gebruik een fiets of OV en stop met het kopen van zoveel spullen.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Christmas-NL.png"
+          "correctAnswer": "Een fles wijn",
+          "explanationText": "De fles wijn heeft een lagere impact! De helft van de uitstoot van de risotto komt door veel boter en wat Parmezaanse kaas. Dit is trouwens de impact van de venkel risotto uit de recepten van deze week.\n\nEr zijn zeker maaltijden met een kleinere impact, maar het is meer dan vier keer beter dan een spaghetti bolognese met 400 g rundvlees!",
+          "imageUrl": "http://forkranger.com/wp-content/uploads/2021/12/wine-and-risotto-NL.png"
         }
       ],
       "outro": {
-        "insight": "ook al maakt één maaltijd niet zo’n grote verschil, toch doen alle maaltijden samen dat wel",
-        "goal": "geniet van Kerstmis en voel je niet schuldig, het maakt vooral uit wat je de rest van het jaar doet",
-        "impact": 5,
-        "impactReason": "(plezier hebben is belangrijk voor een duurzaam leven)"
+        "insight": "De impact van bier en wijn is niet heel groot, maar verpakking en transport spelen een grote rol",
+        "goal": "Drink verantwoord, geef de voorkeur aan lokale bieren en wijnen en recycle je flessen",
+        "impact": 1,
+        "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Kerstmis is echt een bijzondere tijd van het jaar. De aandacht voor familie en goed eten kan ons weer even eraan herinneren wat echt belangrijk is in het leven. Kerst kan echt goed voor ons zijn als we het los kunnen breken van al dat consumeren.\n\nHet belangrijkste advies is om geen ongewenste cadeautjes te kopen. Geef iemand een ervaring of een goed boek. Wist je dat er ook een Fork Ranger kookboek is?😜\n\nGa naar forkranger.nl voor het boek en een uitgebreidere blog post over Kerstmis.",
-        "emoji": "🎄"
+        "title": "Omdat bier en wijn vloeistoffen zijn en in flessen worden geleverd, zijn ze behoorlijk zwaar en speelt transport een grotere rol dan normaal. Maar het is het wegvervoer dat telt. Scheepvaart per boot heeft doorgaans een lagere impact. Behalve als de afstanden erg groot zijn, zoals vanuit Australië, Chili en Argentinië.\n\nDus als je een lokale brouwerij of wijnmaker kent, is dat een goede optie. Maar als je een fles van halverwege de wereld krijgt, is dat niet erg. Zorg er maar beter voor dat je het niet naast een Braziliaanse steak drinkt 😉.",
+        "emoji": "🍷"
       }
     }
   ]

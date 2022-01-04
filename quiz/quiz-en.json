@@ -795,6 +795,63 @@
         "title": "Because beer and wine are liquids and come in bottles, they are quite heavy and that means transportation plays a bigger role than usual. But it’s the road transportation that counts. Shipping by boat usually has a lower impact. Except, if the distances are very large, like from Australia, Chile and Argentina.\n\nSo if you know a local brewery or wine maker, that is a great option. But if you end up with a bottle from half-way around the world, it’s not a big deal. Better make sure you don’t drink it next to a Brazilian steak 😉",
         "emoji": "🍷"
       }
+    },
+    {
+      "id": 27,
+      "intro": {
+        "title": "Is filter coffee more sustainable than pads?",
+        "subtitle": "Welcome in 2022! A good time to make new plans (we’ve got loads for Fork Ranger) and new year’s resolutions. Should drinking less coffee be one of them?",
+        "emoji": "☕"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which drink has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Tea",
+            "Coffee"
+          ],
+          "correctAnswer": "Tea",
+          "explanationText": "",
+          "imageUrl": "Tea is at least three times more sustainable than coffee! The impact of tea is so low that most of the CO2 comes from boiling water. So let’s have a closer look at coffee."
+        },
+        {
+          "id": 2,
+          "title": "Where do most of the coffee emissions come from?",
+          "subtitle": "",
+          "answerOptions": [
+            "Growing the beans",
+            "Packaging",
+            "Electricity for brewing the coffee"
+          ],
+          "correctAnswer": "Growing the beans",
+          "explanationText": "As usual growing the food makes up most of the emissions. Therefore there’s an important conclusion: wasting coffee is more damaging than extra packaging waste. The total emissions from wasted coffee in the UK are higher than the entire emissions of a Formula 1 season! 🤯\n\nThis surprising fact also made us curious about how to prevent this waste. An American study that found that in most cases, cups and pads are more sustainable than filter systems because it’s easier to set just the right amount of coffee per person.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Now let’s take a look at a cappuccino. Which ingredient causes more emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            "Espresso",
+            "Milk"
+          ],
+          "correctAnswer": "Milk",
+          "explanationText": "A cappuccino has one espresso of 25 ml and 85 ml milk, which means the milk emissions are quite high. Substituting cow milk for oat milk can cut the impact of a cappuccino in half.\n\nEven then, drinking coffee has a relatively high footprint. The carbon footprint of drinking 1 capuccino and 2 coffees per day is similar to eating 2,5 chicken breasts per week!",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Coffee has a relatively high impact because we drink so many cups per day",
+        "goal": "Drink less coffee (especially cappuccinos) and more tea",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Coffee is a complicated product with lots of issues around climate change, land use and working conditions. Just like chocolate or meat, it’s a luxury product that we have made completely normal in our lives. Perhaps a bit too normal?\n\nBy reducing the amount of coffee we drink, we can upgrade on the quality and overall enjoy it more. And black tea is a great substitute for some caffeine 😉",
+        "emoji": "☕"
+      }
     }
   ]
 }

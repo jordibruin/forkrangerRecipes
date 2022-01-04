@@ -398,7 +398,7 @@
       "id": 27,
       "date": 1641348000,
       "backgroundColor": "0b9d8e",
-      "title": "X",
+      "title": "Is filterkoffie duurzamer dan pads?",
       "recipes": [
         48,
         22,
@@ -409,6 +409,22 @@
       "category": "meat",
       "notificationTitle": "Is minder koffie drinken een van de goede voornemens van je nieuwe jaar? Hier is wat extra motivatie💪 ",
       "notificationBody": "Het recept van de week: Smokey Chili (met koffie)"
+    },
+    {
+      "id": 28,
+      "date": 1641952800,
+      "backgroundColor": "0b9d8e",
+      "title": "X",
+      "recipes": [
+        48,
+        22,
+        11,
+        35
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "X",
+      "notificationBody": "X"
     }
   ]
 }

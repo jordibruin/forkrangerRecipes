@@ -795,6 +795,63 @@
         "title": "Omdat bier en wijn vloeistoffen zijn en in flessen worden geleverd, zijn ze behoorlijk zwaar en speelt transport een grotere rol dan normaal. Maar het is het wegvervoer dat telt. Scheepvaart per boot heeft doorgaans een lagere impact. Behalve als de afstanden erg groot zijn, zoals vanuit Australië, Chili en Argentinië.\n\nDus als je een lokale brouwerij of wijnmaker kent, is dat een goede optie. Maar als je een fles van halverwege de wereld krijgt, is dat niet erg. Zorg er maar beter voor dat je het niet naast een Braziliaanse steak drinkt 😉.",
         "emoji": "🍷"
       }
+    },
+    {
+      "id": 27,
+      "intro": {
+        "title": "Is filterkoffie duurzamer dan pads?",
+        "subtitle": "Welkom in 2022! Hoog tijd om nieuwe plannen te maken (we hebben er heel wat voor Fork Ranger) en goede voornemens. Zou minder koffie drinken er ook eentje moeten zijn?",
+        "emoji": "☕"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke van deze twee heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Thee",
+            "Koffie"
+          ],
+          "correctAnswer": "Thee",
+          "explanationText": "Thee is ten minste drie keer meer duurzaam dan koffie! De impact van thee is zo laag dat het meeste van de CO2 door het koken van het water komt. Dus laten we inzoomen op koffie.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Waardoor worden de meeste emissies van koffie veroorzaakt?",
+          "subtitle": "",
+          "answerOptions": [
+            "Koffiebonen verbouwen",
+            "Verpakking",
+            "Stroom voor het brouwen van koffie"
+          ],
+          "correctAnswer": "Koffiebonen verbouwen",
+          "explanationText": "Zoals vaak is het verbouwen van het voedsel hetgeen dat de meeste emissies uitstoot. Daarom is er een belangrijke conclusie: het verspillen van koffie is veel schadelijker dan de extra verpakkingen. De totale uitstoot van verspilde koffie in het Verenigd Koninkrijk is zelfs hoger dan alle emissies van een heel Formule 1 seizoen!🤯\n\nDit verrassende feit maakte ons ook nieuwsgierig naar hoe we deze verspilling kunnen voorkomen. Een Amerikaanse studie vond dat in bijna alle gevallen, cups en pads duurzamer zijn dan filter systemen omdat het makkelijker is om de juiste hoeveelheid koffie per persoon te zetten.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Laten we nu eens naar cappuccino kijken. Welk ingrediënt veroorzaakt de meeste uitstoot?",
+          "subtitle": "",
+          "answerOptions": [
+            "Espresso",
+            "Melk"
+          ],
+          "correctAnswer": "Melk",
+          "explanationText": "Een cappuccino bestaat uit één espresso van 25 ml en 85 ml melk. Dit betekent dat de melk emissies vrij hoog zijn. Het vervangen van koemelk door havermelk kan de impact van een cappuccino halveren.\n\nZelfs dan, koffie drinken heeft nou eenmaal een flinke impact. Over een heel jaar zijn de emissies van het drinken van 1 cappuccino en 2 koffies per dag vergelijkbaar met het eten van 2,5 kipfilets per week!",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Koffie heeft een relatieve hoge impact omdat we er zo veel kopjes van drinken",
+        "goal": "Drink minder koffie (vooral cappuccinos) en meer thee",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Koffie is een gecompliceerd product met aardig wat issues rondom klimaatverandering, landgebruik en arbeidsomstandigheden. Net als chocolade en vlees is het een luxeproduct dat we voor ons heel gewoon is geworden in ons leven. Misschien een beetje te gewoontjes?\n\nDoor de hoeveelheid koffie die we drinken te verminderen, kunnen we een betere kwaliteit kopen en er meer van genieten. En zwarte thee is trouwens een goede vervangen voor wat caffeïne 😉",
+        "emoji": "☕"
+      }
     }
   ]
 }

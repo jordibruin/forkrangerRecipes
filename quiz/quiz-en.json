@@ -813,8 +813,8 @@
             "Coffee"
           ],
           "correctAnswer": "Tea",
-          "explanationText": "",
-          "imageUrl": "Tea is at least three times more sustainable than coffee! The impact of tea is so low that most of the CO2 comes from boiling water. So let’s have a closer look at coffee."
+          "explanationText": "Tea is at least three times more sustainable than coffee! The impact of tea is so low that most of the CO2 comes from boiling water. So let’s have a closer look at coffee.",
+          "imageUrl": ""
         },
         {
           "id": 2,

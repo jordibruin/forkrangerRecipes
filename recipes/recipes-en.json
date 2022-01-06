@@ -1868,7 +1868,13 @@
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
-        }
+        },
+        {
+					"title": "Mix in the roasted fennel and zucchini or serve it on top of the risotto",
+					"detail": "A perfect risotto is creamy and much more fluid than rice (that's why risotto is served on a deep plate)",
+					"panType": "",
+					"emoji": ""
+				}
       ]
     },
     {

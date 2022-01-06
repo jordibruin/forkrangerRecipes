@@ -3421,6 +3421,8 @@
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Variatie",
+      "variationBody": "In het oorspronkelijke recept wordt Gorgonzola gebruikt, wat iets duurder is en het geheel een complexere smaak geeft.",
       "ingredients": [
         {
           "name": "Farfalle",

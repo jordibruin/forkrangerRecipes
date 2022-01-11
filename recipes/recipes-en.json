@@ -930,7 +930,7 @@
         "plants"
       ],
       "id": 7,
-	"url": "https://forkranger.com/roast-potatoes-with-mustard/?share",
+      "url": "https://forkranger.com/roast-potatoes-with-mustard/?share",
       "title": "Roast Potatoes with Mustard",
       "description": "Roasted parsnips and carrots are a dream team. Adding the mustard gravy is a simple way to turn the veggies into a very comforting meal. If you don't like mustard you can leave away the whole sauce and serve with mayonnaise.",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Roast-potatoes-mustard.jpg",
@@ -1622,7 +1622,7 @@
       ],
       "id": 12,
       "title": "Spinach pesto",
-	"url": "https://forkranger.com/spinach-pesto/?share",
+      "url": "https://forkranger.com/spinach-pesto/?share",
       "description": "I discovered this recipe by accident, and it was part of the inspiration for this book. The combination of tomatoes and chopped spinach almost creates a ground meat texture.",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/spinach-pesto.jpg",
       "duration": 35,
@@ -1867,15 +1867,15 @@
         {
           "title": "When the risotto is almost done, turn off the heat and add peas, freshly grated parmesan and margarine and stir rigorously",
           "detail": "",
-	  "panType": "fryingPan1",
+          "panType": "fryingPan1",
           "emoji": "",
           "time": 2
         },
         {
-	"title": "Mix in the roasted fennel and zucchini or serve it on top of the risotto",
-	"detail": "A perfect risotto is creamy and much more fluid than rice (that's why risotto is served on a deep plate)",
-	"emoji": ""
-	}
+          "title": "Mix in the roasted fennel and zucchini or serve it on top of the risotto",
+          "detail": "A perfect risotto is creamy and much more fluid than rice (that's why risotto is served on a deep plate)",
+          "emoji": ""
+        }
       ]
     },
     {
@@ -4157,7 +4157,7 @@
         "rice"
       ],
       "id": 30,
-	"url": "https://forkranger.com/spanish-rice/?share",
+      "url": "https://forkranger.com/spanish-rice/?share",
       "title": "Spanish rice",
       "description": "A flavourful rice inspired by paella. Keep enough stock on the side but don't add it all at once. Keep tasting if the rice is ready and add more stock if necessary.",
       "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Spanish-Rice.jpg",
@@ -6732,6 +6732,142 @@
           "title": "Serve with the yoghurt and coriander and squeeze some lime over the dish",
           "detail": "",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/black-bean-fajitas/?share",
+      "id": 49,
+      "title": "Black Bean Fajitas",
+      "description": "This classic tex-mex recipe is inspired by 'refried black beans', a traditional staple of the Mexican kitchen. Yes, it seems like a lot of beans but it forms into a paste and is just right for 8 big wraps. Two more tips: don't be afraid to use lots of coriander in the Guacamole and when in doubt, add more lime juice!",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/black-bean-fajitas.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tortilla wraps (whole grain)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned black beans",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Red bell peppers",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Avocados",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Creme fraiche (or oat fraiche)",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Smoked paprika powder",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Chilli flakes",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut tomatoes into cubes",
+        "Cut red bell peppers into short strips",
+        "Cut avocados into cubes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté onion",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Add bell pepper, garlic, cumin, smoked paprika powder and chilli flakes",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add black beans (including the liquid of the can) and half of the tomatoes",
+          "detail": "season with salt and pepper, bring to a boil and keep at medium heat so that water keeps boiling off and a paste is formed. With the back of a spoon, crush half of the beans",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Make Guacamole: add avocados and remaining tomatoes in a bowl",
+          "detail": "mash with a fork until it has the right structure, season with salt and pepper, and squeeze lime",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Spread creme fraiche (or oat fraiche) over the wraps, add black bean mix, guacamole and fresh coriander",
+          "detail": "Don't forget to add more lime juice",
+          "time": 7
         }
       ]
     }

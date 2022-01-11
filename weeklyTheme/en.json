@@ -414,17 +414,33 @@
       "id": 28,
       "date": 1641952800,
       "backgroundColor": "f7a56d",
-      "title": "X",
+      "title": "How to eat avocados sustainably 🥑",
       "recipes": [
         48,
-        22,
-        11,
-        35
+        30,
+        12,
+        7
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
       "notificationTitle": "Let's test your knowledge about avocados 🥑",
       "notificationBody": "Recipe of the week: Black bean fajitas"
+    },
+    {
+      "id": 29,
+      "date": 1642557600,
+      "backgroundColor": "f7a56d",
+      "title": "X",
+      "recipes": [
+        49,
+        12,
+        30,
+        35
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Let's talk about eating seasonal ❄️",
+      "notificationBody": "Recipe of the week: Sweet potato mash with sauerkraut"
     }
   ]
 }

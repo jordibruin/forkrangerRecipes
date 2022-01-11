@@ -414,6 +414,22 @@
       "id": 28,
       "date": 1641952800,
       "backgroundColor": "0b9d8e",
+      "title": "Hoe kun je duurzaam avocados eten? 🥑",
+      "recipes": [
+        49,
+        12,
+        30,
+        7
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Wat weet jij over avocados? 🥑",
+      "notificationBody": "Recept van de week: Fajitas met Zwarte Bonen"
+    },
+     {
+      "id": 29,
+      "date": 1642557600,
+      "backgroundColor": "0b9d8e",
       "title": "X",
       "recipes": [
         48,
@@ -423,8 +439,8 @@
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
-      "notificationTitle": "Wat weet jij over avocados? 🥑",
-      "notificationBody": "Recept van de week: Fajitas met Zwarte Bonen"
+      "notificationTitle": "Tijd om het over seizoensgebonden eten te hebben ❄️",
+      "notificationBody": "Recept van de week: Zoete Aardappel Stamppot met Zuurkool"
     }
   ]
 }

@@ -852,6 +852,62 @@
         "title": "Koffie is een gecompliceerd product met aardig wat issues rondom klimaatverandering, landgebruik en arbeidsomstandigheden. Net als chocolade en vlees is het een luxeproduct dat we voor ons heel gewoon is geworden in ons leven. Misschien een beetje te gewoontjes?\n\nDoor de hoeveelheid koffie die we drinken te verminderen, kunnen we een betere kwaliteit kopen en er meer van genieten. En zwarte thee is trouwens een goede vervanger voor wat caffeïne 😉",
         "emoji": "☕"
       }
+    },
+    {
+      "id": 28,
+      "intro": {
+        "title": "Hoe kun je duurzaam avocado's eten?",
+        "subtitle": "Avocado’s zijn waarschijnlijk ‘s werelds meest controversiële vrucht. Is er een manier hoe we ze duurzaam kunnen eten?",
+        "emoji": "🥑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke van deze types impact is vooral relevant voor avocado’s?",
+          "subtitle": "",
+          "answerOptions": [
+            "CO2 emissies",
+            "Watergebruik"
+          ],
+          "correctAnswer": "Watergebruik",
+          "explanationText": "Ook al is de CO2 impact van avocado’s hoger dan die van bananen of ananas, toch is dat niet het voornaamste om ons druk over te maken.\n\nHet meest belangrijke is dat avocado’s heel erg dorstige planten zijn. Dit is niet automatisch een probleem want het hangt voornamelijk af van hoe droog te regio is. In Mexico - waar de meeste avocado’s vandaan komen - is watergebruik zeker wel een issue.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/avocado-water-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Avocado’s hebben een hogere impact dan andere tropische vruchten doordat ze...",
+          "subtitle": "",
+          "answerOptions": [
+            "veel land innemen om ze te verbouwen",
+            "van Mexico naar Europa getransporteerd worden"
+          ],
+          "correctAnswer": "veel land innemen om ze te verbouwen",
+          "explanationText": "...veel land innemen om ze te verbouwen. Er is veel meer land nodig dan bij andere vruchten zoals bananen, ananas of mango. Trouwens, avocado’s vragen trouwens nog steeds 7 keer minder land dan rundvlees (RIVM). In Mexico, is het vooral een probleem dat avocado’s het beste in groeien in bosgebieden, wat tot ontbossing leidt.\n\nZe worden per schip naar Europa getransporteerd, maar die emissies zijn vrij laag.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/avocado-land-use-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat is waar?",
+          "subtitle": "",
+          "answerOptions": [
+            "Drugsbendes verdienen geld aan avocado’s",
+            "Avocado boeren ervaren moderne slavernij"
+          ],
+          "correctAnswer": "Drugsbendes verdienen geld aan avocado’s",
+          "explanationText": "Veel boeren in tropische landen worden niet voldoende betaald voor hun producten (bijvoorbeeld koffie of ananas). Maar met avocado’s kunnen boeren goed geld verdienen.\n\nDit is ook de drugsbendes niet ontgaan. Zij zijn avocadoplantages gaan beïnvloeden en boeren bedreigen. Leer meer hierover in de Netflix serie ‘Rotten’ 🎬.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Avocado is een van de meest problematische plantaardige producten",
+        "goal": "Gebruik avocado’s voor Mexicaanse gerechten (in plaats van een of meerdere keren per week)",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "De avocado is niet het enige tropische fruit met sociale en milieu issues en tegelijkertijd veroorzaakt vlees nog steeds veel meer schade. Maar veel van deze issues van het voedselsysteem worden zichtbaar bij de avocado.\n\nWe hoeven avocado’s niet helemaal te bannen, maar het is zinvol om ze met mate te eten. Onze aanpak is om ze ongeveer 1-2 keer per maand te eten - dat is trouwens het Nederlandse gemiddelde - en ze alleen te gebruiken in Mexicaanse recepten. Eigenlijk als een eerbetoon. Bijvoorbeeld zoals in de Black Bean Fajitas van deze week.\n\nGa naar onze blog om meer te leren over dit thema (forkranger.com)",
+        "emoji": "🥑"
+      }
     }
   ]
 }

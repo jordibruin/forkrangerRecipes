@@ -6871,6 +6871,148 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "url": "https://forkranger.com/sweet-potato-mash-with-sauerkraut/?share",
+      "id": 50,
+      "title": "Sweet Potato Mash with Sauerkraut",
+      "description": "The vegetables do all the work in this recipe and combine lots of different flavours. The sweetness of the apple balances the sauerkraut and the mushrooms add a nice umami taste. Even someone who usually doesn't like sauerkraut liked it. The portions are quite big because sauerkraut comes in packs of 500 g.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Sweet potatoes",
+          "type": "base",
+          "quantity": 850,
+          "quantityType": "g"
+        },
+        {
+          "name": "Apples",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sauerkraut",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinach",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spring onions",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Cut sweet potatoes into cubes",
+        "Cut mushrooms into slices",
+        "Cut apples into cubes",
+        "Crush walnuts into small pieces",
+        "Cut spring onions into rings"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Cook sauerkraut",
+          "detail": "in its own liquid and add a splash of water",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Cook sweet potatoes",
+          "detail": "",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "In the meantime, sauté mushrooms",
+          "detail": "medium heat, until mushrooms shrink and moisture is gone, season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add soy sauce",
+          "detail": "lower heat, add 1 TBL sp water before adding soy sauce to prevent soy sauce from evaporating",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add spinach",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "In the meantime, mash the sweet potatoes",
+          "detail": "until the mash has a coarse structure",
+          "panType": "cookingPan2",
+          "emoji": ""
+        },
+        {
+          "title": "Add apple, walnuts and spring onions",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Drain sauerkraut and stir through the sweet potato mash",
+          "detail": "mix well",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serve the mashed potatoes with the mushrooms spinach mixture on top",
+          "detail": "Too sour for your taste? Grate or cut an apple and stir through the sweet potato mash.",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

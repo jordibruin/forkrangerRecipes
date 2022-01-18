@@ -6872,6 +6872,148 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "url": "https://forkranger.com/nl/zoete-aardappel-stamppot-met-zuurkool/?share",
+      "id": 50,
+      "title": "Zoete Aardappel Stamppot met Zuurkool",
+      "description": "De groenten doen al het werk in dit recept en combineren veel verschillende smaken. De zoetheid van de appel balanceert de zuurkool en de paddenstoelen voegen een mooie umami-smaak toe. Zelfs iemand die normaal niet van zuurkool houdt, vond dit gerecht lekker. De porties zijn trouwens vrij groot omdat zuurkool in verpakkingen van 500 g geleverd wordt.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Zoete aardappels",
+          "type": "base",
+          "quantity": 850,
+          "quantityType": "g"
+        },
+        {
+          "name": "Appels",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zuurkool",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lente-uitjes",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Schil de zoete aardappels en snij deze in blokjes",
+        "Snij de champignons in plakjes",
+        "Snij de appels in blokjes",
+        "Verkruimel de walnoten in kleine stukjes",
+        "Snij de lente-uitjes in ringetjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Kook de zuurkool",
+          "detail": "in het vocht en voeg een beetje water toe",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Kook de zoete aardappels",
+          "detail": "",
+          "emoji": "",
+          "panType": "cookingPan2",
+          "time": 8
+        },
+        {
+          "title": "Fruit ondertussen de champignons",
+          "detail": "op middelhoog vuur, tot het vocht van champignons verdampt is, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg sojasaus toe",
+          "detail": "zet het vuur lager, voeg eerst 1 el water toe om het verdampen van de sojasaus te voorkomen",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de spinazie toe",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Stamp ondertussen de zoete aardappels",
+          "detail": "totdat de stamppot een grove structuur heeft",
+          "panType": "cookingPan2",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg appel, walnoten en lente-uitjes toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Giet de zuurkool af en roer deze door de stamppot",
+          "detail": "roer goed",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serveer de stamppot met de champignons en lente-uitjes",
+          "detail": "Te zuur naar jouw smaak? Rasp of snij een extra appel en roer deze door de stamppot.",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

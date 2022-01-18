@@ -908,6 +908,63 @@
         "title": "Avocados are not the only tropical fruit with social and environmental issues and overall, meat still causes a lot more damage. But a lot of the problems of the food system become visible in the avocado.\n\nWe don’t have to give up avocados completely, but it makes sense to eat them sparingly. Our approach is to stick to around 1-2 per month - which is the current Dutch average - and honour the avocado by only using it for Mexican recipes, like this week’s black bean fajitas.\n\nGo to our blog to learn more about this topic (forkranger.com)",
         "emoji": "🥑"
       }
+    },
+    {
+      "id": 29,
+      "intro": {
+        "title": "How important is eating seasonally?",
+        "subtitle": "Imagine it’s winter and you want to make something with green beans. Are they in season? What’s the best way to buy them? And does it even matter if anything is in season or not?",
+        "emoji": "🌱"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "When are green beans in season in the Netherlands? ",
+          "subtitle": "",
+          "answerOptions": [
+            "April - June",
+            "July - September",
+            "October - November"
+          ],
+          "correctAnswer": "July - September",
+          "explanationText": "In the Netherlands they only grow during summer. But the season of a product is of course dependent on location. Green beans in Morocco are in season from October to June. In California they are grown from March to November.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What’s the better choice if green beans are out of season?",
+          "subtitle": "Assuming you’re in the Netherlands",
+          "answerOptions": [
+            "Local, grown in a greenhouse",
+            "Imported from Spain, grown on a field"
+          ],
+          "correctAnswer": "The space it takes to grow them",
+          "explanationText": "Green beans from Spain have extra transport emissions, but the transport requires a lot less energy than heating the greenhouse in the Netherlands!\n\nThat means the most important factor is whether something is seasonal in the place it is grown, not where it is consumed.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/green-beans-seasonal.png"
+        },
+        {
+          "id": 3,
+          "title": "Now let’s take a look at spinach out of season. What’s a better choice?",
+          "subtitle": "",
+          "answerOptions": [
+            "Frozen, grown in season",
+            "Fresh, grown in a greenhouse"
+          ],
+          "correctAnswer": "Frozen, grown in season",
+          "explanationText": "Once again, it’s the energy required for growing the spinach that causes most of the emissions.\n\nFor comparison we included chicken in this graph, which is the meat with the lowest climate impact. The conclusion for the carbon footprint is clear: eating less meat makes a much bigger difference than eating seasonally.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/spinach-seasonal.png"
+        }
+      ],
+      "outro": {
+        "insight": "The most important factor is whether something is seasonal in the place it is grown, not where it is consumed.",
+        "goal": "When in doubt, buy the frozen option",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Of course eating seasonal and local is the best option. But the most important information is how something was grown, and this can be tricky to find out. The emissions of heating a greenhouse are much higher than importing the same food or storing it in a freezer. Frozen is always a safe choice when you’re in doubt.\n\nOverall, eating seasonal is a good choice. But it’s not always straightforward so don’t worry too much about it or lose sight of the more important goal of reducing meat and dairy.",
+        "emoji": "❄️"
+      }
     }
   ]
 }

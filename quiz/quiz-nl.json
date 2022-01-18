@@ -908,6 +908,63 @@
         "title": "De avocado is niet het enige tropische fruit met sociale en milieu issues en tegelijkertijd veroorzaakt vlees nog steeds veel meer schade. Maar veel van deze issues van het voedselsysteem worden zichtbaar bij de avocado.\n\nWe hoeven avocado’s niet helemaal te bannen, maar het is zinvol om ze met mate te eten. Onze aanpak is om ze ongeveer 1-2 keer per maand te eten - dat is trouwens het Nederlandse gemiddelde - en ze alleen te gebruiken in Mexicaanse recepten. Eigenlijk als een eerbetoon. Bijvoorbeeld zoals in de Black Bean Fajitas van deze week.\n\nGa naar onze blog om meer te leren over dit thema (forkranger.com)",
         "emoji": "🥑"
       }
+    },
+    {
+      "id": 29,
+      "intro": {
+        "title": "Hoe belangrijk is het om met het seizoen te eten?🌱",
+        "subtitle": "Stel je voor: het is winter en je wilt iets maken met sperziebonen. Zijn ze in het seizoen? Wat is de beste manier om ze te kopen? En maakt het überhaupt uit of iets in het seizoen is of niet?",
+        "emoji": "🥑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wanneer zijn sperziebonen in het seizoen in Nederland?",
+          "subtitle": "",
+          "answerOptions": [
+            "April - Juni",
+            "Juli - September",
+            "October - November"
+          ],
+          "correctAnswer": "Juli - September",
+          "explanationText": "Ook al is de CO2 impact van avocado’s hoger dan die van bananen of ananas, toch is dat niet het voornaamste om ons druk over te maken.\n\nHet meest belangrijke is dat avocado’s heel erg dorstige planten zijn. Dit is niet automatisch een probleem want het hangt voornamelijk af van hoe droog te regio is. In Mexico - waar de meeste avocado’s vandaan komen - is watergebruik zeker wel een issue.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is de betere keuze voor sperziebonen buiten het seizoen? ",
+          "subtitle": "Ga ervan uit dat je in Nederland bent",
+          "answerOptions": [
+            "Lokaal, geteeld in een kas",
+            "Geimporteerd uit Spanje, geteeld op een akker"
+          ],
+          "correctAnswer": "Geimporteerd uit Spanje, geteeld op een akker",
+          "explanationText": "Sperziebonen uit Spanje hebben extra emissies door het vervoer, maar het vervoer kost een hoop minder emissies dan het verwarmen van kassen in Nederland!\n\nDat betekent dat het het belangrijkste is of iets in het seizoen is - daar waar het wordt verbouwd - niet waar het wordt gegeten.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/green-beans-seasonal-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Laten we nu eens kijken naar spinazie buiten het seizoen. Wat is de betere keuze? ",
+          "subtitle": "",
+          "answerOptions": [
+            "Vers, geteeld in een kas",
+            "Uit de diepvries, geteeld in het seizoen"
+          ],
+          "correctAnswer": "Uit de diepvries, geteeld in het seizoen",
+          "explanationText": "En alweer: het is de energie die nodig is om de spinazie te telen die de meeste emissies veroorzaakt.\n\nAls vergelijking hebben we kip in deze grafiek opgenomen - het vlees met de laagste impact. De conclusie voor de CO2 impact is duidelijk: minder vlees eten maakt nog steeds een veel groter verschil dan eten met het seizoen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/spinach-seasonal-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Het belangrijkste is of iets in het seizoen is - daar waar het wordt verbouwd - niet waar het wordt gegeten.",
+        "goal": "Als je twijfelt, koop het product uit de diepvries",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Natuurlijk is eten met het seizoen en lokaal de beste optie. Maar de belangrijkste informatie is hoe iets verbouwd is, en dit kan best lastig zijn om te weten. De emissies van het verwarmen van kassen zijn veel hoger dan die van het importeren of invriezen van hetzelfde voedsel. Uit de diepvries is altijd een veilige keuze als je twijfelt.\n\nUiteindelijk is met het seizoen eten altijd een goede keuze. Maar het is niet altijd eenvoudig en rechtlijnig dus maakt je er niet te druk over en verlies daarbij het belangrijkere doel van het verminderen van vlees en zuivel niet uit het oog.",
+        "emoji": "❄️"
+      }
     }
   ]
 }

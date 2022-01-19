@@ -938,7 +938,7 @@
             "Local, grown in a greenhouse",
             "Imported from Spain, grown on a field"
           ],
-          "correctAnswer": "The space it takes to grow them",
+          "correctAnswer": "Imported from Spain, grown on a field",
           "explanationText": "Green beans from Spain have extra transport emissions, but the transport requires a lot less energy than heating the greenhouse in the Netherlands!\n\nThat means the most important factor is whether something is seasonal in the place it is grown, not where it is consumed.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/green-beans-seasonal.png"
         },

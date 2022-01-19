@@ -939,7 +939,7 @@
             "Geimporteerd uit Spanje, geteeld op een akker"
           ],
           "correctAnswer": "Geimporteerd uit Spanje, geteeld op een akker",
-          "explanationText": "Sperziebonen uit Spanje hebben extra emissies door het vervoer, maar het vervoer kost een hoop minder emissies dan het verwarmen van kassen in Nederland!\n\nDat betekent dat het het belangrijkste is of iets in het seizoen is - daar waar het wordt verbouwd - niet waar het wordt gegeten.",
+          "explanationText": "Sperziebonen uit Spanje hebben extra emissies door het vervoer, maar het vervoer kost een hoop minder emissies dan het verwarmen van kassen in Nederland!\n\nDat betekent dat het het belangrijkste is of iets in het seizoen is daar waar het wordt verbouwd, niet waar het wordt gegeten.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/green-beans-seasonal-NL.png"
         },
         {
@@ -956,7 +956,7 @@
         }
       ],
       "outro": {
-        "insight": "Het belangrijkste is of iets in het seizoen is - daar waar het wordt verbouwd - niet waar het wordt gegeten.",
+        "insight": "Het belangrijkste is of iets in het seizoen is daar waar het wordt verbouwd, niet waar het wordt gegeten.",
         "goal": "Als je twijfelt, koop het product uit de diepvries",
         "impact": 1,
         "impactReason": ""

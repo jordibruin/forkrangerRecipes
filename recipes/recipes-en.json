@@ -5421,7 +5421,7 @@
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Sauté aubergine",
+          "title": "Sauté aubergine",
           "detail": "high heat, take out aubergine and put aside",
           "panType": "fryingPan1",
           "emoji": "",
@@ -5573,7 +5573,7 @@
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Sauté onion",
+          "title": "Sauté onion",
           "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
@@ -5748,7 +5748,7 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Sauté ginger, garlic and carrots",
+          "title": "Sauté ginger, garlic and carrots",
           "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
@@ -5905,7 +5905,7 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Sauté onion",
+          "title": "Sauté onion",
           "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
@@ -6048,7 +6048,7 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Sauté onion, garlic and ginger",
+          "title": "Sauté onion, garlic and ginger",
           "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
@@ -6179,7 +6179,7 @@
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Sauté onion",
+          "title": "Sauté onion",
           "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
@@ -6321,7 +6321,7 @@
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Sauté onions, celery and bell pepper",
+          "title": "Sauté onions, celery and bell pepper",
           "detail": "medium heat, until vegetables start to soften. Season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
@@ -6434,7 +6434,7 @@
       "cookTime": 45,
       "cookSteps": [
         {
-          "title": "Sauté the onion, garlic, celery, carrots, mushrooms, tomato paste and soy sauce",
+          "title": "Sauté the onion, garlic, celery, carrots, mushrooms, tomato paste and soy sauce",
           "detail": "until the veggies are softened on medium/high heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
@@ -6541,7 +6541,7 @@
           "time": 15
         },
         {
-          "title": "Sauté onion",
+          "title": "Sauté onion",
           "detail": "medium heat, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
@@ -6839,7 +6839,7 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Sauté onion",
+          "title": "Sauté onion",
           "detail": "medium heat",
           "panType": "fryingPan1",
           "emoji": "",
@@ -6967,7 +6967,7 @@
           "time": 8
         },
         {
-          "title": "In the meantime, sauté mushrooms",
+          "title": "In the meantime, sauté mushrooms",
           "detail": "medium heat, until mushrooms shrink and moisture is gone, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
@@ -7011,6 +7011,121 @@
           "title": "Serve the mashed potatoes with the mushrooms spinach mixture on top",
           "detail": "Too sour for your taste? Grate or cut an apple and stir through the sweet potato mash.",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://forkranger.com/easy-pesto-lasagne/?share",
+      "id": 51,
+      "title": "Easy Pesto Lasagna",
+      "description": "The nice thing about this lasagne is that it's completely different than the traditional one. And it's also super easy. We tested it with mascarpone and oat spread and to our surprise, we liked the oat one better!",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Lasagne sheets",
+          "type": "base",
+          "quantity": 12,
+          "quantityType": ""
+        },
+        {
+          "name": "Spinach",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Frozen peas",
+          "type": "fresh",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Green pesto",
+          "type": "fresh",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mascarpone (or oat spread)",
+          "type": "taste",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Fresh basil",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh mint",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Parmesan",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Cut basil",
+        "Cut mint",
+        "Cut cherry tomatoes",
+        "Preheat oven to 200°C"
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "Heat mascarpone (or oat spread), bouillon and pesto",
+          "detail": "mix well, heat until bubbling",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add spinach and peas",
+          "detail": "until the spinach has wilted and the peas thawed",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add basil and mint",
+          "detail": "season with salt and pepper",
+          "panType": "cookinPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Make the lasagne: sauce, tomatoes, parmesan, lasagna sheet, repeat",
+          "detail": "spread a thin layer of sauce in the oven form, add some parmesan, add lasagne sheets and repeat until a few layers have been formed. Finish with sauce, tomatoes and parmesan.\n\nat 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
         }
       ]
     }

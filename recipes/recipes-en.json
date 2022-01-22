@@ -7021,7 +7021,7 @@
       ],
       "url": "https://forkranger.com/easy-pesto-lasagne/?share",
       "id": 51,
-      "title": "Easy Pesto Lasagna",
+      "title": "Easy Pesto Lasagne",
       "description": "The nice thing about this lasagne is that it's completely different than the traditional one. And it's also super easy. We tested it with mascarpone and oat spread and to our surprise, we liked the oat one better!",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
       "duration": 45,
@@ -7126,6 +7126,104 @@
           "panType": "oven",
           "emoji": "",
           "time": 30
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/fennel-orange-couscous/?share",
+      "id": 52,
+      "title": "Fennel Orange Couscous",
+      "description": "In the oven, the fennel caramelises into delicious soft strips with only a hint of its liquorice flavour. The hazelnuts become extra crunchy and together with the fresh oranges it's a light and satisfying mix of flavours. This simple recipe could also be served as a salad.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Pearl couscous",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fennel",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Oranges",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Hazelnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "L"
+        },
+        {
+          "name": "Fresh mint",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Pre-heat oven to 220°C",
+        "Cut away the fennel stalks and the root and cut like an onion into medium thick strips",
+        "Cut zucchini into halved slices",
+        "Cut feta into 1 cm cubes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Spread fennel and zucchini on a baking sheet, add feta cubes and hazelnuts on top",
+          "detail": "add salt and pepper and drizzle with plenty of olive oil",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Cook pearl couscous in bouillon",
+          "detail": "follow the instructions of the couscous",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Cut oranges in 1-2 cm cubes and cut the mint leaves",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Mix all ingredients before serving and add some salt and pepper if needed",
+          "detail": "",
+          "emoji": ""
         }
       ]
     }

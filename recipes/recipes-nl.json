@@ -7227,6 +7227,134 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://forkranger.com/nl/pasta-met-aubergine-en-champignons/?share",
+      "id": 53,
+      "title": "Pasta met Aubergine en Champignons",
+      "description": "Deze rijke en hartige pastasaus wordt lekkerder met wat extra tijd. Dus als je geen haast hebt, maak dan eerst de saus af en laat het sudderen, en maak dan de pasta. Je kunt ook tijd besparen door twee koekenpannen te gebruiken om de aubergines en champignons apart te bakken.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
+      "duration": 40,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rigatoni",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Aubergines",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Champignons",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Amandelen",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Glas rode wijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sjalotten",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse basilicum",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Parmezaanse kaas",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snij de sjalotten in ringen",
+        "Snij de knoflook fijn",
+        "Snij de champignons in plakjes",
+        "Snij de aubergine in blokjes",
+        "Hak de amandelen in stukjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Fruit de sjalotten, knoflook en champignons",
+          "detail": "op hoog vuur, roer niet te vaak zodat de champignons bruin kleuren, zet het daarna apart",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Verhit nieuwe olie in dezelfde pan en fruit de aubergine",
+          "detail": "op hoog vuur, breng op smaak met zout",
+          "emoji": "",
+          "panType": "fryingPan1",
+          "time": 5
+        },
+        {
+          "title": "Kook de pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Voeg rode wijn toe",
+          "detail": "laat het sudderen tot de meeste wijn weg is",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de tomaten uit blik, amandelen en het champignon mengsel dat je aan de kant hebt gezet toe",
+          "detail": "op middelhoog vuur en laat het sudderen met het deksel erop",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Serveer de aubergineragout op de rigatoni, garneer met basilicum en wat Parmezaanse kaas",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

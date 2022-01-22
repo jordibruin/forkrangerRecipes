@@ -7129,6 +7129,104 @@
           "time": 30
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/couscous-met-venkel-en-sinaasappel/?share",
+      "id": 52,
+      "title": "Couscous met Venkel en Sinaasappel",
+      "description": "In de oven karamelliseert de venkel tot heerlijke zachte reepjes met slechts een vleugje dropsmaak. De hazelnoten worden extra knapperig en samen met de verse sinaasappels is het een lichte en bevredigende mix van smaken. Dit eenvoudige recept kan ook als salade worden geserveerd.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Parel couscous",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Venkel",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sinaasappels",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Hazelnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "L"
+        },
+        {
+          "name": "Verse munt",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Verwarm de oven voor op 220°C",
+        "Verwijder de stengels van de venkel, halveer de knollen en snij in halve ringen",
+        "Halveer de courgette en snij in stukjes",
+        "Snij de feta in kleine blokjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Verdeel venkel en courgette over een bakplaat, leg fetablokjes en hazelnoten erop",
+          "detail": "voeg zout en peper toe en besprenkel met veel olijfolie",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Kook de parel couscous in bouillon",
+          "detail": "volg de instructies van de couscous",
+          "emoji": "",
+          "panType": "cookingPan1",
+          "time": 10
+        },
+        {
+          "title": "Snijd sinaasappels in blokjes van 1-2 cm en snij de muntblaadjes",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Meng alle ingrediënten voor het serveren en voeg zo nodig zout en peper toe",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

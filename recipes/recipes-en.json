@@ -7354,6 +7354,131 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/sweet-chilli/?share",
+      "id": 54,
+      "title": "Sweet Chilli",
+      "description": "This chilli with sweet potato and peaches is a delicious variation on the classic recipe.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/Sweet-chilli-1.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Sweet potatoes",
+          "type": "base",
+          "quantity": 850,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned tomatoes",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned kidney beans",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned peaches",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spring onions",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Chilli powder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Smoked paprika powder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onions and mince garlic",
+        "Peel and cut sweet potato in 2 cm cubes",
+        "Cut peaches into small wedges",
+        "Cut spring onions into rings"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté onion and sweet potato",
+          "detail": "high heat, stir frequently",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add garlic, chilli powder, cumin and smoked paprika powder",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add tomatoes and kidney beans",
+          "detail": "drain kidney beans before adding, simmer, season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Add peach",
+          "detail": "turn off heat and let the peach warm up",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Garnish with fresh coriander and spring onions",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

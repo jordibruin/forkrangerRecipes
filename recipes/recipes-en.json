@@ -7226,6 +7226,134 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://forkranger.com/aubergine-and-mushroom-pasta/?share",
+      "id": 53,
+      "title": "Aubergine and Mushroom Pasta",
+      "description": "This rich and savoury pasta sauce gets better with some extra time. So if you're not in a hurry, first finish the sauce and let it simmer, and then make the pasta. You could also save time by using two frying pans to sauté the aubergines and mushrooms separately.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/Sweet-potato-mash.jpg",
+      "duration": 40,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rigatoni",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Aubergines",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Mushrooms",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned tomatoes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Almonds",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Glass red wine",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Shallots",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh basil",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Parmesan",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Cut shallots into rings",
+        "Mince garlic",
+        "Cut mushrooms into slices",
+        "Cut aubergines into 1 cm cubes",
+        "Chop almonds"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté shallots, garlic and mushrooms",
+          "detail": "high heat, don't stirr too often so the mushrooms get browned, put aside when ready",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Heat up new oil in the same pan and sauté aubergine",
+          "detail": "high heat, season with salt",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Cook pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Add red wine",
+          "detail": "let it simmer until most of the wine is gone",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add canned tomatoes, almonds and the mushroom mixture you've put aside",
+          "detail": "medium heat and let it simmer with the lid on",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Serve the aubergine ragout on top of the rigatoni, garnish with basil and some Parmesan",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

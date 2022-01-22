@@ -7355,6 +7355,131 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/sweet-chili/",
+      "id": 54,
+      "title": "Sweet Chili",
+      "description": "Deze chili met zoete aardappel en perziken is een heerlijke variatie op het klassieke recept.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/Sweet-chilli-1.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Zoete aardappels",
+          "type": "base",
+          "quantity": 850,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kidneybonen uit blik",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Perziken uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lente-uitjes",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Chilipoeder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Gerookt paprikapoeder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse Koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Schil de zoete aardappels en snij deze in blokjes van 2 cm",
+        "Snij de perziken in kleine partjes",
+        "Snij de lente-uitjes in ringetjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Bak de ui en zoete aardappel",
+          "detail": "op hoog vuur, blijf roeren",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg knoflook, chilipoeder, komijn en gerookt paprika poeder",
+          "detail": "op middelhoog vuur",
+          "emoji": "",
+          "panType": "fryingPan1",
+          "time": 3
+        },
+        {
+          "title": "Voeg tomaten en kidneybonen toe",
+          "detail": "giet kidneybonen af voor het toevoegen, laat sudderen, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Voeg perziken toe",
+          "detail": "zet het vuur uit en laat de perzik warm worden",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Garneer met verse koriander en lente-uitjes",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

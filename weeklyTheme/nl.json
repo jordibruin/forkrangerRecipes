@@ -446,17 +446,33 @@
       "id": 30,
       "date": 1643162400,
       "backgroundColor": "0b9d8e",
-      "title": "X",
+      "title": "Een verrassend weetje over melk 🥛",
       "recipes": [
-        48,
-        22,
-        11,
-        35
+        52,
+        20,
+        24,
+        39
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
       "notificationTitle": "Melk is goed voor elk? 🥛",
       "notificationBody": "Recept van de week: Couscous met sinaasappel"
+    },
+    {
+      "id": 31,
+      "date": 1643767200,
+      "backgroundColor": "0b9d8e",
+      "title": "X",
+      "recipes": [
+        53,
+        6,
+        0,
+        15
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Palmolie... goed of slecht?",
+      "notificationBody": "Recept van de week: Pasta met Aubergine en Champignons"
     }
   ]
 }

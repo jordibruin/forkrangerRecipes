@@ -448,15 +448,31 @@
       "backgroundColor": "f7a56d",
       "title": "X",
       "recipes": [
-        49,
-        12,
-        30,
-        35
+        52,
+        20,
+        24,
+        39
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
       "notificationTitle": "A glass of milk a day... 🥛",
       "notificationBody": "Recipe of the week: Couscous with orange"
+    },
+    {
+      "id": 31,
+      "date": 1643767200,
+      "backgroundColor": "f7a56d",
+      "title": "X",
+      "recipes": [
+        53,
+        6,
+        0,
+        15
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Palm oil... good or bad?",
+      "notificationBody": "Recipe of the week: Mushroom & Aubergine pasta"
     }
   ]
 }

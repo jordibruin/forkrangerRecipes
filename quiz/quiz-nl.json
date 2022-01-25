@@ -965,6 +965,64 @@
         "title": "Natuurlijk is eten met het seizoen en lokaal de beste optie. Maar de belangrijkste informatie is hoe iets verbouwd is, en dit kan best lastig zijn om te weten. De emissies van het verwarmen van kassen zijn veel hoger dan die van het importeren of invriezen van hetzelfde voedsel. Uit de diepvries is altijd een veilige keuze als je twijfelt.\n\nUiteindelijk is met het seizoen eten altijd een goede keuze. Maar het is niet altijd eenvoudig en rechtlijnig dus maakt je er niet te druk over en verlies daarbij het belangrijkere doel van het verminderen van vlees en zuivel niet uit het oog.",
         "emoji": "❄️"
       }
+    },
+    {
+      "id": 30,
+      "intro": {
+        "title": "Een verrassend weetje over melk",
+        "subtitle": "Je hebt waarschijnlijk wel gehoord dat rundvlees een hoge impact heeft, maar wat zegt dat over een ander product van koeien? Laten we eens naar melk kijken met deze drie vragen.",
+        "emoji": "🥛"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "De impact van een glas melk is vergelijkbaar met...",
+          "subtitle": "(200 ml)",
+          "answerOptions": [
+            "1 plak kaas",
+            "1 ei",
+            "1 banaan"
+          ],
+          "correctAnswer": "1 plak kaas",
+          "explanationText": "1 plak kaas. Voor hetzelfde gewicht is de impact van melk niet zo extreem hoog, maar we consumeren vaak grote ‘melk porties’ consumeren en we gebruiken melk op dagelijkse basis.\n\nAls je bijvoorbeeld elke dag 1 glas melk drinkt zou dat 200 kg CO2 veroorzaken. Dat is vergelijkbaar met het eten van 1 hamburger per week!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-footprint-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze veroorzaakt meer CO2 emissies voor melk?",
+          "subtitle": "",
+          "answerOptions": [
+            "verpakking",
+            "transport",
+            "verspilling in huishoudens"
+          ],
+          "correctAnswer": "verspilling in huishoudens",
+          "explanationText": "Het voorkomen van verspilde melk is een grote uitdaging omdat melk zo snel bederft. Verspilde melk is ongeveer 10% van alle gedronken melk in Nederland terwijl verpakkingen en transport elk maar 3-4% van de melk impact zijn.\n\nHier is een verrassend weetje dat we beloofd hadden: de emissies van alle verspilde melk in Engelse huishoudens is veel meer dan alle emissies van een heel Formule 1 seizoen!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-waste-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat maakt een groter verschil?",
+          "subtitle": "om CO2 uitstoot te verminderen",
+          "answerOptions": [
+            "De helft minder melk consumeren",
+            "Overstappen naar plantaardige melk"
+          ],
+          "correctAnswer": "Overstappen naar plantaardige melk",
+          "explanationText": "Alle plantaardige opties hebben een CO2 impact die ongeveer 1/3 van de die van koemelk is. Dus je kan of je melk consumptie met twee derde verminderen of naar plantaardige alternatieven overstappen. Het is goede ambitie om koemelk voor dagelijks gebruik te vervangen.\n\nSojamelk is een goede algemene vervanger voor bakken en koken vanwege de structuur en de eiwitten. Havermelk is een populaire optie voor cappuccino omdat het goed schuimt. En ondanks de grote hoeveelheid water die nodig is voor amandelmelk, is de meeste amandelmelk nog steeds duurzamer dan koemelk.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/different-milks-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Melk heeft een relatief hoge impact als je het op een dagelijkse basis gebruikt",
+        "goal": "Voorkom verspilling en stap over naar plantaardige melk voor dagelijkse gewoontes",
+        "impact": 3,
+        "impactReason": "(als onderdeel van het verminderen van zuivelconsumptie)"
+      },
+      "outroRecipe": {
+        "title": "Melk is naast rundvlees een ander product van koeien dat ook een relatief hoge impact heeft, vooral omdat we veel melk gebruiken in een portie en we best wel veel verspillen.\n\nOnze conclusie is dus dat melk niet iets is voor dagelijkse consumptie. Dus begin waar het makkelijk is: als je havermout maakt met melk, of elke dag een cappuccino drinkt, maakt het vinden van een plantaardig alternatief een groot verschil.",
+        "emoji": "🐮"
+      }
     }
   ]
 }

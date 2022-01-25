@@ -965,6 +965,64 @@
         "title": "Of course eating seasonal and local is the best option. But the most important information is how something was grown, and this can be tricky to find out. The emissions of heating a greenhouse are much higher than importing the same food or storing it in a freezer. Frozen is always a safe choice when you’re in doubt.\n\nOverall, eating seasonal is a good choice. But it’s not always straightforward so don’t worry too much about it or lose sight of the more important goal of reducing meat and dairy.",
         "emoji": "❄️"
       }
+    },
+    {
+      "id": 30,
+      "intro": {
+        "title": "A surprising fact about milk",
+        "subtitle": "You’ve probably heard that beef has a high footprint, but what does that say about another cow product? Let’s find out about milk with these three questions.",
+        "emoji": "🥛"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "The footprint of a glass of milk is comparable to...",
+          "subtitle": "(200 ml)",
+          "answerOptions": [
+            "1 slice of cheese",
+            "1 egg",
+            "1 banana"
+          ],
+          "correctAnswer": "1 slice of cheese",
+          "explanationText": "1 slice of cheese. For the same weight, the footprint of milk is not extremely high, but we often have big ‘milk portions’ and use it on a daily basis.\n\nLet’s say you have one glass of milk everyday, that would cause around 200 kg CO2, which is comparable to eating one hamburger a week!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-footprint.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these causes more CO2 emissions for milk?",
+          "subtitle": "",
+          "answerOptions": [
+            "packaging",
+            "transport",
+            "waste in households"
+          ],
+          "correctAnswer": "waste in households",
+          "explanationText": "Preventing wasted milk is a big challenge, since milk spoils so easily. Milk waste in households is around 10% in the Netherlands while packaging and transport each only make up 3-4% of the milk footprint.\n\nHere is the surprising fact that we promised: the emissions of wasted milk in UK households are much higher than all the emissions of a Formula 1 season!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-waste.png"
+        },
+        {
+          "id": 3,
+          "title": "What makes a bigger difference?",
+          "subtitle": "for reducing CO2",
+          "answerOptions": [
+            "Cutting milk consumption in half",
+            "Switching to plant-based milk"
+          ],
+          "correctAnswer": "Switching to plant-based milk",
+          "explanationText": "All plant-based options have a carbon footprint that is around 1/3 of cow’s milk. So you can either reduce milk consumption by two thirds or switch to a plant-based version. A good ambition is to replace cow’s milk for daily use.\n\nSoy milk is a good overall replacement for baking and cooking because of its structure and protein. Oat milk is a popular option for cappuccino because it foams well. Despite the high water footprint, most almond milk is also more sustainable than cow’s milk.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/different-milks.png"
+        }
+      ],
+      "outro": {
+        "insight": "Milk has a relatively high footprint if you use it on a daily basis",
+        "goal": "Prevent waste and switch to plant-based milk for daily habits",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Milk is another cow product that also has a relatively high impact, especially because we use a lot of milk in one serving and we waste a lot of it.\n\nOverall, our conclusion is that milk shouldn’t be something for daily use. So start where it’s easy: if you make oatmeal with milk, or you drink a cappuccino everyday, finding a good plant-based alternative is going to make a big difference.",
+        "emoji": "🐮"
+      }
     }
   ]
 }

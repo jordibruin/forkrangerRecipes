@@ -1023,6 +1023,65 @@
         "title": "Milk is another cow product that also has a relatively high impact, especially because we use a lot of milk in one serving and we waste a lot of it.\n\nOverall, our conclusion is that milk shouldn’t be something for daily use. So start where it’s easy: if you make oatmeal with milk, or you drink a cappuccino everyday, finding a good plant-based alternative is going to make a big difference.",
         "emoji": "🐮"
       }
+    },
+    {
+      "id": 31,
+      "intro": {
+        "title": "What you should know about palm oil",
+        "subtitle": "Palm oil is the world’s most-used oil and it has a very bad reputation. Let’s find out why.",
+        "emoji": "🌴"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which product contains palm oil?",
+          "subtitle": "",
+          "answerOptions": [
+            "Margarine",
+            "Cookies",
+            "Ice cream",
+            "All of the above"
+          ],
+          "correctAnswer": "All of the above",
+          "explanationText": "Palm oil is an almost magical ingredient because it can do so many things. It is used in more than 50% of the packaged products in the supermarket.\n\nEven though we can find palm oil in almost anything - from toothpaste to cookies - most palm oil is used as cooking oil in Asia and Africa.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What is the main issue with palm oil?",
+          "subtitle": "",
+          "answerOptions": [
+            "Deforestation",
+            "High water use",
+            "Pesticides"
+          ],
+          "correctAnswer": "Deforestation",
+          "explanationText": "84% of all palm oil comes from Indonesia and Malaysia, where it is responsible for cutting down the rainforest. \n\nThere is a label for sustainable palm oil (RSPO) but the supply chain is so complicated that it’s difficult to know what is truly sustainable. \n\nStill it’s important that we are willing to pay more for these sustainable options. What else can we do?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/rspo-logo.png"
+        },
+        {
+          "id": 3,
+          "title": "Replacing palm oil with other oils would require...",
+          "subtitle": "(per kg of oil)",
+          "answerOptions": [
+            "More land",
+            "Less land"
+          ],
+          "correctAnswer": "More land",
+          "explanationText": "More land. It is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas.\n\nWhat we can do is eat less processed food because that’s where palm oil is used: ice cream, cookies, pizza, ready-made meals.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/palm-oil.png"
+        }
+      ],
+      "outro": {
+        "insight": "Replacing palm oil with other oil only shifts the problem to different areas",
+        "goal": "Eat less processed food and pay more for sustainable options",
+        "impact": 2,
+        "impactReason": "(as part of eating less processed food)"
+      },
+      "outroRecipe": {
+        "title": "Palm oil is an issue where we need governments and businesses to make production more sustainable because replacing it is often not the answer.\n\nThe huge number of supermarket products with palm oil is a symbol of the amount of processed food in our society. What we can do as individuals is eat fewer ready-made meals and packages and cook more with whole ingredients. That is not only healthier, it also tastes better :-)",
+        "emoji": "🌴"
+      }
     }
   ]
 }

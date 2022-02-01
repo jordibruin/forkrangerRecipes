@@ -1023,6 +1023,65 @@
         "title": "Melk is naast rundvlees een ander product van koeien dat ook een relatief hoge impact heeft, vooral omdat we veel melk gebruiken in een portie en we best wel veel verspillen.\n\nOnze conclusie is dus dat melk niet iets is voor dagelijkse consumptie. Dus begin waar het makkelijk is: als je havermout maakt met melk, of elke dag een cappuccino drinkt, maakt het vinden van een plantaardig alternatief een groot verschil.",
         "emoji": "🐮"
       }
+    },
+    {
+      "id": 31,
+      "intro": {
+        "title": "Wat je over palmolie moet weten",
+        "subtitle": "Palmolie is werelds meest gebruikte olie and heeft een hele slechte reputatie. Laten we eens kijken waarom.",
+        "emoji": "🌴"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welk product bevat palmolie?",
+          "subtitle": "(200 ml)",
+          "answerOptions": [
+            "Margarine",
+            "Koekjes",
+            "IJs",
+            "Alle bovenstaande"
+          ],
+          "correctAnswer": "Alle bovenstaande",
+          "explanationText": "Palmolie is een soort magisch ingrediënt omdat het zo veelzijdig is. Meer dan de helft van alle verpakte producten in de supermarkt bevat palmolie.\n\nOndanks het feit dat palmolie in bijna alles zit - van tandpasta tot koekjes - wordt de meeste palmolie in Azië en Afrika gebruikt om te koken.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is het hoofdprobleem rondom palmolie?",
+          "subtitle": "",
+          "answerOptions": [
+            "Ontbossing",
+            "Hoog waterverbruik",
+            "Pesticiden"
+          ],
+          "correctAnswer": "Ontbossing",
+          "explanationText": "84% van alle palmolie komt uit Indonesië en Maleisië waar regenwoud wordt gekapt om plaats te maken voor plantages.\n\nEr is een label voor duurzame palmolie (RSPO) maar de keten is zo ingewikkeld dat het lastig is om te weten wat nou echt duurzaam is.\n\nAlsnog blijft het belangrijk dat wij bereid zijn om meer te betalen voor duurzame oplossingen. Wat kunnen we nog meer doen?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/rspo-logo.png"
+        },
+        {
+          "id": 3,
+          "title": "Als je palmolie vervangt door andere olie is er...",
+          "subtitle": "(per kg olie)",
+          "answerOptions": [
+            "meer land nodig",
+            "minder land nodig"
+          ],
+          "correctAnswer": "meer land nodig",
+          "explanationText": "Meer land nodig. Het is verrweg de meest efficiënte olieplant. Dus als je palmolie zou vervangen door andere producten is er veel meer land nodig en verschuif je het probleem naar andere gebieden.\n\nWat we wel kunnen doen is minder bewerkt voedsel kopen want dat is waar palmolie vooral wordt gebruikt: ijs, koekjes, pizza, kant-en-klare maaltijden.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/palm-oil-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Palmolie vervangen door andere olie zou het probleem alleen verplaatsen",
+        "goal": "Eet minder bewerkt eten en betaal meer voor duurzame opties",
+        "impact": 2,
+        "impactReason": "(als onderdeel van minder bewerkt eten kopen)"
+      },
+      "outroRecipe": {
+        "title": "Palmolie is een geval waar overheden en bedrijven de productie moeten verduurzamen omdat vervangen vaak niet de juiste oplossing is.\n\nHet hoge aantal producten in de supermarkt waar palmolie in zit getuigt van de hoeveelheid bewerkt eten in onze samenleving. Wat we als individuen kunnen doen is minder kant-en-klare maaltijden en pakjes kopen en vaker koken met onbewerkte ingrediënten. Dat is niet alleen gezonder maar ook lekkerder :-)",
+        "emoji": "🌴"
+      }
     }
   ]
 }

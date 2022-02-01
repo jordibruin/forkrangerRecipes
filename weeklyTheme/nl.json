@@ -462,7 +462,7 @@
       "id": 31,
       "date": 1643767200,
       "backgroundColor": "0b9d8e",
-      "title": "X",
+      "title": "Wat je over palmolie moet weten 🌴",
       "recipes": [
         53,
         6,
@@ -473,6 +473,22 @@
       "category": "meat",
       "notificationTitle": "Palmolie... goed of slecht?",
       "notificationBody": "Recept van de week: Pasta met Aubergine en Champignons"
+    },
+    {
+      "id": 31,
+      "date": 1644372000,
+      "backgroundColor": "0b9d8e",
+      "title": "X",
+      "recipes": [
+        53,
+        6,
+        0,
+        15
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Tijd voor een nieuwe quiz!",
+      "notificationBody": "Recept van de week: Sweet Chili"
     }
   ]
 }

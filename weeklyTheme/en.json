@@ -462,7 +462,7 @@
       "id": 31,
       "date": 1643767200,
       "backgroundColor": "f7a56d",
-      "title": "X",
+      "title": "What you should know about palm oil 🌴",
       "recipes": [
         53,
         6,
@@ -473,6 +473,22 @@
       "category": "meat",
       "notificationTitle": "Palm oil... good or bad?",
       "notificationBody": "Recipe of the week: Mushroom & Aubergine pasta"
+    },
+    {
+      "id": 32,
+      "date": 1644372000,
+      "backgroundColor": "f7a56d",
+      "title": "X",
+      "recipes": [
+        53,
+        6,
+        0,
+        15
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Time for a new quiz!",
+      "notificationBody": "Recipe of the week: Sweet Chilli"
     }
   ]
 }

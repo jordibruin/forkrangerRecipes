@@ -1082,6 +1082,63 @@
         "title": "Palmolie is een geval waar overheden en bedrijven de productie moeten verduurzamen omdat vervangen vaak niet de juiste oplossing is.\n\nHet hoge aantal producten in de supermarkt waar palmolie in zit getuigt van de hoeveelheid bewerkt eten in onze samenleving. Wat we als individuen kunnen doen is minder kant-en-klare maaltijden en pakjes kopen en vaker koken met onbewerkte ingrediënten. Dat is niet alleen gezonder maar ook lekkerder :-)",
         "emoji": "🌴"
       }
+    },
+    {
+      "id": 32,
+      "intro": {
+        "title": "Eet lokaal, maar om een andere reden dan je denkt",
+        "subtitle": "Als het over duurzaam eten gaat horen we vaak over lokaal voedsel. Maar waarom is dit belangrijk?",
+        "emoji": "📍"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke type spinazie heeft een hogere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "1500 km vervoerd per vrachtwagen",
+            "Lokaal verbouwd in een verwarmde kas"
+          ],
+          "correctAnswer": "Lokaal verbouwd in een verwarmde kas",
+          "explanationText": "Voedselkilometers hebben alleen een hoge impact als het product per vliegtuig vervoerd wordt. En dat gebeurt nauwelijks, maar voor 0,16% van alle voedselkilometers.\n\nEen kas verwarmen veroorzaakt over het algemeen meer emissies dan transport. Dus lokaal voedsel is niet automatisch duurzaam voedsel.\n\nDus als voedselkilometers niet echt uitmaken, is er dan een andere reden om lokaal voedsel te kiezen?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoeveel soorten appels zijn er?",
+          "subtitle": "",
+          "answerOptions": [
+            800,
+            2300,
+            7500
+          ],
+          "correctAnswer": 7500,
+          "explanationText": "Er zijn zoveel soorten appels, maar de meeste supermarkten in de wereld hebben allemaal dezelfde Granny Smith en Golden Delicious appels.\n\nDus bezoek eens een boerenmarkt. Lokaal voedsel stimuleert diversiteit in plaats van dat alles hetzelfde oogt en smaakt.\n\nMaar waarom zouden we om diversiteit moeten geven?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+        },
+        {
+          "id": 3,
+          "title": "Diversiteit is belangrijk omdat...",
+          "subtitle": "",
+          "answerOptions": [
+            "het een gezonder land creëert",
+            "het landbouw efficiënter maakt"
+          ],
+          "correctAnswer": "het een gezonder land creëert",
+          "explanationText": "het een gezonder land creëert. Als alle appelbomen van dezelfde soort zijn en een van deze ziek wordt, dan worden ze allemaal ziek en hebben we geen appels meer. Dit is een groot risico want plantenziektes komen waarschijnlijk vaker voor met klimaatverandering.\n\nDiversiteit is een van de meest belangrijke eigenschappen van een gezond ecosysteem. Het geeft ook meer unieke smaken, is de kern van lokale voedseltradities en maakt het landschap mooier :-)",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Lokaal voedsel is belangrijk voor diversiteit (niet vanwege de voedselkilometers)",
+        "goal": "Ga eens naar een boerenmarkt",
+        "impact": 2,
+        "impactReason": "(niet vanwege CO2, maar voor het grotere plaatje van een duurzaam voedselsysteem)"
+      },
+      "outroRecipe": {
+        "title": "Als het op klimaatverandering aankomt, hebben voedselkilometers geen grote impact. Maar lokaal voedsel is belangrijk omdat het diversiteit stimuleert. Dit zorgt voor een gezonder ecosysteem en meer unieke smaken.\n\nHet gaat minder om hoe ver een appel heeft gereisd en meer over of het een lokale soort is. Kijk verder dan de supermarkt om deze producten te vinden. Dus ga eens naar een boerenmarkt om in contact te staan met de voedseltradities van jouw omgeving.",
+        "emoji": "📍"
+      }
     }
   ]
 }

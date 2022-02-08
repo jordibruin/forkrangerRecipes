@@ -475,8 +475,24 @@
       "notificationBody": "Recept van de week: Pasta met Aubergine en Champignons"
     },
     {
-      "id": 31,
+      "id": 32,
       "date": 1644372000,
+      "backgroundColor": "0b9d8e",
+      "title": "Eet lokaal, maar om een andere reden dan je denkt ",
+      "recipes": [
+        54,
+        8,
+        16,
+        37
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Tijd voor een nieuwe quiz!",
+      "notificationBody": "Recept van de week: Sweet Chili"
+    },
+    {
+      "id": 33,
+      "date": 1644976800,
       "backgroundColor": "0b9d8e",
       "title": "X",
       "recipes": [

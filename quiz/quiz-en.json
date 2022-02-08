@@ -1082,6 +1082,63 @@
         "title": "Palm oil is an issue where we need governments and businesses to make production more sustainable because replacing it is often not the answer.\n\nThe huge number of supermarket products with palm oil is a symbol of the amount of processed food in our society. What we can do as individuals is eat fewer ready-made meals and packages and cook more with whole ingredients. That is not only healthier, it also tastes better :-)",
         "emoji": "🌴"
       }
+    },
+    {
+      "id": 32,
+      "intro": {
+        "title": "Eat local food, but not for the reason you think",
+        "subtitle": "When it comes to eating sustainably we often hear about local food. But why is it important?",
+        "emoji": "📍"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which type of spinach has a higher footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Transported 1500 km by truck",
+            "Locally grown in a heated greenhouse"
+          ],
+          "correctAnswer": "Locally grown in a heated greenhouse",
+          "explanationText": "Food miles only have a high footprint if the product travels by air. That rarely happens, just for 0,16% of all food miles.\n\nHeating a greenhouse generally causes more emissions than transport. So local food is not automatically sustainable food.\n\nSo if food miles don’t really matter, is there a different reason to choose for local food?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local.png"
+        },
+        {
+          "id": 2,
+          "title": "How many varieties of apple are there?",
+          "subtitle": "",
+          "answerOptions": [
+            800,
+            2300,
+            7500
+          ],
+          "correctAnswer": 7500,
+          "explanationText": "There are so many apple varieties but most supermarkets around the world all have the same Granny Smith and Golden Delicious.\n\nSo visit a farmers’ market from time to time. Local food encourages diversity instead of everything looking and tasting the same.\n\nBut why should we care about diversity?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+        },
+        {
+          "id": 3,
+          "title": "Diversity is important because it...",
+          "subtitle": "",
+          "answerOptions": [
+            "creates a healthier land",
+            "makes farming more efficient"
+          ],
+          "correctAnswer": "creates a healthier land",
+          "explanationText": "it creates a healthier land. If all apple trees are the same and one of them gets sick, they all get sick and we don’t have any apples. This is a big risk because plant diseases are more likely with climate change.\n\nDiversity is one of the most important features of a healthy ecosystem. It also creates more unique flavours, supports local food traditions and creates a more beautifiul landscape :-)",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Local food is important for diversity (not because of food miles)",
+        "goal": "Go to a farmers’ market from time to time",
+        "impact": 2,
+        "impactReason": "(not for CO2, but for the bigger picture of a sustainable food system)"
+      },
+      "outroRecipe": {
+        "title": "When it comes to climate change, food miles don’t have a big impact. But local food is important because it encourages diversity. This creates a healthier ecosystem and more unique flavours.\n\nIt’s less about how far an apple travelled than whether it’s a local variety. To find these products you have to leave the supermarket. So go to a farmers’ market from time to time, to stay in touch with the food traditions of your region.",
+        "emoji": "🧑‍🌾"
+      }
     }
   ]
 }

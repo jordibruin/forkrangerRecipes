@@ -478,6 +478,22 @@
       "id": 32,
       "date": 1644372000,
       "backgroundColor": "f7a56d",
+      "title": "Eat local food, but not for the reason you think ",
+      "recipes": [
+        54,
+        8,
+        16,
+        37
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Time for a new quiz!",
+      "notificationBody": "Recipe of the week: Sweet Chilli"
+    },
+    {
+      "id": 33,
+      "date": 1644976800,
+      "backgroundColor": "f7a56d",
       "title": "X",
       "recipes": [
         53,

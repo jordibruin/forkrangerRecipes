@@ -1108,11 +1108,11 @@
           "title": "Hoeveel soorten appels zijn er?",
           "subtitle": "",
           "answerOptions": [
-            800,
-            2300,
-            7500
+            "800",
+            "2300",
+            "7500"
           ],
-          "correctAnswer": 7500,
+          "correctAnswer": "7500",
           "explanationText": "Er zijn zoveel soorten appels, maar de meeste supermarkten in de wereld hebben allemaal dezelfde Granny Smith en Golden Delicious appels.\n\nDus bezoek eens een boerenmarkt. Lokaal voedsel stimuleert diversiteit in plaats van dat alles hetzelfde oogt en smaakt.\n\nMaar waarom zouden we om diversiteit moeten geven?",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
         },

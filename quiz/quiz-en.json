@@ -1108,11 +1108,11 @@
           "title": "How many varieties of apple are there?",
           "subtitle": "",
           "answerOptions": [
-            800,
-            2300,
-            7500
+            "800",
+            "2300",
+            "7500"
           ],
-          "correctAnswer": 7500,
+          "correctAnswer": "7500",
           "explanationText": "There are so many apple varieties but most supermarkets around the world all have the same Granny Smith and Golden Delicious.\n\nSo visit a farmers’ market from time to time. Local food encourages diversity instead of everything looking and tasting the same.\n\nBut why should we care about diversity?",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
         },

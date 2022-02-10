@@ -1143,115 +1143,116 @@
     {
       "id": 100,
       "intro": {
-        "title": "Eat local food, but not for the reason you think",
-        "subtitle": "When it comes to eating sustainably we often hear about local food. But why is it important?",
-        "emoji": "📍"
+        "title": "Your first quiz about the impact of food",
+        "subtitle": "Let’s find out the connection between food and climate change. And no worries, you don’t have to become vegan or vegetarian 😉",
+        "emoji": "🌍"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Which type of spinach has a higher footprint?",
-          "subtitle": "",
+          "title": "How much does our food contribute to climate change?",
+          "subtitle": "yearly greenhouse gas emissions worldwide",
           "answerOptions": [
-            "Transported 1500 km by truck",
-            "Locally grown in a heated greenhouse"
+            "11%",
+            "34%"
           ],
-          "correctAnswer": "Locally grown in a heated greenhouse",
-          "explanationText": "Food miles only have a high footprint if the product travels by air. That rarely happens, just for 0,16% of all food miles.\n\nHeating a greenhouse generally causes more emissions than transport. So local food is not automatically sustainable food.\n\nSo if food miles don’t really matter, is there a different reason to choose for local food?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local.png"
+          "correctAnswer": "34%",
+          "explanationText": "Our global food system causes one third of all emissions.\n\nOn your Fork Ranger journey you’re going to explore the most important sources of these emissions. And what we can do about it.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "How many varieties of apple are there?",
+          "title": "What can save more CO2 emissions?",
           "subtitle": "",
           "answerOptions": [
-            "800",
-            "2300",
-            "7500"
+            "Changing what we eat",
+            "Making farms more sustainable"
           ],
-          "correctAnswer": "7500",
-          "explanationText": "There are so many apple varieties but most supermarkets around the world all have the same Granny Smith and Golden Delicious.\n\nSo visit a farmers’ market from time to time. Local food encourages diversity instead of everything looking and tasting the same.\n\nBut why should we care about diversity?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+          "correctAnswer": "Changing what we eat",
+          "explanationText": "The most effective way to reduce the climate impact of food is to change what we eat. This is good news because everyone can be part of the solution!\n\nWe will show you that it’s also pretty straightforward. A few simple changes can make a massive difference. So what is the most important first step?",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Diversity is important because it...",
-          "subtitle": "",
+          "title": "What makes a bigger difference?",
+          "subtitle": "for reducing CO2 in average European or North American diet",
           "answerOptions": [
-            "creates a healthier land",
-            "makes farming more efficient"
+            "Replacing beef with chicken",
+            "Eating vegetarian 1 day a week"
           ],
-          "correctAnswer": "creates a healthier land",
-          "explanationText": "it creates a healthier land. If all apple trees are the same and one of them gets sick, they all get sick and we don’t have any apples. This is a big risk because plant diseases are more likely with climate change.\n\nDiversity is one of the most important features of a healthy ecosystem. It also creates more unique flavours, supports local food traditions and creates a more beautifiul landscape :-)",
+          "correctAnswer": "Replacing beef with chicken",
+          "explanationText": "Beef has the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference.\n\nWithout eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
           "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Local food is important for diversity (not because of food miles)",
-        "goal": "Go to a farmers’ market from time to time",
-        "impact": 2,
-        "impactReason": "(not for CO2, but for the bigger picture of a sustainable food system)"
+        "insight": "Changing diets makes a huge difference for climate change",
+        "goal": "Replace beef (and if you already do it, inspire others)",
+        "impact": 5,
+        "impactReason": ""
       },
       "outroRecipe": {
-        "title": "When it comes to climate change, food miles don’t have a big impact. But local food is important because it encourages diversity. This creates a healthier ecosystem and more unique flavours.\n\nIt’s less about how far an apple travelled than whether it’s a local variety. To find these products you have to leave the supermarket. So go to a farmers’ market from time to time, to stay in touch with the food traditions of your region.",
-        "emoji": "🧑‍🌾"
+        "title": "What we eat has a massive effect on our climate. This means that we - regular citizens - are in control.\n\nWhether you eat meat every day or have been vegetarian for years, we are all on a journey. This app is a compass for heading in the right direction. And the first step that anyone can take is to replace beef.",
+        "emoji": "🌍"
       }
     },
     {
       "id": 101,
       "intro": {
-        "title": "Eat local food, but not for the reason you think",
-        "subtitle": "When it comes to eating sustainably we often hear about local food. But why is it important?",
-        "emoji": "📍"
+        "title": "The Big Ranch",
+        "subtitle": "Let’s explore the number one action for eating more sustainably.",
+        "emoji": "🐮"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Which type of spinach has a higher footprint?",
+          "title": "What is heavier?",
           "subtitle": "",
           "answerOptions": [
-            "Transported 1500 km by truck",
-            "Locally grown in a heated greenhouse"
+            "All cows",
+            "All humans",
+            "All wild mammals (incl. whales)"
           ],
-          "correctAnswer": "Locally grown in a heated greenhouse",
-          "explanationText": "Food miles only have a high footprint if the product travels by air. That rarely happens, just for 0,16% of all food miles.\n\nHeating a greenhouse generally causes more emissions than transport. So local food is not automatically sustainable food.\n\nSo if food miles don’t really matter, is there a different reason to choose for local food?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local.png"
+          "correctAnswer": "All cows",
+          "explanationText": "All cows are heavier than all humans and wild mammals combined! They are also heavier than all other livestock animals combined (pigs, chickens, sheep, goats, horses).\n\nPlanet Earth has almost become Planet Cow. It has become ‘The Big Ranch’.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "How many varieties of apple are there?",
+          "title": "Which of these is NOT a ruminant?",
           "subtitle": "",
           "answerOptions": [
-            "800",
-            "2300",
-            "7500"
+            "cow",
+            "goat",
+            "sheep",
+            "pig"
           ],
-          "correctAnswer": "7500",
-          "explanationText": "There are so many apple varieties but most supermarkets around the world all have the same Granny Smith and Golden Delicious.\n\nSo visit a farmers’ market from time to time. Local food encourages diversity instead of everything looking and tasting the same.\n\nBut why should we care about diversity?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+          "correctAnswer": "pig",
+          "explanationText": "Ruminants have a special stomach that makes it possible to eat grass. In this process, they burp a gas called methane, which is a strong greenhouse gas.\n\nMethane is a big reason why beef - but also goat and sheep meat - has a much higher footprint than other food.\n\nThere is also another reason for the high footprint of beef.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Diversity is important because it...",
-          "subtitle": "",
+          "title": "How much of the world’s land is used for food production?",
+          "subtitle": "excluding ice and deserts",
           "answerOptions": [
-            "creates a healthier land",
-            "makes farming more efficient"
+            "25%",
+            "50%"
           ],
-          "correctAnswer": "creates a healthier land",
-          "explanationText": "it creates a healthier land. If all apple trees are the same and one of them gets sick, they all get sick and we don’t have any apples. This is a big risk because plant diseases are more likely with climate change.\n\nDiversity is one of the most important features of a healthy ecosystem. It also creates more unique flavours, supports local food traditions and creates a more beautifiul landscape :-)",
+          "correctAnswer": "50%",
+          "explanationText": "Food production takes up half of all land on Earth (excluding ice and deserts). The huge amount of space it takes to grow food is the number one reason why food plays such a big role in climate change.\n\nMost of this land is used to produce meat and dairy. Especially beef production takes up a lot of land, around 7 times more than pork or chicken per kilogram of meat.",
           "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Local food is important for diversity (not because of food miles)",
-        "goal": "Go to a farmers’ market from time to time",
-        "impact": 2,
-        "impactReason": "(not for CO2, but for the bigger picture of a sustainable food system)"
+        "insight": "Meat from ruminants - especially beef - has the highest footprint of all foods",
+        "goal": "Replace beef (and if you already do it, inspire others)",
+        "impact": 5,
+        "impactReason": ""
       },
       "outroRecipe": {
-        "title": "When it comes to climate change, food miles don’t have a big impact. But local food is important because it encourages diversity. This creates a healthier ecosystem and more unique flavours.\n\nIt’s less about how far an apple travelled than whether it’s a local variety. To find these products you have to leave the supermarket. So go to a farmers’ market from time to time, to stay in touch with the food traditions of your region.",
-        "emoji": "🧑‍🌾"
+        "title": "There is no other animal group that even comes close to the weight of all cows. They also require a lot of land and burp methane. All these factors make beef the food with the highest footprint.\n\nIf you love beef, you don’t have to give it up completely. Just make it a luxury for special occasions.\n\nAnd if you gave up beef, tell your meat-loving friends to start with replacing beef. We’ve experienced that this is a first step that most people are willing to take.",
+        "emoji": "🐮"
       }
     },
     {

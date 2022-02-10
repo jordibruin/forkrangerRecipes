@@ -1143,115 +1143,116 @@
     {
       "id": 100,
       "intro": {
-        "title": "Eet lokaal, maar om een andere reden dan je denkt",
-        "subtitle": "Als het over duurzaam eten gaat horen we vaak over lokaal voedsel. Maar waarom is dit belangrijk?",
-        "emoji": "📍"
+        "title": "Je eerste quiz over de impact van eten",
+        "subtitle": "Wat heeft eten en klimaatverandering met elkaar te maken? Laten we eens naar die relatie kijken. En geen zorgen, je hoeft geen veganist of vegetariër te worden 😉",
+        "emoji": "🌍"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Welke type spinazie heeft een hogere impact?",
-          "subtitle": "",
+          "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",
+          "subtitle": "jaarlijkse broeikasgasemissies wereldwijd",
           "answerOptions": [
-            "1500 km vervoerd per vrachtwagen",
-            "Lokaal verbouwd in een verwarmde kas"
+            "11%",
+            "34%"
           ],
-          "correctAnswer": "Lokaal verbouwd in een verwarmde kas",
-          "explanationText": "Voedselkilometers hebben alleen een hoge impact als het product per vliegtuig vervoerd wordt. En dat gebeurt nauwelijks, maar voor 0,16% van alle voedselkilometers.\n\nEen kas verwarmen veroorzaakt over het algemeen meer emissies dan transport. Dus lokaal voedsel is niet automatisch duurzaam voedsel.\n\nDus als voedselkilometers niet echt uitmaken, is er dan een andere reden om lokaal voedsel te kiezen?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local-NL.png"
+          "correctAnswer": "34%",
+          "explanationText": "Ons wereldwijde voedselsysteem veroorzaakt een derde van alle uitstoot.\n\nOp jouw Fork Ranger reis ga je ontdekken wat de meest belangrijke bronnen van deze emissies zijn. En wat we eraan kunnen doen.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Hoeveel soorten appels zijn er?",
+          "title": "Waarmee kunnen we meer CO2 emissies besparen?",
           "subtitle": "",
           "answerOptions": [
-            "800",
-            "2300",
-            "7500"
+            "Veranderen wat we eten",
+            "Boerderijen duurzamer maken"
           ],
-          "correctAnswer": "7500",
-          "explanationText": "Er zijn zoveel soorten appels, maar de meeste supermarkten in de wereld hebben allemaal dezelfde Granny Smith en Golden Delicious appels.\n\nDus bezoek eens een boerenmarkt. Lokaal voedsel stimuleert diversiteit in plaats van dat alles hetzelfde oogt en smaakt.\n\nMaar waarom zouden we om diversiteit moeten geven?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+          "correctAnswer": "Veranderen wat we eten",
+          "explanationText": "De meest effectieve manier om de klimaatimpact van ons eten te reduceren is te veranderen wat we eten. Dat is goed nieuws want zo kan iedereen onderdeel zijn van de oplossing!\n\nWe zullen je laten zien dat het ook vrij eenvoudig is. Een paar makkelijke aanpassingen kunnen al een enorm verschil maken. Dus wat is dan de belangrijkste eerste stap?",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Diversiteit is belangrijk omdat...",
-          "subtitle": "",
+          "title": "Wat maakt een groter verschil?",
+          "subtitle": "om CO2 te verminderen in een gemiddeld Europees of Noord-Amerikaans voedingspatroon",
           "answerOptions": [
-            "het een gezonder land creëert",
-            "het landbouw efficiënter maakt"
+            "Vervangen van rundvlees door kip",
+            "Vegetarisch eten voor 1 dag per week"
           ],
-          "correctAnswer": "het een gezonder land creëert",
-          "explanationText": "het een gezonder land creëert. Als alle appelbomen van dezelfde soort zijn en een van deze ziek wordt, dan worden ze allemaal ziek en hebben we geen appels meer. Dit is een groot risico want plantenziektes komen waarschijnlijk vaker voor met klimaatverandering.\n\nDiversiteit is een van de meest belangrijke eigenschappen van een gezond ecosysteem. Het geeft ook meer unieke smaken, is de kern van lokale voedseltradities en maakt het landschap mooier :-)",
+          "correctAnswer": "Vervangen van rundvlees door kip",
+          "explanationText": "Rundvlees heeft de hoogste impact van al het vlees. Natuurlijk, het vervangen van rundvlees door kip (of varken) is niet het einddoel van een duurzaam voedingspatroon. Maar het is een gemakkelijke eerste stap die al een geweldig verschil maakt.\n\nZonder minder vlees te eten, vermindert deze stap al de CO2 impact van een gemiddeld Westers voedingspatroon met één vijfde!",
           "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Lokaal voedsel is belangrijk voor diversiteit (niet vanwege de voedselkilometers)",
-        "goal": "Ga eens naar een boerenmarkt",
-        "impact": 2,
-        "impactReason": "(niet vanwege CO2, maar voor het grotere plaatje van een duurzaam voedselsysteem)"
+        "insight": "Het veranderen van voedingspatronen maakt een enorm verschil voor het klimaat",
+        "goal": "Vervang rundvlees (en als je dat al doet, inspireer anderen)",
+        "impact": 5,
+        "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Als het op klimaatverandering aankomt, hebben voedselkilometers geen grote impact. Maar lokaal voedsel is belangrijk omdat het diversiteit stimuleert. Dit zorgt voor een gezonder ecosysteem en meer unieke smaken.\n\nHet gaat minder om hoe ver een appel heeft gereisd en meer over of het een lokale soort is. Kijk verder dan de supermarkt om deze producten te vinden. Dus ga eens naar een boerenmarkt om in contact te staan met de voedseltradities van jouw omgeving.",
-        "emoji": "📍"
+        "title": "Wat we eten heeft een groot effect op ons klimaat. Dit betekent dat wij - gewone burgers - invloed hebben.\n\nOf je nou elke dag vlees eet of al jaren vegetariër bent, we zijn allemaal op een reis. Deze app is een kompas om je de juiste richting te wijzen. En een eerste stap die iedereen kan zetten is het vervangen van rundvlees.",
+        "emoji": "🌍"
       }
     },
     {
       "id": 101,
       "intro": {
-        "title": "Eet lokaal, maar om een andere reden dan je denkt",
-        "subtitle": "Als het over duurzaam eten gaat horen we vaak over lokaal voedsel. Maar waarom is dit belangrijk?",
-        "emoji": "📍"
+        "title": "The Big Ranch",
+        "subtitle": "Laten we de nummer één aanpassing om duurzamer te eten eens onder de loep nemen.",
+        "emoji": "🐮"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Welke type spinazie heeft een hogere impact?",
+          "title": "Wat is zwaarder?",
           "subtitle": "",
           "answerOptions": [
-            "1500 km vervoerd per vrachtwagen",
-            "Lokaal verbouwd in een verwarmde kas"
+            "Alle koeien",
+            "Alle mensen",
+            "Alle wilde zoogdieren (incl. walvissen)"
           ],
-          "correctAnswer": "Lokaal verbouwd in een verwarmde kas",
-          "explanationText": "Voedselkilometers hebben alleen een hoge impact als het product per vliegtuig vervoerd wordt. En dat gebeurt nauwelijks, maar voor 0,16% van alle voedselkilometers.\n\nEen kas verwarmen veroorzaakt over het algemeen meer emissies dan transport. Dus lokaal voedsel is niet automatisch duurzaam voedsel.\n\nDus als voedselkilometers niet echt uitmaken, is er dan een andere reden om lokaal voedsel te kiezen?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local-NL.png"
+          "correctAnswer": "Alle koeien",
+          "explanationText": "Alle koeien zijn zwaarder dan alle mensen en alle wilde zoogdieren bij elkaar opgeteld! Ze zijn ook zwaarder dan al het andere vee samen (varkens, kippen, schapen, geiten, paarden).\n\nDe planeet Aarde is eerder Planeet Koe geworden. Het is ‘The Big Ranch’ geworden.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Hoeveel soorten appels zijn er?",
+          "title": "Welke van deze is GEEN herkauwer?",
           "subtitle": "",
           "answerOptions": [
-            "800",
-            "2300",
-            "7500"
+            "Koe",
+            "Geit",
+            "Schaap",
+            "Varken"
           ],
-          "correctAnswer": "7500",
-          "explanationText": "Er zijn zoveel soorten appels, maar de meeste supermarkten in de wereld hebben allemaal dezelfde Granny Smith en Golden Delicious appels.\n\nDus bezoek eens een boerenmarkt. Lokaal voedsel stimuleert diversiteit in plaats van dat alles hetzelfde oogt en smaakt.\n\nMaar waarom zouden we om diversiteit moeten geven?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+          "correctAnswer": "Varken",
+          "explanationText": "Herkauwers hebben een speciale maag die het mogelijk maakt gras te eten. In dit proces, laten ze boeren van methaan, een sterk broeikasgas.\n\nMethaan is een grote reden waarom rundvlees - maar ook geiten- en schapenvlees - een veel hogere impact dan ander voedsel heeft.\n\nEr is ook nog een andere reden voor de hoge impact van rundvlees.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Diversiteit is belangrijk omdat...",
-          "subtitle": "",
+          "title": "Hoeveel van het land op aarde wordt gebruikt voor voedselproductie?",
+          "subtitle": "exclusief ijs en woestijnen",
           "answerOptions": [
-            "het een gezonder land creëert",
-            "het landbouw efficiënter maakt"
+            "25%",
+            "50%"
           ],
-          "correctAnswer": "het een gezonder land creëert",
-          "explanationText": "het een gezonder land creëert. Als alle appelbomen van dezelfde soort zijn en een van deze ziek wordt, dan worden ze allemaal ziek en hebben we geen appels meer. Dit is een groot risico want plantenziektes komen waarschijnlijk vaker voor met klimaatverandering.\n\nDiversiteit is een van de meest belangrijke eigenschappen van een gezond ecosysteem. Het geeft ook meer unieke smaken, is de kern van lokale voedseltradities en maakt het landschap mooier :-)",
+          "correctAnswer": "50%",
+          "explanationText": "Voedselproductie neemt ongeveer the helft van al het land op aarde in (ijs en woestijnen niet meegerekend). De grote hoeveelheid ruimte die wordt gebruikt om in ons eten te voorzien is de hoofdreden waarom voedsel zo’n grote rol speelt in klimaatverandering.\n\nHet meeste van dit land wordt gebruikt om vlees en zuivel te produceren. Vooral voor de productie van rundvlees is veel land nodig, ongeveer 7 keer meer dan varken en kip per kilo vlees.",
           "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Lokaal voedsel is belangrijk voor diversiteit (niet vanwege de voedselkilometers)",
-        "goal": "Ga eens naar een boerenmarkt",
-        "impact": 2,
-        "impactReason": "(niet vanwege CO2, maar voor het grotere plaatje van een duurzaam voedselsysteem)"
+        "insight": "Vlees van herkauwers - vooral rundvlees - heeft de hoogste impact van al het eten",
+        "goal": "Vervang rundvlees (en als je dat al doet, inspireer anderen)",
+        "impact": 5,
+        "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Als het op klimaatverandering aankomt, hebben voedselkilometers geen grote impact. Maar lokaal voedsel is belangrijk omdat het diversiteit stimuleert. Dit zorgt voor een gezonder ecosysteem en meer unieke smaken.\n\nHet gaat minder om hoe ver een appel heeft gereisd en meer over of het een lokale soort is. Kijk verder dan de supermarkt om deze producten te vinden. Dus ga eens naar een boerenmarkt om in contact te staan met de voedseltradities van jouw omgeving.",
-        "emoji": "📍"
+        "title": "Er is geen andere diersoort die ook maar enigzins bij koeien in de buurt komt als je het hebt over hun totale gewicht. Ze hebben ook veel land nodig en laten boeren van methaan. Al deze factoren maken rundvlees het voedselproduct met de hoogste impact.\n\nAls je van rundvlees houdt: je hoeft het niet volledig op te geven. Maak het een luxe product voor speciale momenten.\n\nEn als je geen rundvlees eet: inspireer alle vleesliefhebbers in je vriendenkring om rundvlees te vervangen. Wij hebben gemerkt dat dit een eerste stap is de de meeste mensen wel willen nemen.",
+        "emoji": "🌍"
       }
     },
     {

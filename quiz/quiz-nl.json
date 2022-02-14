@@ -1272,8 +1272,8 @@
             "Te weinig eiwit"
           ],
           "correctAnswer": "",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. En dit is jammer van het kostbare voedsel want ons lichaam kan het extra eiwit helemaal niet opnemen, en dus verlaat het ons lichaam weer net zo goed.\n\nDe gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.",
-          "imageUrl": ""
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
         },
         {
           "id": 2,
@@ -1287,7 +1287,7 @@
           ],
           "correctAnswer": "Aardappels",
           "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
         },
         {
           "id": 3,
@@ -1299,12 +1299,12 @@
           ],
           "correctAnswer": "10 keer lager",
           "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
         }
       ],
       "outro": {
         "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen (als bron van eiwit)",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
         "impact": 3,
         "impactReason": ""
       },

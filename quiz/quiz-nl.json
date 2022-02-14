@@ -1158,7 +1158,7 @@
           ],
           "correctAnswer": "34%",
           "explanationText": "Ons wereldwijde voedselsysteem veroorzaakt een derde van alle uitstoot.\n\nOp jouw Fork Ranger reis ga je ontdekken wat de meest belangrijke bronnen van deze emissies zijn. En wat we eraan kunnen doen.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/food-and-climate-change-NL.png"
         },
         {
           "id": 2,
@@ -1170,19 +1170,19 @@
           ],
           "correctAnswer": "Veranderen wat we eten",
           "explanationText": "De meest effectieve manier om de klimaatimpact van ons eten te reduceren is te veranderen wat we eten. Dat is goed nieuws want zo kan iedereen onderdeel zijn van de oplossing!\n\nWe zullen je laten zien dat het ook vrij eenvoudig is. Een paar makkelijke aanpassingen kunnen al een enorm verschil maken. Dus wat is dan de belangrijkste eerste stap?",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/sustainable-diet-NL.png"
         },
         {
           "id": 3,
           "title": "Wat maakt een groter verschil?",
           "subtitle": "om CO2 te verminderen in een gemiddeld Europees of Noord-Amerikaans voedingspatroon",
           "answerOptions": [
-            "Vervangen van rundvlees door kip",
-            "Vegetarisch eten voor 1 dag per week"
+            "De hele week rundvlees vervangen door kip",
+            "1 dag in de week vegetarisch eten"
           ],
           "correctAnswer": "Vervangen van rundvlees door kip",
           "explanationText": "Rundvlees heeft de hoogste impact van al het vlees. Natuurlijk, het vervangen van rundvlees door kip (of varken) is niet het einddoel van een duurzaam voedingspatroon. Maar het is een gemakkelijke eerste stap die al een geweldig verschil maakt.\n\nZonder minder vlees te eten, vermindert deze stap al de CO2 impact van een gemiddeld Westers voedingspatroon met één vijfde!",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/replacing-beef-NL.png"
         }
       ],
       "outro": {
@@ -1211,11 +1211,11 @@
           "answerOptions": [
             "Alle koeien",
             "Alle mensen",
-            "Alle wilde zoogdieren (incl. walvissen)"
+            "Alle wilde land zoogdieren"
           ],
           "correctAnswer": "Alle koeien",
           "explanationText": "Alle koeien zijn zwaarder dan alle mensen en alle wilde zoogdieren bij elkaar opgeteld! Ze zijn ook zwaarder dan al het andere vee samen (varkens, kippen, schapen, geiten, paarden).\n\nDe planeet Aarde is eerder Planeet Koe geworden. Het is ‘The Big Ranch’ geworden.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/weight-of-all-mammals-NL.png"
         },
         {
           "id": 2,
@@ -1229,7 +1229,7 @@
           ],
           "correctAnswer": "Varken",
           "explanationText": "Herkauwers hebben een speciale maag die het mogelijk maakt gras te eten. In dit proces, laten ze boeren van methaan, een sterk broeikasgas.\n\nMethaan is een grote reden waarom rundvlees - maar ook geiten- en schapenvlees - een veel hogere impact dan ander voedsel heeft.\n\nEr is ook nog een andere reden voor de hoge impact van rundvlees.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/co2-of-various-meat-NL-.png"
         },
         {
           "id": 3,
@@ -1241,7 +1241,7 @@
           ],
           "correctAnswer": "50%",
           "explanationText": "Voedselproductie neemt ongeveer the helft van al het land op aarde in (ijs en woestijnen niet meegerekend). De grote hoeveelheid ruimte die wordt gebruikt om in ons eten te voorzien is de hoofdreden waarom voedsel zo’n grote rol speelt in klimaatverandering.\n\nHet meeste van dit land wordt gebruikt om vlees en zuivel te produceren. Vooral voor de productie van rundvlees is veel land nodig, ongeveer 7 keer meer dan varken en kip per kilo vlees.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/land-use-NL-1.png"
         }
       ],
       "outro": {

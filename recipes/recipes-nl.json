@@ -1935,6 +1935,12 @@
           "quantityType": "g"
         },
         {
+          "name": "Zonnebloempitten",
+          "type": "fresh",
+          "quantity": 40,
+          "quantityType": "g"
+        },
+        {
           "name": "Kokosmelk",
           "type": "taste",
           "quantity": 400,
@@ -2002,8 +2008,8 @@
           "time": 4
         },
         {
-          "title": "Kook de rijst",
-          "detail": "",
+          "title": "Kook de rijst met de zonnebloempitten",
+          "detail": "voeg de zonnebloempitten meteen aan het begin toe",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10

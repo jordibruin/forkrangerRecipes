@@ -1158,7 +1158,7 @@
           ],
           "correctAnswer": "34%",
           "explanationText": "Our global food system causes one third of all emissions.\n\nOn your Fork Ranger journey you’re going to explore the most important sources of these emissions. And what we can do about it.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/food-and-climate-change.png"
         },
         {
           "id": 2,
@@ -1170,19 +1170,19 @@
           ],
           "correctAnswer": "Changing what we eat",
           "explanationText": "The most effective way to reduce the climate impact of food is to change what we eat. This is good news because everyone can be part of the solution!\n\nWe will show you that it’s also pretty straightforward. A few simple changes can make a massive difference. So what is the most important first step?",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/sustainable-diet.png"
         },
         {
           "id": 3,
           "title": "What makes a bigger difference?",
           "subtitle": "for reducing CO2 in average European or North American diet",
           "answerOptions": [
-            "Replacing beef with chicken",
+            "Replacing beef with chicken everyday",
             "Eating vegetarian 1 day a week"
           ],
           "correctAnswer": "Replacing beef with chicken",
           "explanationText": "Beef has the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference.\n\nWithout eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/replacing-beef.png"
         }
       ],
       "outro": {
@@ -1211,11 +1211,11 @@
           "answerOptions": [
             "All cows",
             "All humans",
-            "All wild mammals (incl. whales)"
+            "All wild land mammals"
           ],
           "correctAnswer": "All cows",
           "explanationText": "All cows are heavier than all humans and wild mammals combined! They are also heavier than all other livestock animals combined (pigs, chickens, sheep, goats, horses).\n\nPlanet Earth has almost become Planet Cow. It has become ‘The Big Ranch’.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/weight-of-all-mammals.png"
         },
         {
           "id": 2,
@@ -1229,7 +1229,7 @@
           ],
           "correctAnswer": "pig",
           "explanationText": "Ruminants have a special stomach that makes it possible to eat grass. In this process, they burp a gas called methane, which is a strong greenhouse gas.\n\nMethane is a big reason why beef - but also goat and sheep meat - has a much higher footprint than other food.\n\nThere is also another reason for the high footprint of beef.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/co2-of-various-meat.png"
         },
         {
           "id": 3,
@@ -1241,7 +1241,7 @@
           ],
           "correctAnswer": "50%",
           "explanationText": "Food production takes up half of all land on Earth (excluding ice and deserts). The huge amount of space it takes to grow food is the number one reason why food plays such a big role in climate change.\n\nMost of this land is used to produce meat and dairy. Especially beef production takes up a lot of land, around 7 times more than pork or chicken per kilogram of meat.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/land-use.png"
         }
       ],
       "outro": {

@@ -1272,8 +1272,8 @@
             "Too little protein"
           ],
           "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products. This is a waste of precious food because our bodies can’t process all the extra protein and it ends up in the toilet.\n\nThe average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.",
-          "imageUrl": ""
+          "explanationText": "too much protein. That’s because of the high amount of animal products.\n\nThe average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams. That means the average person in North America and Europe can simply leave out all meat and still get enough protein!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
         },
         {
           "id": 2,
@@ -1287,7 +1287,7 @@
           ],
           "correctAnswer": "Potatoes",
           "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
         },
         {
           "id": 3,
@@ -1299,7 +1299,7 @@
           ],
           "correctAnswer": "10 times lower",
           "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
         }
       ],
       "outro": {

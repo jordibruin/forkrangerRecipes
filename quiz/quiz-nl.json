@@ -1258,58 +1258,59 @@
     {
       "id": 102,
       "intro": {
-        "title": "Eet lokaal, maar om een andere reden dan je denkt",
-        "subtitle": "Als het over duurzaam eten gaat horen we vaak over lokaal voedsel. Maar waarom is dit belangrijk?",
-        "emoji": "📍"
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Welke type spinazie heeft een hogere impact?",
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
           "subtitle": "",
           "answerOptions": [
-            "1500 km vervoerd per vrachtwagen",
-            "Lokaal verbouwd in een verwarmde kas"
+            "Te veel eiwit",
+            "Te weinig eiwit"
           ],
-          "correctAnswer": "Lokaal verbouwd in een verwarmde kas",
-          "explanationText": "Voedselkilometers hebben alleen een hoge impact als het product per vliegtuig vervoerd wordt. En dat gebeurt nauwelijks, maar voor 0,16% van alle voedselkilometers.\n\nEen kas verwarmen veroorzaakt over het algemeen meer emissies dan transport. Dus lokaal voedsel is niet automatisch duurzaam voedsel.\n\nDus als voedselkilometers niet echt uitmaken, is er dan een andere reden om lokaal voedsel te kiezen?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local-NL.png"
+          "correctAnswer": "",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. En dit is jammer van het kostbare voedsel want ons lichaam kan het extra eiwit helemaal niet opnemen, en dus verlaat het ons lichaam weer net zo goed.\n\nDe gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Hoeveel soorten appels zijn er?",
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
           "subtitle": "",
           "answerOptions": [
-            "800",
-            "2300",
-            "7500"
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
           ],
-          "correctAnswer": "7500",
-          "explanationText": "Er zijn zoveel soorten appels, maar de meeste supermarkten in de wereld hebben allemaal dezelfde Granny Smith en Golden Delicious appels.\n\nDus bezoek eens een boerenmarkt. Lokaal voedsel stimuleert diversiteit in plaats van dat alles hetzelfde oogt en smaakt.\n\nMaar waarom zouden we om diversiteit moeten geven?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Diversiteit is belangrijk omdat...",
-          "subtitle": "",
+          "title": "Welke impact heeft het vervangen van Aardappels met Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
           "answerOptions": [
-            "het een gezonder land creëert",
-            "het landbouw efficiënter maakt"
+            "5 keer lager",
+            "10 keer lager"
           ],
-          "correctAnswer": "het een gezonder land creëert",
-          "explanationText": "het een gezonder land creëert. Als alle appelbomen van dezelfde soort zijn en een van deze ziek wordt, dan worden ze allemaal ziek en hebben we geen appels meer. Dit is een groot risico want plantenziektes komen waarschijnlijk vaker voor met klimaatverandering.\n\nDiversiteit is een van de meest belangrijke eigenschappen van een gezond ecosysteem. Het geeft ook meer unieke smaken, is de kern van lokale voedseltradities en maakt het landschap mooier :-)",
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
           "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Lokaal voedsel is belangrijk voor diversiteit (niet vanwege de voedselkilometers)",
-        "goal": "Ga eens naar een boerenmarkt",
-        "impact": 2,
-        "impactReason": "(niet vanwege CO2, maar voor het grotere plaatje van een duurzaam voedselsysteem)"
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen (als bron van eiwit)",
+        "impact": 3,
+        "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Als het op klimaatverandering aankomt, hebben voedselkilometers geen grote impact. Maar lokaal voedsel is belangrijk omdat het diversiteit stimuleert. Dit zorgt voor een gezonder ecosysteem en meer unieke smaken.\n\nHet gaat minder om hoe ver een appel heeft gereisd en meer over of het een lokale soort is. Kijk verder dan de supermarkt om deze producten te vinden. Dus ga eens naar een boerenmarkt om in contact te staan met de voedseltradities van jouw omgeving.",
-        "emoji": "📍"
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
       }
     }
   ]

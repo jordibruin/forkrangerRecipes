@@ -1935,6 +1935,12 @@
           "quantityType": "g"
         },
         {
+          "name": "Sunflower seeds",
+          "type": "fresh",
+          "quantity": 40,
+          "quantityType": "g"
+        },
+        {
           "name": "Coconut milk",
           "type": "taste",
           "quantity": 400,
@@ -2002,8 +2008,8 @@
           "time": 4
         },
         {
-          "title": "Cook rice",
-          "detail": "",
+          "title": "Cook rice with sunflower seeds",
+          "detail": "add sunflower seeds at the beginning",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10

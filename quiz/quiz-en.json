@@ -1258,58 +1258,59 @@
     {
       "id": 102,
       "intro": {
-        "title": "Eat local food, but not for the reason you think",
-        "subtitle": "When it comes to eating sustainably we often hear about local food. But why is it important?",
-        "emoji": "📍"
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Which type of spinach has a higher footprint?",
+          "title": "Somone with the average Western diets eats...",
           "subtitle": "",
           "answerOptions": [
-            "Transported 1500 km by truck",
-            "Locally grown in a heated greenhouse"
+            "Too much protein",
+            "Too little protein"
           ],
-          "correctAnswer": "Locally grown in a heated greenhouse",
-          "explanationText": "Food miles only have a high footprint if the product travels by air. That rarely happens, just for 0,16% of all food miles.\n\nHeating a greenhouse generally causes more emissions than transport. So local food is not automatically sustainable food.\n\nSo if food miles don’t really matter, is there a different reason to choose for local food?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local.png"
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products. This is a waste of precious food because our bodies can’t process all the extra protein and it ends up in the toilet.\n\nThe average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "How many varieties of apple are there?",
+          "title": "Which of these is NOT a good source of protein?",
           "subtitle": "",
           "answerOptions": [
-            "800",
-            "2300",
-            "7500"
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
           ],
-          "correctAnswer": "7500",
-          "explanationText": "There are so many apple varieties but most supermarkets around the world all have the same Granny Smith and Golden Delicious.\n\nSo visit a farmers’ market from time to time. Local food encourages diversity instead of everything looking and tasting the same.\n\nBut why should we care about diversity?",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Diversity is important because it...",
-          "subtitle": "",
+          "title": "What’s the impact of replacing potatoes and steak with ‘green spaghetti’?",
+          "subtitle": "in CO2 impact",
           "answerOptions": [
-            "creates a healthier land",
-            "makes farming more efficient"
+            "5 times lower",
+            "10 times lower"
           ],
-          "correctAnswer": "creates a healthier land",
-          "explanationText": "it creates a healthier land. If all apple trees are the same and one of them gets sick, they all get sick and we don’t have any apples. This is a big risk because plant diseases are more likely with climate change.\n\nDiversity is one of the most important features of a healthy ecosystem. It also creates more unique flavours, supports local food traditions and creates a more beautifiul landscape :-)",
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main source of protein of Green Spaghetti is pasta and peas. The steak does have a higher protien count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
           "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Local food is important for diversity (not because of food miles)",
-        "goal": "Go to a farmers’ market from time to time",
-        "impact": 2,
-        "impactReason": "(not for CO2, but for the bigger picture of a sustainable food system)"
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils (as source of protein)",
+        "impact": 3,
+        "impactReason": ""
       },
       "outroRecipe": {
-        "title": "When it comes to climate change, food miles don’t have a big impact. But local food is important because it encourages diversity. This creates a healthier ecosystem and more unique flavours.\n\nIt’s less about how far an apple travelled than whether it’s a local variety. To find these products you have to leave the supermarket. So go to a farmers’ market from time to time, to stay in touch with the food traditions of your region.",
-        "emoji": "🧑‍🌾"
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
       }
     }
   ]

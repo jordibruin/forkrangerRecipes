@@ -7635,6 +7635,132 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/noodles-with-orange-juice/?share",
+      "id": 56,
+      "title": "Noodles with Orange Juice",
+      "description": "Dahl is a South Asian lentil stew with lots of flavour. In this version, the peaches add some delicious sweetness while the raw spinach gives a fresh bite. If you’re not a fan of warm fruit, you could also replace the peaches with tomato.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/IMG_2770-768x1024-square.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Noodles (soba)",
+          "type": "base",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Orange juice",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Cashews",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Cornstarch",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Grate ginger",
+        "Cut the carrots into slices",
+        "Cut broccoli into small florets"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté onion, ginger and garlic",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add broccoli and carrot",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add soy sauce and orange juice",
+          "detail": "stir and bring to boil/simmer, cover with a lid",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Cook noodles in the meantime",
+          "detail": "adjust time based on advised cooking time on package",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Thicken sauce with cornstarch mix",
+          "detail": "in a separate bowl mix cornstarch with double the amount of cold water, so it dissolves and is lump-free. Add it to the sauce. Wait until it bubbles and thickens the sauce.\n\nRepeat if you like an even thicker sauce.",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Add noodles and cashews",
+          "detail": "stir and serve, the noodles become coated in the sauce",
+          "panType": "fryingPan1",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

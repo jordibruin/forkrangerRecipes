@@ -5219,7 +5219,8 @@
     },
     {
       "filter": [
-        "potato"
+        "potato",
+        "plants"
       ],
       "url": "https://forkranger.com/nl/low-impact-bbq/?share",
       "id": 38,
@@ -5355,7 +5356,8 @@
     },
     {
       "filter": [
-        "potato"
+        "pasta",
+        "plants"
       ],
       "url": "https://forkranger.com/nl/spaghetti-met-knoflook-en-limoen/?share",
       "id": 39,
@@ -5488,7 +5490,9 @@
     },
     {
       "filter": [
-        "pasta"
+        "pasta",
+        "fruity",
+        "plants"
       ],
       "url": "https://forkranger.com/nl/romige-pasta-met-peer/?share",
       "id": 40,
@@ -5804,7 +5808,7 @@
     },
     {
       "filter": [
-        "rice"
+        "plants"
       ],
       "url": "https://forkranger.com/nl/curry-met-zoete-aardappel-en-linzen/?share",
       "id": 42,
@@ -5959,7 +5963,9 @@
     },
     {
       "filter": [
-        "rice"
+        "rice",
+        "spicy",
+        "plants"
       ],
       "url": "https://forkranger.com/nl/indonesische-spicy-spitskool/?share",
       "id": 43,
@@ -6237,7 +6243,7 @@
     },
     {
       "filter": [
-        "rice"
+        "plants"
       ],
       "url": "https://forkranger.com/nl/vegetable-jambalaya/?share",
       "id": 45,
@@ -6594,7 +6600,8 @@
     },
     {
       "filter": [
-        "rice"
+        "rice",
+        "plants"
       ],
       "url": "https://forkranger.com/nl/biryani-met-wortel-en-bloemkool/?share",
       "id": 48,
@@ -7143,7 +7150,7 @@
     },
     {
       "filter": [
-        "plants"
+        "fruity"
       ],
       "url": "https://forkranger.com/nl/couscous-met-venkel-en-sinaasappel/?share",
       "id": 52,
@@ -7369,7 +7376,9 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "fruity",
+        "spicy"
       ],
       "url": "https://forkranger.com/nl/sweet-chili/",
       "id": 54,
@@ -7494,7 +7503,8 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "fruity"
       ],
       "url": "https://forkranger.com/nl/kokosdahl/?share",
       "id": 55,
@@ -7639,7 +7649,9 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "fruity",
+        "pasta"
       ],
       "url": "https://forkranger.com/nl/noedels-met-sinaasappelsap/?share",
       "id": 56,

@@ -7491,6 +7491,151 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/kokosdahl/?share",
+      "id": 55,
+      "title": "Kokosdahl",
+      "description": "Dahl is een Zuid Aziatische linzenstoof met heel veel smaak. In deze versie geven de een perziken een heerlijk zoete smaak terwijl de rauwe spinazie een frisse bite toevoegt. Als je geen fan bent van warm fruit kun je de perziken ook vervangen door tomaat.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/coconut-dahl-819x1024-square.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rode linzen (gedroogd)",
+          "type": "base",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Perziken uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Naan brood",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Kokosmelk",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Bouillon",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Rode curry pasta",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Sambal",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Suiker",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snij de ui in ringen",
+        "Snij de knoflook fijn",
+        "Snij de gember fijn",
+        "Snij de perziken in blokjes",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui, knoflook, gember, sambal en rode curry pasta",
+          "detail": "op middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg bouillon toe",
+          "detail": "wacht totdat het opnieuw kookt, roer goed zodat de curry pasta oplost",
+          "emoji": "",
+          "panType": "cookingPan1",
+          "time": 2
+        },
+        {
+          "title": "Voeg kokosmelk, linzen en suiker toe",
+          "detail": "laat sudderen, breng op smaak met zout en peper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Bak het naan brood in de oven",
+          "detail": "op 200°C",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Voeg limoensap en perziken toe",
+          "detail": "laat sudderen tot het geheel warm is",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Serveer de dahl op een bedje van verse spinazie en met het naan brood erbij",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

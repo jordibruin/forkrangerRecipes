@@ -1141,6 +1141,65 @@
       }
     },
     {
+      "id": 33,
+      "intro": {
+        "title": "Eet je de juiste carbs?",
+        "subtitle": "Waarom volkoren zo belangrijk is als je duurzaam wilt eten.",
+        "emoji": "🌾"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "In het gemiddelde Europese voedingspatroon, wat geeft meer eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Vlees",
+            "Granen (pasta, rijst, etc.)"
+          ],
+          "correctAnswer": "Granen (pasta, rijst, etc.)",
+          "explanationText": "Granen zoals pasta, rijst en brood zijn de belangrijkste bronnen van energie voor de mensheid.\n\nZe hebben een lage impact en zijn belangrijk voor een duurzaam voedingspatroon omdat ze ons minder afhankelijk maken van eiwit van vlees en zuivel.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Hoe is volkoren brood anders dan witbrood?",
+          "subtitle": "",
+          "answerOptions": [
+            "Het is gebakken op hogere temperaturen",
+            "De buitenste laag van het graan is niet verwijderd",
+            "Het bevat extra zaden"
+          ],
+          "correctAnswer": "De buitenste laag van het graan is niet verwijderd",
+          "explanationText": "De buitenste laag (zemelen) en kiemen zijn niet verwijderd. Dit zorgt voor een iets ‘zwaarder’ meel dat moeilijker is om op te kauwen maar wel veel meer voedingsstoffen bevat.\n\nDus op een bepaalde manier is het kiezen van niet-volkoren granen bijna een soort van voedselverspilling: we lopen perfecte voeding mis.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Wat is NIET een voordeel van volkoren?",
+          "subtitle": "",
+          "answerOptions": [
+            "Meer eiwit",
+            "Meer vezels",
+            "Minder calorieën",
+            "Meer vitamines"
+          ],
+          "correctAnswer": "Minder calorieën",
+          "explanationText": "Volkoren heeft enorme gezondheidsvoordelen: het vermindert het risico op hartaandoeningen, diabetes en verlengt je levensduur. De extra eiwitten en vezels zijn ook meer vullend waardoor je minder snel honger hebt.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Volkoren granen zijn een belangrijke bron van eiwitten",
+        "goal": "Kies zoveel mogelijk de volkoren optie",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Volkoren granen zijn een belangrijke bouwsteen van een duurzaam voedingspatroon omdat ze veel voeding leveren voor een lage impact. Hun hoge eiwitgehalte maakt ze ook een belangrijke basis om vlees en zuivel te verminderen.",
+        "emoji": "🌾"
+      }
+    },
+    {
       "id": 100,
       "intro": {
         "title": "Je eerste quiz over de impact van eten",

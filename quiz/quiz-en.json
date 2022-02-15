@@ -1158,7 +1158,7 @@
           ],
           "correctAnswer": "Cereals (pasta, rice, etc.)",
           "explanationText": "Cereals like pasta, rice and bread are the most important source of energy for humanity. They also contain a lot of protein.\n\nThey have a low impact and are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-from-cereals.png"
         },
         {
           "id": 2,
@@ -1171,7 +1171,7 @@
           ],
           "correctAnswer": "Outer layer of the grains has not been removed",
           "explanationText": "The outer layer (bran) and germ have not been removed. This creates a flour that is a bit tougher to chew but also contains a lot more nutrients.\n\nSo in a way, choosing refined instead of whole grain is almost like a form of food waste: we are missing out on perfectly good nutrition.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/What-is-whole-grain.png"
         },
         {
           "id": 3,
@@ -1185,7 +1185,7 @@
           ],
           "correctAnswer": "Fewer calories",
           "explanationText": "Whole grain has enormous health benefits: it reduces the risk of heart disease, diabetes and extends your lifespan. The extra protein and fibre are also more filling so you become hungry less quickly.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/health-benefits-of-whole-grain.png"
         }
       ],
       "outro": {
@@ -1300,7 +1300,7 @@
           ],
           "correctAnswer": "50%",
           "explanationText": "Food production takes up half of all land on Earth (excluding ice and deserts). The huge amount of space it takes to grow food is the number one reason why food plays such a big role in climate change.\n\nMost of this land is used to produce meat and dairy. Especially beef production takes up a lot of land, around 7 times more than pork or chicken per kilogram of meat.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/land-use.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/land-use-1.png"
         }
       ],
       "outro": {

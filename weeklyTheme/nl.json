@@ -494,7 +494,7 @@
       "id": 33,
       "date": 1644976800,
       "backgroundColor": "0b9d8e",
-      "title": "X",
+      "title": "Eet je de juiste carbs?",
       "recipes": [
         53,
         6,
@@ -505,6 +505,22 @@
       "category": "meat",
       "notificationTitle": "Is volkoren ook duurzaam?",
       "notificationBody": "Recept van de week: Easy pesto lasagne"
+    },
+    {
+      "id": 34,
+      "date": 1645581600,
+      "backgroundColor": "0b9d8e",
+      "title": "X",
+      "recipes": [
+        53,
+        6,
+        0,
+        15
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Welke verpakking is het beste?",
+      "notificationBody": "Recept van de week: Couscous met Venkel en Sinaasappel 🍊"
     }
   ]
 }

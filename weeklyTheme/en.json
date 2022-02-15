@@ -494,17 +494,33 @@
       "id": 33,
       "date": 1644976800,
       "backgroundColor": "f7a56d",
-      "title": "X",
+      "title": "Are you eating the right carbs?",
       "recipes": [
-        53,
-        6,
-        0,
-        15
+        51,
+        33,
+        28,
+        43
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
       "notificationTitle": "Is whole grain more sustainable?",
       "notificationBody": "Recipe of the week: Easy pesto lasagne"
+    },
+    {
+      "id": 34,
+      "date": 1645581600,
+      "backgroundColor": "f7a56d",
+      "title": "X",
+      "recipes": [
+        51,
+        33,
+        28,
+        43
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Which packaging is best?",
+      "notificationBody": "Recipe of the week: Fennel Orange Couscous"
     }
   ]
 }

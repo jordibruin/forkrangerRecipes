@@ -5219,7 +5219,8 @@
     },
     {
       "filter": [
-        "potato"
+        "potato",
+        "plants"
       ],
       "url": "https://forkranger.com/low-impact-bbq/?share",
       "id": 38,
@@ -5355,7 +5356,8 @@
     },
     {
       "filter": [
-        "potato"
+        "pasta",
+        "plants"
       ],
       "url": "https://forkranger.com/garlic-lime-pasta/?share",
       "id": 39,
@@ -5488,7 +5490,9 @@
     },
     {
       "filter": [
-        "pasta"
+        "pasta",
+        "fruity",
+        "plants"
       ],
       "url": "https://forkranger.com/creamy-pear-pasta/?share",
       "id": 40,
@@ -5804,7 +5808,7 @@
     },
     {
       "filter": [
-        "rice"
+        "plants"
       ],
       "url": "https://forkranger.com/sweet-potato-and-lentil-curry/?share",
       "id": 42,
@@ -5959,7 +5963,9 @@
     },
     {
       "filter": [
-        "rice"
+        "rice",
+        "spicy",
+        "plants"
       ],
       "url": "https://forkranger.com/indonesian-spicy-cabbage/?share",
       "id": 43,
@@ -6237,7 +6243,7 @@
     },
     {
       "filter": [
-        "rice"
+        "plants"
       ],
       "url": "https://forkranger.com/vegetable-jambalaya/?share",
       "id": 45,
@@ -6594,7 +6600,8 @@
     },
     {
       "filter": [
-        "potato"
+        "rice",
+        "plants"
       ],
       "url": "https://forkranger.com/carrot-cauliflower-biryani/?share",
       "id": 48,
@@ -7142,7 +7149,7 @@
     },
     {
       "filter": [
-        "plants"
+        "fruity"
       ],
       "url": "https://forkranger.com/fennel-orange-couscous/?share",
       "id": 52,
@@ -7368,7 +7375,9 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "fruity",
+        "spicy"
       ],
       "url": "https://forkranger.com/sweet-chilli/?share",
       "id": 54,
@@ -7493,7 +7502,8 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "fruity"
       ],
       "url": "https://forkranger.com/coconut-dahl/?share",
       "id": 55,
@@ -7638,7 +7648,9 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "fruity",
+        "pasta"
       ],
       "url": "https://forkranger.com/noodles-with-orange-juice/?share",
       "id": 56,

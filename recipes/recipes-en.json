@@ -7490,6 +7490,151 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/coconut-dahl/?share",
+      "id": 55,
+      "title": "Coconut Dahl",
+      "description": "Dahl is a South Asian lentil stew with lots of flavour. In this version, the peaches add some delicious sweetness while the raw spinach gives a fresh bite. If you’re not a fan of warm fruit, you could also replace the peaches with tomato.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/coconut-dahl-819x1024-square.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Red lentils (dried)",
+          "type": "base",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinach",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned peaches",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Naan bread",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Coconut milk",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Bouillon",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Red curry paste",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Sambal",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Sugar",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Cut onion in rings",
+        "Mince garlic",
+        "Cut ginger finely",
+        "Cut peaches in cubes",
+        "Preheat oven to 200°C"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté onion, garlic, ginger, sambal and red curry paste",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add bouillon",
+          "detail": "wait until it cooks again, stir well so the curry paste dissolves ",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add coconut milk, lentils and sugar",
+          "detail": "simmer, season with salt and pepper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Bake naan bread in the oven",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Add lime juice and peaches",
+          "detail": "simmer until warm",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Serve dahl with fresh spinach and bread on the side",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -1141,6 +1141,65 @@
       }
     },
     {
+      "id": 33,
+      "intro": {
+        "title": "Are you eating the right carbs?",
+        "subtitle": "Why whole grain is so important for eating sustainably.",
+        "emoji": "🌾"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "In the average European diet, what provides more protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Meat",
+            "Cereals (pasta, rice, etc.)"
+          ],
+          "correctAnswer": "Cereals (pasta, rice, etc.)",
+          "explanationText": "Cereals like pasta, rice and bread are the most important source of energy for humanity. They also contain a lot of protein.\n\nThey have a low impact and are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "How is whole-grain bread different from white bread?",
+          "subtitle": "",
+          "answerOptions": [
+            "It has been baked at higher temperatures",
+            "Outer layer of the grains has not been removed",
+            "It contains extra seeds"
+          ],
+          "correctAnswer": "Outer layer of the grains has not been removed",
+          "explanationText": "The outer layer (bran) and germ have not been removed. This creates a flour that is a bit tougher to chew but also contains a lot more nutrients.\n\nSo in a way, choosing refined instead of whole grain is almost like a form of food waste: we are missing out on perfectly good nutrition.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "What is NOT a benefit of whole grain?",
+          "subtitle": "",
+          "answerOptions": [
+            "More protein",
+            "More fibre",
+            "Fewer calories",
+            "More vitamins"
+          ],
+          "correctAnswer": "Fewer calories",
+          "explanationText": "Whole grain has enormous health benefits: it reduces the risk of heart disease, diabetes and extends your lifespan. The extra protein and fibre are also more filling so you become hungry less quickly.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Whole grain cereals are an important source of protein",
+        "goal": "Choose the whole grain option as much as possible",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Whole grain cereals are an important building block of a sustainable diet because they provide lots of nutrition for a low impact. Their high protein count also make them an important foundation to reduce meat and dairy.",
+        "emoji": "🌾"
+      }
+    },
+    {
       "id": 100,
       "intro": {
         "title": "Your first quiz about the impact of food",

@@ -1200,6 +1200,62 @@
       }
     },
     {
+      "id": 34,
+      "intro": {
+        "title": "Do you eat a lot that comes by plane?",
+        "subtitle": "A classic from the early days of the Fork Ranger app (while we are working hard on a new update).\n\nFlying food across the world feels like one of the big problems in our food system. But how does it work exactly?",
+        "emoji": "✈️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many food miles are air-transported? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            "23,8%",
+            "0,16%"
+          ],
+          "correctAnswer": "0,16%",
+          "explanationText": "Only 0,16% - a very tiny part - of our food comes by plane, only the products which are very perishable. Most products come by boat.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods-1024x1024.png"
+        },
+        {
+          "id": 2,
+          "title": "The emissions of products that come by boat instead of by plane is... 🚢",
+          "subtitle": "",
+          "answerOptions": [
+            "50 times lower",
+            "similar"
+          ],
+          "correctAnswer": "50 times lower",
+          "explanationText": "... 50 times lower! Large cargo ships are also polluting, but an unbelievable amount can be transported. As a result, the emissions per product are extremely low. And how concerned should we be with air-transported food compared to eating meat?",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "What has lower CO2 emissions?",
+          "subtitle": "Take 250g of each, so:",
+          "answerOptions": [
+            "Two hamburgers 🍔",
+            "Four portions air-transported green beans ✈️"
+          ],
+          "correctAnswer": "Four portions air-transported green beans ✈️",
+          "explanationText": "Air-transported food has a high footprint, but beef still ranks much higher. The pack of air-transported green beans has a similar footprint to the same amount of chicken.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/green-beans-and-meat-1024x972.png"
+        }
+      ],
+      "outro": {
+        "insight": "A tiny percentage of products come by air",
+        "goal": "Avoid the few air-transported products",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "The surprise is that the total impact of air-transported food is small, because even though the emissions per product are high, there are only few products that come by plane. Some of the most common air-transported products are in winter: \n\nFresh berries from far away\nAsparagus from Peru\nGreen beans, haricots verts and sugar snap peas from Kenya.",
+        "emoji": "✈️"
+      }
+    },
+    {
       "id": 100,
       "intro": {
         "title": "Your first quiz about the impact of food",

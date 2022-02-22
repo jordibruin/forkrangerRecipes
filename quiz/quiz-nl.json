@@ -1200,6 +1200,62 @@
       }
     },
     {
+      "id": 34,
+      "intro": {
+        "title": "Eet jij veel eten dat per vliegtuig komt?",
+        "subtitle": "Een klassieker uit de eerste dagen van de Fork Ranger app (terwijl we hard werken aan een nieuwe update).\n\nVoedsel dat de hele wereld over wordt gevlogen voelt als een van de grote problemen van ons voedselsysteem. Hoe zit dat precies?",
+        "emoji": "✈️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel procent van alle voedselkilometers worden per vliegtuig afgelegd? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            "23,8%",
+            "0,16%"
+          ],
+          "correctAnswer": "0,16%",
+          "explanationText": "Maar 0,16% - een heel klein deel - van ons eten komt per vliegtuig, alleen producten die heel kwetsbaar zijn en minder lang houdbaar. Het meeste komt per boot.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "De uitstoot van producten die per boot komen in plaats van per vliegtuig is... 🚢",
+          "subtitle": "",
+          "answerOptions": [
+            "50 keer lager",
+            "net zo groot"
+          ],
+          "correctAnswer": "50 keer lager",
+          "explanationText": "... 50 keer lager! Grote vrachtschepen zijn ook vervuilend maar er past ongelofelijk veel op. Daardoor is de uitstoot per product enorm laag. En hoe druk moeten we ons maken om ingevlogen eten vergeleken met het eten van vlees?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/emissions-of-transport-methods-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat heeft een lagere CO2 uitstoot?",
+          "subtitle": "neem van allebei 250 gram, kortom:",
+          "answerOptions": [
+            "Twee hamburgers 🍔",
+            "Vier porties ingevlogen sperziebonen ✈️"
+          ],
+          "correctAnswer": "Vier porties ingevlogen sperziebonen ✈️",
+          "explanationText": "Ingevlogen eten heeft een hoge footprint maar rundvlees scoort nog steeds veel hoger. Het pakje ingevlogen sperziebonen heeft een vergelijkbare footprint als dezelfde hoeveelheid kip.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/green-beans-and-meat-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Slechts een klein percentage van alle producten komt per vliegtuig",
+        "goal": "Vermijd die paar producten die per vliegtuig komen",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "De verrassing is dat de totale impact van ingevlogen voedsel klein is, want ook al is de uitstoot per product hoog, er zijn er maar weinig producten die per vliegtuig komen. Een paar van de meest ingevlogen producten zijn:\n\nIn de winter: Verse bessen van ver weg\n\nAsperges uit Peru\n\nSperziebonen, haricots verts en sugar snaps uit Kenia\n\nHet recept van de week is Bananen Curry, want bananen komen altijd van ver weg maar altijd per boot.",
+        "emoji": "🥜"
+      }
+    },
+    {
       "id": 100,
       "intro": {
         "title": "Je eerste quiz over de impact van eten",

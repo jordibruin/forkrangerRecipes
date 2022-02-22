@@ -510,6 +510,22 @@
       "id": 34,
       "date": 1645581600,
       "backgroundColor": "f7a56d",
+      "title": "Last time this way, app update is on the way!",
+      "recipes": [
+        1,
+        31,
+        26,
+        55
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Coming soon...🥳",
+      "notificationBody": "A few days more until the new Fork Ranger app"
+    },
+    {
+      "id": 35,
+      "date": 1646100000,
+      "backgroundColor": "f7a56d",
       "title": "X",
       "recipes": [
         51,

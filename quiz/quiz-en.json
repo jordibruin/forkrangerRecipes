@@ -1202,7 +1202,7 @@
     {
       "id": 34,
       "intro": {
-        "title": "Do you eat a lot that comes by plane?",
+        "title": "Do you know how much air-transported food you're eating?",
         "subtitle": "A classic from the early days of the Fork Ranger app (while we are working hard on a new update).\n\nFlying food across the world feels like one of the big problems in our food system. But how does it work exactly?",
         "emoji": "✈️"
       },
@@ -1251,7 +1251,7 @@
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "The surprise is that the total impact of air-transported food is small, because even though the emissions per product are high, there are only few products that come by plane. Some of the most common air-transported products appear during winter: \n\nFresh berries from far away\nAsparagus from Peru\nGreen beans, haricots verts and sugar snap peas from Kenya.",
+        "title": "The surprise is that the total impact of air-transported food is small, because even though the emissions per product are high, there are only few products that come by plane. Some of the most common air-transported products appear during winter: \n\n- Fresh berries from far away\n- Asparagus from Peru\n- Green beans, haricots verts and sugar snap peas from Kenya.",
         "emoji": "✈️"
       }
     },

@@ -7774,6 +7774,147 @@
           "panType": "fryingPan1"
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/curry-met-biet-en-pompoen/?share",
+      "id": 57,
+      "title": "Curry met Biet en Pompoen",
+      "description": "Deze curry boordevol groenten vergt wat snijwerk voor de pompoen (behalve als je voorgesneden pompoenstukjes te hebt kunnen vinden) maar verder is het een heel eenvoudig eenpansrecept. De rode biet geeft een mooie kleur en samen met het citroensap is dit een frisse en heerlijke low-carb curry.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/Beetroor-and-pumpkin-curry.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Pompoen (stukjes)",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": "kg"
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode linzen (gedroogd)",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Biet (voorgekookt)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Amandelen",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Rode curry pasta",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 800,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 20,
+      "prepSteps": [
+        "Schil de pompoen en snij in 2 cm blokjes",
+        "Snij de ui in ringen",
+        "Snij de knoflook fijn",
+        "Snij de gember fijn"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Kook water en maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Fruit de ui, pompoen, knoflook en gember",
+          "detail": "op middelhoog vuur",
+          "emoji": "",
+          "panType": "cookingPan1",
+          "time": 5
+        },
+        {
+          "title": "Voeg de linzen, pindakaas en curry pasta toe",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg bouillon toe",
+          "detail": "proef en voeg zo nodig zout en peper toe, breng aan de kook en laat sudderen met de deksel erop",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 12
+        },
+        {
+          "title": "Hak ondertussen de amandelen en snij de bieten in 1 cm blokjes",
+          "detail": "tip: snij de rode biet op een bord in plaats van op een houten snijplank om rode vlekken te voorkomen",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg spinazie, bieten en limoensap toe",
+          "detail": "zet het vuur uit en wacht tot de spinazie geslonken is, proef en voeg zo nodig zout en peper toe ",
+          "emoji": "",
+          "panType": "cookingPan1",
+          "time": 5
+        },
+        {
+          "title": "Serveer met gehakte amandelen",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

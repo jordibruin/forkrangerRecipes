@@ -7773,6 +7773,147 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/beetroot-and-pumpkin-curry/?share",
+      "id": 57,
+      "title": "Beetroot and Pumpkin Curry",
+      "description": "This veggie-packed curry takes a bit of cutting work for the pumpkin (except if you got hold of pre-cut pumpkin pieces) but otherwise it’s a very easy one-pot recipe. The beetroot gives a lovely colour and together with the lemon juice this is a fresh and satisfying low-carb curry.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/Beetroor-and-pumpkin-curry.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Pumpkin (cut pieces)",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": "kg"
+        },
+        {
+          "name": "Spinach",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red lentils (dried)",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Beetroot (pre-cooked)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Almonds",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Peanut butter",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Red curry paste",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 800,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 20,
+      "prepSteps": [
+        "Peel pumpkin and cut into 2 cm cubes",
+        "Cut onion into rings",
+        "Mince garlic",
+        "Mince or grate ginger finely"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Boil water and make bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Sauté onion, pumpkin, garlic and ginger",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add lentils, peanut butter and curry paste",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add bouillon",
+          "detail": "taste and add salt and pepper if needed, bring to boil and then simmer with lid on",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 12
+        },
+        {
+          "title": "In the meantime, chop almonds and cut beetroot into 1 cm cubes",
+          "detail": "tip: cut the beetroot on a plate or plastic cutting board instead of a wooden cutting board to avoid the red stains",
+          "emoji": ""
+        },
+        {
+          "title": "Add spinach, beetroot and lemon juice",
+          "detail": "turn off the heat and wait until the spinach has shrunk, taste and add salt and pepper if needed",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Serve with chopped almonds",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -1427,6 +1427,470 @@
         "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
         "emoji": "💪"
       }
+    },
+    {
+      "id": 103,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 104,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 105,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 106,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 107,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 108,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 109,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 110,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
     }
   ]
 }

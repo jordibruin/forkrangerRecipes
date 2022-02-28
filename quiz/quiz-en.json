@@ -1427,6 +1427,470 @@
         "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
         "emoji": "💪"
       }
+    },
+    {
+      "id": 103,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 104,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 105,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 106,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 107,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 108,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 109,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 110,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
     }
   ]
 }

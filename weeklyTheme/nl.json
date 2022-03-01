@@ -526,17 +526,49 @@
       "id": 35,
       "date": 1646186400,
       "backgroundColor": "0b9d8e",
-      "title": "X",
+      "title": "Het aftellen is begonnen",
       "recipes": [
-        53,
-        6,
-        0,
-        15
+        56,
+        21,
+        36,
+        41
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
       "notificationTitle": "Coming soon...🥳",
       "notificationBody": "Nog een paar nachtjes slapen tot de nieuwe Fork Ranger app"
+    },
+    {
+      "id": 36,
+      "date": 1646618400,
+      "backgroundColor": "0b9d8e",
+      "title": "Nieuwe app update beschikbaar",
+      "recipes": [
+        56,
+        21,
+        36,
+        41
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "En downloaden maar...",
+      "notificationBody": "De nieuwe app update staat klaar!"
+    },
+    {
+      "id": 37,
+      "date": 1672452000,
+      "backgroundColor": "0b9d8e",
+      "title": "X",
+      "recipes": [
+        56,
+        21,
+        36,
+        41
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "En downloaden maar...",
+      "notificationBody": "De nieuwe app update staat klaar!"
     }
   ]
 }

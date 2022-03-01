@@ -1256,6 +1256,124 @@
       }
     },
     {
+      "id": 35,
+      "intro": {
+        "title": "The countdown has started",
+        "subtitle": "Monday this app will receive an amazing update and we can’t wait to show it to you 🤩 Here is a small ‘behind the scenes’ quiz.",
+        "emoji": "⏳"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many people pay a lot of attention to the environmental impact of their food choices?",
+          "subtitle": "in relation to not caring, paying few and some attention",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Just 10%, and we understand that. Paying attention costs energy. And for many people paying attention to sustainability feels like a big, complex thing. Where do you start?\n\nIn the new app we will go on a journey to discover simple guidelines that make a big difference.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What is the main reason preventing people from eating sustainably?",
+          "subtitle": "",
+          "answerOptions": [
+            "Too expensive",
+            "Lack of information how to do so",
+            "Lack of sustainable food in usual shopping places"
+          ],
+          "correctAnswer": "Too expensive",
+          "explanationText": "Most people think it’s too expensive. This is probably built upon the idea that sustainable food means is about buying everything organic. But it’s more about the type of ingredients you choose, and not whether they are organic.\n\nThat’s why we keep including easy recipes so you can put your new insights into practice right away. No worries, your saved recipes will remain when updating to the new version.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "How many people who eat meat say they actually want to eat less meat?",
+          "subtitle": "research among Dutch citizens",
+          "answerOptions": [
+            "1 out of 3",
+            "1 out of 4",
+            "1 out of 5"
+          ],
+          "correctAnswer": "1 out of 3",
+          "explanationText": "A little over a third of the meat eaters wants to eat less meat. That’s great news! It’s the no. 1 measure that helps to reduce the footprint of our food.\n\nThere is already a large group who wants to change their eating patterns. We hope the new Fork Ranger app makes it easier to achieve this! Make sure you share your new app experience within your circles so more people can benefit from it.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Many people are willing to change their eating habits, it just needs to be more simple and fun",
+        "goal": "Download the new version on Monday, and share with friends",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Monday we will launch the new update of the app. Make sure to turn on automatic updates in the settings of your iPhone :-)\n\nSee you on Monday and may the forks be with you!\n\nThe Fork Ranger team",
+        "emoji": "🌟"
+      }
+    },
+    {
+      "id": 36,
+      "intro": {
+        "title": "New app update available",
+        "subtitle": "For this app there's an amazing update",
+        "emoji": "🤩"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many people pay a lot of attention to the environmental impact of their food choices?",
+          "subtitle": "in relation to not caring, paying few and some attention",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Just 10%, and we understand that. Paying attention costs energy. And for many people paying attention to sustainability feels like a big, complex thing. Where do you start?\n\nIn the new app we will go on a journey to discover simple guidelines that make a big difference.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What is the main reason preventing people from eating sustainably?",
+          "subtitle": "",
+          "answerOptions": [
+            "Too expensive",
+            "Lack of information how to do so",
+            "Lack of sustainable food in usual shopping places"
+          ],
+          "correctAnswer": "Too expensive",
+          "explanationText": "Most people think it’s too expensive. This is probably built upon the idea that sustainable food means is about buying everything organic. But it’s more about the type of ingredients you choose, and not whether they are organic.\n\nThat’s why we keep including easy recipes so you can put your new insights into practice right away. No worries, your saved recipes will remain when updating to the new version.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "How many people who eat meat say they actually want to eat less meat?",
+          "subtitle": "research among Dutch citizens",
+          "answerOptions": [
+            "1 out of 3",
+            "1 out of 4",
+            "1 out of 5"
+          ],
+          "correctAnswer": "1 out of 3",
+          "explanationText": "A little over a third of the meat eaters wants to eat less meat. That’s great news! It’s the no. 1 measure that helps to reduce the footprint of our food.\n\nThere is already a large group who wants to change their eating patterns. We hope the new Fork Ranger app makes it easier to achieve this! Make sure you share your new app experience within your circles so more people can benefit from it.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Many people are willing to change their eating habits, it just needs to be more simple and fun",
+        "goal": "Download the new version, and share with friends",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "See you in the new app and may the forks be with you!\n\nThe Fork Ranger team",
+        "emoji": "🌟"
+      }
+    },
+    {
       "id": 100,
       "intro": {
         "title": "Your first quiz about the impact of food",

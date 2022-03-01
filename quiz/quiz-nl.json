@@ -1256,6 +1256,124 @@
       }
     },
     {
+      "id": 35,
+      "intro": {
+        "title": "Het aftellen is begonnen",
+        "subtitle": "Maandag zal deze app een grote update ondergaan en we kunnen niet wachten het je te laten zien 🤩! Hier is alvast een kleine ‘behind the scenes’ quiz.",
+        "emoji": "⏳"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel mensen besteden veel aandacht aan de klimaatimpact van hun voedselkeuzes?",
+          "subtitle": "in relatie tot helemaal niet, weinig en een beetje aandacht",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Maar 10%, en dat begrijpen we. Ergens aandacht aan besteden kost energie. En voor veel mensen voelt het alsof duurzaamheid een groot, complex ding is. Waar begin je?\n\nIn de nieuwe app gaan we op reis om *simpele* richtlijnen die een groot verschil maken te ontdekken.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is de hoofdreden die mensen weerhoudt van duurzaam eten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Te duur",
+            "Te weinig informatie over hoe je dat doet",
+            "Weinig duurzame opties in the gebruikelijke winkels"
+          ],
+          "correctAnswer": "Te duur",
+          "explanationText": "Dus, de meeste mensen denken dat het te duur is. Dit komt waarschijnlijk door het idee dat duurzaam eten betekent dat alles biologisch moet zijn. Maar duurzaam eten heeft veel meer te maken met welke ingrediënten je kiest, in plaats van of ze biologisch zijn of niet.\n\nDat is waarom we makkelijke recepten zullen houden zodat je meteen je nieuwe inzichten in praktijk kan brengen. En geen zorgen, je opgeslagen recepten zullen blijven als je de nieuwe versie downloadt.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel mensen die vlees eten zeggen dat ze minder vlees willen eten?",
+          "subtitle": "onderzoek onder Nederlandse burgers",
+          "answerOptions": [
+            "1 uit 3",
+            "1 uit 4",
+            "1 uit 5"
+          ],
+          "correctAnswer": "1 uit 3",
+          "explanationText": "Iets meer dan één derde van de vleeseters wil minder vlees eten. Dat is fantastisch nieuws! Het is namelijk de nummer 1 actie die enorm helpt om onze impact te verkleinen.\n\nEr is dus al een grote groep die echt hun eetgewoontes wil aanpassen. We hopen dat de nieuwe Fork Ranger app het gemakkelijker maakt dit ook echt te bereiken! Zorg ervoor dat je de nieuwe app ervaring in je kringen deelt zodat meer mensen ervan kunnen profiteren.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Meer mensen zijn bereid hun eetgewoontes te veranderen, het moet alleen makkelijker en leuker worden",
+        "goal": "Download de nieuwe versie en deel die met vrienden",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Maandag zullen we nieuwe update van de app lanceren. Zorg ervoor dat je automatische updates aanstaan in de instellingen van je iPhone :-)\n\nWe zien je maandag en may the forks be with you!\n\nHet Fork Ranger Team",
+        "emoji": "🌟"
+      }
+    },
+    {
+      "id": 36,
+      "intro": {
+        "title": "Nieuwe app update beschikbaar",
+        "subtitle": "Voor deze app is er een geweldige update",
+        "emoji": "🤩"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel mensen besteden veel aandacht aan de klimaatimpact van hun voedselkeuzes?",
+          "subtitle": "in relatie tot helemaal niet, weinig en een beetje aandacht",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Maar 10%, en dat begrijpen we. Ergens aandacht aan besteden kost energie. En voor veel mensen voelt het alsof duurzaamheid een groot, complex ding is. Waar begin je?\n\nIn de nieuwe app gaan we op reis om *simpele* richtlijnen die een groot verschil maken te ontdekken.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is de hoofdreden die mensen weerhoudt van duurzaam eten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Te duur",
+            "Te weinig informatie over hoe je dat doet",
+            "Weinig duurzame opties in the gebruikelijke winkels"
+          ],
+          "correctAnswer": "Te duur",
+          "explanationText": "Dus, de meeste mensen denken dat het te duur is. Dit komt waarschijnlijk door het idee dat duurzaam eten betekent dat alles biologisch moet zijn. Maar duurzaam eten heeft veel meer te maken met welke ingrediënten je kiest, in plaats van of ze biologisch zijn of niet.\n\nDat is waarom we makkelijke recepten zullen houden zodat je meteen je nieuwe inzichten in praktijk kan brengen. En geen zorgen, je opgeslagen recepten zullen blijven als je de nieuwe versie downloadt.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel mensen die vlees eten zeggen dat ze minder vlees willen eten?",
+          "subtitle": "onderzoek onder Nederlandse burgers",
+          "answerOptions": [
+            "1 uit 3",
+            "1 uit 4",
+            "1 uit 5"
+          ],
+          "correctAnswer": "1 uit 3",
+          "explanationText": "Iets meer dan één derde van de vleeseters wil minder vlees eten. Dat is fantastisch nieuws! Het is namelijk de nummer 1 actie die enorm helpt om onze impact te verkleinen.\n\nEr is dus al een grote groep die echt hun eetgewoontes wil aanpassen. We hopen dat de nieuwe Fork Ranger app het gemakkelijker maakt dit ook echt te bereiken! Zorg ervoor dat je de nieuwe app ervaring in je kringen deelt zodat meer mensen ervan kunnen profiteren.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Meer mensen zijn bereid hun eetgewoontes te veranderen, het moet alleen makkelijker en leuker worden",
+        "goal": "Download de nieuwe versie en deel die met vrienden",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We zien je in de nieuwe app en may the forks be with you!\n\nHet Fork Ranger Team",
+        "emoji": "🌟"
+      }
+    },
+    {
       "id": 100,
       "intro": {
         "title": "Je eerste quiz over de impact van eten",

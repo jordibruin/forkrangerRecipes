@@ -526,6 +526,38 @@
       "id": 35,
       "date": 1646186400,
       "backgroundColor": "f7a56d",
+      "title": "The countdown has started",
+      "recipes": [
+        56,
+        21,
+        36,
+        41
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Coming soon...🥳",
+      "notificationBody": "A few days more until the new Fork Ranger app"
+    },
+    {
+      "id": 36,
+      "date": 1646618400,
+      "backgroundColor": "f7a56d",
+      "title": "New app update available",
+      "recipes": [
+        51,
+        33,
+        28,
+        43
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Ready to download!",
+      "notificationBody": "The new app update is live"
+    },
+    {
+      "id": 37,
+      "date": 1672452000,
+      "backgroundColor": "f7a56d",
       "title": "X",
       "recipes": [
         51,
@@ -535,8 +567,8 @@
       ],
       "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
       "category": "meat",
-      "notificationTitle": "Coming soon...🥳",
-      "notificationBody": "A few days more until the new Fork Ranger app"
+      "notificationTitle": "Ready to download!",
+      "notificationBody": "The new app update is live"
     }
   ]
 }

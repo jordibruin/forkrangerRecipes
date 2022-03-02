@@ -1549,233 +1549,235 @@
     {
       "id": 103,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
-        "emoji": "💪"
+        "title": "The Food Waste Monster",
+        "subtitle": "Elke dag voeden we een gigantisch monster. Het eet één derde van al ons eten. Wat kunnen we daaraan doen?",
+        "emoji": "🗑"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "title": "Voedselverspilling wereldwijd halveren bespaart 7 keer meer emissies dan...",
           "subtitle": "",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "1/3 van alle auto’s door elektrische vervangen",
+            "1/4 van alle electriciteit met windturbines op land opwekken"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+          "correctAnswer": "1/3 van alle auto’s door elektrische vervangen",
+          "explanationText": "Eén derde van al ons eten wordt verspild en dit heeft veel negatieve gevolgen.\n\nProject Drawdown berekende verschillende acties om emissies te verminderen en het vermijden van voedselverspilling is de allerbelangrijkste oplossing!",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "title": "In Westerse landen wordt het meeste voedsel verspild...",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Tijdens productie",
+            "In de supermarkt",
+            "Thuis"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+          "correctAnswer": "Thuis",
+          "explanationText": "...thuis. Meer dan de helft van alle voedselverspilling in Noord-Amerika en Europa vindt thuis plaats, bij ons als consument. Dat bekent dat we allemaal hierin een belangrijke rol hebben!\n\nDat voedselverspilling zonde is, begrijpen we allemaal. Maar hoe is het precies gelinkt aan klimaatverandering?",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Wat gebeurt er als we ons bord niet leeg eten?",
+          "subtitle": "Het ergste is...",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "Rottende restjes veroorzaken veel methaan emissies",
+            "Dat je de totale benodigde voedselproductie verhoogt",
+            "Dat het food waste monster je komt halen"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+          "correctAnswer": "Dat je de totale benodigde voedselproductie verhoogt",
+          "explanationText": "Meer voedselverspilling ➡️ Meer voedselproductie ➡️ Meer landgebruik, meer pesticiden, etc.\n\nAls het je lukt een klein restje te bewaren heb je later een kosteloze maaltijd. Het lijkt misschien onbelangrijk of je een half broodje redt. Maar als 1% van alle Europeanen een half broodje redt, is dat samen 3-4 miljoen broodjes die niet geproduceerd hoeven te worden.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
-        "impact": 3,
+        "insight": "Wij kunnen iets doen aan het grote probleem van voedselverspilling",
+        "goal": "Red voedselrestjes van verspilling wanneer je maar kunt",
+        "impact": 4,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "Eén derde van al het voedsel dat we produceren wordt nooit gegeten. Dat maakt alle negatieve gevolgen van ons voedselsysteem veel groter dan ze zouden kunnen zijn.\n\nIn Europa en Noord-Amerika wordt het meeste voedsel verspild door de consument. Dat geeft ons allemaal een missie om zoveel mogelijk voedsel van verspilling te redden. Het is tijd om te stoppen met het voeden van het food waste monster!",
+        "emoji": "🗑"
       }
     },
     {
       "id": 104,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
-        "emoji": "💪"
+        "title": "Hoe word je een Food Waste Warrior",
+        "subtitle": "Niet alle voedselverspilling is hetzelfde, dus waar kan ons gedrag het grootste verschil maken?",
+        "emoji": "⚔️"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "title": "Wat is wereldwijd het meest verspilde product als je kijkt naar verspilde calorieën?",
           "subtitle": "",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "Granen (bv. brood & pasta)",
+            "Groente en fruit",
+            "Vlees"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+          "correctAnswer": "Granen (bv. brood & pasta)",
+          "explanationText": "Wereldwijd bestaan 53% van alle verspilde calorieën uit granen. In Nederlandse huishoudens is brood ook het meest verspilde product als je kijkt naar het gewicht.\n\nEn hoe ziet dit plaatje eruit als we naar de CO2 impact van voedselverspilling kijken?",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "title": "De CO2 impact van verspild brood is hoger dan dat van verspild rundvlees",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Waar",
+            "Niet waar"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+          "correctAnswer": "Waar",
+          "explanationText": "Tarwe heeft een enorme impact op voedselverspilling. Niet omdat de impact van één brood zo groot is, maar omdat we zoveel brood en pasta verspillen.\n\nZoals je ziet, maken dranken ook deel uit van voedselverspilling. Melk of koffie door de gootsteen gooien heeft ook een grote impact, zelfs meer dan een heel seizoen Formule 1!",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Een Duitse studie keek naar waarom mensen brood weggooien. Wat is de voornaamste reden?",
+          "subtitle": "",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "Voorbij de houdbaarheidsdatum",
+            "Te veel gekocht",
+            "Er geen zin in hebben"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+          "correctAnswer": "Er geen zin in hebben",
+          "explanationText": "Brood verspillen gaat over onze houding: voelen we ons te goed om een broodkapje te eten? Of zien we het als waardevol voedsel?\n\nLaten we onszelf eraan herinneren dat eten een eerste levensbehoefte is. Het is te waardevol om weg te gooien, zelfs als ons oude brood een beetje hard is geworden.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
-        "impact": 3,
+        "insight": "Een van de meest verspilde producten is brood",
+        "goal": "Leer om van je oud brood en broodkapjes te houden",
+        "impact": 4,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "De eerste stap in het worden van een food waste warrior is het veranderen van ons perspectief op ons eten: het is een van de meest waardevolle dingen in de wereld.\n\nEn wat is een betere manier om dit te oefenen dan oud brood en broodkapjes te eten: het symbool van voedselverspilling en iets dat we bijna elke dag kunnen doen. Dus dip dat broodje in de soep of haal je broodrooster tevoorschijn!",
+        "emoji": "⚔️"
       }
     },
     {
       "id": 105,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
-        "emoji": "💪"
+        "title": "The Fellowship of the Fork",
+        "subtitle": "Je bent al erg ver gereisd! Voordat we verder gaan met het ontdekken van het voedselsysteem, moeten we een belangrijk topic bespreken.",
+        "emoji": "🧙‍♂️"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "title": "Wat bespaart meer emissies?",
           "subtitle": "",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "1 persoon die veganistisch eet",
+            "2 personen die vegetarisch eten",
+            "3 personen die rundvlees door varkensvlees/kip vervangen"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+          "correctAnswer": "3 personen die rundvlees door varkensvlees/kip vervangen",
+          "explanationText": "Eén ander persoon inspireren om rundvlees te vervangen door kip maakt veel meer verschil dan zelf op zoek te gaan naar de meest duurzame komkommer.\n\nEten is een sociaal iets. En de oplossing naar een duurzaam voedselsysteem moet dat dus ook zijn!",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "title": "Wat is de hoofdreden die mensen ervan weerhoudt minder vlees te eten?",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Niet geloven dat vlees bijdraagt aan klimaatverandering",
+            "Niet willen veranderen van gedrag",
+            "Zich niet een andere manier van eten kunnen voorstellen"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+          "correctAnswer": "Zich niet een andere manier van eten kunnen voorstellen",
+          "explanationText": "De meeste mensen zijn het met de feiten eens. Maar als je gewend bent om bij elke maaltijd vlees te eten, kan het lastig zijn om je voor te stellen hoe een alternatief er uitziet. Het eerste ding waar vaak aan wordt gedacht is het eten van alleen maar salades en we moeten zeggen: dat klinkt ook wel beangstigend!\n\nHet kost tijd om het idee dat een ‘goede maaltijd’ vlees moet bevatten los te laten. Gelukkig hebben we heel veel makkelijke recepten in deze app waar de meeste mensen het vlees niet missen😉",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Wat werkt het beste om anderen te inspireren een nieuwe gewoonte te ontwikkelen?",
+          "subtitle": "",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "Shockerende feiten",
+            "Logische argumenten",
+            "Kleine stapjes"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+          "correctAnswer": "Kleine stapjes",
+          "explanationText": "Mensen zijn niet overtuigd door logica of shockerende feiten. De beste manier om een nieuwe gewoonte je eigen te maken is om een makkelijke oplossing aan te bieden dat bijna bizar simpel voelt. Zoals het vervangen van rundvlees door kip.\n\nOp deze manier voelen mensen zich niet overweldigd. En wanneer ze deze kleine stap hebben behaald, dan zijn ze gemotiveerd om door te gaan.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
-        "impact": 3,
+        "insight": "Anderen helpen rundvlees te vervangen, maakt een groter verschil dan je eigen keuzes perfectioneren",
+        "goal": "Nodig je vrienden uit voor een duurzaam diner en deel het recept",
+        "impact": 4,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "Wanneer je al gestart bent met het eten van minder rundvlees is het op een na beste wat je kan doen anderen inspireren om hetzelfde doen.\n\nEn daarbij: op ontdekkingsreis gaan is veel beter als je niet alleen bent. Dus tijd om je vrienden en familie uit te nodigen deel te worden van de Fork Community! \n\n*epische muziek start*",
+        "emoji": "🧙‍♂️"
       }
     },
     {
       "id": 106,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
-        "emoji": "💪"
+        "title": "The Fading Forest",
+        "subtitle": "Er is iets heel erg mis in dit bos, meer en meer bomen verdwijnen. Wat is er aan de hand?!",
+        "emoji": "🪓"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "title": "Wat is de grootste oorzaak van ontbossing?",
           "subtitle": "",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "Papier & hout",
+            "Rundvlees",
+            "Soja"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+          "correctAnswer": "Rundvlees",
+          "explanationText": "Bijna alle ontbossing vindt plaats in tropische en subtropische landen en het merendeel wordt veroorzaakt door rundvlees in Zuid-Amerika.\n\nMaar soja speelt ook een belangrijke rol in de vernietiging van bossen.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "title": "77% van alle soja wordt gebruikt voor...",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Vlees- en zuivelvervangers",
+            "Veevoer",
+            "Olie"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+          "correctAnswer": "Veevoer",
+          "explanationText": "Het grootste deel van soja wordt gebruikt als veevoer, vooral voor kippen en varkens. Soja voor producten zoals yoghurt en tofu is maar een klein deel van de gehele sojaproductie.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Wat heeft een vergelijkbare impact als een blok tofu?",
+          "subtitle": "een blok tofu is ongeveer 400 g",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "🥓 Spekjes (125 g)",
+            "🍔 4 hamburgers (400 g)",
+            "🍗 4 kippendijen (500 g)"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+          "correctAnswer": "🥓 Spekjes (125 g)",
+          "explanationText": "Er zijn 2 belangrijke conclusies hier:\n\n1. Je kunt ook je impact verminderen door kleinere porties vlees te eten. Ook al heeft varkensvlees een grotere impact dan kip, 125 g spekjes is beter dan 500 g kip.\n\n2. Voor hetzelfde gewicht is tofu zeker de meest duurzame keuze.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
-        "impact": 3,
-        "impactReason": ""
+        "insight": "De meeste ontbossing wordt veroorzaakt door vlees, soja voor mensen is prima",
+        "goal": "Voel je niet slecht over het eten van sojaproducten",
+        "impact": 4,
+        "impactReason": "(als je vlees en/of zuivel vervangt door sojaproducten)"
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "Soja heeft een erg slechte reputatie en zorgt inderdaad voor ontbossing. Maar dat is omdat de meeste soja wordt gebruikt als veevoer. ",
+        "emoji": "🌲"
       }
     },
     {
@@ -1839,59 +1841,60 @@
     {
       "id": 108,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
-        "emoji": "💪"
+        "title": "Whole Grain",
+        "subtitle": "Waarom volkoren zo belangrijk is als je duurzaam wilt eten.",
+        "emoji": "🌾"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "title": "In het gemiddelde Europese voedingspatroon, wat geeft meer eiwit?",
           "subtitle": "",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "Vlees",
+            "Granen (pasta, rijst, etc.)"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+          "correctAnswer": "Granen (pasta, rijst, etc.)",
+          "explanationText": "Granen zoals pasta, rijst en brood zijn de belangrijkste bronnen van energie voor de mensheid.\n\nZe hebben een lage impact en zijn belangrijk voor een duurzaam voedingspatroon omdat ze ons minder afhankelijk maken van eiwit van vlees en zuivel.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "title": "Hoe is volkoren brood anders dan witbrood?",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Het is gebakken op hogere temperaturen",
+            "De buitenste laag van het graan is niet verwijderd",
+            "Het bevat extra zaden"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+          "correctAnswer": "De buitenste laag van het graan is niet verwijderd",
+          "explanationText": "De buitenste laag (zemelen en kiemen) zijn niet verwijderd. Dit zorgt voor een iets ‘zwaarder’ meel dat moeilijker is om op te kauwen maar wel veel meer voedingsstoffen bevat.\n\nDus op een bepaalde manier is het kiezen van niet-volkoren granen bijna een soort van voedselverspilling: we lopen perfecte voeding mis.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Wat is NIET een voordeel van volkoren?",
+          "subtitle": "",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "Meer eiwit",
+            "Meer vezels",
+            "Minder calorieën",
+            "Meer vitamines"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+          "correctAnswer": "Minder calorieën",
+          "explanationText": "Volkoren heeft enorme gezondheidsvoordelen: het vermindert het risico op hartaandoeningen, diabetes en verlengt je levensduur. De extra eiwitten en vezels zijn ook meer vullend waardoor je minder snel honger hebt.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "insight": "Volkoren granen zijn een belangrijke bron van eiwitten",
+        "goal": "Kies zoveel mogelijk de volkoren optie",
         "impact": 3,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "Volkoren granen zijn een belangrijke bouwsteen van een duurzaam voedingspatroon omdat ze veel voeding leveren voor een lage impact. Hun hoge eiwitgehalte maakt ze ook een belangrijke basis om vlees en zuivel te verminderen.",
+        "emoji": "🌾"
       }
     },
     {
@@ -1955,59 +1958,58 @@
     {
       "id": 110,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
-        "emoji": "💪"
+        "title": "Hidden Milk",
+        "subtitle": "X",
+        "emoji": "🥛"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "title": "Waar wordt de meeste melk voor gebruikt?",
           "subtitle": "",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "Kaas",
+            "Boter",
+            "Melk om te drinken"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+          "correctAnswer": "Kaas",
+          "explanationText": "Een blokje kaas lijkt klein maar er is veel melk in ‘verborgen’. Dat betekent dat kaas een hoge impact heeft. Voor de meeste mensen is dit de meest ongemakkelijke waarheid over duurzaam eten. Vooral omdat veel vegetariërs vlees vervangen door kaas.\n\nMaar als je een kaasliefhebber bent: wordt niet meteen wanhopig, je hoeft kaas niet helemaal op te geven.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "title": "Zachte kaas maken kost minder melk dan harde kaas",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Waar",
+            "Niet waar"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-NL-1.png"
+          "correctAnswer": "Waar",
+          "explanationText": "Dat betekent dat de CO2 impact van een kilogram harde kaas hoger is dan zachte kaas.\n\nMaar dat is niet het hele verhaal. We gebruiken namelijk vaak grotere hoeveelheden zachte kaas.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Wat heeft een lagere impact?",
+          "subtitle": "",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "Vegetarische lasagne met 200 g mozzarella",
+            "Risotto met 50 g parmezaanse kaas en 50 g boter"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison-NL.png"
+          "correctAnswer": "Risotto met 50 g parmezaanse kaas en 50 g boter",
+          "explanationText": "De portiegroottes van kaas verminderen maakt al een heel groot verschil. Onze favoriete manier om dat te doen: een heerlijke kwaliteit Parmezaanse kaas en de fijnste rasp. Je zult meer geraspte kaasdeeltjes hebben en daardoor minder kaas om dezelfde smaak te proeven🙂",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "insight": "De meeste melk is ‘verborgen’ in kaas",
+        "goal": "Vervang vlees niet door kaas en gebruik kleinere hoeveelheden",
         "impact": 3,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "Veel melk is ‘verborgen’ in kaas. Dat maakt het het zuivelproduct met de hoogste impact.\n\nWe hoeven kaas niet volledig op te geven. Het gaat erom het als luxe product te behandelen: het niet elke dag te eten en de portiegroottes te verminderen.",
+        "emoji": "🧀"
       }
     }
   ]

@@ -1174,7 +1174,7 @@
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/What-is-whole-grain.png"
         },
         {
-          "id": 3,
+          "id": 108,
           "title": "What is NOT a benefit of whole grain?",
           "subtitle": "",
           "answerOptions": [
@@ -1549,239 +1549,241 @@
     {
       "id": 103,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
-        "emoji": "💪"
+        "title": "The Food Waste Monster",
+        "subtitle": "Everyday, we are feeding a giant monster. It consumes one third of all our food. What can we do about it?",
+        "emoji": "🗑"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
+          "title": "Worldwide, cutting food waste in half saves 7 times more emissions than...",
           "subtitle": "",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "converting 1/3 of all cars to electrical cars",
+            "producing 1/4 of all electricity by wind turbines"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "converting 1/3 of all cars to electrical cars",
+          "explanationText": "One third of of all food is wasted and this creates a lot of problems.\n\nProject Drawdown calculated various actions to reduce emissions and found that reducing food waste is the number one solution!",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
+          "title": "In Western countries, most food is wasted...",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            "during production",
+            "at the supermarket",
+            "at home"
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "correctAnswer": "at home",
+          "explanationText": "... at home. More than half of all food waste in North America and Europe happens at consumption. That means all of us have a role to play.\n\nWe all understand that wasting food is a shame. But, how exactly is it related to climate change?",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "What happens when you don’t finish your plate?",
+          "subtitle": "The worst thing is",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "rotting leftovers cause lots of methane emissions",
+            "you increase the total amount of food that needs to be produced",
+            "the food waste monster comes after you"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "correctAnswer": "you increase the total amount of food that needs to be produced",
+          "explanationText": "More food waste ➡️ More food production ➡️ More land use, more pesticides, etc.\n\nSaving a small leftover means that you can later have a ‘free’ meal. It might seem insignificant whether you save half a sandwich. But if 1% of Europeans save half a sandwich, that’s 3-4 million sandwiches worth of food that doesn’t need to be produced.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
-        "impact": 3,
+        "insight": "We can do something about the huge problem of food waste",
+        "goal": "Save food leftovers whenever you can",
+        "impact": 4,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "One third of all the food we produce is never eaten. That makes all the negative effects of our food system much larger than they should be.\n\nIn Europe and North America, most food is wasted during consumption. That gives all of us the mission to save as much food as possible. It’s time to stop feeding the food waste monster!",
+        "emoji": "🗑"
       }
     },
     {
       "id": 104,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
-        "emoji": "💪"
+        "title": "How to become a food waste warrior",
+        "subtitle": "Not all food waste is the same, so where can our actions make the biggest difference?",
+        "emoji": "⚔️"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
+          "title": "What makes up more than half of all wasted calories?",
           "subtitle": "",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "Cereals (e.g. bread and pasta)",
+            "Fruits and vegetables",
+            "Meat"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "Cereals (e.g. bread and pasta)",
+          "explanationText": "Worldwide, 53% of all wasted calories come from cereals. In Dutch households, bread is also the most wasted product in terms of weight.\n\nWhat if we look at the carbon footprint of wasted food?",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
+          "title": "The carbon footprint of wasted bread is higher than that of wasted beef",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            true,
+            false
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "correctAnswer": true,
+          "explanationText": "Wheat has a massive food waste impact. Not because the impact of one bread is high, but because we waste so much bread and pasta.\n\nAs you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint, even more than a whole season of Formula 1!",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "A German study looked at why people throw away bread. What was the main reason?",
+          "subtitle": "",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "Passed expiration date",
+            "Bought too much",
+            "Didn’t feel like it"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "correctAnswer": "Didn’t feel like it",
+          "explanationText": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
-        "impact": 3,
+        "insight": "One of the most wasted products is bread",
+        "goal": "Learn to love old bread and bread crusts",
+        "impact": 4,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "The first step of becoming a food waste warrior is changing our perspective of food: it’s one of the most valuable things in the world.\n\nAnd what’s a better way to practice this than eating old bread and bread crusts: the symbol of food waste and something we can do almost every day. So dip that bread into soup or get out the toaster!",
+        "emoji": "⚔️"
       }
     },
     {
       "id": 105,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
-        "emoji": "💪"
+        "title": "The Fellowship of the Fork",
+        "subtitle": "You’ve already travelled quite far! Before we continue our journey through the food system, we need to address an important topic.",
+        "emoji": "🧙‍♂️"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
+          "title": "What saves more emissions?",
           "subtitle": "",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "1 person who eats vegan",
+            "2 people who eat vegetarian",
+            "3 people who replace beef with pork & chicken"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "3 people who replace beef with pork & chicken",
+          "explanationText": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
+          "title": "What is the main reason that keeps people from eating less meat?",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            "not believing that meat contributes to climate change",
+            "not willing to change their habits",
+            "unable to imagine an alternative way of eating"
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "correctAnswer": "unable to imagine an alternative way of eating",
+          "explanationText": "Most people agree with the facts. But if you’re used to eating meat with every meal, it can be hard to imagine what an alternative looks like. The first thing that comes to mind is eating salads everyday and that sounds pretty scary indeed!\n\nIt takes time to let go of the idea that a ‘good meal’ must include meat. Good thing we have a lot of easy recipes in this app where most people don’t miss meat😉",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "What works best to inspire people to start a new habit?",
+          "subtitle": "",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "Shocking facts",
+            "Logical arguments",
+            "Small steps"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "correctAnswer": "Small steps",
+          "explanationText": "People are not convinced by logic or shocking facts. The best way to start a new habit is to offer an easy solution that almost feels ridiculously easy. Like replacing beef with chicken.\n\nThis way people don’t feel overwhelmed. And when they achieve this small step, they will be motivated to keep going.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
-        "impact": 3,
-        "impactReason": ""
+        "insight": "Helping others to replace beef makes a much bigger difference than perfecting your own choices",
+        "goal": "Invite your friends to a sustainable dinner party and share the recipe",
+        "impact": 4,
+        "impactReason": "🧙‍♂️"
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "Once you’re eating less beef, the second-best thing you can do is inspire other people to do the same.\n\nGoing on adventure is much better when you’re not alone. So it’s time to invite your friends and family to the ‘Fellowship of the Fork’! \n\n*epic music starts*",
+        "emoji": ""
       }
     },
     {
       "id": 106,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
-        "emoji": "💪"
+        "title": "The Fading Forest",
+        "subtitle": "Something is very wrong in this forest, more and more trees are disappearing. What’s going on?!",
+        "emoji": "🪓"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
+          "title": "What is the biggest cause of deforestation?",
           "subtitle": "",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "Paper & wood",
+            "Beef",
+            "Soy"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "Beef",
+          "explanationText": "Nearly all deforestation happens in tropical and subtropical countries and most of it is caused by beef in South America.\n\nBut soy also plays an important role in the destruction of forest.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
+          "title": "77% of all soy is used for...",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            "Meat and dairy substitutes",
+            "Animal feed",
+            "Oil"
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "correctAnswer": "Animal feed",
+          "explanationText": "The majority of soy is used as animal feed, mostly for chickens and pigs.\n\nSoy for products like yogurt or tofu is only a small part of the total soya production.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "What has a comparable footprint as a block of tofu?",
+          "subtitle": "a block of tofu is around 400 g",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "🥓 Bacon bits (125 g)",
+            "🍔 4 hamburger patties (400 g)",
+            "🍗 4 chicken drumsticks (500 g)"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "correctAnswer": "🥓 Bacon bits (125 g)",
+          "explanationText": "There are two important conclusions here:\n\n1. You can also reduce your footprint by eating smaller portions of meat. Even though pork has a higher footprint than chicken, 125 g of bacon is better than 500 g of drumsticks.\n\n2. For the same weight, tofu is by far the most sustainable.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
-        "impact": 3,
-        "impactReason": ""
+        "insight": "Most deforestation is caused by meat, soy for humans is fine",
+        "goal": "Don’t feel guilty about eating soy products",
+        "impact": 4,
+        "impactReason": "(when replacing meat and/or dairy with soy products)"
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "Soy has a very bad reputation and it indeed causes deforestation. But that’s because most soy is used as animal feed.",
+        "emoji": "🌲"
       }
     },
     {
       "id": 107,
       "intro": {
-        "title": "Muscle Mountain",
+        "title": "X",
         "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
         "emoji": "💪"
       },
@@ -1839,59 +1841,60 @@
     {
       "id": 108,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
-        "emoji": "💪"
+        "title": "Whole grain",
+        "subtitle": "Why whole grain is so important for eating sustainably.",
+        "emoji": "🌾"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
+          "title": "In the average European diet, what provides more protein?",
           "subtitle": "",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "Meat",
+            "Cereals (pasta, rice, etc.)"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "Cereals (pasta, rice, etc.)",
+          "explanationText": "Cereals like pasta, rice and bread are the most important source of energy for humanity. They also contain a lot of protein.\n\nThey have a low impact and are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
+          "title": "How is whole-grain bread different from white bread?",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            "It has been baked at higher temperatures",
+            "Outer layer of the grains has not been removed",
+            "It contains extra seeds"
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "correctAnswer": "Outer layer of the grains has not been removed",
+          "explanationText": "The outer layer (bran) and germ have not been removed. This creates a flour that is a bit tougher to chew but also contains a lot more nutrients.\n\nSo in a way, choosing refined instead of whole grain is almost like a form of food waste: we are missing out on perfectly good nutrition.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "What is NOT a benefit of whole grain?",
+          "subtitle": "",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "More protein",
+            "More fibre",
+            "Fewer calories",
+            "More vitamins"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "correctAnswer": "Fewer calories",
+          "explanationText": "Whole grain has enormous health benefits: it reduces the risk of heart disease, diabetes and extends your lifespan. The extra protein and fibre are also more filling so you become hungry less quickly.",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "insight": "Whole grain cereals are an important source of protein",
+        "goal": "Choose the whole grain option as much as possible",
         "impact": 3,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "Whole grain cereals are an important building block of a sustainable diet because they provide lots of nutrition for a low impact. Their high protein count also make them an important foundation to reduce meat and dairy.",
+        "emoji": "🌾"
       }
     },
     {
@@ -1955,59 +1958,58 @@
     {
       "id": 110,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
-        "emoji": "💪"
+        "title": "Hidden Milk",
+        "subtitle": "X",
+        "emoji": "🥛"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
-          "subtitle": "",
+          "title": "What is most milk used for?",
+          "subtitle": "In EU and US production",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "Cheese",
+            "Butter",
+            "Drinking milk"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "Cheese",
+          "explanationText": "A piece of cheese looks small but there is a lot of milk ‘hidden’ in it. That means cheese a high impact.\n\nFor most people this is the most inconvenient truth about sustainable food. Especially because a lot of vegetarians replace meat with cheese.\n\nBut if you’re a cheese lover: don’t despair, you don’t have to give up cheese completely.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
+          "title": "Producing soft cheese requires less milk than hard cheese",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            true,
+            false
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "correctAnswer": true,
+          "explanationText": "That means the carbon footprint per kilogram of hard cheese is higher than soft cheese.\n\nBut that is not the full story, because we often use bigger portions of soft cheese.",
+          "imageUrl": ""
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "title": "What has a lower impact?",
           "subtitle": "in CO2 impact",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "Vegetarian lasagne with 200 g mozzarella",
+            "Risotto with 50 g parmesan and 50 g butter"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "correctAnswer": "Risotto with 50 g parmesan and 50 g butter",
+          "explanationText": "Reducing the portion size of cheese makes a big difference.\n\nOur favourite way of doing that: get a high quality Parmesan and use the finest grating structure; you will get more particles and need less cheese to experience the taste🙂",
+          "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "insight": "Most milk is ‘hidden’ in cheese",
+        "goal": "Don’t replace meat with cheese and use smaller portions",
         "impact": 3,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "A lot of milk is ‘hidden’ in cheese, which makes it the dairy product with the highest impact.\n\nWe don’t have to give up cheese completely. It’s about treating it like a luxury: not eating it every day and reducing the portion size.",
+        "emoji": "🧀"
       }
     }
   ]

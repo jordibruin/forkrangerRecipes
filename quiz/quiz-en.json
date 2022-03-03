@@ -1630,10 +1630,10 @@
           "title": "The carbon footprint of wasted bread is higher than that of wasted beef",
           "subtitle": "",
           "answerOptions": [
-            true,
-            false
+            "true",
+            "false"
           ],
-          "correctAnswer": true,
+          "correctAnswer": "true",
           "explanationText": "Wheat has a massive food waste impact. Not because the impact of one bread is high, but because we waste so much bread and pasta.\n\nAs you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint, even more than a whole season of Formula 1!",
           "imageUrl": ""
         },
@@ -1981,10 +1981,10 @@
           "title": "Producing soft cheese requires less milk than hard cheese",
           "subtitle": "",
           "answerOptions": [
-            true,
-            false
+            "True",
+            "False"
           ],
-          "correctAnswer": true,
+          "correctAnswer": "True",
           "explanationText": "That means the carbon footprint per kilogram of hard cheese is higher than soft cheese.\n\nBut that is not the full story, because we often use bigger portions of soft cheese.",
           "imageUrl": ""
         },

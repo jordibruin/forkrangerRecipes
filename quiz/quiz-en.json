@@ -1630,10 +1630,10 @@
           "title": "The carbon footprint of wasted bread is higher than that of wasted beef",
           "subtitle": "",
           "answerOptions": [
-            "true",
-            "false"
+            "True",
+            "False"
           ],
-          "correctAnswer": "true",
+          "correctAnswer": "True",
           "explanationText": "Wheat has a massive food waste impact. Not because the impact of one bread is high, but because we waste so much bread and pasta.\n\nAs you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint, even more than a whole season of Formula 1!",
           "imageUrl": ""
         },

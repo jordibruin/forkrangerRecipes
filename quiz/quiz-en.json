@@ -866,7 +866,7 @@
           "title": "Which of these impacts is especially relevant for avocados?",
           "subtitle": "",
           "answerOptions": [
-            "CO2 emissions",
+            "CO emissions",
             "Water use"
           ],
           "correctAnswer": "Water use",

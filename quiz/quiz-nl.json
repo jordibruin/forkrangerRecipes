@@ -1410,10 +1410,10 @@
           "title": "Wat maakt een groter verschil?",
           "subtitle": "om CO2 te verminderen in een gemiddeld Europees of Noord-Amerikaans voedingspatroon",
           "answerOptions": [
-            "De hele week rundvlees vervangen door kip",
+            "Al het rundvlees vervangen door kip",
             "1 dag in de week vegetarisch eten"
           ],
-          "correctAnswer": "De hele week rundvlees vervangen door kip",
+          "correctAnswer": "Al het rundvlees vervangen door kip",
           "explanationText": "Rundvlees heeft de hoogste impact van al het vlees. Natuurlijk, het vervangen van rundvlees door kip (of varken) is niet het einddoel van een duurzaam voedingspatroon. Maar het is een gemakkelijke eerste stap die al een geweldig verschil maakt.\n\nZonder minder vlees te eten, vermindert deze stap al de CO2 impact van een gemiddeld Westers voedingspatroon met één vijfde!",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/replacing-beef-NL.png"
         }
@@ -1473,7 +1473,7 @@
             "50%"
           ],
           "correctAnswer": "50%",
-          "explanationText": "Voedselproductie neemt ongeveer the helft van al het land op aarde in (ijs en woestijnen niet meegerekend). De grote hoeveelheid ruimte die wordt gebruikt om in ons eten te voorzien is de hoofdreden waarom voedsel zo’n grote rol speelt in klimaatverandering.\n\nHet meeste van dit land wordt gebruikt om vlees en zuivel te produceren. Vooral voor de productie van rundvlees is veel land nodig, ongeveer 7 keer meer dan varken en kip per kilo vlees.",
+          "explanationText": "Voedselproductie neemt ongeveer de helft van al het land op aarde in (ijs en woestijnen niet meegerekend). De grote hoeveelheid ruimte voor landbouw is de hoofdreden waarom voedsel zo’n grote rol speelt in klimaatverandering.\n\nHet meeste van dit land wordt gebruikt om vlees en zuivel te produceren. Vooral voor de productie van rundvlees is veel land nodig, ongeveer 7 keer meer dan varken en kip per kilo vlees.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/land-use-NL-1.png"
         }
       ],
@@ -1484,8 +1484,8 @@
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Er is geen andere diersoort die ook maar enigzins bij koeien in de buurt komt als je het hebt over hun totale gewicht. Ze hebben ook veel land nodig en laten boeren van methaan. Al deze factoren maken rundvlees het voedselproduct met de hoogste impact.\n\nAls je van rundvlees houdt: je hoeft het niet volledig op te geven. Maak het een luxe product voor speciale momenten.\n\nEn als je geen rundvlees eet: inspireer alle vleesliefhebbers in je vriendenkring om rundvlees te vervangen. Wij hebben gemerkt dat dit een eerste stap is de de meeste mensen wel willen nemen.",
-        "emoji": "🌍"
+        "title": "Er is geen andere diersoort die ook maar enigzins bij koeien in de buurt komt als je het hebt over hun totale gewicht. Ze hebben ook veel land nodig en laten boeren van methaan. Al deze factoren maken rundvlees het voedselproduct met de hoogste impact.\n\nAls je van rundvlees houdt: je hoeft het niet volledig op te geven. Maak het een luxe product voor speciale momenten.\n\nEn als je geen rundvlees eet: inspireer alle vleesliefhebbers in je vriendenkring om rundvlees te vervangen. Wij hebben gemerkt dat dit een eerste stap is die de meeste mensen wel willen nemen.",
+        "emoji": "🐮"
       }
     },
     {
@@ -1576,7 +1576,7 @@
             "Thuis"
           ],
           "correctAnswer": "Thuis",
-          "explanationText": "...thuis. Meer dan de helft van alle voedselverspilling in Noord-Amerika en Europa vindt thuis plaats, bij ons als consument. Dat bekent dat we allemaal hierin een belangrijke rol hebben!\n\nDat voedselverspilling zonde is, begrijpen we allemaal. Maar hoe is het precies gelinkt aan klimaatverandering?",
+          "explanationText": "...thuis. Meer dan de helft van alle voedselverspilling in Noord-Amerika en Europa vindt thuis plaats, bij ons als consument. Dat bekent dat we hierin allemaal een belangrijke rol hebben!\n\nDat voedselverspilling zonde is, begrijpen we allemaal. Maar hoe is het precies gelinkt aan klimaatverandering?",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/Total-food-waste-NL.png"
         },
         {
@@ -1653,7 +1653,7 @@
       ],
       "outro": {
         "insight": "Een van de meest verspilde producten is brood",
-        "goal": "Leer om van je oud brood en broodkapjes te houden",
+        "goal": "Leer om van oud brood en broodkapjes te houden",
         "impact": 4,
         "impactReason": ""
       },
@@ -1666,7 +1666,7 @@
       "id": 105,
       "intro": {
         "title": "The Fellowship of the Fork",
-        "subtitle": "Je bent al erg ver gereisd! Voordat we verder gaan met het ontdekken van het voedselsysteem, moeten we een belangrijk topic bespreken.",
+        "subtitle": "Je bent al erg ver gereisd! Voordat we verder gaan met het ontdekken van het voedselsysteem, moeten we een belangrijk onderwerp bespreken.",
         "emoji": "🧙‍♂️"
       },
       "questions": [
@@ -1706,7 +1706,7 @@
             "Kleine stapjes🥾"
           ],
           "correctAnswer": "Kleine stapjes🥾",
-          "explanationText": "Mensen zijn niet overtuigd door logica of shockerende feiten. De beste manier om een nieuwe gewoonte je eigen te maken is om een makkelijke oplossing aan te bieden dat bijna bizar simpel voelt. Zoals het vervangen van rundvlees door kip.\n\nOp deze manier voelen mensen zich niet overweldigd. En wanneer ze deze kleine stap hebben behaald, dan zijn ze gemotiveerd om door te gaan.",
+          "explanationText": "Mensen worden niet overtuigd door logica of shockerende feiten. De beste manier om een nieuwe gewoonte je eigen te maken is om een makkelijke oplossing aan te bieden dat bijna bizar simpel voelt. Zoals het vervangen van rundvlees door kip.\n\nOp deze manier voelen mensen zich niet overweldigd. En wanneer ze deze kleine stap hebben behaald, dan zijn ze gemotiveerd om door te gaan.",
           "imageUrl": ""
         }
       ],
@@ -1752,7 +1752,7 @@
             "Olie"
           ],
           "correctAnswer": "Veevoer",
-          "explanationText": "Het grootste deel van soja wordt gebruikt als veevoer, vooral voor kippen en varkens. Soja voor producten zoals yoghurt en tofu is maar een klein deel van de gehele sojaproductie.",
+          "explanationText": "Het grootste deel van soja wordt gebruikt als veevoer, vooral voor kippen🐔 en varkens🐷. Soja voor producten zoals yoghurt en tofu is maar een klein deel van de gehele sojaproductie.",
           "imageUrl": ""
         },
         {
@@ -1770,14 +1770,14 @@
         }
       ],
       "outro": {
-        "insight": "De meeste ontbossing wordt veroorzaakt door vlees, soja voor mensen is prima",
+        "insight": "De meeste ontbossing wordt veroorzaakt door vlees; soja voor mensen is prima",
         "goal": "Voel je niet slecht over het eten van sojaproducten",
         "impact": 4,
         "impactReason": "(als je vlees en/of zuivel vervangt door sojaproducten)"
       },
       "outroRecipe": {
         "title": "Soja heeft een erg slechte reputatie en zorgt inderdaad voor ontbossing. Maar dat is omdat de meeste soja wordt gebruikt als veevoer. ",
-        "emoji": "🌲"
+        "emoji": "🪓"
       }
     },
     {
@@ -1806,11 +1806,11 @@
           "title": "Ten eerste, welk dier ‘produceert’ het meest efficiënt vlees?",
           "subtitle": "",
           "answerOptions": [
-            "Kip",
-            "Varken",
-            "Koe"
+            "Kip🐔",
+            "Varken🐷",
+            "Koe🐮"
           ],
-          "correctAnswer": "Kip",
+          "correctAnswer": "Kip🐔",
           "explanationText": "Een van de hoofdredenen waarom kip een lagere impact heeft dan rund- en varkensvlees is hun efficiëntie. Ze zijn efficiënter in het omzetten van voer naar vlees.\n\nDus als je vlees kiest is kip de beste optie.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/feed-conversion-NL.png"
         },
@@ -1842,7 +1842,7 @@
     {
       "id": 108,
       "intro": {
-        "title": "Whole Grain",
+        "title": "Bij de Molenaar",
         "subtitle": "Waarom volkoren zo belangrijk is als je duurzaam wilt eten.",
         "emoji": "🌾"
       },
@@ -1951,7 +1951,7 @@
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Naast rund- en varkensvlees draagt zuivel voor een groot deel aan onze impact bij, tenminste in Europa en Noord-Amerika. Dit komt vooral doordat we er zoveel van eten.\n\nMaar dat betekent ook dat we al veel kunnen besparen door simpelweg het aantal maaltijden met zuivel te verminderen.",
+        "title": "Naast rund- en varkensvlees draagt zuivel voor een groot deel aan onze impact bij, vooral in Europa en Noord-Amerika. Dit komt vooral doordat we er zoveel van eten.\n\nMaar dat betekent ook dat we al veel kunnen besparen door simpelweg het aantal maaltijden met zuivel te verminderen.",
         "emoji": "🐄"
       }
     },

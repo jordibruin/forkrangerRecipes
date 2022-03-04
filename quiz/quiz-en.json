@@ -1564,7 +1564,7 @@
           ],
           "correctAnswer": "converting 1/3 of all cars to electrical cars",
           "explanationText": "One third of of all food is wasted and this creates a lot of problems.\n\nProject Drawdown calculated various actions to reduce emissions and found that reducing food waste is the number one solution!",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/CO2-saved.png"
         },
         {
           "id": 2,
@@ -1577,7 +1577,7 @@
           ],
           "correctAnswer": "at home",
           "explanationText": "... at home. More than half of all food waste in North America and Europe happens at consumption. That means all of us have a role to play.\n\nWe all understand that wasting food is a shame. But, how exactly is it related to climate change?",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/Total-food-waste.png"
         },
         {
           "id": 3,
@@ -1635,7 +1635,7 @@
           ],
           "correctAnswer": "True",
           "explanationText": "Wheat has a massive food waste impact. Not because the impact of one bread is high, but because we waste so much bread and pasta.\n\nAs you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint, even more than a whole season of Formula 1!",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/top-5-food-waste-carbon-footprint.png"
         },
         {
           "id": 3,
@@ -1648,7 +1648,7 @@
           ],
           "correctAnswer": "Didn’t feel like it",
           "explanationText": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/Bread-waste.png"
         }
       ],
       "outro": {
@@ -1681,7 +1681,7 @@
           ],
           "correctAnswer": "3 people who replace beef with pork & chicken",
           "explanationText": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/reduction-footprint.png"
         },
         {
           "id": 2,
@@ -1701,11 +1701,11 @@
           "title": "What works best to inspire people to start a new habit?",
           "subtitle": "",
           "answerOptions": [
-            "Shocking facts",
-            "Logical arguments",
-            "Small steps"
+            "Shocking facts😱",
+            "Logical arguments🤓",
+            "Small steps🥾"
           ],
-          "correctAnswer": "Small steps",
+          "correctAnswer": "Small steps🥾",
           "explanationText": "People are not convinced by logic or shocking facts. The best way to start a new habit is to offer an easy solution that almost feels ridiculously easy. Like replacing beef with chicken.\n\nThis way people don’t feel overwhelmed. And when they achieve this small step, they will be motivated to keep going.",
           "imageUrl": ""
         }
@@ -1740,7 +1740,7 @@
           ],
           "correctAnswer": "Beef",
           "explanationText": "Nearly all deforestation happens in tropical and subtropical countries and most of it is caused by beef in South America.\n\nBut soy also plays an important role in the destruction of forest.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/deforestation.png"
         },
         {
           "id": 2,
@@ -1766,7 +1766,7 @@
           ],
           "correctAnswer": "🥓 Bacon bits (125 g)",
           "explanationText": "There are two important conclusions here:\n\n1. You can also reduce your footprint by eating smaller portions of meat. Even though pork has a higher footprint than chicken, 125 g of bacon is better than 500 g of drumsticks.\n\n2. For the same weight, tofu is by far the most sustainable.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/tofu-co2.png"
         }
       ],
       "outro": {
@@ -1783,59 +1783,60 @@
     {
       "id": 107,
       "intro": {
-        "title": "X",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
-        "emoji": "💪"
+        "title": "Feeding Frenzy",
+        "subtitle": "These golden fields stretch as far as the horizon. Where do all these cereals end up?",
+        "emoji": "🌽"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
-          "subtitle": "",
+          "title": "What are most cereals used for? ",
+          "subtitle": "in Europe and North America",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "Human food",
+            "Animal feed",
+            "Biofuel"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "Animal feed",
+          "explanationText": "In Europe, almost two thirds of all cereals are fed to animals! Worlwide, we could feed 1.3 billion extra people if we would use all of the feed cereals for direct human food production.\n\nAll these cereals are necessary because we eat SO much meat. The key is reducing this for animals and therefore freeing it up for human consumption. Let’s discover two ways to achieve this.",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
+          "title": "First, which animal is most efficient at eating cereals?",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            "Chicken",
+            "Pig",
+            "Cow"
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "correctAnswer": "Chicken",
+          "explanationText": "One of the main reasons why chickens have a lower impact than beef and pork is because they are more efficient at “converting” feed to meat. So when choosing meat, chicken is the best option.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/feed-conversion.png"
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Secondly, which meat is most consumed by the average European?",
+          "subtitle": "",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "Beef",
+            "Pork",
+            "Chicken"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "correctAnswer": "Pork",
+          "explanationText": "So, most of these cereals now go to pigs. Because one third of our meat consumption is pork, that’s even more than beef! So that’s where we really have to cut down.\n\nLike we saw in The Fading Forest, an easy way to eat less pork is to reduce portion sizes: 100 grams of bacon provides a lot of taste for four people.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/meat-consumption.png"
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
-        "impact": 3,
+        "insight": "Most cereals in Europe and US are fed to animals",
+        "goal": "1) Reduce pork and 2) When choosing meat, go for chicken",
+        "impact": 4,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "TO DO!",
+        "emoji": "🌽"
       }
     },
     {
@@ -1856,7 +1857,7 @@
           ],
           "correctAnswer": "Cereals (pasta, rice, etc.)",
           "explanationText": "Cereals like pasta, rice and bread are the most important source of energy for humanity. They also contain a lot of protein.\n\nThey have a low impact and are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
         },
         {
           "id": 2,
@@ -1869,7 +1870,7 @@
           ],
           "correctAnswer": "Outer layer of the grains has not been removed",
           "explanationText": "The outer layer (bran) and germ have not been removed. This creates a flour that is a bit tougher to chew but also contains a lot more nutrients.\n\nSo in a way, choosing refined instead of whole grain is almost like a form of food waste: we are missing out on perfectly good nutrition.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/What-is-whole-grain.png"
         },
         {
           "id": 3,
@@ -1883,7 +1884,7 @@
           ],
           "correctAnswer": "Fewer calories",
           "explanationText": "Whole grain has enormous health benefits: it reduces the risk of heart disease, diabetes and extends your lifespan. The extra protein and fibre are also more filling so you become hungry less quickly.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/health-benefits-of-whole-grain.png"
         }
       ],
       "outro": {
@@ -1900,8 +1901,8 @@
     {
       "id": 109,
       "intro": {
-        "title": "Muscle Mountain",
-        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "title": "Moo Moo Meadows",
+        "subtitle": "X",
         "emoji": "💪"
       },
       "questions": [
@@ -1929,7 +1930,7 @@
           ],
           "correctAnswer": "Potatoes",
           "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-per-serving-1.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/total-emissions-of-Western-diet.png"
         },
         {
           "id": 3,
@@ -1941,7 +1942,7 @@
           ],
           "correctAnswer": "10 times lower",
           "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/portions-of-dairy.png"
         }
       ],
       "outro": {
@@ -1986,19 +1987,19 @@
           ],
           "correctAnswer": "True",
           "explanationText": "That means the carbon footprint per kilogram of hard cheese is higher than soft cheese.\n\nBut that is not the full story, because we often use bigger portions of soft cheese.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/milk-to-cheese.png"
         },
         {
           "id": 3,
           "title": "What has a lower impact?",
           "subtitle": "in CO2 impact",
           "answerOptions": [
-            "Vegetarian lasagne with 200 g mozzarella",
-            "Risotto with 50 g parmesan and 50 g butter"
+            "250 g Mozzarella",
+            "80 g Grana Padano"
           ],
-          "correctAnswer": "Risotto with 50 g parmesan and 50 g butter",
+          "correctAnswer": "80 g Grana Padano",
           "explanationText": "Reducing the portion size of cheese makes a big difference.\n\nOur favourite way of doing that: get a high quality Parmesan and use the finest grating structure; you will get more particles and need less cheese to experience the taste🙂",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cheese-footprint-serving-size.png"
         }
       ],
       "outro": {

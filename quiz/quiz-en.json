@@ -1790,7 +1790,7 @@
       "questions": [
         {
           "id": 1,
-          "title": "What are most cereals used for? ",
+          "title": "More than half of all cereals are used as...",
           "subtitle": "in Europe and North America",
           "answerOptions": [
             "Human food",
@@ -1798,7 +1798,7 @@
             "Biofuel"
           ],
           "correctAnswer": "Animal feed",
-          "explanationText": "In Europe, almost two thirds of all cereals are fed to animals! Worlwide, we could feed 1.3 billion extra people if we would use all of the feed cereals for direct human food production.\n\nAll these cereals are necessary because we eat SO much meat. The key is reducing this for animals and therefore freeing it up for human consumption. Let’s discover two ways to achieve this.",
+          "explanationText": "...animal feed. Worlwide, we could feed 1.3 billion extra people if we would use all of the feed cereals for human food.\n\nAll these cereals are necessary because we eat SO much meat. Let’s discover two easy ways to reduce the amount of animal feed.",
           "imageUrl": ""
         },
         {
@@ -1811,7 +1811,7 @@
             "Cow"
           ],
           "correctAnswer": "Chicken",
-          "explanationText": "One of the main reasons why chickens have a lower impact than beef and pork is because they are more efficient at “converting” feed to meat. So when choosing meat, chicken is the best option.",
+          "explanationText": "One of the main reasons why chicken has a lower impact than beef and pork is because they are more efficient at “converting” feed to meat.\n\nSo when choosing meat, chicken is the best option.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/feed-conversion.png"
         },
         {
@@ -1824,7 +1824,7 @@
             "Chicken"
           ],
           "correctAnswer": "Pork",
-          "explanationText": "So, most of these cereals now go to pigs. Because one third of our meat consumption is pork, that’s even more than beef! So that’s where we really have to cut down.\n\nLike we saw in The Fading Forest, an easy way to eat less pork is to reduce portion sizes: 100 grams of bacon provides a lot of taste for four people.",
+          "explanationText": "One third is pork! So that’s where we can really cut down the amount of meat.\n\nLike we saw in The Fading Forest, an easy way to eat less pork is to reduce portion sizes: just 100 grams of bacon provides a lot of taste for four people.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/meat-consumption.png"
         }
       ],
@@ -1835,7 +1835,7 @@
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "TO DO!",
+        "title": "We are feeding huge amounts of cereals to animals instead of using them for human food.\n\nThere are various ways to reduce this: choosing the most efficient meat (chicken), reducing portion sizes, and of course: eating more plant-based meals!",
         "emoji": "🌽"
       }
     },
@@ -1902,65 +1902,64 @@
       "id": 109,
       "intro": {
         "title": "Moo Moo Meadows",
-        "subtitle": "X",
-        "emoji": "💪"
+        "subtitle": "The path leads through grassland but this is not wild, there is no diversity here. This is food!",
+        "emoji": "🐄"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Somone with the average Western diets eats...",
-          "subtitle": "",
+          "title": "How much food does a cow need?",
+          "subtitle": "in a year",
           "answerOptions": [
-            "Too much protein",
-            "Too little protein"
+            "5 tennis courts of grass 🎾",
+            "3 football fields of grass ⚽️"
           ],
-          "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
+          "correctAnswer": "3 football fields of grass ⚽️",
+          "explanationText": "A cow needs rougly 3 football fields of grass per year ⚽️ The amount of land it takes to feed a cow is one of the reasons why beef has such a high impact.\n\nBut of course beef is not the only food product that comes from cows...",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Which of these is NOT a good source of protein?",
-          "subtitle": "",
+          "title": "The impact of dairy in the average diet is comparable to the impact of...",
+          "subtitle": "in North America and Europe",
           "answerOptions": [
-            "Pasta",
-            "Nuts",
-            "Potatoes",
-            "Beans"
+            "Beef",
+            "Pork",
+            "Chicken"
           ],
-          "correctAnswer": "Potatoes",
-          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "correctAnswer": "Beef",
+          "explanationText": "Wow, we were a bit surprised by this! The impact of beef is high because the product itself has such a high footprint.\n\nThe dairy impact is high because we eat so much of it: yogurt for breakfast, a butter and cheese sandwich for lunch and lasagne with lots of mozzarella for dinner.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/total-emissions-of-Western-diet.png"
         },
         {
           "id": 3,
-          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "What has a lower footprint?",
+          "subtitle": "in CO2",
           "answerOptions": [
-            "5 times lower",
-            "10 times lower"
+            "Two slices of cheese 🧀 (50g) ",
+            "A glass of milk 🥛 (200 ml)"
           ],
-          "correctAnswer": "10 times lower",
-          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "correctAnswer": "A glass of milk 🥛 (200 ml)",
+          "explanationText": "Not all dairy products have the same footprint but overall, dairy has similar or even slightly higher impact than chicken.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/portions-of-dairy.png"
         }
       ],
       "outro": {
-        "insight": "People with the average Western diet eat too much protein",
-        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "insight": "The total impact of dairy is high because we eat so much of it",
+        "goal": "Reduce the amount of meals that contain dairy",
         "impact": 3,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
-        "emoji": "💪"
+        "title": "Next to beef and pork, dairy is a major part of our food impact in Europe and North America. The main reason is because we eat so much of it.\n\nThat means we can achieve a lot of savings by simply reducing the number of meals that contain dairy.",
+        "emoji": "🐄"
       }
     },
     {
       "id": 110,
       "intro": {
         "title": "Hidden Milk",
-        "subtitle": "X",
+        "subtitle": "If there are so many different dairy products, which one has the highest impact?",
         "emoji": "🥛"
       },
       "questions": [
@@ -1974,7 +1973,7 @@
             "Drinking milk"
           ],
           "correctAnswer": "Cheese",
-          "explanationText": "A piece of cheese looks small but there is a lot of milk ‘hidden’ in it. That means cheese a high impact.\n\nFor most people this is the most inconvenient truth about sustainable food. Especially because a lot of vegetarians replace meat with cheese.\n\nBut if you’re a cheese lover: don’t despair, you don’t have to give up cheese completely.",
+          "explanationText": "A piece of cheese looks small but there is a lot of milk ‘hidden’ in it🧀. That means cheese a high impact.\n\nFor most people this is the most inconvenient truth about sustainable food. Especially because a lot of vegetarians replace meat with cheese.\n\nBut if you’re a cheese lover: don’t despair, you don’t have to give up cheese completely.",
           "imageUrl": ""
         },
         {
@@ -1998,7 +1997,7 @@
             "80 g Grana Padano"
           ],
           "correctAnswer": "80 g Grana Padano",
-          "explanationText": "Reducing the portion size of cheese makes a big difference.\n\nOur favourite way of doing that: get a high quality Parmesan and use the finest grating structure; you will get more particles and need less cheese to experience the taste🙂",
+          "explanationText": "Reducing the portion size makes a bigger difference than choosing a specific type of cheese.\n\nOur favourite way of doing that: get a high quality Parmesan and use the finest grating structure; you will get more particles and need less cheese to experience the taste🙂",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cheese-footprint-serving-size.png"
         }
       ],

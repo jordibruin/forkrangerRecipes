@@ -4463,6 +4463,8 @@
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Maak er een feestje van",
+      "variationBody": "Serveer met satésaus, een gebakken eitje of komkommer en tomatenschijfjes. Voeg ook één of meerdere van deze Indonesische specialiteiten toe: gebakken uitjes, seroendeng, kroepoek, of sambal.",
       "ingredients": [
         {
           "name": "Rijst",
@@ -5055,12 +5057,6 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
-        },
-        {
-          "name": "Parmezaanse kaas",
-          "type": "taste",
-          "quantity": 50,
-          "quantityType": "g"
         }
       ],
       "prepTime": 15,

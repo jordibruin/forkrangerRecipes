@@ -1410,12 +1410,12 @@
           "title": "What makes a bigger difference?",
           "subtitle": "for reducing CO2 in average European or North American diet",
           "answerOptions": [
-            "Replacing beef with chicken everyday",
+            "Replacing all beef with chicken",
             "Eating vegetarian 1 day a week"
           ],
-          "correctAnswer": "Replacing beef with chicken everyday",
+          "correctAnswer": "Replacing all beef with chicken",
           "explanationText": "Beef has the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference.\n\nWithout eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/replacing-beef.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/replacing-beef.png"
         }
       ],
       "outro": {
@@ -1505,7 +1505,7 @@
             "Too little protein"
           ],
           "correctAnswer": "Too much protein",
-          "explanationText": "too much protein. That’s because of the high amount of animal products.The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "explanationText": "too much protein. That’s because of the high amount of animal products. The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein.png"
         },
         {
@@ -1532,7 +1532,7 @@
           ],
           "correctAnswer": "10 times lower",
           "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/meals-comparison.png"
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/meals-comparison.png"
         }
       ],
       "outro": {
@@ -1589,12 +1589,12 @@
             "the food waste monster comes after you"
           ],
           "correctAnswer": "you increase the total amount of food that needs to be produced",
-          "explanationText": "More food waste ➡️ More food production ➡️ More land use, more pesticides, etc.\n\nSaving a small leftover means that you can later have a ‘free’ meal. It might seem insignificant whether you save half a sandwich. But if 1% of Europeans save half a sandwich, that’s 3-4 million sandwiches worth of food that doesn’t need to be produced.",
+          "explanationText": "More food waste ➡️ More food production ➡️ More land use, more pesticides, etc.\n\nSaving a small leftover means that you can later have a ‘free’ meal. It might seem insignificant whether you save half a sandwich. But if 1% of Europeans save half a sandwich, that’s 3-4 million sandwiches that don’t need to be produced.",
           "imageUrl": ""
         }
       ],
       "outro": {
-        "insight": "We can do something about the huge problem of food waste",
+        "insight": "We can all do something about the huge problem of food waste",
         "goal": "Save food leftovers whenever you can",
         "impact": 4,
         "impactReason": ""
@@ -1647,7 +1647,7 @@
             "Didn’t feel like it"
           ],
           "correctAnswer": "Didn’t feel like it",
-          "explanationText": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
+          "explanationText": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is our first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/Bread-waste.png"
         }
       ],
@@ -1714,11 +1714,11 @@
         "insight": "Helping others to replace beef makes a much bigger difference than perfecting your own choices",
         "goal": "Invite your friends to a sustainable dinner party and share the recipe",
         "impact": 4,
-        "impactReason": "🧙‍♂️"
+        "impactReason": ""
       },
       "outroRecipe": {
         "title": "Once you’re eating less beef, the second-best thing you can do is inspire other people to do the same.\n\nGoing on adventure is much better when you’re not alone. So it’s time to invite your friends and family to the ‘Fellowship of the Fork’! \n\n*epic music starts*",
-        "emoji": ""
+        "emoji": "🧙‍♂️"
       }
     },
     {
@@ -1752,7 +1752,7 @@
             "Oil"
           ],
           "correctAnswer": "Animal feed",
-          "explanationText": "The majority of soy is used as animal feed, mostly for chickens and pigs.\n\nSoy for products like yogurt or tofu is only a small part of the total soya production.",
+          "explanationText": "The majority of soy is used as animal feed, mostly for chickens and pigs.\n\nSoy for products like yogurt or tofu is only a small part of the total soy production.",
           "imageUrl": ""
         },
         {
@@ -1770,14 +1770,14 @@
         }
       ],
       "outro": {
-        "insight": "Most deforestation is caused by meat, soy for humans is fine",
+        "insight": "Most deforestation is caused by meat; soy for humans is fine",
         "goal": "Don’t feel guilty about eating soy products",
         "impact": 4,
         "impactReason": "(when replacing meat and/or dairy with soy products)"
       },
       "outroRecipe": {
         "title": "Soy has a very bad reputation and it indeed causes deforestation. But that’s because most soy is used as animal feed.",
-        "emoji": "🌲"
+        "emoji": "🪓"
       }
     },
     {
@@ -1842,7 +1842,7 @@
     {
       "id": 108,
       "intro": {
-        "title": "Whole grain",
+        "title": "The Milling Master",
         "subtitle": "Why whole grain is so important for eating sustainably.",
         "emoji": "🌾"
       },
@@ -1936,7 +1936,7 @@
           "title": "What has a lower footprint?",
           "subtitle": "in CO2",
           "answerOptions": [
-            "Two slices of cheese 🧀 (50g) ",
+            "Two slices of cheese 🧀 (50 g) ",
             "A glass of milk 🥛 (200 ml)"
           ],
           "correctAnswer": "A glass of milk 🥛 (200 ml)",

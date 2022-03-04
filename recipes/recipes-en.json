@@ -4463,6 +4463,8 @@
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Make it a dinner party",
+      "variationBody": "Serve with sate sauce, or a fried egg or cucumber and tomato slices. Also add one or more of these Indonesian condiments: fried onions, seroendeng (fried, grated coconut), krupuk (deep-fried crackers), sambal (chilli pepper paste).",
       "ingredients": [
         {
           "name": "(Leftover) rice",

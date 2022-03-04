@@ -1642,11 +1642,11 @@
           "title": "Een Duitse studie keek naar waarom mensen brood weggooien. Wat is de voornaamste reden?",
           "subtitle": "",
           "answerOptions": [
-            "Voorbij de houdbaarheidsdatum",
+            "Over de datum",
             "Te veel gekocht",
-            "Er geen zin in hebben"
+            "Geen zin in"
           ],
-          "correctAnswer": "Er geen zin in hebben",
+          "correctAnswer": "Geen zin in",
           "explanationText": "Brood verspillen gaat over onze houding: voelen we ons te goed om een broodkapje te eten? Of zien we het als waardevol voedsel?\n\nLaten we onszelf eraan herinneren dat eten een eerste levensbehoefte is. Het is te waardevol om weg te gooien, zelfs als ons oude brood een beetje hard is geworden.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/Bread-waste-NL.png"
         }
@@ -1784,58 +1784,59 @@
       "id": 107,
       "intro": {
         "title": "Feeding Frenzy",
-        "subtitle": "TO DO!",
+        "subtitle": "Deze prachtige velden strekken zo ver als de horizon. Waar zijn al die granen voor?",
         "emoji": "🌽"
       },
       "questions": [
         {
           "id": 1,
-          "title": "X",
-          "subtitle": "",
+          "title": "Meer dan de helft van alle granen worden gebruikt voor...",
+          "subtitle": "in Europa en Noord-Amerika",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "Menselijke consumptie",
+            "Veevoer",
+            "Biobrandstof"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "correctAnswer": "Veevoer",
+          "explanationText": "...veevoer. Wereldwijd zouden we 1.3 miljard extra mensen te eten kunnen geven als we alle granen in plaats van voor dieren voor mensen zouden gebruiken.\n\nAl deze granen zijn nodig omdat we ZO veel vlees eten. Laten we twee gemakkelijke manieren ontdekken om de hoeveelheid veevoer te verminderen.",
           "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "title": "Ten eerste, welk dier ‘produceert’ het meest efficiënt vlees?",
           "subtitle": "",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Kip",
+            "Varken",
+            "Koe"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "correctAnswer": "Kip",
+          "explanationText": "Een van de hoofdredenen waarom kip een lagere impact heeft dan rund- en varkensvlees is hun efficiëntie. Ze zijn efficiënter in het omzetten van voer naar vlees.\n\nDus als je vlees kiest is kip de beste optie.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/feed-conversion-NL.png"
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Ten tweede, welk vlees wordt het meest gegeten door de gemiddelde Europeaan?",
+          "subtitle": "",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "Rundvlees",
+            "Varkensvlees",
+            "Kip"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "correctAnswer": "Varkensvlees",
+          "explanationText": "Ruim één derde is varkensvlees! Dus dat is waar we echt de hoeveelheid kunnen verminderen.\n\nZoals we in The Fading Forest zagen is een gemakkelijke manier om minder varkensvlees te eten het kiezen voor kleinere porties: maar 100 gram spekjes geven meer dan genoeg smaak voor 4 personen.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/meat-consumption-NL.png"
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
-        "impact": 3,
+        "insight": "De meeste granen in Europa en de VS worden aan dieren gevoerd",
+        "goal": "1) Verminder varkensvlees en 2) Als je vlees eet, ga voor kip",
+        "impact": 4,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "We voeren grote hoeveelheden granen aan dieren in plaats van ze direct als mensen te consumeren.\n\nEr zijn verschillende manieren dit te verminderen: voor het meest efficiënte vlees kiezen (kip), kleinere porties, en natuurlijk: meer plantaardig eten!",
+        "emoji": "🌽"
       }
     },
     {
@@ -1901,65 +1902,64 @@
       "id": 109,
       "intro": {
         "title": "Moo Moo Meadows",
-        "subtitle": "x",
-        "emoji": "💪"
+        "subtitle": "Het pad leidt ons door grasland maar dit is geen natuur, er is helemaal geen diversiteit hier. Dit is voedsel!",
+        "emoji": "🐄"
       },
       "questions": [
         {
           "id": 1,
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
-          "subtitle": "",
+          "title": "Hoeveel voedsel heeft een koe nodig?",
+          "subtitle": "in een jaar",
           "answerOptions": [
-            "Te veel eiwit",
-            "Te weinig eiwit"
+            "5 tennisvelden aan gras 🎾",
+            "3 voetbalvelden aan gras ⚽️"
           ],
-          "correctAnswer": "Te veel eiwit",
-          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/too-much-protein-NL.png"
+          "correctAnswer": "3 voetbalvelden aan gras ⚽️",
+          "explanationText": "Een koe heeft ongeveer 3 voetbalvelden aan gras nodig per jaar ⚽️. De hoeveelheid land die daarvoor nodig is is een van de redenen waarom rundvlees zo’n hoge impact heeft.\n\nMaar natuurlijk is rundvlees niet het enige wat van koeien komt...",
+          "imageUrl": ""
         },
         {
           "id": 2,
-          "title": "Welke van deze is NIET een goede bron van eiwit?",
-          "subtitle": "",
+          "title": "De impact van zuivel in het gemiddelde voedingspatroon is vergelijkbaar met...",
+          "subtitle": "in Noord-Amerika en Europa",
           "answerOptions": [
-            "Pasta",
-            "Noten",
-            "Aardappels",
-            "Bonen"
+            "Rundvlees",
+            "Varkensvlees",
+            "Kip"
           ],
-          "correctAnswer": "Aardappels",
-          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "correctAnswer": "Rundvlees",
+          "explanationText": "Wow, we waren nogal verrast hierdoor! De impact van rundvlees is hoog omdat het product zelf zo’n hoge impact heeft.\n\nDe zuivel impact is hoog omdat we er zo veel van eten: yoghurt voor ontbijt, een broodje met kaas en boter voor lunch en lasagne met heeel veeel mozzarella voor het avondeten.",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/total-emissions-of-Western-diet-NL.png"
         },
         {
           "id": 3,
-          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
-          "subtitle": "in CO2 impact",
+          "title": "Wat heeft een lagere impact?",
+          "subtitle": "in CO2",
           "answerOptions": [
-            "5 keer lager",
-            "10 keer lager"
+            "Twee plakjes kaas 🧀 (50g)",
+            "Een glas melk 🥛 (200 ml)"
           ],
-          "correctAnswer": "10 keer lager",
-          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "correctAnswer": "Een glas melk 🥛 (200 ml)",
+          "explanationText": "Niet alle zuivelproducten hebben dezelfde impact, maar over het algemeen heeft zuivel een vergelijkbare of zelfs iets hogere impact dan kip. ",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/portions-of-dairy-NL.png"
         }
       ],
       "outro": {
-        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
-        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "insight": "De totale impact van zuivel is hoog omdat we er zoveel van eten",
+        "goal": "Verminder het aantal maaltijden met zuivel",
         "impact": 3,
         "impactReason": ""
       },
       "outroRecipe": {
-        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
-        "emoji": "💪"
+        "title": "Naast rund- en varkensvlees draagt zuivel voor een groot deel aan onze impact bij, tenminste in Europa en Noord-Amerika. Dit komt vooral doordat we er zoveel van eten.\n\nMaar dat betekent ook dat we al veel kunnen besparen door simpelweg het aantal maaltijden met zuivel te verminderen.",
+        "emoji": "🐄"
       }
     },
     {
       "id": 110,
       "intro": {
         "title": "Verborgen Melk",
-        "subtitle": "X",
+        "subtitle": "Als er zoveel zuivelproducten zijn, welke heeft dan de hoogste impact?",
         "emoji": "🥛"
       },
       "questions": [
@@ -1973,7 +1973,7 @@
             "Melk om te drinken"
           ],
           "correctAnswer": "Kaas",
-          "explanationText": "Een blokje kaas lijkt klein maar er is veel melk in ‘verborgen’. Dat betekent dat kaas een hoge impact heeft. Voor de meeste mensen is dit de meest ongemakkelijke waarheid over duurzaam eten. Vooral omdat veel vegetariërs vlees vervangen door kaas.\n\nMaar als je een kaasliefhebber bent: wordt niet meteen wanhopig, je hoeft kaas niet helemaal op te geven.",
+          "explanationText": "Een blokje kaas lijkt klein maar er is veel melk in ‘verborgen’🧀. Dat betekent dat kaas een hoge impact heeft. Voor de meeste mensen is dit de meest ongemakkelijke waarheid over duurzaam eten. Vooral omdat veel vegetariërs vlees vervangen door kaas.\n\nMaar als je een kaasliefhebber bent: wordt niet meteen wanhopig, je hoeft kaas niet helemaal op te geven.",
           "imageUrl": ""
         },
         {
@@ -1997,7 +1997,7 @@
             "80 g Grana Padano"
           ],
           "correctAnswer": "80 g Grana Padano",
-          "explanationText": "De portiegroottes van kaas verminderen maakt al een heel groot verschil. Onze favoriete manier om dat te doen: een heerlijke kwaliteit Parmezaanse kaas en de fijnste rasp. Je zult meer geraspte kaasdeeltjes hebben en daardoor minder kaas om dezelfde smaak te proeven🙂",
+          "explanationText": "De portiegrootte van kaas verminderen maakt een groter verschil dan een specifieke kaas kiezen. Onze favoriete manier om dat te doen: een heerlijke kwaliteit Parmezaanse kaas en de fijnste rasp. Je zult meer geraspte kaasdeeltjes hebben en daardoor minder kaas om dezelfde smaak te proeven🙂",
           "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cheese-footprint-serving-size-NL.png"
         }
       ],

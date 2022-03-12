@@ -2888,7 +2888,7 @@
           "quantityType": "tl"
         },
         {
-          "name": "Citroen",
+          "name": "Limoen",
           "type": "taste",
           "quantity": 0.5,
           "quantityType": ""
@@ -2949,7 +2949,7 @@
           "time": 1
         },
         {
-          "title": "Voeg de kokosmelk en citroensap toe",
+          "title": "Voeg de kokosmelk en limoensap toe",
           "detail": "breng aan de kook en laat sudderen",
           "panType": "fryingPan1",
           "emoji": "",

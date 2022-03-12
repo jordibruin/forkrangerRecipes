@@ -2888,7 +2888,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Lemon",
+          "name": "Lime",
           "type": "taste",
           "quantity": 0.5,
           "quantityType": ""
@@ -2949,7 +2949,7 @@
           "time": 1
         },
         {
-          "title": "Add coconut milk and lemon juice",
+          "title": "Add coconut milk and lime juice",
           "detail": "bring to boil and simmer",
           "panType": "fryingPan1",
           "emoji": "",

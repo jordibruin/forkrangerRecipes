@@ -2833,7 +2833,7 @@
       "id": 21,
       "title": "Banana curry",
       "description": "On the shores of Sri Lanka, I walked into a tiny restaurant with eight seats. I was the first. There was a buffet to serve yourself, and one of the meals was banana curry. It remains one of the best meals I’ve ever had and this is my version that almost comes close to the original.",
-      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/banana-curry.jpg",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/banana-curry-2.jpg",
       "duration": 35,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
@@ -2888,7 +2888,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Lemon juice",
+          "name": "Lemon",
           "type": "taste",
           "quantity": 0.5,
           "quantityType": ""

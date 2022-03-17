@@ -8049,6 +8049,135 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/stuffed-bell-peppers/?share",
+      "id": 59,
+      "title": "Stuffed Bell Peppers",
+      "description": "This recipe is easy to make and is filled with protein! The roasted feta on top is a tasty finish and you don't need a lot of it.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/White-wine-mushroom-tagliatelle.jpg",
+      "duration": 40,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Couscous (whole wheat)",
+          "type": "base",
+          "quantity": 120,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned lentils",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable",
+          "type": "taste",
+          "quantity": 120,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Basil",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cajun spice mix",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut tomatoes into cubes",
+        "Halve the bell peppers and remove the seeds",
+        "Chop walnuts",
+        "Cut feta in 1 cm cubes",
+        "Preheat oven to 200°C"
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "Sauté onion, garlic, basil and cajun spice mix",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add lentils, tomatoes and couscous",
+          "detail": "drain lentils before adding, medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add bouillon",
+          "detail": "mix well",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add walnuts",
+          "detail": "mix well",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Put bell pepper halves on a baking sheet and fill with couscous mix, crumble feta on top",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

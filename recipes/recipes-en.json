@@ -7922,6 +7922,133 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://forkranger.com/white-wine-mushroom-tagliatelle/?share",
+      "id": 58,
+      "title": "White Wine Mushroom Tagliatelle",
+      "description": "This creamy pasta dish requires plenty of garlic and white wine. Together with the earthy taste of of the mushrooms, the raisins and leek it creates a wonderful combination of flavours.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/Beetroor-and-pumpkin-curry.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tagliatelle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Leek",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Raisins",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Glass white wine (Chardonnay)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Parmesan",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Mince garlic",
+        "Cut leek into rings",
+        "Cut mushrooms into slices",
+        "Chop walnuts"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Sauté mushrooms",
+          "detail": "high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add garlic and leek",
+          "detail": "season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Cook tagliatelle in the meantime",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Add white wine",
+          "detail": "reduce heat and let it simmer until most of the wine has evaporated",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add (soy) cream, sun-dried tomatoes and walnuts",
+          "detail": "taste and add salt and pepper if needed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Serve tagliatelle with white wine mushroom sauce and add raisins and parmesan on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -8044,6 +8044,135 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/gevulde-paprikas/?share",
+      "id": 59,
+      "title": "Gevulde paprika's",
+      "description": "Dit recept is makkelijk te maken en heeft meer dan genoeg eiwit! De geroosterde feta is een heerlijke smaakmaker en je hebt er maar weinig van nodig.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/White-wine-mushroom-tagliatelle.jpg",
+      "duration": 40,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Couscous (volkoren)",
+          "type": "base",
+          "quantity": 120,
+          "quantityType": "g"
+        },
+        {
+          "name": "Paprika's",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Linzen uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 120,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Basilicum",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Cajun kruidenmix",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de tomaten in blokjes",
+        "Halveer de paprika's en verwijder de zaden",
+        "Hak de walnoten in stukjes",
+        "Snij de feta in kleine blokjes",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui, knoflook, basilicum en cajun kruiden",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de linzen, tomaten en couscous toe",
+          "detail": "laat de linzen uitlekken voordat je ze toevoegt, op middelhoog vuur",
+          "emoji": "",
+          "panType": "fryingPan1",
+          "time": 3
+        },
+        {
+          "title": "Voeg bouillon toe",
+          "detail": "roer goed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg walnoten toe",
+          "detail": "roer goed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Plaats de paprika helften op bakpapier en vul ze met de couscous mix, verkruimel de feta erbovenop",
+          "detail": "op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

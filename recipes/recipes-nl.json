@@ -8173,6 +8173,163 @@
           "time": 20
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/linzensoep-met-paprika/?share",
+      "id": 60,
+      "title": "Linzensoep met Paprika",
+      "description": "Linzensoepen zijn er in verschillende vormen en stijlen. Deze ontdekte ik op een regenachtige maandagavond en gaf de week echt weer een boost. De soep brengt een stevige smaak zonder dat er vlees in zit.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/White-wine-mushroom-tagliatelle.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Linzen uit blik",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zoete puntpaprika's",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Tomaten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 125,
+          "quantityType": "g"
+        },
+        {
+          "name": "Brood",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "L"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Basilicum",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Tijm",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Peterselie",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Verwarm de oven voor op 200°C",
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de wortels in plakjes",
+        "Halveer de zoete puntpaprika's en verwijder de zaden"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Rooster de zoete puntpaprika's op een rooster in de oven",
+          "detail": "op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Fruit de ui en de knoflook in een ruime hoeveelheid olie",
+          "detail": "op middelhoog vuur",
+          "emoji": "",
+          "panType": "cookingPan1",
+          "time": 3
+        },
+        {
+          "title": "Voeg wortel, oregano, basilicum, tijm en peterselie toe",
+          "detail": "op middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg bouillon toe",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg linzen en tomaten toe",
+          "detail": "laat sudderen op lager vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Voeg zoete puntpaprika's toe en pureer tot een soep",
+          "detail": "breng op smaak met zout en peper",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg taugé toe",
+          "detail": "tot alles warm is",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serveer met brood ernaast",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

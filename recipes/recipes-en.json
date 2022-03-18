@@ -8178,6 +8178,158 @@
           "time": 20
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/lentil-soup/?share",
+      "id": 60,
+      "title": "Lentil Soup",
+      "description": "Lentil soups come in different forms and styles. This one was discovered on a rainy Monday evening and brought real flavour to the week. It brings a hearty taste even without any meat.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/White-wine-mushroom-tagliatelle.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Canned lentils",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sweet pointed peppers",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned tomatoes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 125,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bread",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "L"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Basil",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Thyme",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Parsley",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Preheat oven to 200°C",
+        "Dice onion and mince garlic",
+        "Cut carrots into slices or cubes",
+        "Halve the sweet pointed peppers and remove the seeds"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Roast the sweet pointed peppers on a rack in the oven",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Sauté onion and garlic in plenty of oil",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add carrot, oregano, basil, thyme and parsley",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add bouillon",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add lentils and tomatoes",
+          "detail": "simmer on lower heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Add sweet pointed peppers and blend until smooth",
+          "detail": "season with salt and pepper",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Add taugé",
+          "detail": "until warm",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        }
+      ]
     }
   ]
 }

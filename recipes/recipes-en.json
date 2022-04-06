@@ -8181,7 +8181,8 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "rice"
       ],
       "url": "https://forkranger.com/jackfruit-rendang-stew/?share",
       "id": 60,
@@ -8459,6 +8460,149 @@
         },
         {
           "title": "Serve with the coriander",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/zucchini-and-peach-wraps/?share",
+      "id": 62,
+      "title": "Zucchini and Peach Wraps",
+      "description": "The fresh taste of the mint and peaches is a delicious combination with the mediterranean veggies and a bit of spiciness. Don’t be shy with the mint, this recipe needs lots of it.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/Zucchini-and-Peach-Wraps.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Wraps (whole wheat)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Zucchini",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Yellow bell peppers",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned chickpeas",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned peaches",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Plant-based) creme fraiche",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Red chilli pepper",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lemon ",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Smoked paprika powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh mint",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Mince garlic and ginger",
+        "Deseed and cut the chilli pepper",
+        "Cut zucchini into quartered slices",
+        "Cut yellow bell pepper into short strips",
+        "Cut tomatoes into cubes",
+        "Cut peaches into cubes"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Stir half of the garlic and all of the chilli pepper through the creme fraiche",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Sauté zucchini, bell pepper, garlic, soy sauce and ginger",
+          "detail": "high heat, stir regularly",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Add tomatoes, chickpeas and paprika powder",
+          "detail": "drain chickpeas before adding, medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add peaches and squeeze lemon",
+          "detail": "let everything simmer until warm, season with salt and pepper\n\nkeep this short as the peaches will lose flavour when simmered too long",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Serve the wraps with the seasoned creme fraiche, veggie mix and plenty of mint",
           "detail": "",
           "emoji": ""
         }

@@ -8334,6 +8334,135 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/chickpea-tajine-with-peaches/?share",
+      "id": 61,
+      "title": "Chickpea Tajine with Peaches",
+      "description": "Although Tajine refers to the type of pot used traditionally, it’s perfectly possible to experience some of the Moroccan cuisine when making this simple oven dish. The secret ingredient is time. Luckily the preparation for this dish is limited, so you can enjoy your time while the flavours develop in the oven.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/stuffed-bell-peppers.jpg",
+      "duration": 65,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "When using fresh peaches, add them in the mix before it enters the oven.",
+      "ingredients": [
+        {
+          "name": "Celeriac",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned chickpeas",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned peeled tomatoes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned peaches",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cinnamon",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Red onions",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Peel celeriac and cut into small wedges",
+        "Dice onion and mince garlic",
+        "Mince or grate ginger finely",
+        "Cut peaches into cubes",
+        "Pre-heat oven to 200°C"
+      ],
+      "cookTime": 50,
+      "cookSteps": [
+        {
+          "title": "Mix all ingredients except the peaches and fresh coriander",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add the mix into an oven dish",
+          "detail": "make sure the celeriac is covered by the tomatoes and water so it can cook in the liquid. Add more water if necessary.",
+          "panType": "oven",
+          "emoji": "",
+          "time": 50
+        },
+        {
+          "title": "Stir peaches through oven mix",
+          "detail": "the peaches should become warm",
+          "emoji": ""
+        },
+        {
+          "title": "Serve with the coriander",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

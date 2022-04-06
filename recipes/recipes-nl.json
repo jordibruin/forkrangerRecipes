@@ -8330,6 +8330,135 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/kikkererwten-tajine-met-perziken/?share",
+      "id": 61,
+      "title": "Kikkererwten Tajine met Perziken",
+      "description": "Hoewel Tajine verwijst naar het type pot dat traditioneel wordt gebruikt, is het echt mogelijk om iets van de Marokkaanse keuken te ervaren met behulp van een eenvoudige ovenschaal. Het geheime ingrediënt is tijd. Gelukkig is de voorbereiding voor dit gerecht vrij kort, zodat je lekker van je tijd kunt genieten terwijl de smaken zich ontwikkelen in de oven.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/stuffed-bell-peppers.jpg",
+      "duration": 65,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Als je verse perziken gebruikt, voeg ze dan toe aan de mix voordat die de oven in gaat.",
+      "ingredients": [
+        {
+          "name": "Knolselderij",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Kikkererwten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik (gepelde)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Perziken uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kaneel",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Schil de knolselderij en snij in kleine partjes",
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de gember fijn",
+        "Snij de perziken in blokjes",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 50,
+      "cookSteps": [
+        {
+          "title": "Mix alle ingrediënten behalve de perziken en verse koriander",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Doe de mix in een ovenschaal",
+          "detail": "zorg ervoor dat de knolselderij bedekt is door de tomaten en water zodat het gaar wordt in het vocht. Voeg zo nodig meer water toe.",
+          "emoji": "",
+          "panType": "oven",
+          "time": 50
+        },
+        {
+          "title": "Roer perziken door het mengsel uit de oven",
+          "detail": "totdat de perziken warm zijn",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer met de koriander",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -8183,84 +8183,92 @@
       "filter": [
         "plants"
       ],
-      "url": "https://forkranger.com/lentil-soup/?share",
+      "url": "https://forkranger.com/jackfruit-rendang-stew/?share",
       "id": 60,
-      "title": "Lentil Soup",
-      "description": "Lentil soups come in different forms and styles. This one was discovered on a rainy Monday evening and brought real flavour to the week. It brings a hearty taste even without any meat.",
-      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/White-wine-mushroom-tagliatelle.jpg",
-      "duration": 30,
+      "title": "Jackfruit Rendang Stew",
+      "description": "This is a jackfruit version of the original Indonesian beef rendang. The flesh of this tropical tree fruit easily absorbs all flavours. And when it’s simmered long enough, it will get a meaty texture. You won’t miss the beef! It does need some time, so it’s a great option for the weekend. You can find it in the canned vegetable section at the supermarket.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/stuffed-bell-peppers.jpg",
+      "duration": 70,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "If you don't have a food processor soak the cashews in advance to make them easier to blend.",
       "ingredients": [
         {
-          "name": "Canned lentils",
+          "name": "Rice (brown)",
           "type": "base",
-          "quantity": 400,
+          "quantity": 300,
           "quantityType": "g"
         },
         {
-          "name": "Sweet pointed peppers",
+          "name": "Canned young jackfruit",
           "type": "fresh",
-          "quantity": 2,
+          "quantity": 1100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Carrots",
+          "name": "Cashews",
           "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Coconut milk",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Ketjap Manis",
+          "type": "taste",
           "quantity": 4,
-          "quantityType": ""
+          "quantityType": "TBL sp"
         },
         {
-          "name": "Canned tomatoes",
-          "type": "fresh",
-          "quantity": 400,
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 20,
           "quantityType": "g"
         },
         {
-          "name": "Taugé",
-          "type": "fresh",
-          "quantity": 125,
-          "quantityType": "g"
-        },
-        {
-          "name": "Bread",
-          "type": "fresh",
-          "quantity": 1,
-          "quantityType": ""
-        },
-        {
-          "name": "Bouillon (vegetable)",
+          "name": "Turmeric",
           "type": "taste",
-          "quantity": 1,
-          "quantityType": "L"
-        },
-        {
-          "name": "Oregano",
-          "type": "taste",
-          "quantity": 1,
+          "quantity": 4,
           "quantityType": "tea sp"
         },
         {
-          "name": "Basil",
+          "name": "Cumin",
           "type": "taste",
-          "quantity": 1,
+          "quantity": 4,
           "quantityType": "tea sp"
         },
         {
-          "name": "Thyme",
+          "name": "Cinnamon",
           "type": "taste",
-          "quantity": 1,
+          "quantity": 2,
           "quantityType": "tea sp"
         },
         {
-          "name": "Parsley",
+          "name": "Chilli powder",
           "type": "taste",
-          "quantity": 1,
+          "quantity": 2,
           "quantityType": "tea sp"
         },
         {
-          "name": "Onion",
+          "name": "Red onion",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
@@ -8270,67 +8278,58 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
         }
       ],
       "prepTime": 10,
       "prepSteps": [
-        "Preheat oven to 200°C",
         "Dice onion and mince garlic",
-        "Cut carrots into slices or cubes",
-        "Halve the sweet pointed peppers and remove the seeds"
+        "Mince ginger",
+        "Drain jackfruit and cut in small pieces",
+        "Cut broccoli into small florets"
       ],
-      "cookTime": 30,
+      "cookTime": 60,
       "cookSteps": [
         {
-          "title": "Roast the sweet pointed peppers on a rack in the oven",
-          "detail": "at 200°C",
-          "panType": "oven",
-          "emoji": "",
-          "time": 8
+          "title": "Make a curry paste: blend cashews, ginger, turmeric, cumin, cinnamon, chilli powder and garlic",
+          "detail": "with a hand blender (or food processor), if it's too crumbly add a little oil so it forms a curry paste",
+          "emoji": ""
         },
         {
-          "title": "Sauté onion and garlic in plenty of oil",
-          "detail": "medium/high heat",
-          "panType": "cookingPan1",
+          "title": "Add curry paste, onion and jackfruit",
+          "detail": "high heat",
+          "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
-          "title": "Add carrot, oregano, basil, thyme and parsley",
-          "detail": "medium/high heat",
-          "panType": "cookingPan1",
+          "title": "Add coconut milk, water and ketjap manis",
+          "detail": "low heat, let it simmer with the lid on",
+          "panType": "fryingPan1",
           "emoji": "",
-          "time": 3
+          "time": 45
         },
         {
-          "title": "Add bouillon",
-          "detail": "",
-          "panType": "cookingPan1",
-          "emoji": "",
-          "time": 1
-        },
-        {
-          "title": "Add lentils and tomatoes",
-          "detail": "simmer on lower heat",
+          "title": "Cook rice",
+          "detail": "start after the 45 min are over",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Add sweet pointed peppers and blend until smooth",
-          "detail": "season with salt and pepper",
-          "panType": "cookingPan1",
-          "emoji": ""
-        },
-        {
-          "title": "Add taugé",
-          "detail": "until warm",
-          "panType": "cookingPan1",
+          "title": "Add broccoli, take the lid off",
+          "detail": "medium heat, make sure broccoli is covered, let the stew thicken, taste and add salt and pepper",
+          "panType": "fryingPan1",
           "emoji": "",
-          "time": 2
+          "time": 10
         },
         {
-          "title": "Serve with bread on the side",
+          "title": "Serve the rice with the stew and add coriander",
           "detail": "",
           "emoji": ""
         }

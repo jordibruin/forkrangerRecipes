@@ -8459,6 +8459,149 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/nl/wraps-met-courgette-en-perzik/?share",
+      "id": 62,
+      "title": "Wraps met Courgette en Perzik",
+      "description": "De frisse smaak van munt en perzik is een heerlijke combinatie met de mediterrane groenten en een beetje pit. Wees niet te zuinig met de munt, dit recept wordt beter met een ruime hoeveelheid.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/Zucchini-and-Peach-Wraps.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Wraps (volkoren)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Gele paprika's",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Tomaten",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kikkererwten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Perziken uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Plantaardige) crème fraîche",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Rode chilipeper",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "g"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Gerookt paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse munt",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snij de knoflook en gember fijn",
+        "Verwijder de zaadjes van de chilipeper en snij in fijne reepjes",
+        "Halveer de courgette en snij in stukjes",
+        "Snij de paprika in stukjes",
+        "Snij de tomaten in blokjes",
+        "Snij de perziken in blokjes"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Roer de helft van de knoflook en alle chili peper door de crème fraîche",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bak de courgette, paprika, knoflook, sojasaus en gember",
+          "detail": "op hoog vuur, roer regelmatig",
+          "emoji": "",
+          "panType": "fryingPan1",
+          "time": 7
+        },
+        {
+          "title": "Voeg tomaten, kikkererwten en paprikapoeder toe",
+          "detail": "laat de kikkererwten uitlekken voordat je ze toevoegt, op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de perziken toe en knijp de citroen uit",
+          "detail": "laat sudderen tot alles warm is, breng op smaak met zout en peper\n\nhoud dit zo kort mogelijk zodat de perziken geen smaak verliezen bij te lang sudderen",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Serveer de wraps met de crème fraîche, groente mix en flinke hoeveelheid munt",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

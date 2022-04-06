@@ -8176,86 +8176,95 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "rice"
       ],
-      "url": "https://forkranger.com/nl/linzensoep-met-paprika/?share",
+      "url": "https://forkranger.com/nl/jackfruit-rendang-stoof/?share",
       "id": 60,
-      "title": "Linzensoep met Paprika",
-      "description": "Linzensoepen zijn er in verschillende vormen en stijlen. Deze ontdekte ik op een regenachtige maandagavond en gaf de week echt weer een boost. De soep brengt een stevige smaak zonder dat er vlees in zit.",
-      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/White-wine-mushroom-tagliatelle.jpg",
-      "duration": 30,
+      "title": "Jackfruit Rendang Stoof",
+      "description": "Dit is een jackfruit versie van de originele Indonesische beef rendang. Het vruchtvlees van de tropische jackfruit vrucht neemt alle smaken gemakkelijk op. En als het lang genoeg wordt gestoofd, krijgt het een textuur die lijkt op vlees. Je zult het vlees dus niet missen! Het heeft wel wat tijd nodig, dus het is een goede optie voor het weekend. Je kunt het trouwens vinden bij de groenteconserven in de supermarkt.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/stuffed-bell-peppers.jpg",
+      "duration": 70,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Als je geen keukenmachine hebt, week de cashewnoten dan van te voren om ze gemakkelijker tot een pasta te mixen.",
       "ingredients": [
         {
-          "name": "Linzen uit blik",
+          "name": "Rijst (bruin)",
           "type": "base",
-          "quantity": 400,
+          "quantity": 300,
           "quantityType": "g"
         },
         {
-          "name": "Zoete puntpaprika's",
+          "name": "Young jackfruit uit blik",
           "type": "fresh",
-          "quantity": 2,
+          "quantity": 1100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
           "quantityType": ""
         },
         {
-          "name": "Wortels",
+          "name": "Cashewnoten",
           "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kokosmelk",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ketjap manis",
+          "type": "taste",
           "quantity": 4,
-          "quantityType": ""
+          "quantityType": "el"
         },
         {
-          "name": "Tomaten uit blik",
-          "type": "fresh",
-          "quantity": 400,
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 20,
           "quantityType": "g"
         },
         {
-          "name": "Taugé",
-          "type": "fresh",
-          "quantity": 125,
-          "quantityType": "g"
-        },
-        {
-          "name": "Brood",
-          "type": "fresh",
-          "quantity": 1,
-          "quantityType": ""
-        },
-        {
-          "name": "Bouillon (groente)",
+          "name": "Kurkuma",
           "type": "taste",
-          "quantity": 1,
-          "quantityType": "L"
-        },
-        {
-          "name": "Oregano",
-          "type": "taste",
-          "quantity": 1,
+          "quantity": 4,
           "quantityType": "tl"
         },
         {
-          "name": "Basilicum",
+          "name": "Komijn",
           "type": "taste",
-          "quantity": 1,
+          "quantity": 4,
           "quantityType": "tl"
         },
         {
-          "name": "Tijm",
+          "name": "Kaneel",
           "type": "taste",
-          "quantity": 1,
+          "quantity": 2,
           "quantityType": "tl"
         },
         {
-          "name": "Peterselie",
+          "name": "Chilipoeder",
           "type": "taste",
-          "quantity": 1,
+          "quantity": 2,
           "quantityType": "tl"
         },
         {
-          "name": "Ui",
+          "name": "Rode ui",
           "type": "taste",
           "quantity": 1,
           "quantityType": ""
@@ -8265,67 +8274,58 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
         }
       ],
       "prepTime": 10,
       "prepSteps": [
-        "Verwarm de oven voor op 200°C",
         "Snipper de ui en pers of snij de knoflook fijn",
-        "Snij de wortels in plakjes",
-        "Halveer de zoete puntpaprika's en verwijder de zaden"
+        "Snij de gember fijn",
+        "Giet de jackfruit af en snij in kleine stukjes",
+        "Snij de broccoli in roosjes"
       ],
-      "cookTime": 20,
+      "cookTime": 60,
       "cookSteps": [
         {
-          "title": "Rooster de zoete puntpaprika's op een rooster in de oven",
-          "detail": "op 200°C",
-          "panType": "oven",
-          "emoji": "",
-          "time": 8
+          "title": "Maak een currypasta: blend de cashewnoten, gember, kurkuma, komijn, kaneel, chilipoeder en knoflook",
+          "detail": "met een staafmixer (of keukenmachine), als het te kruimelig is voeg dan een beetje olie toe zodat het een curry pasta vormt",
+          "emoji": ""
         },
         {
-          "title": "Fruit de ui en de knoflook in een ruime hoeveelheid olie",
-          "detail": "op middelhoog vuur",
+          "title": "Voeg de curry pasta, ui en jackfruit toe",
+          "detail": "op hoog vuur",
           "emoji": "",
-          "panType": "cookingPan1",
-          "time": 3
+          "panType": "fryingPan1",
+          "time": 2
         },
         {
-          "title": "Voeg wortel, oregano, basilicum, tijm en peterselie toe",
-          "detail": "op middelhoog vuur",
-          "panType": "cookingPan1",
+          "title": "Voeg de kokosmelk, het water en ketjap manis toe",
+          "detail": "op laag vuur, laat het sudderen met het deksel erop",
+          "panType": "fryingPan1",
           "emoji": "",
-          "time": 3
+          "time": 45
         },
         {
-          "title": "Voeg bouillon toe",
-          "detail": "",
-          "panType": "cookingPan1",
-          "emoji": "",
-          "time": 1
-        },
-        {
-          "title": "Voeg linzen en tomaten toe",
-          "detail": "laat sudderen op lager vuur",
+          "title": "Kook de rijst",
+          "detail": "begin hiermee nadat de 45 min voorbij zijn",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Voeg zoete puntpaprika's toe en pureer tot een soep",
-          "detail": "breng op smaak met zout en peper",
-          "panType": "cookingPan1",
-          "emoji": ""
-        },
-        {
-          "title": "Voeg taugé toe",
-          "detail": "tot alles warm is",
-          "panType": "cookingPan1",
+          "title": "Voeg broccoli toe, laat het deksel eraf",
+          "detail": "op middelhoog vuur, zorg dat de broccoli bedekt is, laat de stoof indikken, proef en voeg zout en peper toe",
+          "panType": "fryingPan1",
           "emoji": "",
-          "time": 2
+          "time": 10
         },
         {
-          "title": "Serveer met brood ernaast",
+          "title": "Serveer de rijst met de stoof en voeg koriander toe",
           "detail": "",
           "emoji": ""
         }

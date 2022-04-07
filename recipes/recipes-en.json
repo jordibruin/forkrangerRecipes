@@ -8265,7 +8265,7 @@
         {
           "name": "Chilli powder",
           "type": "taste",
-          "quantity": 2,
+          "quantity": 1,
           "quantityType": "tea sp"
         },
         {
@@ -8310,24 +8310,24 @@
         },
         {
           "title": "Add coconut milk, water and ketjap manis",
-          "detail": "low heat, let it simmer with the lid on",
+          "detail": "low heat, let it simmer with the lid on, stir every now and then",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 45
+          "time": 450
         },
         {
           "title": "Cook rice",
-          "detail": "start after the 45 min are over",
+          "detail": "start after the 40 min are over",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Add broccoli, take the lid off",
-          "detail": "medium heat, make sure broccoli is covered, let the stew thicken, taste and add salt and pepper",
+          "title": "Add broccoli",
+          "detail": "make sure broccoli is immersed in the sauce, turn heat a little up, and add the lid, taste and add salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 10
+          "time": 15
         },
         {
           "title": "Serve the rice with the stew and add coriander",

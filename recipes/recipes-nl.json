@@ -8260,7 +8260,7 @@
         {
           "name": "Chilipoeder",
           "type": "taste",
-          "quantity": 2,
+          "quantity": 1,
           "quantityType": "tl"
         },
         {
@@ -8305,24 +8305,24 @@
         },
         {
           "title": "Voeg de kokosmelk, het water en ketjap manis toe",
-          "detail": "op laag vuur, laat het sudderen met het deksel erop",
+          "detail": "op laag vuur, laat het sudderen met het deksel erop, roer af en toe",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 45
+          "time": 40
         },
         {
           "title": "Kook de rijst",
-          "detail": "begin hiermee nadat de 45 min voorbij zijn",
+          "detail": "begin hiermee nadat de 40 min voorbij zijn",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 10
         },
         {
-          "title": "Voeg broccoli toe, laat het deksel eraf",
-          "detail": "op middelhoog vuur, zorg dat de broccoli bedekt is, laat de stoof indikken, proef en voeg zout en peper toe",
+          "title": "Voeg broccoli toe",
+          "detail": "zorg ervoor dat de broccoli is 'ondergedompeld' in de saus, zet het vuur wat hoger, en doe het deksel erop, proef en breng op smaak met zout en peper",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 10
+          "time": 15
         },
         {
           "title": "Serveer de rijst met de stoof en voeg koriander toe",

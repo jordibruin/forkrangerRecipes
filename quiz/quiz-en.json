@@ -2011,6 +2011,182 @@
         "title": "A lot of milk is ‘hidden’ in cheese, which makes it the dairy product with the highest impact.\n\nWe don’t have to give up cheese completely. It’s about treating it like a luxury: not eating it every day and reducing the portion size.",
         "emoji": "🧀"
       }
+    },
+    {
+      "id": 111,
+      "intro": {
+        "title": "Nutcracker strength",
+        "subtitle": "An important message for everyone that loves peanut butter as much as we do.",
+        "emoji": "🥜"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is the main benefit of nuts?",
+          "subtitle": "",
+          "answerOptions": [
+            "Good source of carbs",
+            "High in protein",
+            "Low in fat"
+          ],
+          "correctAnswer": "High in protein",
+          "explanationText": "Nuts are the plant-based foods with highest amount of protein! 💪 They are a great way to replace meat and create a ‘filling’ meal in a healthy way.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What is main disadvantage of nuts?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pollute the soil",
+            "Cause high farm emissions",
+            "Require a lot of water"
+          ],
+          "correctAnswer": "Require a lot of water",
+          "explanationText": "It’s true that some nuts - especially almonds and pistachios - are very thirsty plants. This is a problem in dry areas like California.\n\nBut it shouldn’t keep us from eating more nuts.\n\nWhile the water footprint of some nuts is a challenge in moving to a sustainable food system, it’s still a more sustainable source of protein than meat or dairy.\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Compared to veggies, the carbon footprint of nuts is...",
+          "subtitle": "",
+          "answerOptions": [
+            "High",
+            "Medium",
+            "Low"
+          ],
+          "correctAnswer": "Low",
+          "explanationText": "The awesome thing about nuts is that they grow on trees, and trees can absorb CO2.\n\nBecause nut trees have recently been planted on grasslands, there is a significant emission saving. That’s why their footprint is negative: the trees take up more carbon than is caused during production.\n",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Nuts are an important building block of a sustainable diet",
+        "goal": "Go nuts! Include nuts and seeds into at least one meal per day",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Good news: nuts are are an important building block of a healthy and sustainable diet.\n\nWater can be an issue for nuts but we need to eat protein and overall, nuts have a significantly lower impact than meat.\n\nSo go ahead and enjoy some well-deserved peanut butter!\n",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 112,
+      "intro": {
+        "title": "The magical ingredient",
+        "subtitle": "A true Fork Ranger is always looking for ways to eat more of this awesome ingredient. Do you know what it is?",
+        "emoji": "⭐️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is NOT a legume?",
+          "subtitle": "",
+          "answerOptions": [
+            "Beans",
+            "Quinoa",
+            "Lentils"
+          ],
+          "correctAnswer": "Quinoa",
+          "explanationText": "Legumes are plants that produce a small dry fruit. We know them as chickpeas, lentils, peas or beans!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/legumes.jpg"
+        },
+        {
+          "id": 2,
+          "title": "One can of beans has the same amount of protein as...",
+          "subtitle": "",
+          "answerOptions": [
+            "1 egg",
+            "3 eggs",
+            "6 eggs"
+          ],
+          "correctAnswer": "3 eggs",
+          "explanationText": "Legumes have lots of protein for a very low footprint. They score well on CO2 and also on other environmental factors such as water use. And another benefit is that they’re cheap!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/protein20CO220comparison20legumes.png"
+        },
+        {
+          "id": 3,
+          "title": "What makes the roots of legumes special?",
+          "subtitle": "",
+          "answerOptions": [
+            "They can store water",
+            "They add nitrogen to the soil"
+          ],
+          "correctAnswer": "They add nitrogen to the soil",
+          "explanationText": "Nitrogen is a key ingredient for plants. Instead of using nitrogen, legumes ADD it to the soil through a ‘partnership’ with bacteria.\n\nThis means that farmers can use legumes instead of nitrogen fertiliser, which saves emissions and has lots of other benefits.\n",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Legumes - beans, peas, and lentils - are the most sustainable source of protein",
+        "goal": "Include legumes into at least one meal a day",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Legumes are the magical ingredient when it comes to eating for the climate: cheap, lots of protein and super sustainable!\n\nEating more beans, peas, and lentils is a win-win because they also help farmers to take care of the land.\n",
+        "emoji": "⭐️"
+      }
+    },
+    {
+      "id": 113,
+      "intro": {
+        "title": "The Ranger Hut",
+        "subtitle": "You’ve travelled a long way! Come inside for a warm meal, it’s time to see what a sustainable diet looks like.",
+        "emoji": "🔥"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many hamburgers of red meat can we eat per week? 🥩🥓",
+          "subtitle": "",
+          "answerOptions": [
+            "0 Hamburgers",
+            "1 Hamburger",
+            "2 Hamburgers"
+          ],
+          "correctAnswer": "1 Hamburger",
+          "explanationText": "In Europe and the US we currently eat the equivalent of 10 hamburgers per week (ca. 300 g beef and 700 g pork).\n\nChanging this number to 1 hamburger per week is the most important goal. This step alone gets us almost half-way to the sustainable diet calculated by the EAT-Lancet report.\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Besides beef and pork, what is the other thing we need to reduce most?",
+          "subtitle": "",
+          "answerOptions": [
+            "Fish 🐟",
+            "Chicken 🐔",
+            "Dairy 🧀"
+          ],
+          "correctAnswer": "Dairy 🧀",
+          "explanationText": "Our daily budget for dairy is 250 g of ‘whole milk equivalents’. That’s about one glass of milk 🥛 or two slices of cheese per day 🧀.\n\nFor most Western countries that means reducing dairy by more than half.\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "How many more nuts and legumes should we eat? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            "2x",
+            "3x",
+            "6x"
+          ],
+          "correctAnswer": "6x",
+          "explanationText": "Right now we only eat 19 g per day, while it should be 125 g!\n\nTry to eat at least one portion of nuts and one portion of legumes every day. So get out the peanut butter jar! 😍🥜\n",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "There are a few actions that get us 70% to a sustainable diet",
+        "goal": "Reduce red meat & dairy and eat more nuts & legumes",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Congratulations! You’ve mastered the basics of becoming a Fork Ranger.\n\nThese three steps already get us 70% to a sustainable diet. From here on, you will learn the smaller steps to achieve even more savings. But don’t lose sight of the big 3:\n\n- replace red meat 🥩🥓⬇️\n- less dairy 🧀🥛⬇️\n- more nuts & legumes 🥜⬆️",
+        "emoji": ""
+      }
     }
   ]
 }

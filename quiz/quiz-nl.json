@@ -2011,6 +2011,182 @@
         "title": "Veel melk is ‘verborgen’ in kaas. Dat maakt het het zuivelproduct met de hoogste impact.\n\nWe hoeven kaas niet volledig op te geven. Het gaat erom het als luxe product te behandelen: het niet elke dag te eten en de portiegroottes te verminderen.",
         "emoji": "🧀"
       }
+    },
+    {
+      "id": 111,
+      "intro": {
+        "title": "De Notenkraker",
+        "subtitle": "Een belangrijke boodschap voor iedereen die net zoveel van pindakaas houdt als wij.",
+        "emoji": "🥜"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat is het belangrijkste voordeel van noten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Goede bron van koolhydraten",
+            "Bevatten veel eiwit",
+            "Laag in vetten"
+          ],
+          "correctAnswer": "Bevatten veel eiwit",
+          "explanationText": "Noten bevatten de grootste hoeveelheid eiwit van alle plantaardige producten! 💪 Ze zijn geweldig om vlees te vervangen en maken een maaltijd vullend op een gezonde manier.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is het voornaamste nadeel van noten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Vervuilen de bodem",
+            "Veroorzaken hoge emissies in productie",
+            "Vragen veel water"
+          ],
+          "correctAnswer": "Vragen veel water",
+          "explanationText": "Het is waar dat sommige noten - vooral amandelen en pistachenoten - zijn erg dorstige planten. En dit is een probleem in droge gebieden, zoals Californië.\n\nMaar het moet ons niet tegenhouden om meer noten te eten.\n\nHoewel het gevraagde water voor veel noten een uitdaging is in het bereiken van een duurzaam voedselsysteem, is het nog steeds een duurzamere bron van eiwit dan vlees of zuivel.\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Vergeleken met groentes, is de CO2 impact van noten...",
+          "subtitle": "",
+          "answerOptions": [
+            "Hoger",
+            "Gelijk",
+            "Lager"
+          ],
+          "correctAnswer": "Lager",
+          "explanationText": "Het fantastische aan noten is dat ze aan bomen groeien, en dat bomen CO2 opnemen.\n\nOmdat notenbomen recentelijk zijn geplant op graslanden, is er een grote emissiebesparing. Daarom is hun impact negatief: de bomen nemen meer CO2 op dan hoeveel er veroorzaakt wordt tijdens productie.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Noten zijn een belangrijk onderdeel van een duurzaam voedingspatroon",
+        "goal": "Go nuts! Maak noten en zaden onderdeel van tenminste één maaltijd per dag ",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Goed nieuws: noten zijn een belangrijke bouwsteen van een gezond en duurzaam dieet.\n\nWater kan een issue zijn voor noten, maar we moeten toch eiwitten eten en over het geheel hebben noten een significant lagere impact dan vlees.\n\nDus pak die pot pindakaas er maar bij en geniet ervan!\n",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 112,
+      "intro": {
+        "title": "Het magische ingrediënt",
+        "subtitle": "Een echte Fork Ranger is altijd op zoek naar manieren om meer van dit geweldige ingrediënt te eten. Weet je wat het is?",
+        "emoji": "⭐️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat zijn GEEN peulvruchten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Bonen",
+            "Linzen",
+            "Quinoa"
+          ],
+          "correctAnswer": "Quinoa",
+          "explanationText": "Peulvruchten zijn planten die een kleine droge vrucht produceren. Zo kennen we kikkererwten, linzen, erwten en bonen!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/legumes.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Een blik bonen heeft dezelfde hoeveelheid eiwit als...",
+          "subtitle": "",
+          "answerOptions": [
+            "1 Ei",
+            "3 Eieren",
+            "6 Eieren"
+          ],
+          "correctAnswer": "6 Eieren",
+          "explanationText": "Peulvruchten hebben veel eiwit voor een zeer lage impact. Ze scoren niet alleen goed op CO2 maar ook op andere milieufactoren zoals watergebruik. En misschien het beste: ze zijn goedkoop!",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Wat maakt de wortels van peulvruchten speciaal?",
+          "subtitle": "",
+          "answerOptions": [
+            "Ze kunnen water opslaan",
+            "Ze voegen stikstof toe aan de bodem"
+          ],
+          "correctAnswer": "Ze voegen stikstof toe aan de bodem",
+          "explanationText": "Planten kunnen niet zonder stikstof. Maar peulvruchten gebruiken deze stikstof niet, maar voegen het toe aan de bodem door een ‘samenwerking’ met bacteriën.\n\nDit betekent dat boeren peulvruchten kunnen gebruiken in plaats van kunstmest, en dat bespaart emissies en tal van andere voordelen.\n",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Peulvruchten - bonen, erwten en linzen - zijn de meest duurzame vorm van eiwit",
+        "goal": "Voeg peulvruchten toe aan in elk geval één maaltijd per dag",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Peulvruchten zijn het magische ingredient als het aankomt op klimaatvriendelijk eten: goedkoop, veel eiwit en super duurzaam!\n\nMeer bonen, erwten en linzen eten is een win-win situatie omdat ze boeren ook helpen om goed voor het land te zorgen.\n",
+        "emoji": "⭐️"
+      }
+    },
+    {
+      "id": 113,
+      "intro": {
+        "title": "De Ranger Hut",
+        "subtitle": "Je bent al ver gekomen! Kom binnen voor een warme maaltijd, het is tijd om te zien hoe een duurzaam voedingspatroon eruit ziet.",
+        "emoji": "🔥"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel hamburgers mogen we per week eten? 🥩🥓",
+          "subtitle": "rund- of varkensvlees",
+          "answerOptions": [
+            "0 Hamburgers",
+            "1 Hamburger",
+            "2 Hamburgers"
+          ],
+          "correctAnswer": "1 Hamburger",
+          "explanationText": "In Europa en de VS eten we op dit moment het equivalent van 10 hamburgers per week (ca. 300 g rundvlees en 700 g varkensvlees).\n\nDit aan te passen naar 1 hamburger per week is ons meest belangrijke doel. Deze stap brengt ons al halverwege van een duurzaam voedingspatroon!\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Behalve rund- en varkensvlees, wat moeten we het meest verminderen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Vis 🐟",
+            "Kip 🐔",
+            "Zuivel 🧀"
+          ],
+          "correctAnswer": "Zuivel 🧀",
+          "explanationText": "Ons dagelijkse ‘budget’ aan zuivel is 250 g melk equivalenten. Dat is ongeveer één glas melk 🥛 of een plak kaas per dag 🧀.\n\nVoor de meeste Westerse landen betekent dit dat de zuivelconsumptie gehalveerd moet worden.\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel meer noten en peulvruchten moeten we eten? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            "2x",
+            "3x",
+            "6x"
+          ],
+          "correctAnswer": "6x",
+          "explanationText": "Op dit moment eten we hiervan maar 19 g per dag, terwijl het 125 g zou moeten zijn!\n\nProbeer elke dag ten minste één portie en één portie peulvruchten te eten. Dus haal die pot pindakaas tevoorschijn! 😍🥜\n",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Er zijn een paar acties waarmee we al een 70% duurzaam voedingspatroon bereiken",
+        "goal": "Verminder rund- en varkensvlees & zuivel en eet meer noten & peulvruchten",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Gefeliciteerd! Je hebt de fundamenten om een echte Fork Ranger te worden gelegd.\n\nDeze drie stappen zullen je al helpen om een 70% duurzaam voedingspatroon te behalen. Vanaf hier zul je meer inzicht krijgen in kleinere stappen om nog meer besparing te bereiken. Maar verlies deze grote 3 niet uit het oog:\n\nvervang rund- en varkensvlees 🥩🥓⬇️\neet minder zuivel 🧀🥛⬇️\neet meer noten en peulvruchten 🥜⬆️",
+        "emoji": ""
+      }
     }
   ]
 }

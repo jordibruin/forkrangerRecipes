@@ -2031,7 +2031,7 @@
           ],
           "correctAnswer": "High in protein",
           "explanationText": "Nuts are the plant-based foods with highest amount of protein! 💪 They are a great way to replace meat and create a ‘filling’ meal in a healthy way.",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/Proteinper100g-2-EN.png"
         },
         {
           "id": 2,
@@ -2057,7 +2057,7 @@
           ],
           "correctAnswer": "Low",
           "explanationText": "The awesome thing about nuts is that they grow on trees, and trees can absorb CO2.\n\nBecause nut trees have recently been planted on grasslands, there is a significant emission saving. That’s why their footprint is negative: the trees take up more carbon than is caused during production.\n",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/nuts-median.png"
         }
       ],
       "outro": {
@@ -2147,8 +2147,8 @@
             "2 Hamburgers"
           ],
           "correctAnswer": "1 Hamburger",
-          "explanationText": "In Europe and the US we currently eat the equivalent of 10 hamburgers per week (ca. 300 g beef and 700 g pork).\n\nChanging this number to 1 hamburger per week is the most important goal. This step alone gets us almost half-way to the sustainable diet calculated by the EAT-Lancet report.\n",
-          "imageUrl": ""
+          "explanationText": "In Europe and the US we currently eat the equivalent of 5 hamburgers per week (ca. 350 g pork and 150 g beef).\n\nChanging this number to 1 hamburger per week is the most important goal. This step alone gets us almost half-way to the sustainable diet calculated by the EAT-Lancet report.\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-meat.png"
         },
         {
           "id": 2,
@@ -2161,7 +2161,7 @@
           ],
           "correctAnswer": "Dairy 🧀",
           "explanationText": "Our daily budget for dairy is 250 g of ‘whole milk equivalents’. That’s about one glass of milk 🥛 or two slices of cheese per day 🧀.\n\nFor most Western countries that means reducing dairy by more than half.\n",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-dairy.png"
         },
         {
           "id": 3,
@@ -2174,7 +2174,7 @@
           ],
           "correctAnswer": "6x",
           "explanationText": "Right now we only eat 19 g per day, while it should be 125 g!\n\nTry to eat at least one portion of nuts and one portion of legumes every day. So get out the peanut butter jar! 😍🥜\n",
-          "imageUrl": ""
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-nuts-and-legumes.png"
         }
       ],
       "outro": {

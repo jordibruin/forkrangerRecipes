@@ -4661,7 +4661,7 @@
         {
           "title": "Kook de sperziebonen",
           "detail": "spoel ze af onder koud water, zo voorkom je dat ze doorkoken en zacht worden, voeg de bonen aan het eind toe aan de saus",
-          "panType": "cookingPan1",
+          "panType": "DutchOven",
           "emoji": "",
           "time": 10
         },

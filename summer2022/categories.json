@@ -1,0 +1,16 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "title": "The Big Ranch",
+            "imageURL": "https://...",
+            "color": 0
+        },
+        {
+            "id": 1,
+            "title": "The Wild Waste",
+            "imageURL": "https://...",
+            "color": 1
+        }
+    ]
+}

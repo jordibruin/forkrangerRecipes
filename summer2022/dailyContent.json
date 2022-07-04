@@ -1,0 +1,88 @@
+{
+    "dailyContent": [
+        {
+            "id": 1,
+            "home": {
+                "title": "What saves more emissions?",
+                "category": 1
+            },
+            "pages": [
+                {
+                    "id": 0,
+                    "type": "text",
+                    "title": "Farms vs Diets - What is more effective?"
+                },
+                {
+                    "id": 1,
+                    "type": "question",
+                    "title": "What can save more emissions?",
+                    "subtitle": "Hier komt een subtitel",
+                    "answerOptions": [
+                        {
+                            "id": 0,
+                            "title": "Making farms more sustainable",
+                            "correct": true
+                        },
+                        {
+                            "id": 1,
+                            "title": "Changing what we eat",
+                            "correct": false
+                        }
+                    ],
+                    "answerExplanation": {
+                        "text":"The most effective way to reduce the climate impact of food...",
+                        "imageURL": "https://image"
+                    }
+                },
+                {
+                    "id": 2,
+                    "type": "recipe",
+                    "recipeID": 8,
+                    "subtitle": "Totdays recipe is a great way to eat a plant based meal"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "home": {
+                "title": "What saves more emissions 2?",
+                "category": 1
+            },
+            "pages": [
+                {
+                    "id": 0,
+                    "type": "text",
+                    "title": "Farms vs Diets - What is more effective?"
+                },
+                {
+                    "id": 1,
+                    "type": "question",
+                    "title": "What can save more emissions?",
+                    "subtitle": "Hier komt een subtitel",
+                    "answerOptions": [
+                        {
+                            "id": 0,
+                            "title": "Making farms more sustainable",
+                            "correct": true
+                        },
+                        {
+                            "id": 1,
+                            "title": "Changing what we eat",
+                            "correct": false
+                        }
+                    ],
+                    "answerExplanation": {
+                        "text":"The most effective way to reduce the climate impact of food...",
+                        "imageURL": "https://image"
+                    }
+                },
+                {
+                    "id": 2,
+                    "type": "recipe",
+                    "recipeID": 8,
+                    "subtitle": "Totdays recipe is a great way to eat a plant based meal"
+                }
+            ]
+        }
+    ]
+}

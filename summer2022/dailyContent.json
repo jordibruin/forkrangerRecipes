@@ -45,42 +45,42 @@
         {
             "id": 2,
             "home": {
-                "title": "What saves more emissions 2?",
+                "title": "Explore where most food is wasted",
                 "category": 1
             },
             "pages": [
                 {
                     "id": 0,
                     "type": "text",
-                    "title": "Farms vs Diets - What is more effective?"
+                    "title": "Before the food ends up on your plate it has travelled through many hands. Food waste can happen anywhere in the supply chain."
                 },
                 {
                     "id": 1,
                     "type": "question",
-                    "title": "What can save more emissions?",
+                    "title": "In Western countries, most food is wasted...",
                     "subtitle": "Hier komt een subtitel",
                     "answerOptions": [
                         {
                             "id": 0,
-                            "title": "Making farms more sustainable",
-                            "correct": true
+                            "title": "During production",
+                            "correct": false
                         },
                         {
                             "id": 1,
-                            "title": "Changing what we eat",
-                            "correct": false
+                            "title": "At home",
+                            "correct": true
                         }
                     ],
                     "answerExplanation": {
-                        "text":"The most effective way to reduce the climate impact of food...",
-                        "imageURL": "https://image"
+                        "text":"... at home. More than half of all food waste in North America and Europe happens at consumption. That means all of us have a role to play.",
+                        "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/Total-food-waste-2-EN.png"
                     }
                 },
                 {
                     "id": 2,
                     "type": "recipe",
-                    "recipeID": 8,
-                    "subtitle": "Totdays recipe is a great way to eat a plant based meal"
+                    "recipeID": 10,
+                    "subtitle": "Totdays recipe is a great way to use brown bananas"
                 }
             ]
         }

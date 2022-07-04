@@ -3,42 +3,42 @@
         {
             "id": 1,
             "home": {
-                "title": "What saves more emissions?",
+                "title": "Let's start with the most important insight",
                 "category": 1
             },
             "pages": [
                 {
                     "id": 0,
                     "type": "text",
-                    "title": "Farms vs Diets - What is more effective?"
+                    "title": "The product with the highest emissions is beef. But how much impact does it really have?"
                 },
                 {
                     "id": 1,
                     "type": "question",
-                    "title": "What can save more emissions?",
-                    "subtitle": "Hier komt een subtitel",
+                    "title": "What makes a bigger difference?",
+                    "subtitle": "for reducing CO2 in average European or North American diet",
                     "answerOptions": [
                         {
                             "id": 0,
-                            "title": "Making farms more sustainable",
+                            "title": "Replacing beef with chicken",
                             "correct": true
                         },
                         {
                             "id": 1,
-                            "title": "Changing what we eat",
+                            "title": "Eating vegetarian 1 day a week",
                             "correct": false
                         }
                     ],
                     "answerExplanation": {
-                        "text":"The most effective way to reduce the climate impact of food...",
-                        "imageURL": "https://image"
+                        "text":"Beef has the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
+                        "imageURL": "https://forkranger.com/wp-content/uploads/2022/03/replacing-beef.png"
                     }
                 },
                 {
                     "id": 2,
                     "type": "recipe",
                     "recipeID": 8,
-                    "subtitle": "Totdays recipe is a great way to eat a plant based meal"
+                    "subtitle": "Todays recipe is a great way to replace beef"
                 }
             ]
         },

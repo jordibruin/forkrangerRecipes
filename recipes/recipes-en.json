@@ -8607,6 +8607,258 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/pita-bread-with-mushrooms/?share",
+      "id": 63,
+      "title": "Pita-breads with Mushrooms",
+      "description": "When something has to be on the table quickly, this is one of our favourites. The umami taste of the champignons comes out even more when sautéed in soy sauce. This simple version can easily be upgraded by choosing shiitake mushrooms.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/06/pita-bread-with-mushrooms.jpg",
+      "duration": 20,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Adjust the number of pita-breads if the size of your pita is smaller or larger.",
+      "ingredients": [
+        {
+          "name": "Pita-breads (whole wheat)",
+          "type": "base",
+          "quantity": 10,
+          "quantityType": ""
+        },
+        {
+          "name": "Chinese cabbage (small)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Mushrooms",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Peanuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Red onions",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Sriracha (or other hot sauce)",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Garlic sauce",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Cut red onion into halve rings",
+        "Cut chinese cabbage into strips",
+        "Cut mushrooms into slices",
+        "Cut bell pepper into small pieces",
+        "Crush peanuts coarsely",
+        "Pre-heat oven to 220°C"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Bake pita-breads",
+          "panType": "oven",
+          "detail": "at 220°C",
+          "time": 5
+        },
+        {
+          "title": "In the meantime, sauté red onion, mushrooms, bell pepper and taugé, add soy sauce",
+          "detail": "medium/high heat ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add peanuts",
+          "detail": "season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Cut pita-bread open, fill with Chinese cabbage, add mushroom mix and add sriracha and garlic sauce to taste",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://forkranger.com/mushroom-ginger-noodlesoup/?share",
+      "id": 64,
+      "title": "Mushroom Ginger Noodle Soup",
+      "description": "Noodle soup traditionally takes a long time to get a broth from vegetables or meat. However, our recipe speeds up the process to maximum flavor by sautéing. Adding plenty crunchy veggies results in a nice combination of a salty soup with fresh toppings.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/06/mushroom-ginger-noodles-scaled.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Variations",
+      "variationBody": "Can't find frozen sugar snaps? Choose frozen green beans instead. Add them directly with the bouillon as they have a slightly longer cooking time.",
+      "ingredients": [
+        {
+          "name": "Noodles (whole wheat)",
+          "type": "base",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (mushroom)",
+          "type": "fresh",
+          "quantity": 1.5,
+          "quantityType": "L"
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tofu",
+          "type": "fresh",
+          "quantity": 375,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sugar snaps (frozen)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned corn",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bean sprouts",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spring onions",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 60,
+          "quantityType": "g"
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Mince garlic and ginger",
+        "Cut mushrooms into slices",
+        "Cut tofu into 1 cm cubes, place them on paper towel and put paper towel on top, press with your hands to squeeze out the water",
+        "Cut spring onions into rings"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Make bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Sauté garlic, ginger and mushrooms",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add bouillon and bring to a boil",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "In the meantime, sauté tofu in oil and half of the soy sauce",
+          "detail": "keep turning regularly",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Add noodles, sugar snaps and other half of soy sauce to bouillon",
+          "detail": "cook",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add bean sprouts and corn",
+          "detail": "drain corn before adding, medium/high heat ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serve noodle soup with tofu mix and spring onion",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

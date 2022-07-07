@@ -1,46 +1,58 @@
 {
-    "categories": [
-        {
-            "id": 0,
-            "title": "Fellowship of the Forks",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fellowship-of-the-forks.png",
-            "color": 0
-        },
-        {
-            "id": 1,
-            "title": "The Big Ranch",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/big-ranch-new.png",
-            "color": 1
-        },
-         {
-            "id": 2,
-            "title": "Wild Waste",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/wild-waste.png",
-            "color": 2
-        },
- {
-            "id": 3,
-            "title": "Moo Moo Meadows",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/big-ranch.png",
-            "color": 3
-        },
- {
-            "id": 4,
-            "title": "Fading Forest",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fading-forest.png",
-            "color": 4
-        },
- {
-            "id": 5,
-            "title": "Muscle Mountain",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
-            "color": 5
-        },
- {
-            "id": 6,
-            "title": "Power Valley",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
-            "color": 6
-        }
-    ]
+  "categories": [
+    {
+      "id": 0,
+      "title": "Fellowship of the Forks",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fellowship-of-the-forks.png",
+      "color": 0
+    },
+    {
+      "id": 1,
+      "title": "The Big Ranch",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/big-ranch-new.png",
+      "color": 1
+    },
+    {
+      "id": 2,
+      "title": "Wild Waste",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/wild-waste.png",
+      "color": 2
+    },
+    {
+      "id": 3,
+      "title": "Moo Moo Meadows",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/big-ranch.png",
+      "color": 3
+    },
+    {
+      "id": 4,
+      "title": "Fading Forest",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fading-forest.png",
+      "color": 4
+    },
+    {
+      "id": 5,
+      "title": "Muscle Mountain",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
+      "color": 5
+    },
+    {
+      "id": 6,
+      "title": "Power Valley",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
+      "color": 6
+    },
+    {
+      "id": 7,
+      "title": "The Harbor Hub",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
+      "color": 6
+    },
+    {
+      "id": 8,
+      "title": "Crossing the Ocean",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/ocean.png",
+      "color": 6
+    }
+  ]
 }

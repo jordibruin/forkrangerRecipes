@@ -1,422 +1,475 @@
 {
   "dailyContent": [
     {
-      "id": 1,
+      "id": 2,
       "home": {
-        "title": "Let's start with the most important insight",
+        "title": "Introducing a red meat budget",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "The product with the highest emissions is beef. But how much impact does it really have?"
+          "title": "When it comes to the impact of meat, red meat - so pork and beef - has a much higher footprint than white meat."
         },
         {
           "id": 1,
+          "type": "text",
+          "title": "So how often can we enjoy this treat if we want to eat a sustainable amount?"
+        },
+        {
+          "id": 2,
           "type": "question",
-          "title": "What makes a bigger difference?",
-          "subtitle": "for reducing CO2 in average European or North American diet",
+          "title": "How many hamburgers of red meat can we eat per week? 🥩🥓",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Replacing beef with chicken",
-              "correct": true
+              "title": "0 hamburgers",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "Eating vegetarian 1 day a week",
+              "title": "1 hamburger",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "2 hamburgers",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Beef has the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/03/replacing-beef.png"
+            "text": "In Europe and the US we currently eat the equivalent of 10 hamburgers per week (ca. 300 g beef and 700 g pork).\n\nChanging this number to 1 hamburger per week is the most important goal. This step alone gets us almost half-way to the sustainable diet calculated by the EAT-Lancet report.\n",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-meat.png"
           }
         },
         {
-          "id": 2,
+          "id": 3,
           "type": "recipe",
-          "recipeID": 8,
-          "subtitle": "Todays recipe is a great way to replace beef"
+          "recipeID": 12,
+          "subtitle": "Save your hamburger ‘budget’ for another time, and try this recipe where you don’t need minced meat to create a great pasta."
         }
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "home": {
-        "title": "Explore where most food is wasted",
-        "category": 2
+        "title": "Are nuts good for the climate?",
+        "category": 6
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Before the food ends up on your plate it has travelled through many hands. Food waste can happen anywhere in the supply chain."
+          "title": "In the plant kingdom, nuts are the food with the highest amount of protein."
         },
         {
           "id": 1,
+          "type": "text",
+          "title": "But how do they actually compare on carbon emissions?"
+        },
+        {
+          "id": 2,
           "type": "question",
-          "title": "In Western countries, most food is wasted...",
-          "subtitle": "Hier komt een subtitel",
+          "title": "Compared to veggies, the carbon footprint of nuts is...",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "During production",
+              "title": "High",
               "correct": false
             },
             {
               "id": 1,
-              "title": "At home",
+              "title": "Medium",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Low",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "... at home. More than half of all food waste in North America and Europe happens at consumption. That means all of us have a role to play.",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/Total-food-waste-2-EN.png"
+            "text": "The awesome thing about nuts is that they grow on trees, and trees can absorb CO2.\n\nBecause nut trees have recently been planted on grasslands, there is a significant emission saving. That’s why their footprint is negative: the trees take up more carbon than is caused during production.\n",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/nuts-median.png"
           }
         },
         {
-          "id": 2,
+          "id": 3,
           "type": "recipe",
-          "recipeID": 10,
-          "subtitle": "Totdays recipe is a great way to use brown bananas"
+          "recipeID": 63,
+          "subtitle": "Enjoy the crunch of the peanuts in these pitas!\n\nP.S. peanuts are strictly speaking no nuts but that’s a story for another time.\n"
         }
       ]
     },
     {
       "id": 3,
       "home": {
-        "title": "How much impact we can make together",
-        "category": 0
+        "title": "How much of our food travels by air?",
+        "category": 7
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "Flying food across the world feels like one of the big problems in our food system. "
         },
         {
           "id": 1,
+          "type": "text",
+          "title": "But how many food miles are actually done by air…"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "title": "…and how does that change the impact?"
+        },
+        {
+          "id": 4,
           "type": "question",
-          "title": "What saves more emissions?",
-          "subtitle": "compared to the average diet",
+          "title": "What percentage of all food miles is done by air? ✈️",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 person who eats vegan",
+              "title": "23,8%",
               "correct": false
             },
             {
               "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
+              "title": "0,16%",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
+            "text": "Only 0,16% - a very small part - of our food comes by plane. Only products which are very vulnerable and stay good for a short time. Most foods come by boat.\n\nMaar 0,16% - een heel klein deel - van ons eten komt per vliegtuig, alleen producten die heel kwetsbaar zijn en minder lang houdbaar. Het meeste komt per boot.",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods.png"
           }
         },
         {
-          "id": 2,
+          "id": 5,
           "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
+          "recipeID": 14,
+          "subtitle": "In winter, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s better to buy them frozen."
         }
       ]
     },
     {
       "id": 4,
       "home": {
-        "title": "How much impact we can make together",
-        "category": 0
+        "title": "Should you try to avoid palm oil?",
+        "category": 4
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "You’ve probably heard that palm oil plantations are replacing pristine rainforests. "
         },
         {
           "id": 1,
-          "type": "question",
-          "title": "What saves more emissions?",
-          "subtitle": "compared to the average diet",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "1 person who eats vegan",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
-              "correct": true
-            }
-          ],
-          "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
-          }
+          "type": "text",
+          "title": "So let’s investigate a possible solution to this. How about replacing palm oil by different oils?"
         },
         {
           "id": 2,
+          "type": "question",
+          "title": "Replacing palm oil with other oils would require...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More land",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Same amount of land",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Less land",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "More land. Palm oil is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas.\n\nWhat we can do is eat less processed food because that’s where palm oil is used: ice cream, cookies, pizza, ready-mademeals.",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/05/palm-oil-land-use.png"
+          }
+        },
+        {
+          "id": 3,
           "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
+          "recipeID": 43,
+          "subtitle": "A recipe from Indonesia where most palm oil is produced world wide. Luckily this recipe doesn’t contain any of it."
         }
       ]
     },
     {
       "id": 5,
       "home": {
-        "title": "How much impact we can make together",
-        "category": 0
+        "title": "Why legumes are awesome",
+        "category": 6
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "Legumes - lentils, beans, peas, etc. - are great sources of protein. "
         },
         {
           "id": 1,
+          "type": "text",
+          "title": "But how much protein do they actually contain what’s the resulting climate impact?"
+        },
+        {
+          "id": 2,
           "type": "question",
-          "title": "What saves more emissions?",
-          "subtitle": "compared to the average diet",
+          "title": "One can of beans has the same amount of protein as...",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 person who eats vegan",
+              "title": "1 egg",
               "correct": false
             },
             {
               "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
+              "title": "3 eggs",
               "correct": true
+            },
+            {
+              "id": 1,
+              "title": "6 eggs",
+              "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
+            "text": "Legumes have lots of protein for a very low footprint. They score well on CO2 and also on other environmental factors such as water use. And another benefit is that they’re cheap!",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/protein20CO220comparison20legumes.png"
           }
         },
         {
-          "id": 2,
+          "id": 3,
           "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
+          "recipeID": 61,
+          "subtitle": "Chickpeas are for more than just hummus. Here they form the base of a lovely Tajine. "
         }
       ]
     },
     {
       "id": 6,
       "home": {
-        "title": "How much impact we can make together",
-        "category": 0
+        "title": "What a sustainable amount of dairy looks like",
+        "category": 3
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "Milk is in so many products. Often we don’t even realise it."
         },
         {
           "id": 1,
+          "type": "text",
+          "title": "…cheese, ice cream, butter, yoghurt… "
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "As many dairy products have a high impact right after meat, it deserves our attention."
+        },
+        {
+          "id": 3,
           "type": "question",
-          "title": "What saves more emissions?",
-          "subtitle": "compared to the average diet",
+          "title": "What is a sustainable amount of milk per day?",
+          "subtitle": "including milk used in other food products like cheese",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 person who eats vegan",
+              "title": "0 glasses",
               "correct": false
             },
             {
               "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
+              "title": "1 glass",
               "correct": true
+            },
+            {
+              "id": 2,
+              "title": "2 glasses",
+              "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
+            "text": "Our daily budget for dairy is 250 g of ‘whole milk equivalents’. That’s about one glass of milk 🥛 or two slices of cheese per day 🧀.\n\nFor most Western countries that means reducing dairy by more than half.",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-dairy.png"
           }
         },
         {
-          "id": 2,
+          "id": 4,
           "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
+          "recipeID": 9,
+          "subtitle": "It’s easy to load pastas with cheese but this one doesn’t need it! So enjoy this delicious spaghetti without any cheese."
         }
       ]
     },
     {
       "id": 7,
       "home": {
-        "title": "How much impact we can make together",
-        "category": 0
+        "title": "Why salmon and tuna are different",
+        "category": 8
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "The two most consumed fish in the world are salmon and tuna."
         },
         {
           "id": 1,
+          "type": "text",
+          "title": "And to understand their impact, we need to dive into their world."
+        },
+        {
+          "id": 2,
           "type": "question",
-          "title": "What saves more emissions?",
+          "title": "What is the biggest issue around salmon and tuna?",
           "subtitle": "compared to the average diet",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 person who eats vegan",
+              "title": "They live in salty water",
               "correct": false
             },
             {
               "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
+              "title": "They eat other fish",
               "correct": true
+            },
+            {
+              "id": 1,
+              "title": "They're hard to catch",
+              "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
+            "text": "Salmon and tuna eat other fish and are true carnivores. They are high in the food chain. This makes their role in the ecosystem extra important, but also more vulnerable.\n\nBecause you need to feed salmon with other fish, more than twice the amount of fish is needed for a piece of (raised) salmon. So it’s much more sustainable to eat smaller fish.",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/see20food20chain20EN.png"
           }
         },
         {
-          "id": 2,
+          "id": 3,
           "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
+          "recipeID": 64,
+          "subtitle": "Asia is well-known for it’s fish markets and fish soups. However, here’s a ginger soup without fish but with Mushrooms instead."
         }
       ]
     },
     {
       "id": 8,
       "home": {
-        "title": "How much impact we can make together",
-        "category": 0
+        "title": "Bananas or berries, what’s better?",
+        "category": 7
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "In winter, berries often come by plane whereas bananas are transported by ship."
         },
         {
           "id": 1,
-          "type": "question",
-          "title": "What saves more emissions?",
-          "subtitle": "compared to the average diet",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "1 person who eats vegan",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
-              "correct": true
-            }
-          ],
-          "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
-          }
+          "type": "text",
+          "title": "But is there a difference between these two transport modes?"
         },
         {
           "id": 2,
+          "type": "question",
+          "title": "The emissions of products which come by boat instead of plane is…🚢",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "50 times lower",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Similar",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "…50 times lower! Big freight ships are also polluting but they can also carry huge amounts. That makes the emissions per product very low.",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/02/emissions-of-transport-methods.png"
+          }
+        },
+        {
+          "id": 3,
           "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
+          "recipeID": 21,
+          "subtitle": "We can eat bananas in mainland Europe thanks to the transport by ship from banana producing regions. Let’s enjoy them in this wonderful curry."
         }
       ]
     },
     {
       "id": 9,
       "home": {
-        "title": "How much impact we can make together",
-        "category": 0
+        "title": "More, more, more of these foods",
+        "category": 6
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "When changing our diets for the planet we often hear about things we should reduce…"
         },
         {
           "id": 1,
-          "type": "question",
-          "title": "What saves more emissions?",
-          "subtitle": "compared to the average diet",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "1 person who eats vegan",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
-              "correct": true
-            }
-          ],
-          "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
-          }
-        },
-        {
-          "id": 2,
-          "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "home": {
-        "title": "How much impact we can make together",
-        "category": 0
-      },
-      "pages": [
-        {
-          "id": 0,
           "type": "text",
-          "title": "Perfecting our own choices isn't the most optimal way to have the highest impact. Let's find out how to weigh these against each other."
+          "title": "...but what do we replace it with?"
         },
         {
-          "id": 1,
+          "id": 2,
+          "type": "text",
+          "title": "Nuts and legumes are a big part of a sustainable diet."
+        },
+        {
+          "id": 3,
           "type": "question",
-          "title": "What saves more emissions?",
-          "subtitle": "compared to the average diet",
+          "title": "How many more nuts and legumes should we eat? 🥜",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 person who eats vegan",
+              "title": "2x",
               "correct": false
             },
             {
               "id": 1,
-              "title": "3 people who replace beef with chicken&pork",
+              "title": "3x",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "6x",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
+            "text": "Right now we only eat 19 g per day, while it should be 125 g!\n\nTry to eat at least one portion of nuts and one portion of legumes every day. So get out the peanut butter jar! 😍🥜\n",
+            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-nuts-and-legumes.png"
           }
         },
         {
-          "id": 2,
+          "id": 4,
           "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Invite your friends over for dinner and show them how delicious a meatless meal can be."
+          "recipeID": 59,
+          "subtitle": "These peppers are stuffed with both nuts AND legumes!"
         }
       ]
     }

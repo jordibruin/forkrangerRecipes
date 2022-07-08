@@ -86,7 +86,7 @@
               "correct": false
             },
             {
-              "id": 3,
+              "id": 2,
               "title": "Low",
               "correct": true
             }
@@ -122,12 +122,12 @@
           "title": "But how many food miles are actually done by air…"
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "text",
           "title": "…and how does that change the impact?"
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "question",
           "title": "What percentage of all food miles is done by air? ✈️",
           "subtitle": "",
@@ -149,7 +149,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 4,
           "type": "recipe",
           "recipeID": 14,
           "subtitle": "In winter, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s better to buy them frozen."
@@ -242,7 +242,7 @@
               "correct": true
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "6 eggs",
               "correct": false
             }
@@ -351,7 +351,7 @@
               "correct": true
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "They're hard to catch",
               "correct": false
             }

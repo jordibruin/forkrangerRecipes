@@ -2,9 +2,9 @@
   "categories": [
     {
       "id": 0,
-      "title": "Fellowship of the Forks",
-      "subtitle" : "Unknown subtitle",
-      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fellowship-of-the-forks.png",
+      "title": "Base Camp",
+      "subtitle" : "Introduction",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Base-Camp.png",
       "color": 0
     },
     {
@@ -16,23 +16,23 @@
     },
     {
       "id": 2,
-      "title": "Wild Waste",
-      "subtitle" : "Food waste",
-      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/wild-waste.png",
+      "title": "Power Valley",
+      "subtitle" : "Nuts & Legumes",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
       "color": 2
     },
     {
       "id": 3,
-      "title": "Moo Moo Meadows",
-      "subtitle" : "Dairy",
-      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/big-ranch.png",
+      "title": "Fading Forest",
+      "subtitle" : "Deforestation",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fading-forest.png",
       "color": 3
     },
     {
       "id": 4,
-      "title": "Fading Forest",
-      "subtitle" : "Unknown subtitle",
-      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fading-forest.png",
+      "title": "Fellowship of the Forks",
+      "subtitle" : "Community",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/07/fellowship-of-the-forks-1.png",
       "color": 4
     },
     {
@@ -44,23 +44,16 @@
     },
     {
       "id": 6,
-      "title": "Power Valley",
-      "subtitle" : "Unknown subtitle",
-      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
+      "title": "Moo Moo Meadows",
+      "subtitle" : "Cheese",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
       "color": 6
     },
     {
       "id": 7,
-      "title": "The Harbor Hub",
-      "subtitle" : "Unknown subtitle",
+      "title": "The Harbor",
+      "subtitle" : "Transport & Packaging",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
-      "color": 6
-    },
-    {
-      "id": 8,
-      "title": "Crossing the Ocean",
-      "subtitle" : "Unknown subtitle",
-      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/ocean.png",
       "color": 6
     }
   ]

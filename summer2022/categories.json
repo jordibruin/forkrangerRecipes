@@ -35,22 +35,29 @@
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/07/fellowship-of-the-forks-1.png",
       "color": 4
     },
-    {
+        {
       "id": 5,
+      "title": "Wild Waste",
+      "subtitle" : "Food Waste",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/07/wild-waste.png",
+      "color": 5
+    },
+    {
+      "id": 6,
       "title": "Muscle Mountain",
       "subtitle" : "Protein",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
       "color": 5
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Moo Moo Meadows",
       "subtitle" : "Cheese",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
       "color": 6
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "The Harbor",
       "subtitle" : "Transport & Packaging",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",

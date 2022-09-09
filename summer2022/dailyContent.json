@@ -55,7 +55,7 @@
     {
       "id": 2,
       "home": {
-        "title": "Are nuts good for the climate?",
+        "title": "What’s the climate impact of nuts?",
         "category": 6
       },
       "pages": [
@@ -67,12 +67,12 @@
         {
           "id": 1,
           "type": "text",
-          "title": "But how do they actually compare on carbon emissions?"
+          "title": "So nuts could be a good replacement for meat. But what about their carbon footprint?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Compared to veggies, the carbon footprint of nuts is...",
+          "title": "Compared to meat, the carbon footprint of nuts is...",
           "subtitle": "",
           "answerOptions": [
             {
@@ -92,7 +92,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "The awesome thing about nuts is that they grow on trees, and trees can absorb CO2.\n\nBecause nut trees have recently been planted on grasslands, there is a significant emission saving. That’s why their footprint is negative: the trees take up more carbon than is caused during production.\n",
+            "text": "Nuts have lots of protein and an extremely low footprint because they grow on trees. Together with their healthy fats, nuts are a great source of protein and replacement for meat.",
             "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/nuts_V04_EN.png"
           }
         },
@@ -100,163 +100,163 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 63,
-          "subtitle": "Enjoy the crunch of the peanuts in these pitas!\n\nP.S. peanuts are strictly speaking no nuts but that’s a story for another time.\n"
+          "subtitle": "The walnuts in this creamy pasta dish not only provide some extra protein but also a delicious crunch."
         }
       ]
     },
     {
       "id": 3,
       "home": {
-        "title": "How much of our food travels by air?",
-        "category": 7
+        "title": "Why food has such a high footprint",
+        "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Flying food across the world feels like one of the big problems in our food system. "
+          "title": "There are lots of different issues with our food system 🍽"
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "But how many food miles are actually done by air…"
-        },
-        {
-          "id": 2,
-          "type": "text",
-          "title": "…and how does that change the impact?"
-        },
-        {
-          "id": 3,
           "type": "question",
-          "title": "What percentage of all food miles is done by air? ✈️",
+          "title": "What is the main reason why food has a high footprint?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "23,8%",
+              "title": "transport",
               "correct": false
             },
             {
               "id": 1,
-              "title": "0,16%",
+              "title": "land use",
               "correct": true
+            },
+            {
+              "id": 2,
+              "title": "packaging",
+              "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Only 0,16% - a very small part - of our food comes by plane. Only products which are very vulnerable and stay good for a short time. Most foods come by boat.",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods.png"
+            "text": "Most of us live in cities and don’t realize that farmland is the main way that humans are changing the surface of the Earth.\n\nFood production takes up half of all habitable land on Earth (excluding ice and deserts). Most of this land is used to produce meat and dairy.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/04/land-use-3-EN.png"
           }
         },
         {
           "id": 4,
           "type": "recipe",
-          "recipeID": 14,
-          "subtitle": "In winter, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s better to buy them frozen."
+          "recipeID": 20,
+          "subtitle": "This recipe uses a lot less land than a tortilla with ground beef."
         }
       ]
     },
     {
       "id": 4,
       "home": {
-        "title": "Should you try to avoid palm oil?",
-        "category": 4
+        "title": "What’s the biggest cause of deforestation?",
+        "category": 3
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "You’ve probably heard that palm oil plantations are replacing pristine rainforests. "
+          "title": "Here at the Fading Forest we’re going to look at why forests are cut down 🪓"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So let’s investigate a possible solution to this. How about replacing palm oil by different oils?"
+          "title": "Nearly all deforestation happens in tropical and subtropical countries. But what’s the biggest cause?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Replacing palm oil with other oils would require...",
+          "title": "What is the biggest cause of deforestation?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "More land",
-              "correct": true
-            },
-            {
-              "id": 1,
-              "title": "Same amount of land",
+              "title": "Paper & wood",
               "correct": false
             },
             {
+              "id": 1,
+              "title": "Beef",
+              "correct": true
+            },
+            {
               "id": 2,
-              "title": "Less land",
+              "title": "Soy",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "More land. Palm oil is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas.\n\nWhat we can do is eat less processed food because that’s where palm oil is used: ice cream, cookies, pizza, ready-mademeals.",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/05/palm-oil-land-use.png"
+            "text": "The most forest is destroyed to create pastures for cows. A majority of this deforestation happens in South America.\n\nWhile soy also plays a role, it’s more complicated than blaming it all on tofu. We will take a closer look at soy and palm oil on our next visit to the Fading Forest.\n\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/04/deforestation-2-EN.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
-          "recipeID": 43,
-          "subtitle": "A recipe from Indonesia where most palm oil is produced world wide. Luckily this recipe doesn’t contain any of it."
+          "recipeID": 2,
+          "subtitle": "A green meal to save the green forests of the world."
         }
       ]
     },
     {
       "id": 5,
       "home": {
-        "title": "Why legumes are awesome",
-        "category": 6
+        "title": "Eat more of this climate superfood",
+        "category": 2
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Legumes - lentils, beans, peas, etc. - are great sources of protein. "
+          "title": "There is family of plants that are both super healthy AND sustainable: legumes 🙌"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "But how much protein do they actually contain what’s the resulting climate impact?"
+          "title": "What makes them unique is that they produce a simple dry fruit."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "One can of beans has the same amount of protein as...",
+          "title": "What is NOT a legume?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 egg",
+              "title": "beans",
               "correct": false
             },
             {
               "id": 1,
-              "title": "3 eggs",
+              "title": "quinoa",
               "correct": true
             },
             {
               "id": 2,
-              "title": "6 eggs",
+              "title": "lentils",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "chickpeas",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Legumes have lots of protein for a very low footprint. They score well on CO2 and also on other environmental factors such as water use. And another benefit is that they’re cheap!",
+            "text": "Legumes are small dry fruit that we know as chickpeas, lentils, peas, or beans.\n\nLike nuts, they have a lot of protein for a very low footprint. But legumes have even more environmental benefits like needing very little water.\n",
             "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/protein20CO220comparison20legumes.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
-          "recipeID": 61,
-          "subtitle": "Chickpeas are for more than just hummus. Here they form the base of a lovely Tajine. "
+          "recipeID": 55,
+          "subtitle": "The cornerstone of this dish are red lentils, one of the easiest and most delicious ways to cook with legumes."
         }
       ]
     },

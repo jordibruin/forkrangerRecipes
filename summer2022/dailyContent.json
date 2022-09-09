@@ -3,52 +3,52 @@
     {
       "id": 2,
       "home": {
-        "title": "Introducing a red meat budget",
+        "title": "A small step with a big impact",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "When it comes to the impact of meat, red meat - so pork and beef - has a much higher footprint than white meat."
+          "title": "Welcome to the Big Ranch! Here we are going to explore the impact of meat and what you can do about it."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So how often can we enjoy this treat if we want to eat a sustainable amount?"
+          "title": "There is one small step everyone can take to immediately reduce their impact 🥾"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "How many hamburgers of red meat can we eat per week? 🥩🥓",
-          "subtitle": "",
+          "title": "What makes a bigger difference?",
+          "subtitle": "for reducing CO2 in average European or North American diet",
           "answerOptions": [
             {
               "id": 0,
-              "title": "0 hamburgers",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "1 hamburger",
+              "title": "Replacing beef with chicken",
               "correct": true
             },
             {
-              "id": 2,
-              "title": "2 hamburgers",
+              "id": 1,
+              "title": "Eating vegetarian 1 day a week",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "In Europe and the US we currently eat the equivalent of 10 hamburgers per week (ca. 300 g beef and 700 g pork).\n\nChanging this number to 1 hamburger per week is the most important goal. This step alone gets us almost half-way to the sustainable diet calculated by the EAT-Lancet report.\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-meat.png"
+            "text": "Beef has by far the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference.\n\nWithout eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-2-.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 12,
-          "subtitle": "Save your hamburger ‘budget’ for another time, and try this recipe where you don’t need minced meat to create a great pasta."
+          "subtitle": "This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "title": "Come back tomorrow to discover the climate impact of nuts"
         }
       ]
     },

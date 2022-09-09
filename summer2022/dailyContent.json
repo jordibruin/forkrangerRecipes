@@ -1,7 +1,7 @@
 {
   "dailyContent": [
     {
-      "id": 2,
+      "id": 1,
       "home": {
         "title": "A small step with a big impact",
         "category": 1
@@ -24,12 +24,12 @@
           "subtitle": "for reducing CO2 in average European or North American diet",
           "answerOptions": [
             {
-              "id": 0,
+              "id": 1,
               "title": "Replacing beef with chicken",
               "correct": true
             },
             {
-              "id": 1,
+              "id": 0,
               "title": "Eating vegetarian 1 day a week",
               "correct": false
             }
@@ -42,7 +42,7 @@
         {
           "id": 3,
           "type": "recipe",
-          "recipeID": 12,
+          "recipeID": 22,
           "subtitle": "This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
         },
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "home": {
         "title": "Are nuts good for the climate?",
         "category": 6

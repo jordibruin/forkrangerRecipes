@@ -520,7 +520,7 @@
         {
           "id": 4,
           "type": "recipe",
-          "recipeID": 5,
+          "recipeID": 65,
           "subtitle": "A meal with four sources of protein: pasta, beans, peas, and hazelnuts."
         }
       ]
@@ -1238,7 +1238,7 @@
         {
           "id": 4,
           "type": "recipe",
-          "recipeID": 43,
+          "recipeID": 66,
           "subtitle": "A tribute to Indonesia, where a lot of rainforest has been destroyed to make space for palm oil plantations."
         }
       ]

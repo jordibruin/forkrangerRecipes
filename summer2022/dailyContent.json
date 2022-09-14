@@ -35,12 +35,18 @@
             }
           ],
           "answerExplanation": {
-            "text": "Beef has by far the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference.\n\nWithout eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+            "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-2-.png"
           }
         },
         {
           "id": 3,
+          "type": "text",
+          "title": "🥾",
+          "subtitle": "There is one small step everyone can take to immediately reduce their impact"
+        },
+        {
+          "id": 4,
           "type": "recipe",
           "recipeID": 22,
           "subtitle": "This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."

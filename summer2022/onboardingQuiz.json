@@ -1,43 +1,73 @@
 {
   "questions": [
     {
-      "id": 1,
-      "title": "Welk product bevat meer eiwit per 100 gram?",
-      "subtitle": "",
+       "id": 1,
+      "type": "question",
+      "title": "What makes a bigger difference?",
+      "subtitle": "for reducing CO2 in average European or North American diet",
       "answerOptions": [
-        "Kipfilet",
-        "Pompoenzaadjes"
+        {
+          "id": 1,
+          "title": "Eating vegetarian 1 day a week",
+          "correct": false
+        },
+        {
+          "id": 0,
+          "title": "Replacing beef with chicken",
+          "correct": true
+        }
       ],
-      "correctAnswer": "Pompoenzaadjes",
-      "explanationText": "Okay dat was een lastige vraag. Want het is normaal om 150g kipfilet in een maaltijd te eten, maar niet 150g pompoenzaadjes. Dus het is makkelijker om heel veel eiwit uit vlees te halen. Maar is dat ook nodig?",
-      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/Protein-per-100-g-NL.png",
+      "answerExplanation": {
+        "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
+      },
       "recipe" : 1
     },
     {
-      "id": 2,
-      "title": "Iemand met het gemiddelde Nederlandse dieet, eet per dag...",
-      "subtitle": "",
+       "id": 2,
+      "type": "question",
+      "title": "What makes a bigger difference?",
+      "subtitle": "for reducing CO2 in average European or North American diet",
       "answerOptions": [
-        "Te weinig eiwit",
-        "Te veel eiwit"
+        {
+          "id": 1,
+          "title": "Eating vegetarian 1 day a week",
+          "correct": false
+        },
+        {
+          "id": 0,
+          "title": "Replacing beef with chicken",
+          "correct": true
+        }
       ],
-      "correctAnswer": "Te veel eiwit",
-      "explanationText": "te veel eiwit! Best wel zonde want het extra eiwit verdwijnt in het toilet. \n\nEen man van 30 jaar heeft ongeveer 63 g eiwit nodig per dag en een vrouw 54 g (Voedingscentrum). En dat kan prima zonder - of met weinig - vlees!",
-      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/protein-count-NL.png",
-      "recipe" : 1
+      "answerExplanation": {
+        "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
+      },
+      "recipe" : 2
     },
     {
-      "id": 3,
-      "title": "Hoeveel cashews moet je eten om net zo veel CO2 uit te stoten als met één biefstuk?",
-      "subtitle": "",
+       "id": 3,
+      "type": "question",
+      "title": "What makes a bigger difference?",
+      "subtitle": "for reducing CO2 in average European or North American diet",
       "answerOptions": [
-        "3 keer zo veel",
-        "7 keer zo veel"
+        {
+          "id": 1,
+          "title": "Eating vegetarian 1 day a week",
+          "correct": false
+        },
+        {
+          "id": 0,
+          "title": "Replacing beef with chicken",
+          "correct": true
+        }
       ],
-      "correctAnswer": "7 keer zo veel",
-      "explanationText": "Die impact van biefstuk is minstens 7 keer zo hoog als cashews! Het is duidelijk dat de impact van vlees echt in een andere orde valt. \n\nTrouwens, als je dan toch van vlees houdt: kip is een stuk beter is dan rundvlees (en ander vlees).",
-      "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/co2-NL.png",
-      "recipe" : 1
+      "answerExplanation": {
+        "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
+      },
+      "recipe" : 3
     }
   ]
 }

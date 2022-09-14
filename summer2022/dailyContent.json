@@ -35,18 +35,12 @@
             }
           ],
           "answerExplanation": {
-            "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-2-.png"
+            "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
           }
         },
         {
           "id": 3,
-          "type": "text",
-          "title": "🥾",
-          "subtitle": "There is one small step everyone can take to immediately reduce their impact"
-        },
-        {
-          "id": 4,
           "type": "recipe",
           "recipeID": 22,
           "subtitle": "This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
@@ -99,7 +93,7 @@
           ],
           "answerExplanation": {
             "text": "Nuts have lots of protein and an extremely low footprint because they grow on trees. Together with their healthy fats, nuts are a great source of protein and replacement for meat.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/nuts-footprint-per-100-g-protein.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/nuts-footprint-per-100-g-protein-1.png"
           }
         },
         {
@@ -146,7 +140,7 @@
           ],
           "answerExplanation": {
             "text": "Most of us live in cities and don’t realize that farmland is the main way that humans are changing the surface of the Earth.\n\nFood production takes up half of all habitable land on Earth (excluding ice and deserts). Most of this land is used to produce meat and dairy.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/04/land-use-3-EN.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/land-use.png"
           }
         },
         {
@@ -172,8 +166,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Nearly all deforestation happens in tropical and subtropical countries.",
-          "subtitle": "But what’s the biggest cause?"
+          "title": "Nearly all deforestation happens in tropical and subtropical countries. But what’s the biggest cause?"
         },
         {
           "id": 2,
@@ -199,16 +192,11 @@
           ],
           "answerExplanation": {
             "text": "The most forest is destroyed to create pastures for cows. A majority of this deforestation happens in South America.\n\nWhile soy also plays a role, it’s more complicated than blaming it all on tofu. We will take a closer look at soy and palm oil on our next visit to the Fading Forest.\n\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/04/deforestation-2-EN.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/deforestation-causes-1.png"
           }
         },
         {
           "id": 3,
-          "type": "text",
-          "title": "Nearly all deforestation happens in tropical and subtropical countries. But what’s the biggest cause?"
-        },
-        {
-          "id": 4,
           "type": "recipe",
           "recipeID": 2,
           "subtitle": "A green meal to save the green forests of the world."
@@ -261,14 +249,14 @@
           ],
           "answerExplanation": {
             "text": "Legumes are small dry fruit that we know as chickpeas, lentils, peas, or beans.\n\nLike nuts, they have a lot of protein for a very low footprint. But legumes have even more environmental benefits like needing very little water.\n",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/protein20CO220comparison20legumes.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/climate-superfood-legumes-2.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 55,
-          "subtitle": "The cornerstone of this dish are red lentils, one of the easiest and most delicious ways to cook with legumes."
+          "subtitle": "The cornerstone of this dish is red lentils, one of the easiest and most delicious ways to cook with legumes."
         }
       ]
     },
@@ -313,7 +301,7 @@
           ],
           "answerExplanation": {
             "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than trying to make perfect decisions by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too! So share a recipe or infographic and let’s have sustainable dinner parties.",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-dairy.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/1-vegan-vs-3-replacing-beef.png"
           }
         },
         {
@@ -365,7 +353,7 @@
           ],
           "answerExplanation": {
             "text": "More than half of all food waste in North America and Europe happens at consumption (home + restaurants & catering). That means all of us have a role to play.",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/see20food20chain20EN.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Total-food-waste.png"
           }
         },
         {
@@ -422,7 +410,7 @@
           ],
           "answerExplanation": {
             "text": "All cows are heavier than all humans and wild mammals combined! They are also heavier than all other livestock animals combined (pigs, chickens, sheep, goats, horses).\n\nYou might say that we are living on Planet Cow…",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/02/emissions-of-transport-methods.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/weight-of-all-mammals.png"
           }
         },
         {
@@ -474,7 +462,7 @@
           ],
           "answerExplanation": {
             "text": "Right now we only eat 19 g per day, while it should be 125 g. Nuts and legumes are the most sustainable way to replace meat and dairy.\n\nTry to eat at least one portion of nuts and one portion of legumes every day. So get out the peanut butter jar! 😍🥜",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-nuts-and-legumes.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/recommended-amount-nuts-and-legumes.png"
           }
         },
         {
@@ -526,7 +514,7 @@
           ],
           "answerExplanation": {
             "text": "Cereals like pasta, rice and bread are the most important source of energy for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products -especially the whole grain version - are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
-            "imageURL": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-nuts-and-legumes.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-1.png"
           }
         },
         {
@@ -578,7 +566,7 @@
           ],
           "answerExplanation": {
             "text": "The majority of soy is used as animal feed, mostly for chickens and pigs. \n\nThe soy used for products like yogurt or tofu is only a small part of the total soy production (6,9%) and are a good building block of a sustainable diet.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/08/soy-feed_2-1.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/soy-feed.png"
           }
         },
         {
@@ -635,7 +623,7 @@
           ],
           "answerExplanation": {
             "text": "Ruminants have a special stomach that makes it possible to eat grass. In this process, they burp a gas called methane, which is a strong greenhouse gas.\n\nMethane is a big reason why beef - but also goat and sheep meat - has a much higher footprint than other food.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/08/co2-of-various-meat-2.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/ruminant-meat.png"
           }
         },
         {
@@ -738,8 +726,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "The easiest way to cook a vegetarian meal is to replace meat with cheese. But that’s like taking two steps forward and one step back. \n\nWe don’t have to ban cheese from our diets but it shouldn’t be a staple of everyday life. We think the answer is saving cheese for special ocassions and weekends.",
-            "imageURL": ""
+            "text": "The easiest way to cook a vegetarian meal is to replace meat with cheese. But that’s like taking two steps forward and one step back. \n\nWe don’t have to ban cheese from our diets but it shouldn’t be a staple of everyday life. We think the answer is saving cheese for special occasions and weekends.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint.png"
           }
         },
         {
@@ -786,7 +774,7 @@
           ],
           "answerExplanation": {
             "text": "Less than a quarter of EU cereals is for direct human consumption. Animal feed is by far the biggest destination. \n\nThat means that for every day you don’t eat meat and dairy, you save about 1 kg of cereals.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cereal-use.png"
           }
         },
         {
@@ -838,7 +826,7 @@
           ],
           "answerExplanation": {
             "text": "Worldwide, 53% of all wasted calories come from cereals. It takes a lot of land and fertilizer to grow cereals so wasting them is more harmful than wasting most fruits and veggies.\n\nEvery leftover pasta or stale bread you eat is a win for the climate.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/food-waste-in-calories.png"
           }
         },
         {
@@ -889,8 +877,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "Palm oil is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas. It’s a complicated issue. \n\nThe best thing we can do as invididuals is eat less processed food because that’s where palm oil is used: ice cream, cookies, pizza, and ready-made meals.",
-            "imageURL": ""
+            "text": "Palm oil is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas. It’s a complicated issue. \n\nThe best thing we can do as individuals is eating less processed food because that’s where palm oil is used: ice cream, cookies, pizza, and ready-made meals.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/palm-oil-land-use.png"
           }
         },
         {
@@ -941,8 +929,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "Chicken and pork are always a better option than beef. But it also matters how big the serving size is. Some bacon bits can give a dish lots of flavour without using a lot of meat.",
-            "imageURL": ""
+            "text": "Chicken and pork are always a better option than beef. But it also matters how big the serving size is. Some bacon bits can give a dish lots of flavor without using a lot of meat.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/smaller-portion-sizes-of-meat.png"
           }
         },
         {
@@ -999,7 +987,7 @@
           ],
           "answerExplanation": {
             "text": "Big freight ships are also polluting but they can carry A LOT of containers, so the emissions per product are very low. \n\nThat means transport emissions play a much smaller role than most people think.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/emissions-of-transport-methods.png"
           }
         },
         {
@@ -1046,7 +1034,7 @@
           ],
           "answerExplanation": {
             "text": "The average 30-year-old man needs about 63 grams of protein per day, and the average woman around 54 grams. \n\nIf you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/too-much-protein-1.png"
           }
         },
         {
@@ -1093,7 +1081,7 @@
           ],
           "answerExplanation": {
             "text": "Only a tiny fraction of our food comes by plane. These products are usually soft and have a very short shelf life, such as berries or asparagus.\n\nThis means that eating ‘locally’ is not a useful tip to reduce the footprint of your food. It’s much more important what type of food you’re eating (meat or veggies) and how it was produced.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/share-of-transport-methods.png"
           }
         },
         {
@@ -1145,7 +1133,7 @@
           ],
           "answerExplanation": {
             "text": "Most people agree with the facts. But if you’re used to eating meat with every meal, it can be hard to imagine what an alternative looks like. \n\nThe best way to convince people to eat less meat is to show them how delicious it can be. So throw a sustainable dinner party and send people the recipe!",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/eating-less-meat-imagination.png"
           }
         },
         {
@@ -1196,15 +1184,15 @@
             }
           ],
           "answerExplanation": {
-            "text": "By including legumes into your meals you are drastically reducing your carbon footprint with a healthy source of protein.\n\nWhile it’s true that meat is the easiest way to eat lots of protein, we already saw that we don’t need so much protein everyday.",
-            "imageURL": ""
+            "text": "By including legumes into your meals you are drastically reducing your carbon footprint with a healthy source of protein.\n\nWhile it’s true that meat is the easiest way to eat lots of protein, we already saw that we don’t need so much protein every day.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-CO2-comparison.png"
           }
         },
         {
           "id": 4,
           "type": "recipe",
-          "recipeID": 43,
-          "subtitle": "Chickpeas are for more than just hummus. Here they form the base of a lovely Tajine."
+          "recipeID": 45,
+          "subtitle": "A great recipe to cook with a less common type of legume and source of protein: lima beans."
         }
       ]
     },
@@ -1244,14 +1232,14 @@
           ],
           "answerExplanation": {
             "text": "As you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint. And again we can see that we are wasting a lot of bread and pasta.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/top-5-food-waste-carbon-footprint.png"
           }
         },
         {
           "id": 4,
           "type": "recipe",
           "recipeID": 66,
-          "subtitle": "A tribute to Indonesia, where a lot of rainforest has been destroyed to make space for palm oil plantations."
+          "subtitle": "This recipe uses canned tomatoes, which means no tomatoes were wasted in the process."
         }
       ]
     },
@@ -1298,7 +1286,7 @@
           "id": 4,
           "type": "recipe",
           "recipeID": 43,
-          "subtitle": "A tribute to Indonesia, where a lot of rainforest has been destroyed to make space for palm oil plantations."
+          "subtitle": "The Middle-Eastern flavors of this recipe create a rich meal where you won’t miss cheese.."
         }
       ]
     },
@@ -1342,8 +1330,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
-            "imageURL": ""
+            "text": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is our first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/reasons-for-bread-waste.png"
           }
         },
         {
@@ -1389,8 +1377,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "The type of cheese has a much smaller influence on the carbon footprint than the amount of cheese.\n\nSo our favorite tip to reduce the portion size of cheese: buy a high quality parmesan and grate it yourself on the finest structure. This way you get a lot of cheese particles and flavor without using a lot of cheese.",
-            "imageURL": ""
+            "text": "The type of cheese has a much smaller influence on the carbon footprint than the amount of cheese.\n\nSo our favorite tip to reduce the portion size of cheese: buy a high-quality parmesan and grate it yourself on the finest structure. This way you get a lot of cheese particles and flavor without using a lot of cheese.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint-serving-size.png"
           }
         },
         {
@@ -1416,7 +1404,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "What’s the impact of all this plastic, glass, metal and carton?"
+          "title": "What’s the impact of all this plastic, glass, metal, and carton?"
         },
         {
           "id": 2,
@@ -1442,7 +1430,7 @@
           ],
           "answerExplanation": {
             "text": "Packaging is the food impact we see with our own eyes. What we don’t see is all the water, land, and energy that went into growing the food and this has a much bigger impact.\n\nSo it’s better to buy a can of tomatoes or a bag of lentils than zero-waste meat from the butcher.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics.png"
           }
         },
         {
@@ -1494,7 +1482,7 @@
           ],
           "answerExplanation": {
             "text": "In Europe and the US, we currently eat the equivalent of 5 hamburgers per week. Changing this number to 1 hamburger per week is the most important goal. This step alone gets us almost halfway to the sustainable diet calculated by the EAT-Lancet report. ",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/04/sustainable-meat.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/sustainable-meat.png"
           }
         },
         {
@@ -1546,7 +1534,7 @@
           ],
           "answerExplanation": {
             "text": "People are not convinced by logic or shocking facts. The best way to start a new habit is to offer an easy solution that almost feels ridiculously easy. Like replacing beef with chicken.\n\nThis way people don’t feel overwhelmed. And when they achieve this small step, they will be motivated to keep going.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/small-steps.png"
           }
         },
         {

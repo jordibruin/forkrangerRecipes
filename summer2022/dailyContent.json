@@ -172,7 +172,8 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Nearly all deforestation happens in tropical and subtropical countries. But what’s the biggest cause?"
+          "title": "Nearly all deforestation happens in tropical and subtropical countries.",
+          "subtitle": "But what’s the biggest cause?"
         },
         {
           "id": 2,
@@ -203,6 +204,11 @@
         },
         {
           "id": 3,
+          "type": "text",
+          "title": "Nearly all deforestation happens in tropical and subtropical countries. But what’s the biggest cause?"
+        },
+        {
+          "id": 4,
           "type": "recipe",
           "recipeID": 2,
           "subtitle": "A green meal to save the green forests of the world."

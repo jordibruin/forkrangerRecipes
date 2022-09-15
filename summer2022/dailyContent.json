@@ -1293,7 +1293,7 @@
     {
       "id": 26,
       "home": {
-        "title": "Why we waste so much bread",
+        "title": "Why do we waste so much bread?",
         "category": 5
       },
       "pages": [
@@ -1352,7 +1352,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Soft cheeses like Mozarella require less milk than hard cheeses like Parmesan."
+          "title": "Soft cheeses like Mozzarella require less milk than hard cheeses like Parmesan."
         },
         {
           "id": 1,
@@ -1392,7 +1392,7 @@
     {
       "id": 28,
       "home": {
-        "title": "What’s the impact of packaging?",
+        "title": "What’s the footprint of packaging?",
         "category": 8
       },
       "pages": [

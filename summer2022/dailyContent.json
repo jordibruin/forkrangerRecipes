@@ -555,7 +555,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 24,
           "subtitle": "Most of the world’s soy comes from Brazil, so here is meatless version of a Brazilian classic."
@@ -1265,7 +1265,7 @@
         {
           "id": 2,
           "type": "recipe",
-          "recipeID": 43,
+          "recipeID": 68,
           "subtitle": "The Middle-Eastern flavors of this recipe create a rich meal where you won’t miss cheese.."
         }
       ]

@@ -3,47 +3,47 @@
     {
       "id": 1,
       "home": {
-        "title": "A small step with a big impact",
+        "title": "Een kleine stap met een grote impact",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Welcome to the Big Ranch! Here we are going to explore the impact of meat and what you can do about it."
+          "title": "Welkom bij de Big Ranch! Hier gaan we ontdekken wat de impact van vlees is en wat je er aan kunt doen."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "There is one small step everyone can take to immediately reduce their impact 🥾"
+          "title": "Er is één makkelijke stap die iedereen kan nemen om direct zijn/haar footprint te verlagen 🥾"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What makes a bigger difference?",
-          "subtitle": "for reducing CO2 in average European or North American diet",
+          "title": "Wat maakt een groter verschil?",
+          "subtitle": "om CO2 te verminderen in een gemiddeld Europees of Noord-Amerikaans voedingspatroon",
           "answerOptions": [
             {
               "id": 1,
-              "title": "Eating vegetarian 1 day a week",
+              "title": "1 dag in de week vegetarisch eten",
               "correct": false
             },
             {
               "id": 0,
-              "title": "Replacing beef with chicken",
+              "title": "Rundvlees vervangen door kip",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
+            "text": "Rundvlees heeft de hoogste impact van al het vlees. Zonder minder vlees te eten, vermindert deze stap de CO2 impact van een gemiddeld Westers voedingspatroon al met één vijfde!\n\nNatuurlijk, het vervangen van rundvlees door kip (of varken) is niet het einddoel van een duurzaam voedingspatroon. Het is echter wel een gemakkelijke eerste stap die al een geweldig verschil maakt.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day-NL-1.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 22,
-          "subtitle": "This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
+          "subtitle": "Dit recept is één van onze favorieten en een lekkere manier om een klassiek rundvlees gerechtt vegetarisch te maken."
         },
         {
           "id": 4,

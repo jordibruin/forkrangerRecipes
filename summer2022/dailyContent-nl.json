@@ -48,140 +48,135 @@
         {
           "id": 4,
           "type": "text",
-          "title": "Come back tomorrow to discover the climate impact of nuts"
+          "title": "Kom morgen terug om te ontdekken wat de impact van noten is! 🥜"
         }
       ]
     },
     {
       "id": 2,
       "home": {
-        "title": "What’s the climate impact of nuts?",
+        "title": "Wat is de klimaatimpact van noten?",
         "category": 2
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "In the plant kingdom, nuts are the food with the highest amount of protein."
+          "title": "In het plantenrijk zijn noten het product met het meeste eiwit 💪"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So nuts could be a good replacement for meat. But what about their carbon footprint?"
+          "title": "Dat maakt noten een goede vleesvervanger, maar hoe zit het met de CO2- uitstoot?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Compared to meat, the carbon footprint of nuts is...",
+          "title": "Vergeleken met vlees is de klimaatimpact van noten…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "High",
+              "title": "Hoog",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Medium",
-              "correct": false
-            },
-            {
-              "id": 2,
-              "title": "Low",
+              "title": "Laag",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Nuts have lots of protein and an extremely low footprint because they grow on trees. Together with their healthy fats, nuts are a great source of protein and replacement for meat.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/nuts-footprint-per-100-g-protein-1.png"
+            "text": "Noten hebben een extreem lage footprint, omdat ze aan bomen groeien. Door hun hoge eiwitgehalte en bron van gezonde vetten zijn ze een super vleesvervanger.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/nuts-footprint-per-100-g-protein-NL-2.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 58,
-          "subtitle": "The walnuts in this creamy pasta dish not only provide some extra protein but also a delicious crunch."
+          "subtitle": "De walnoten in dit romige pastagerecht geven niet alleen goede eiwitten, maar ook een lekkere bite."
         }
       ]
     },
     {
       "id": 3,
       "home": {
-        "title": "Why food has such a high footprint",
+        "title": "Waarom voedsel zo’n grote impact heeft",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "There are lots of different issues with our food system 🍽"
+          "title": "Er zijn veel verschillende problemen met ons voedselsysteem, maar wat is de belangrijkste? 🍽"
         },
         {
           "id": 1,
           "type": "question",
-          "title": "What is the main reason why food has a high footprint?",
+          "title": "Wat is de grootste oorzaak voor de hoge CO2- uitstoot van eten?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "transport",
+              "title": "Transport",
               "correct": false
             },
             {
               "id": 1,
-              "title": "land use",
+              "title": "Landgebruik",
               "correct": true
             },
             {
               "id": 2,
-              "title": "packaging",
+              "title": "Verpakkingen",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Most of us live in cities and don’t realize that farmland is the main way that humans are changing the surface of the Earth.\n\nFood production takes up half of all habitable land on Earth (excluding ice and deserts). Most of this land is used to produce meat and dairy.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/land-use.png"
+            "text": "De meesten van ons leven in steden en daardoor zien we niet dat we de aarde vooral veranderen door landbouw.\n\nDe voedselproductie neemt ongeveer de helft van al het land op aarde in, als je ijs en woestijnen niet meerekent. Het meeste van dit land wordt gebruikt om vlees en zuivel te produceren.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/land-use-NL-2.png"
           }
         },
         {
-          "id": 4,
+          "id": 2,
           "type": "recipe",
           "recipeID": 20,
-          "subtitle": "This recipe uses a lot less land than a tortilla with ground beef."
+          "subtitle": "Dit recept heeft heel wat minder land nodig dan een wrap met gehakt."
         }
       ]
     },
     {
       "id": 4,
       "home": {
-        "title": "What’s the biggest cause of deforestation?",
+        "title": "Wat is grootste oorzaak van ontbossing?",
         "category": 3
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Here at the Fading Forest we’re going to look at why forests are cut down 🪓"
+          "title": "We zijn in het Fading Forest waar we gaan kijken waar onze bossen voor worden gekapt 🪓"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Nearly all deforestation happens in tropical and subtropical countries. But what’s the biggest cause?"
+          "title": "Bijna alle ontbossing vindt plaats  in tropische landen, maar wat is de grootste oorzaak van ontbossing?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What is the biggest cause of deforestation?",
+          "title": "Wat is de grootste oorzaak van ontbossing?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Paper & wood",
+              "title": "Papier & hout",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Beef",
+              "title": "Rundvlees",
               "correct": true
             },
             {
@@ -191,7 +186,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "The most forest is destroyed to create pastures for cows. A majority of this deforestation happens in South America.\n\nWhile soy also plays a role, it’s more complicated than blaming it all on tofu. We will take a closer look at soy and palm oil on our next visit to the Fading Forest.\n\n",
+            "text": "De meeste ontbossing is  om ruimte te maken voor koeien, het merendeel hiervan vindt plaats in Zuid Amerika.\n\nWe zullen bij de volgende bezoeken aan het Fading Forest kijken naar soja en palmolie.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/deforestation-causes-1.png"
           }
         },
@@ -199,336 +194,331 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 2,
-          "subtitle": "A green meal to save the green forests of the world."
+          "subtitle": "Een groene maaltijd om de groene bossen van de wereld te redden."
         }
       ]
     },
     {
       "id": 5,
       "home": {
-        "title": "Eat more of this climate superfood",
+        "title": "Eet meer van dit klimaat superfood",
         "category": 2
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "There is family of plants that are both super healthy AND sustainable: legumes 🙌"
+          "title": "De vruchten van de vlinderbloemenfamilie zijn niet alleen super gezond, maar ook duurzaam. 🙌"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "What makes them unique is that they produce a simple dry fruit."
+          "title": "Wat deze planten uniek maakt, is dat ze een simpele droge vrucht hebben: peulen."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What is NOT a legume?",
+          "title": "Wat zijn GEEN peulvruchten?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "beans",
+              "title": "Bonen",
               "correct": false
             },
             {
               "id": 1,
-              "title": "quinoa",
+              "title": "Quinoa",
               "correct": true
             },
             {
               "id": 2,
-              "title": "lentils",
+              "title": "Linzen",
               "correct": false
             },
             {
               "id": 3,
-              "title": "chickpeas",
+              "title": "Kikkererwten",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Legumes are small dry fruit that we know as chickpeas, lentils, peas, or beans.\n\nLike nuts, they have a lot of protein for a very low footprint. But legumes have even more environmental benefits like needing very little water.\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/climate-superfood-legumes-2.png"
+            "text": "Peulvruchten zijn planten die een kleine droge vrucht produceren. Zo kennen we kikkererwten, linzen, erwten en bonen!\n\nNet als noten bevatten  ze veel eiwit voor een heel lage footprint. Maar daarnaast hebben ze nog meer voordelen, zoals dat ze maar weinig water nodig hebben.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/climate-superfood-legumes-NL-2.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 55,
-          "subtitle": "The cornerstone of this dish is red lentils, one of the easiest and most delicious ways to cook with legumes."
+          "subtitle": "De basis van dit gerecht zijn rode linzen, een van de makkelijkste en lekkerste manieren om met peulvruchten te koken."
         }
       ]
     },
     {
       "id": 6,
       "home": {
-        "title": "Let’s have more dinner parties",
+        "title": "Tijd voor feestjes",
         "category": 4
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Making responsible food choices can be very difficult with so much confusing information."
+          "title": "Verantwoorde keuzes maken kan lastig zijn met zoveel verschillende informatie op je af komt 😵‍💫"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So it’s important to keep in mind the bigger picture."
+          "title": "Het is daarom belangrijk om het grotere plaatje voor ogen te houden."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What saves more emissions?",
+          "title": "Wat bespaart meer CO2-uitstoot?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 person who eats vegan",
+              "title": "1 persoon die veganistisch eet",
               "correct": false
             },
             {
               "id": 1,
-              "title": "2 people who eat vegetarian",
+              "title": "2 personen die vegetarisch eten",
               "correct": false
             },
             {
               "id": 2,
-              "title": "3 people who replace beef with pork & chicken",
+              "title": "3 personen die rundvlees door varkensvlees/kip vervangen",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Inspiring one other person to replace beef with chicken makes a much bigger difference than trying to make perfect decisions by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too! So share a recipe or infographic and let’s have sustainable dinner parties.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/1-vegan-vs-3-replacing-beef.png"
+            "text": "Eén ander persoon inspireren om rundvlees te vervangen door kip maakt veel meer verschil dan in je eentje proberen alles perfect te doen.\n\nEten is een sociaal gebeuren. En de oplossing naar een duurzaam voedselsysteem kan dit ook zijn! Dus deel een recept of grafiekje en laten we vaker  bij elkaar komen om gezellig samen te eten!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/1-vegan-vs-3-replacing-beef-NL-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 30,
-          "subtitle": "This recipe is a veggie party!"
+          "subtitle": "Dit recept is een groente feestje!"
         }
       ]
     },
     {
       "id": 7,
       "home": {
-        "title": "Where is most food wasted?",
+        "title": "Waar wordt het meeste voedsel verspild?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "About one third of all food is wasted 😢"
+          "title": "Ongeveer een derde van al het eten dat we produceren wordt niet gegeten 😢"
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "That means that our food system is causing more emissions than necessary…"
-        },
-        {
-          "id": 2,
           "type": "question",
-          "title": "In Western countries, most food is wasted...",
+          "title": "In Westerse landen wordt het meeste voedsel verspild…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "during production",
+              "title": "Tijdens productie",
               "correct": false
             },
             {
               "id": 1,
-              "title": "at the supermarket",
+              "title": "In de supermarkt",
               "correct": false
             },
             {
               "id": 2,
-              "title": "at home",
+              "title": "Thuis",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "More than half of all food waste in North America and Europe happens at consumption (home + restaurants & catering). That means all of us have a role to play.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Total-food-waste.png"
+            "text": "Meer dan de helft van alle voedselverspilling in Noord-Amerika en Europa vindt plaats tijdens consumptie (thuis + restaurants & catering). Dat bekent dat we hierin allemaal een belangrijke rol hebben!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Total-food-waste-NL-1.png"
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 3,
-          "subtitle": "Soup recipes are perfect for dipping some leftover bread."
+          "subtitle": "Soep is een handige maaltijd om van je oud brood af te komen, je kunt het brood erin dippen."
         }
       ]
     },
     {
       "id": 8,
       "home": {
-        "title": "The weight of humanity",
+        "title": "Het gewicht van de mensheid",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Imagine you would take all humans of the planet and put them on a scale ⚖️"
+          "title": "Stel je voor dat je alle mensen op Aarde bij elkaar op een weegschaal zou zetten... ⚖️"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Would they weigh more than all wild mammals?"
+          "title": "Zouden ze dan meer wegen dan alle wilde dieren?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What is the heaviest group on Earth?",
+          "title": "Welke groep weegt het meest?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Humans 👫",
+              "title": "Mensen 👫",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Cows 🐄",
+              "title": "Koeien 🐄",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Pigs 🐖",
+              "title": "Varkens 🐖",
               "correct": false
             },
             {
               "id": 3,
-              "title": "Wild mammals 🐘",
+              "title": "Wilde zoogdieren 🐘",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "All cows are heavier than all humans and wild mammals combined! They are also heavier than all other livestock animals combined (pigs, chickens, sheep, goats, horses).\n\nYou might say that we are living on Planet Cow…",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/weight-of-all-mammals.png"
+            "text": "Alle koeien samen zijn zwaarder dan alle mensen en alle wilde zoogdieren bij elkaar opgeteld! Ze zijn ook zwaarder dan al het andere vee samen (varkens, kippen, schapen, geiten, paarden).\n\nDe planeet Aarde is eerder Planeet Koe geworden. ",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/weight-of-all-mammals-NL-1.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 8,
-          "subtitle": "Another recipe where plants are the main ingredient (although mushrooms are technically fungi)."
+          "subtitle": "Nog een recept waar groenten de hoofdrol pakken (ook al horen champignons officieel tot het rijk van de schimmels)."
         }
       ]
     },
     {
       "id": 9,
       "home": {
-        "title": "Should you eat more nuts?",
+        "title": "Zou je meer noten moeten eten?",
         "category": 2
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "In 2019, a group of 37 scientists calculated what a healthy AND sustainable diet would look like 🥗"
+          "title": "In 2019 berekende een groep wetenschappers hoe een gezond EN duurzaam voedselpatroon  er uit zou zien 🥗"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "They reached an interesting conclusion about nuts & legumes."
+          "title": "Ze trokken een interessante conclusie over noten en peulvruchten."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "How often should we eat nuts & legumes? 🥜",
+          "title": "Wat is de aanbevolen hoeveelheid noten en peulvruchten? 🥜",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "multiple times a day",
+              "title": "Meerdere keren per dag",
               "correct": true
             },
             {
               "id": 1,
-              "title": "once a day",
-              "correct": false
+              "title": "Eén keer per dag",
+              "correct": true
             },
             {
               "id": 2,
-              "title": "a few times a week",
+              "title": "Een paar keer per week",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Right now we only eat 19 g per day, while it should be 125 g. Nuts and legumes are the most sustainable way to replace meat and dairy.\n\nTry to eat at least one portion of nuts and one portion of legumes every day. So get out the peanut butter jar! 😍🥜",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/recommended-amount-nuts-and-legumes.png"
+            "text": "Op dit moment eten we hiervan maar 19 g per dag, terwijl het 125 g zou moeten zijn!\n\nProbeer elke dag ten minste één portie noten en één portie peulvruchten te eten. Dus haal die pot pindakaas maar tevoorschijn! 😍🥜",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/recommended-amount-nuts-and-legumes-NL-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 5,
-          "subtitle": "With this recipe you’ve already reached half of the recommended amount of nuts and legumes."
+          "subtitle": "Met dit recept heb je al de helft van de aanbevolen hoeveelheid peulvruchten en noten binnen."
         }
       ]
     },
     {
       "id": 10,
       "home": {
-        "title": "Where do we get protein?",
+        "title": "Waar halen we eiwit vandaan?",
         "category": 6
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "A lot of people are worried about protein when eating less meat 😰"
+          "title": "Veel mensen maken zich zorgen over eiwitten als ze minder vlees gaan eten 😰"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "While it’s true that meat contains a lot of protein, there are other sources, too."
+          "title": "Het is waar dat vlees veel eiwit bevat, maar er zijn ook andere bronnen van proteïne."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "In the average European diet, what provides most protein?",
+          "title": "Uit welk product haalt de gemiddelde Europeaan de meeste eiwitten?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "meat 🥩",
+              "title": "Vlees 🥩",
               "correct": false
             },
             {
               "id": 1,
-              "title": "dairy 🥛",
+              "title": "Zuivel 🥛",
               "correct": true
             },
             {
               "id": 2,
-              "title": "cereals 🍞",
+              "title": "Granen 🍞",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Cereals like pasta, rice and bread are the most important source of energy for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products -especially the whole grain version - are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-1.png"
+            "text": "Granen zoals pasta, rijst en brood zijn de belangrijkste energiebron voor mensen door hun koolhydraten, maar ze bevatten ook meer eiwit dan de meeste mensen denken.\n\nDeze producten - vooral de volkoren versie - zijn belangrijk voor een duurzaam voedingspatroon, omdat ze ons minder afhankelijk maken van de eiwitten van vlees en zuivel.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-NL-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 65,
-          "subtitle": "A meal with four sources of protein: pasta, beans, peas, and hazelnuts."
+          "subtitle": "Een maaltijd met vier bronnen aan eiwit: pasta, bonen, erwten en hazelnoten."
         }
       ]
     },
     {
       "id": 11,
       "home": {
-        "title": "The most important fact about soy",
+        "title": "Dit moet je over soja weten",
         "category": 3
       },
       "pages": [
@@ -539,227 +529,222 @@
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "But what is all that soy used for?"
-        },
-        {
-          "id": 2,
           "type": "question",
-          "title": "77% of all soy is used for...",
+          "title": "Waar wordt de meeste soja voor gebruikt?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "meat and dairy substitutes",
+              "title": "Vleesvervangers",
               "correct": false
             },
             {
               "id": 1,
-              "title": "animal feed",
+              "title": "Veevoer",
               "correct": true
             },
             {
               "id": 2,
-              "title": "oil",
+              "title": "Olie",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "The majority of soy is used as animal feed, mostly for chickens and pigs. \n\nThe soy used for products like yogurt or tofu is only a small part of the total soy production (6,9%) and are a good building block of a sustainable diet.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/soy-feed.png"
+            "text": "Het grootste deel van soja wordt gebruikt als veevoer, vooral voor kippen en varkens. Soja voor producten zoals yoghurt en tofu vormen maar een klein deel van de gehele sojaproductie.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/soy-feed-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 24,
-          "subtitle": "Most of the world’s soy comes from Brazil, so here is meatless version of a Brazilian classic."
+          "subtitle": "De meeste soja komt uit Brazilië, dus hier is een vegetarische versie van een Braziliaans recept."
         }
       ]
     },
     {
       "id": 12,
       "home": {
-        "title": "Why does beef have such a high footprint?",
+        "title": "Waarom heeft rundvlees zo’n hoge impact?",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Some meat has a much higher footprint than others 🥩"
+          "title": "Bepaalde soorten vlees hebben een veel hogere klimaatimpact dan andere 🥩"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "The reason for this is the way their stomach works."
+          "title": "De reden hiervoor is hoe de maag werkt van deze dieren."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Which of these is NOT a ruminant?",
+          "title": "Welke van deze dieren is GEEN herkauwer?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "cow 🐄",
+              "title": "Koe 🐄",
               "correct": false
             },
             {
               "id": 1,
-              "title": "pig 🐖",
+              "title": "Varken 🐖",
               "correct": true
             },
             {
               "id": 2,
-              "title": "goat 🐐",
+              "title": "Geit 🐐",
               "correct": false
             },
             {
               "id": 3,
-              "title": "sheep 🐑",
+              "title": "Schaap 🐑",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Ruminants have a special stomach that makes it possible to eat grass. In this process, they burp a gas called methane, which is a strong greenhouse gas.\n\nMethane is a big reason why beef - but also goat and sheep meat - has a much higher footprint than other food.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/ruminant-meat.png"
+            "text": "Herkauwers hebben een speciale maag die het mogelijk maakt gras te eten. In dit proces, laten ze boeren van methaangas, een sterk broeikasgas.\n\nMethaan is een grote reden waarom rundvlees - maar ook geiten- en schapenvlees - een veel hogere impact dan ander voedsel heeft.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/ruminant-meat-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 28,
-          "subtitle": "Meat has a strong umami flavor, but this recipe is also full of umami from the mushrooms, soy sauce and fried onions."
+          "subtitle": "Vlees heeft een sterke umami smaak, dit recept zit ook bomvol umami door de champignons, sojasaus en gefrituurde uitjes."
         }
       ]
     },
     {
       "id": 13,
       "home": {
-        "title": "The impact of food waste",
+        "title": "De impact van voedselverspilling",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Wasting food always feels bad… 🗑"
+          "title": "Voedsel verspillen voelt altijd slecht 🗑"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "But how is it related to climate change?"
+          "title": "Maar wat is de link met klimaatverandering?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Why is wasting food so problematic?",
+          "title": "Waarom is voedsel verspillen zo problematisch?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "rotting leftovers cause methane emissions",
+              "title": "Rottende restjes veroorzaken veel methaanuitstoot",
               "correct": false
             },
             {
               "id": 1,
-              "title": "more food needs to be produced",
+              "title": "Er moet meer voedsel geproduceerd worden",
               "correct": true
             },
             {
               "id": 2,
-              "title": "more space is required for landfills",
+              "title": "Er is meer ruimte nodig voor vuilnisbelten",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Saving a small leftover means that you can later have a ‘free’ meal. It might seem insignificant whether you save half a sandwich. But if 1% of Europeans save half a sandwich, that’s 3-4 million sandwiches worth of food that doesn’t need to be produced.",
-            "imageURL": ""
+            "text": "Een klein restje bewaren betekent dat je later een ‘gratis’ maaltijd hebt. Het lijkt onbeduidend of je een half broodje bewaart. Maar als 1% van de Europeanen een half broodje bewaart, scheelt dit 3 à 4 miljoen broodjes aan voedsel dat niet geproduceerd hoeft te worden.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/slice-of-bread-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 37,
-          "subtitle": "This is a great recipe to add any leftover veggies you have."
+          "subtitle": "Dit is goed recept om overgebleven groente doorheen te doen."
         }
       ]
     },
     {
       "id": 14,
       "home": {
-        "title": "How does cheese compare to meat?",
+        "title": "Hoe zit het met kaas in vergelijking met vlees?",
         "category": 7
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Many people who eat less meat find it much harder to eat less cheese 🧀"
+          "title": "Veel mensen die minder vlees eten, vinden het lastiger om ook minder kaas te eten 🧀"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So what's the climate footprint of cheese compared to meat?"
+          "title": "Dus hoe zit het met de klimaatimpact van kaas vergeleken met de impact van vlees?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Which meal has the lowest footprint?",
+          "title": "Spaghetti bolognese met rundergehakt",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Spaghetti bolognese with beef 🍝",
+              "title": "Spaghetti bolognese met rundergehakt 🍝",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Spaghetti carbonara with bacon 🥓",
+              "title": "Spaghetti carbonara met spekjes 🥓",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Vegetarian lasagne with cheese 🧀",
+              "title": "Vegetarische lasagne met kaas 🧀",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "The easiest way to cook a vegetarian meal is to replace meat with cheese. But that’s like taking two steps forward and one step back. \n\nWe don’t have to ban cheese from our diets but it shouldn’t be a staple of everyday life. We think the answer is saving cheese for special occasions and weekends.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint.png"
+            "text": "De makkelijkste manier om vegetarisch te koken is door vlees te vervangen met kaas. Maar dan nemen zetten twee stappen vooruit en één stap terug. \n\nWe hoeven kaas niet helemaal op te geven, maar het eten ervan zou geen dagelijkse gewoonte moeten zijn. Wij zien kaas meer als luxeproduct voor het weekend.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 19,
-          "subtitle": "Cheese has a strong umami flavor but you can also get it from ingredients. In this case: soy sauce."
+          "subtitle": "Kaas is lekker door de umami smaak, maar je kunt die smaak ook uit andere ingrediënten krijgen. In dit geval: sojasaus."
         }
       ]
     },
     {
       "id": 15,
       "home": {
-        "title": "What are all those corn fields for?",
+        "title": "Waar zijn al die maïsvelden voor?",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Cereals like wheat or corn are not just grown for humans 🌽"
+          "title": "Granen zoals tarwe en maïs worden niet alleen verbouwd voor mensen 🌽"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "We also turn them into animal feed or biofuel."
+          "title": "We gebruiken ze ook als veevoer en biodiesel."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "How much of the cereal production is for humans?",
-          "subtitle": "In the EU",
+          "title": "Hoeveel van de graanproductie is voor menselijke consumptie?",
+          "subtitle": "In de EU",
           "answerOptions": [
             {
               "id": 0,
@@ -773,299 +758,294 @@
             }
           ],
           "answerExplanation": {
-            "text": "Less than a quarter of EU cereals is for direct human consumption. Animal feed is by far the biggest destination. \n\nThat means that for every day you don’t eat meat and dairy, you save about 1 kg of cereals.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cereal-use.png"
+            "text": "Minder dan een kwart van alle granen in de EU zijn voor menselijke consumptie. Het meeste wordt gebruikt als veevoer.\n\nDit betekent dat voor elke dag dat je geen vlees en zuivel eet, je ongeveer 1 kilo aan graan bespaart.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cereal-use-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 16,
-          "subtitle": "A delicious recipe without animal products, so no need for feed!"
+          "subtitle": "Een heerlijk recept zonder dierlijke producten en waar dus ook geen veevoer aan te pas is gekomen."
         }
       ]
     },
     {
       "id": 16,
       "home": {
-        "title": "What is the most wasted product?",
+        "title": "Wat is het meest verspilde product?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "In terms of weight, fruit and veggies are the most wasted product because they contain a lot of water."
+          "title": "Als je naar gewicht kijkt, zijn groente en fruit het meest verspilde eten, omdat er veel water in zit."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "But what if we look at the ‘energy’ that is wasted? ⚡️"
+          "title": "Maar wat als we kijken naar de ‘energie’ die wordt verspild? ⚡️"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What makes up more than half of all wasted calories?",
+          "title": "Wat is wereldwijd het meest verspilde product als je kijkt naar verspilde calorieën?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Fruits and vegetables",
+              "title": "Groente en fruit",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Cereals (e.g. bread and pasta)",
+              "title": "Granen",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Meat",
+              "title": "Vlees",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Worldwide, 53% of all wasted calories come from cereals. It takes a lot of land and fertilizer to grow cereals so wasting them is more harmful than wasting most fruits and veggies.\n\nEvery leftover pasta or stale bread you eat is a win for the climate.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/food-waste-in-calories.png"
+            "text": "Wereldwijd bestaat 53% van alle verspilde calorieën uit granen. Er zijn veel land en kunstmest nodig om granen te verbouwen, dus als we ze verspillen is het schadelijker dan bij groente en fruit.\n\nElk stukje oud brood of restje overgebleven pasta dat je eet, is winst voor het klimaat.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/food-waste-in-calories-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 37,
-          "subtitle": "A pasta recipe to practice the right amount of pasta you need per person to avoid leftovers."
+          "subtitle": "Een pastarecept, waarbij je  meteen in de praktijk kunt oefenen met  de juiste hoeveelheid pasta koken en niets te verspillen."
         }
       ]
     },
     {
       "id": 17,
       "home": {
-        "title": "Should you try to avoid palm oil?",
+        "title": "Moet je palmolie vermijden?",
         "category": 3
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Together with beef and soy, palm oil is a major cause of deforestation 🌴"
+          "title": "Samen met rundvlees en soja is palmolie de grootste aanjager van ontbossing 🌴"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So let’s investigate a possible solution."
+          "title": "Dus laten we eens kijken naar een mogelijke oplossing."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Replacing palm oil with other oils would require...",
-          "subtitle": "(per kg of oil)",
+          "title": "Als je palmolie vervangt door andere olie is er…",
+          "subtitle": "per kg olie",
           "answerOptions": [
             {
               "id": 0,
-              "title": "More land",
+              "title": "Meer land nodig",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Same amount of land",
-              "correct": false
-            },
-            {
-              "id": 2,
-              "title": "Less land",
+              "title": "Minder land nodig",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Palm oil is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas. It’s a complicated issue. \n\nThe best thing we can do as individuals is eating less processed food because that’s where palm oil is used: ice cream, cookies, pizza, and ready-made meals.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/palm-oil-land-use.png"
+            "text": "Palmolie is verreweg de meest efficiënte olieplant. Dus als je palmolie zou vervangen door andere producten is er veel meer land nodig en verschuif je het probleem naar andere gebieden.\n\nWat we wel kunnen doen is minder bewerkt voedsel kopen, want dat is waar palmolie vooral wordt gebruikt: ijs, koekjes, pizza, kant-en-klare maaltijden.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/palm-oil-land-use-NL-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 43,
-          "subtitle": "A tribute to Indonesia, where a lot of rainforest has been destroyed to make space for palm oil plantations."
+          "subtitle": "Een eerbetoon aan Indonesië, waar heel veel regenwoud is gekapt om ruimte te maken voor palmolie."
         }
       ]
     },
     {
       "id": 18,
       "home": {
-        "title": "A climate tip for meat lovers",
+        "title": "Een klimaattip voor vleesliefhebbers",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Chicken has the lowest footprint of all meat 🍗"
+          "title": "Kip heeft de laagste footprint van alle vleessoorten 🍗"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "But what happens if we also look at portion sizes?"
+          "title": "Maar hoe zit het als je ook naar portiegroottes kijkt?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What has the lowest footprint?",
+          "title": "Wat heeft de laagste footprint?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "🍗 4 chicken drumsticks (500 g)",
+              "title": "🍗 4 Kippenbouten (500 g)",
               "correct": false
             },
             {
               "id": 1,
-              "title": "🍔 4 beef hamburgers (400 g)",
+              "title": "🍔 4 Rundvlees hamburgers (400 g)",
               "correct": false
             },
             {
               "id": 2,
-              "title": "🥓 Bacon bits (125 g)",
+              "title": "🥓 Spekjes (125 g)",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Chicken and pork are always a better option than beef. But it also matters how big the serving size is. Some bacon bits can give a dish lots of flavor without using a lot of meat.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/smaller-portion-sizes-of-meat.png"
+            "text": "Kip en varken zijn altijd een duurzamere keuze dan rundvlees. Maar het is ook belangrijk om naar de portiegrootte te kijken. Een paar spekjes kunnen een gerecht veel smaak geven, terwijl je niet veel vlees gebruikt.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/smaller-portion-sizes-of-meat-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 7,
-          "subtitle": "Since you probably know enough recipes with bacon, here is a nice potato recipe where you don’t need meat."
+          "subtitle": "Omdat je waarschijnlijk al genoeg recepten kent met spekjes is hier nog een lekker recept met aardappel waarbij je geen vlees mist."
         }
       ]
     },
     {
       "id": 19,
       "home": {
-        "title": "How polluting are food miles?",
+        "title": "Hoe vervuilend zijn voedselkilometers?",
         "category": 8
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Our food sometimes travels halfway around the world 🌏"
+          "title": "Ons eten reist soms de hele wereld over 🌏"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "But not all transport methods have the same impact."
+          "title": "Maar voor het klimaat is niet elke vorm van transport even slecht."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Which type of transport has the lowest footprint?",
-          "subtitle": "per tonne of food ",
+          "title": "Welke vorm van transport heeft de laagste footprint?",
+          "subtitle": "per tonne of food",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Truck 🚚",
+              "title": "Vrachtwagen 🚚",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Boat 🚢",
+              "title": "Schip 🚢",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Train 🚅",
+              "title": "Trein 🚅",
               "correct": false
             },
             {
               "id": 3,
-              "title": "Airplane ✈️",
+              "title": "Vliegtuig ✈️",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Big freight ships are also polluting but they can carry A LOT of containers, so the emissions per product are very low. \n\nThat means transport emissions play a much smaller role than most people think.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/emissions-of-transport-methods.png"
+            "text": "Grote vrachtschepen zijn ook vervuilend, maar er past ongelofelijk veel op. Daardoor is de uitstoot per product enorm laag. \n\nDit betekent dat de CO2-uitstoot van transport veel kleiner is dan veel mensen denken.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/emissions-of-transport-methods-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 21,
-          "subtitle": "We can eat bananas in mainland Europe thanks to the transport by ship from banana producing regions. Let’s enjoy them in this wonderful curry."
+          "subtitle": "We kunnen in Europa bananen eten, dankzij het transport per schip vanuit tropische gebieden. Laten we ervan genieten in deze lekkere curry."
         }
       ]
     },
     {
       "id": 20,
       "home": {
-        "title": "Are you eating enough protein?",
+        "title": "Eet jij voldoende eiwitten?",
         "category": 6
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Before looking at how to get enough protein we need to answer a different question."
+          "title": "Voordat we gaan kijken hoe je genoeg eiwitten binnenkrijgt, moeten we eerst een andere vraag beantwoorden."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "How much protein do we need? 🤔"
+          "title": "Hoeveel eiwitten hebben we eigenlijk nodig? 🤔"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Somone with the average Western diets eats...",
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Too much protein",
+              "title": "Te veel eiwit",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Too little protein",
+              "title": "Te weinig eiwit",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "The average 30-year-old man needs about 63 grams of protein per day, and the average woman around 54 grams. \n\nIf you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/too-much-protein-1.png"
+            "text": "De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw van die leeftijd 54 g.\n\nAls je vlees en zuivel helemaal weglaat, heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/too-much-protein-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 17,
-          "subtitle": "Rice and beans is a great combination because together they provide a complete source of protein (all essential amino acids)."
+          "subtitle": "Rijst en bonen zijn een gouden combinatie, omdat ze bij elkaar een complete bron van eiwit zijn (ze bevatten samen alle essentiële aminozuren)."
         }
       ]
     },
     {
       "id": 21,
       "home": {
-        "title": "How much of our food travels by air?",
+        "title": "Hoeveel van ons eten komt per vliegtuig?",
         "category": 8
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Transport is usually a small part of the footprint of food."
+          "title": "Transport is meestal maar een klein deel van de impact van eten."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Except when it is transported by air ✈️"
+          "title": "Behalve als het per vliegtuig komt ✈️"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What percentage of all food miles is done by air? ✈️",
+          "title": "Hoeveel procent van alle voedselkilometers worden per vliegtuig afgelegd?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1080,294 +1060,294 @@
             }
           ],
           "answerExplanation": {
-            "text": "Only a tiny fraction of our food comes by plane. These products are usually soft and have a very short shelf life, such as berries or asparagus.\n\nThis means that eating ‘locally’ is not a useful tip to reduce the footprint of your food. It’s much more important what type of food you’re eating (meat or veggies) and how it was produced.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/share-of-transport-methods.png"
+            "text": "Maar een heel klein deel van ons eten komt per vliegtuig, alleen producten die heel kwetsbaar zijn en minder lang houdbaar, zoals asperges of bessen.\n\nDit betekent dat ‘lokaal eten’ niet een bijzonder nuttige tip is om de footprint van je eten te verlagen. Het is veel belangrijker wat je eet (vlees of groente) en hoe het wordt verbouwd.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/share-of-transport-methods-NL-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 14,
-          "subtitle": "While pineapple comes by boat, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s a good option to buy them frozen."
+          "subtitle": "Terwijl ananas altijd per boot komt, worden sugarsnaps en sperziebonen soms wel ingevlogen. Daarom is het van september tot april beter om ze uit de diepvries te kopen."
         }
       ]
     },
     {
       "id": 22,
       "home": {
-        "title": "Why people don’t change",
+        "title": "Waarom mensen niet veranderen",
         "category": 4
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "As a user of this app you’re part of the group who is doing their best for the climate 🥳"
+          "title": "Als gebruiker van deze app hoor jij bij de groep mensen die hun best doen voor het klimaat 🥳"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So how do we get your meat-loving family and friends to join?"
+          "title": "Hoe krijgen we jouw vlees-liefhebbende vrienden en familie ook zo ver?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What is the main reason that keeps people from eating less meat?",
+          "title": "Wat is de hoofdreden die mensen ervan weerhoudt minder vlees te eten?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "not believing that meat contributes to climate change",
+              "title": "Niet geloven dat vlees bijdraagt aan klimaatverandering",
               "correct": false
             },
             {
               "id": 1,
-              "title": "not willing to change their habits",
+              "title": "Niet willen veranderen van gedrag",
               "correct": false
             },
             {
               "id": 2,
-              "title": "unable to imagine an alternative way of eating",
+              "title": "Zich niet een andere manier van eten kunnen voorstellen",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Most people agree with the facts. But if you’re used to eating meat with every meal, it can be hard to imagine what an alternative looks like. \n\nThe best way to convince people to eat less meat is to show them how delicious it can be. So throw a sustainable dinner party and send people the recipe!",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/eating-less-meat-imagination.png"
+            "text": "De meeste mensen zijn het met de feiten eens. Maar als je gewend bent om bij elke maaltijd vlees te eten, kan het lastig zijn om je voor te stellen hoe een alternatief er uitziet. \n\nDe beste manier is om mensen te overtuigen is om zo te laten zien hoe lekker het is. Dus nodig mensen uit om te komen eten en stuur ze daarna het recept van dat wat je die avond hebt gekookt!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/eating-less-meat-imagination-NL-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 0,
-          "subtitle": "This is a fantastic recipe to discover a completely new taste."
+          "subtitle": "Deze ongebruikelijke combinatie van smaken is een mooi voorbeeld van een alternatieve manier van koken zonder vlees."
         }
       ]
     },
     {
       "id": 23,
       "home": {
-        "title": "How much protein is in a can of beans?",
+        "title": "Hoeveel eiwit zit er in een blik bonen?",
         "category": 6
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Legumes - lentils, beans, peas, etc. - are great sources of protein 💪"
+          "title": "Peulvruchten zoals linzen, bonen en erwten zijn een goede bron van eiwitten. 💪"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "How do they compare to animal products?"
+          "title": "Hoe doen ze het in vergelijking met dierlijke producten?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "One can of beans has the same amount of protein as...",
+          "title": "Een blik bonen heeft dezelfde hoeveelheid eiwit als…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "1 egg",
+              "title": "1 ei",
               "correct": false
             },
             {
               "id": 1,
-              "title": "3 eggs ",
+              "title": "3 eieren ",
               "correct": true
             },
             {
               "id": 2,
-              "title": "6 eggs",
+              "title": "6 eieren",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "By including legumes into your meals you are drastically reducing your carbon footprint with a healthy source of protein.\n\nWhile it’s true that meat is the easiest way to eat lots of protein, we already saw that we don’t need so much protein every day.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-CO2-comparison.png"
+            "text": "Door meer peulvruchten te eten verlaag je de CO2-uitstoot van je eten met een gezonde bron van eiwitten.\n\nHet is waar dat vlees de makkelijkste manier is om eiwitten binnen te krijgen, maar zoals we eerder al zagen hebben we zoveel eiwitten helemaal niet nodig.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-CO2-comparison-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 45,
-          "subtitle": "A great recipe to cook with a less common type of legume and source of protein: lima beans."
+          "subtitle": "Een mooi recept om met een minder bekende peulvrucht en tevens goede bron van eiwit te koken: Limabonen."
         }
       ]
     },
     {
       "id": 24,
       "home": {
-        "title": "The surprising footprint of food waste",
+        "title": "De verrassende uitstoot van voedselverspilling",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "One study from the UK looked at all the food that is thrown away at home 🏠"
+          "title": "Bij een onderzoek in het VK werd gekeken  naar al het eten dat er thuis wordt weggegooid 🏠"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "And then calculated the total footprint of all this waste."
+          "title": "En toen berekenden ze de totale uitstoot van deze verspilling."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What has a higher footprint?",
-          "subtitle": "in households in the UK",
+          "title": "Wat heeft een grotere footprint?",
+          "subtitle": "in huishoudens in het VK",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Wasted coffee ☕️",
+              "title": "Verspilde koffie ☕️",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Wasted tomatoes 🍅",
+              "title": "Verspilde tomaten 🍅",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "As you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint. And again we can see that we are wasting a lot of bread and pasta.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/top-5-food-waste-carbon-footprint.png"
+            "text": "Zoals je kunt zien, hoort drinken ook bij voedselverspilling. Melk of koffie weggooien heeft ook een behoorlijke impact. En natuurlijk zien we ook hier weer dat we te veel brood en pasta weggooien.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/top-5-food-waste-carbon-footprint-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 66,
-          "subtitle": "This recipe uses canned tomatoes, which means no tomatoes were wasted in the process."
+          "subtitle": "Bij dit recept gebruik je tomaten uit blik, dit betekent dat er geen tomaten worden verspild tijdens productie of in de winkel."
         }
       ]
     },
     {
       "id": 25,
       "home": {
-        "title": "Why cheese has a high footprint",
+        "title": "Waarom heeft kaas een hoge footprint?",
         "category": 7
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Cheese has a much higher footprint than other dairy products like yogurt 🧀 Why?"
+          "title": "Kaas heeft een veel hogere CO2-uitstoot dan andere zuivelproducten zoals yoghurt.  🧀 Waarom?"
         },
         {
           "id": 1,
           "type": "question",
-          "title": "What is the main reason for the high footprint of cheese?",
+          "title": "Wat is de hoofdreden voor de hoge footprint van kaas?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Size of the farm",
+              "title": "Grootte van de boerderij",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Amount of raw milk",
+              "title": "Hoeveelheid rauwe melk",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Riping process",
+              "title": "Rijpen van de kaas",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "A piece of cheese looks small but there is a lot of milk ‘hidden’ in it. This causes most of the emissions.\n\nTransport, packaging, or whether it comes from industrial or artisanal production only has a tiny influence on the carbon footprint.",
+            "text": "Voor een klein stuk kaas is een grote hoeveelheid melk nodig. Dit veroorzaakt de hoge uitstoot. \n\nHet transport, de verpakking en het feit dat de kaas van een industriële of ambachtelijke kaasmakerij komt, hebben nauwelijks invloed op de  footprint.",
             "imageURL": ""
           }
         },
         {
-          "id": 4,
+          "id": 2,
           "type": "recipe",
           "recipeID": 43,
-          "subtitle": "The Middle-Eastern flavors of this recipe create a rich meal where you won’t miss cheese.."
+          "subtitle": "De Midden-Oosterse invloeden van dit recept zorgen voor een rijke smaak waardoor je geen kaas zult missen."
         }
       ]
     },
     {
       "id": 26,
       "home": {
-        "title": "Why do we waste so much bread?",
+        "title": "Waarom verspillen we zoveel brood?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "A German study looked at all the food that people waste at home 🗑"
+          "title": "Tijdens een Duits onderzoek keek men naar de producten die mensen thuis verspillen 🗑"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "And they also researched the reasons for throwing away food."
+          "title": "Ze onderzochten ook waarom mensen bepaalde producten weggooien."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What was the main reason for wasting bread? ",
+          "title": "Wat was de voornaamste reden om brood weg te gooien?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Passed expiration date",
+              "title": "Over de datum",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Bought too much",
+              "title": "Te veel gekocht",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Didn’t feel like it",
+              "title": "Geen zin in",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is our first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/reasons-for-bread-waste.png"
+            "text": "Brood verspillen gaat over onze houding: Voelen we ons te goed om een broodkapje te eten? Of zien we het als waardevol voedsel?\r\n\r\nLaten we onszelf eraan herinneren dat eten een eerste levensbehoefte is. Het is te waardevol om weg te gooien, zelfs als ons oude brood een beetje hard is geworden.\r\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/reasons-for-bread-waste-NL-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 51,
-          "subtitle": "Oven recipes are a great way to use old bread: just crumble it on top for a crunchy layer."
+          "subtitle": "Ovengerechten zijn handig om oud brood op te maken: Verkruimel het brood er bovenop voor een krokant laagje."
         }
       ]
     },
     {
       "id": 27,
       "home": {
-        "title": "A climate tip for cheese lovers",
+        "title": "Een klimaattip voor kaasliefhebbers",
         "category": 7
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Soft cheeses like Mozzarella require less milk than hard cheeses like Parmesan."
+          "title": "Voor zachte kaas, zoals Mozzarella, is  minder melk nodig dan voor een harde kaas, zoals Parmezaan 🧀"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So does that mean it’s better to eat soft cheese?"
+          "title": "Betekent dit dat je beter zachte kaas kan eten?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Which option has a lower footprint?",
-          "subtitle": "(per kg of oil)",
+          "title": "Welke optie heeft een lagere footprint?",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "80 g Parmesan",
+              "title": "80 g Parmezaanse kaas",
               "correct": true
             },
             {
@@ -1377,91 +1357,86 @@
             }
           ],
           "answerExplanation": {
-            "text": "The type of cheese has a much smaller influence on the carbon footprint than the amount of cheese.\n\nSo our favorite tip to reduce the portion size of cheese: buy a high-quality parmesan and grate it yourself on the finest structure. This way you get a lot of cheese particles and flavor without using a lot of cheese.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint-serving-size.png"
+            "text": "De portiegrootte van kaas verminderen maakt een groter verschil dan een specifieke kaas kiezen. \n\nOnze favoriete manier om dat te doen: Een heerlijke kwaliteit Parmezaanse kaas en de fijnste rasp. Je zult meer geraspte kaasdeeltjes hebben en daardoor heb je minder kaas nodig om dezelfde smaak te proeven.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint-serving-size-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 59,
-          "subtitle": "Another way to reduce portion sizes is using small amounts of strong-tasting cheese, such as feta."
+          "subtitle": "Nog een manier om de portiegrootte te verminderen is kleine hoeveelheden gebruiken van kazen met een sterke smaak, zoals feta."
         }
       ]
     },
     {
       "id": 28,
       "home": {
-        "title": "What’s the footprint of packaging?",
+        "title": "Wat is de footprint van verpakkingen?",
         "category": 8
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "A lot of food arrives at our house in some form of packaging 📦"
+          "title": "Veel eten komt ons huis binnen in een  verpakking 📦"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "What’s the impact of all this plastic, glass, metal, and carton?"
+          "title": "Wat is de CO2-uitstoot van al dit plastic, glas, blik en karton?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Compared to the emissions from growing food, the footprint of packaging is…",
+          "title": "Vergeleken met de uitstoot van voedsel verbouwen is de footprint van verpakkingen...",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "high",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "medium",
+              "title": "Hoog",
               "correct": false
             },
             {
               "id": 2,
-              "title": "low",
+              "title": "Laag",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Packaging is the food impact we see with our own eyes. What we don’t see is all the water, land, and energy that went into growing the food and this has a much bigger impact.\n\nSo it’s better to buy a can of tomatoes or a bag of lentils than zero-waste meat from the butcher.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics.png"
+            "text": "Verpakkingen zien we met onze eigen ogen, maar wat we niet zien, zijn al het land, water en energie die nodig waren om het eten te verbouwen. En deze hebben  een veel grotere impact.\n\nHet is dus beter om tomaten uit blik of een zak linzen te kopen dan zero-waste vlees.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 54,
-          "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
+          "subtitle": "Een recept met veel ingrediënten uit blik. Maar nu weet je dit een veel lagere impact heeft dan chili con carne."
         }
       ]
     },
     {
       "id": 29,
       "home": {
-        "title": "Introducing a red meat budget",
+        "title": "Een budget voor rood vlees",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Red meat - so pork and beef - has a much higher footprint than white meat 🥩"
+          "title": "Rood vlees - dus rund en varkensvlees - heeft een veel hogere CO2-uitstoot dan wit vlees 🥩"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "So if you still want to eat it, what is a sustainable amount?"
+          "title": "Als je nog steeds rood vlees wil eten, wat is dan een duurzame hoeveelheid?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What is a sustainable amount of red meat per week?",
+          "title": "Wat is een duurzame hoeveelheid rood vlees per week?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1481,67 +1456,67 @@
             }
           ],
           "answerExplanation": {
-            "text": "In Europe and the US, we currently eat the equivalent of 5 hamburgers per week. Changing this number to 1 hamburger per week is the most important goal. This step alone gets us almost halfway to the sustainable diet calculated by the EAT-Lancet report. ",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/sustainable-meat.png"
+            "text": "In Europa en de VS eten we op dit moment het equivalent van 5 hamburgers per week. Dit aanpassen naar 1 hamburger per week is ons meest belangrijke doel. Deze stap brengt ons al halverwege van een duurzaam voedingspatroon!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/sustainable-meat-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
-          "recipeID": 43,
-          "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
+          "recipeID": 63,
+          "subtitle": "Een lekker alternatief voor een broodje shoarma!"
         }
       ]
     },
     {
       "id": 30,
       "home": {
-        "title": "How to convince other people",
+        "title": "Hoe overtuig je anderen?",
         "category": 4
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "We often see a sustainable diet as an individual problem"
+          "title": "We zien duurzaam eten vaak als een individueel probleem."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "But convincing one other person to change a little is much more important than making perfect choices yourself 👫"
+          "title": "Maar een ander persoon overtuigen om ook een kleine stap te nemen is veel belangrijker dan in je eentje alles perfect te doen 👫"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What works best to inspire people to start a new habit?",
+          "title": "Wat werkt het beste om anderen te inspireren een nieuwe gewoonte te ontwikkelen?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Shocking facts 😱",
+              "title": "Shockerende feiten 😱",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Logical arguments 🤓",
+              "title": "Logische argumenten 🤓",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Small steps 🥾",
+              "title": "Kleine stapjes 🥾",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "People are not convinced by logic or shocking facts. The best way to start a new habit is to offer an easy solution that almost feels ridiculously easy. Like replacing beef with chicken.\n\nThis way people don’t feel overwhelmed. And when they achieve this small step, they will be motivated to keep going.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/small-steps.png"
+            "text": "Mensen worden niet overtuigd door logica of shockerende feiten. De beste manier om een nieuwe gewoonte eigen te maken is om een makkelijke oplossing aangeboden te krijgen, waardoor het heel simpel is en voelt om de eerste stap te zetten. Zoals de stap om rundvlees te vervangen door kip.\n\nOp deze manier voelen mensen zich niet overweldigd. En wanneer ze deze kleine stap hebben behaald, dan zijn ze gemotiveerd om door te gaan.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/small-steps-NL.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 18,
-          "subtitle": "Another way to reduce portion sizes is using small amounts of strong-tasting cheese, such as feta."
+          "subtitle": "Een van onze simpelste recepten, zo kun je ook op drukke dagen toch een stap zetten in de goede richting."
         }
       ]
     }

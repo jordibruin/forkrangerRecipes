@@ -144,7 +144,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "This recipe uses a lot less land than a tortilla with ground beef."
@@ -441,17 +441,17 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "multiple times a day",
+              "title": "Multiple times a day",
               "correct": true
             },
             {
               "id": 1,
-              "title": "once a day",
+              "title": "Once a day",
               "correct": false
             },
             {
               "id": 2,
-              "title": "a few times a week",
+              "title": "A few times a week",
               "correct": false
             }
           ],
@@ -493,17 +493,17 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "meat 🥩",
+              "title": "Meat 🥩",
               "correct": false
             },
             {
               "id": 1,
-              "title": "dairy 🥛",
+              "title": "Dairy 🥛",
               "correct": true
             },
             {
               "id": 2,
-              "title": "cereals 🍞",
+              "title": "Cereals 🍞",
               "correct": false
             }
           ],
@@ -872,7 +872,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Palm oil is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas. It’s a complicated issue. \n\nThe best thing we can do as individuals is eating less processed food because that’s where palm oil is used: ice cream, cookies, pizza, and ready-made meals.",
+            "text": "Palm oil is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas. It’s a complicated issue. \n\nThe best thing we can do as individuals is to eat less processed food because that’s where palm oil is used: ice cream, cookies, pizza, and ready-made meals.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/palm-oil-land-use.png"
           }
         },
@@ -957,7 +957,7 @@
           "id": 2,
           "type": "question",
           "title": "Which type of transport has the lowest footprint?",
-          "subtitle": "per tonne of food ",
+          "subtitle": "per tonne of food",
           "answerOptions": [
             {
               "id": 0,
@@ -1112,17 +1112,17 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "not believing that meat contributes to climate change",
+              "title": "Not believing that meat contributes to climate change",
               "correct": false
             },
             {
               "id": 1,
-              "title": "not willing to change their habits",
+              "title": "Not willing to change their habits",
               "correct": false
             },
             {
               "id": 2,
-              "title": "unable to imagine an alternative way of eating",
+              "title": "Unable to imagine an alternative way of eating",
               "correct": true
             }
           ],
@@ -1149,7 +1149,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Legumes - lentils, beans, peas, etc. - are great sources of protein 💪"
+          "title": "Legumes - lentils, beans, peas, etc. - are a great source of protein 💪"
         },
         {
           "id": 1,
@@ -1248,7 +1248,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Cheese has a much higher footprint than other dairy products like yogurt 🧀 Why?"
+          "title": "Cheese has a much higher footprint than other dairy products like yogurt. 🧀 Why?"
         },
         {
           "id": 1,
@@ -1278,7 +1278,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "The Middle-Eastern flavors of this recipe create a rich meal where you won’t miss cheese.."
@@ -1409,30 +1409,25 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "high",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "medium",
+              "title": "High",
               "correct": false
             },
             {
               "id": 2,
-              "title": "low",
+              "title": "Low",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Packaging is the food impact we see with our own eyes. What we don’t see is all the water, land, and energy that went into growing the food and this has a much bigger impact.\n\nSo it’s better to buy a can of tomatoes or a bag of lentils than zero-waste meat from the butcher.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics.png"
+            "text": "Packaging is the food impact we see with our own eyes. What we don’t see is all the water, land, and energy that went into growing the food and this has a much bigger impact.\n\nSo it’s better to buy a can of tomatoes or a bag of lentils than zero-waste meat.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics-1.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 54,
-          "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
+          "subtitle": "A recipe that uses a lot of cans. Now you know that’s only a small part of the impact compared to how much you’re saving by cooking with these low-impact ingredients."
         }
       ]
     },
@@ -1483,7 +1478,7 @@
         {
           "id": 3,
           "type": "recipe",
-          "recipeID": 43,
+          "recipeID": 63,
           "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
         }
       ]
@@ -1498,12 +1493,12 @@
         {
           "id": 0,
           "type": "text",
-          "title": "We often see a sustainable diet as an individual problem"
+          "title": "We often see a sustainable diet as an individual problem."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "But convincing one other person to change a little is much more important than making perfect choices yourself 👫"
+          "title": "But convincing one other person to change a little is much more important than making perfect choices by yourself 👫"
         },
         {
           "id": 2,
@@ -1529,14 +1524,14 @@
           ],
           "answerExplanation": {
             "text": "People are not convinced by logic or shocking facts. The best way to start a new habit is to offer an easy solution that almost feels ridiculously easy. Like replacing beef with chicken.\n\nThis way people don’t feel overwhelmed. And when they achieve this small step, they will be motivated to keep going.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/small-steps.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/small-steps-1.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 18,
-          "subtitle": "Another way to reduce portion sizes is using small amounts of strong-tasting cheese, such as feta."
+          "subtitle": "One of our most simple recipes. So it’s to also set a small step on busy days."
         }
       ]
     }

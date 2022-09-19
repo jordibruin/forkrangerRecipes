@@ -35,7 +35,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+            "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!\n\nOf course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference. ",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
           }
         },
@@ -124,27 +124,27 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "transport",
+              "title": "Transport",
               "correct": false
             },
             {
               "id": 1,
-              "title": "land use",
+              "title": "Land use",
               "correct": true
             },
             {
               "id": 2,
-              "title": "packaging",
+              "title": "Packaging",
               "correct": false
             }
           ],
           "answerExplanation": {
             "text": "Most of us live in cities and don’t realize that farmland is the main way that humans are changing the surface of the Earth.\n\nFood production takes up half of all habitable land on Earth (excluding ice and deserts). Most of this land is used to produce meat and dairy.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/land-use.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/land-use-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "This recipe uses a lot less land than a tortilla with ground beef."
@@ -213,7 +213,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "There is family of plants that are both super healthy AND sustainable: legumes 🙌"
+          "title": "There is a family of plants that are both super healthy AND sustainable: legumes 🙌"
         },
         {
           "id": 1,
@@ -228,22 +228,22 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "beans",
+              "title": "Beans",
               "correct": false
             },
             {
               "id": 1,
-              "title": "quinoa",
+              "title": "Quinoa",
               "correct": true
             },
             {
               "id": 2,
-              "title": "lentils",
+              "title": "Lentils",
               "correct": false
             },
             {
               "id": 3,
-              "title": "chickpeas",
+              "title": "Chickpeas",
               "correct": false
             }
           ],
@@ -305,7 +305,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 30,
           "subtitle": "This recipe is a veggie party!"
@@ -326,11 +326,6 @@
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "That means that our food system is causing more emissions than necessary…"
-        },
-        {
-          "id": 2,
           "type": "question",
           "title": "In Western countries, most food is wasted...",
           "subtitle": "",
@@ -357,7 +352,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 3,
           "subtitle": "Soup recipes are perfect for dipping some leftover bread."
@@ -466,7 +461,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 5,
           "subtitle": "With this recipe you’ve already reached half of the recommended amount of nuts and legumes."
@@ -513,12 +508,12 @@
             }
           ],
           "answerExplanation": {
-            "text": "Cereals like pasta, rice and bread are the most important source of energy for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products -especially the whole grain version - are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
+            "text": "Cereals like pasta, rice, and bread are the most important energy source for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products - especially the whole grain version - are essential for a sustainable diet because they make us less dependent on protein from meat and dairy.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-1.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 65,
           "subtitle": "A meal with four sources of protein: pasta, beans, peas, and hazelnuts."
@@ -550,27 +545,27 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "meat and dairy substitutes",
+              "title": "Meat and dairy substitutes",
               "correct": false
             },
             {
               "id": 1,
-              "title": "animal feed",
+              "title": "Animal feed",
               "correct": true
             },
             {
               "id": 2,
-              "title": "oil",
+              "title": "Oil",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "The majority of soy is used as animal feed, mostly for chickens and pigs. \n\nThe soy used for products like yogurt or tofu is only a small part of the total soy production (6,9%) and are a good building block of a sustainable diet.",
+            "text": "The majority of soy is used as animal feed, mostly for chickens and pigs. \n\nThe soy used for products like yogurt or tofu is only a small part of the total soy production (6,9%) and is a good building block of a sustainable diet.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/soy-feed.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 24,
           "subtitle": "Most of the world’s soy comes from Brazil, so here is meatless version of a Brazilian classic."
@@ -602,22 +597,22 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "cow 🐄",
+              "title": "Cow 🐄",
               "correct": false
             },
             {
               "id": 1,
-              "title": "pig 🐖",
+              "title": "Pig 🐖",
               "correct": true
             },
             {
               "id": 2,
-              "title": "goat 🐐",
+              "title": "Goat 🐐",
               "correct": false
             },
             {
               "id": 3,
-              "title": "sheep 🐑",
+              "title": "Sheep 🐑",
               "correct": false
             }
           ],
@@ -627,10 +622,10 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 28,
-          "subtitle": "Meat has a strong umami flavor, but this recipe is also full of umami from the mushrooms, soy sauce and fried onions."
+          "subtitle": "Meat has a strong umami flavor, but this recipe is also full of umami from the mushrooms, soy sauce, and fried onions."
         }
       ]
     },
@@ -659,27 +654,27 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "rotting leftovers cause methane emissions",
+              "title": "Rotting leftovers cause methane emissions",
               "correct": false
             },
             {
               "id": 1,
-              "title": "more food needs to be produced",
+              "title": "More food needs to be produced",
               "correct": true
             },
             {
               "id": 2,
-              "title": "more space is required for landfills",
+              "title": "More space is required for landfills",
               "correct": false
             }
           ],
           "answerExplanation": {
             "text": "Saving a small leftover means that you can later have a ‘free’ meal. It might seem insignificant whether you save half a sandwich. But if 1% of Europeans save half a sandwich, that’s 3-4 million sandwiches worth of food that doesn’t need to be produced.",
-            "imageURL": ""
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/slice-of-bread.png"
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 37,
           "subtitle": "This is a great recipe to add any leftover veggies you have."
@@ -731,7 +726,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 19,
           "subtitle": "Cheese has a strong umami flavor but you can also get it from ingredients. In this case: soy sauce."
@@ -778,7 +773,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 16,
           "subtitle": "A delicious recipe without animal products, so no need for feed!"
@@ -830,7 +825,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 37,
           "subtitle": "A pasta recipe to practice the right amount of pasta you need per person to avoid leftovers."
@@ -882,7 +877,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "A tribute to Indonesia, where a lot of rainforest has been destroyed to make space for palm oil plantations."
@@ -934,7 +929,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 7,
           "subtitle": "Since you probably know enough recipes with bacon, here is a nice potato recipe where you don’t need meat."
@@ -991,7 +986,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 21,
           "subtitle": "We can eat bananas in mainland Europe thanks to the transport by ship from banana producing regions. Let’s enjoy them in this wonderful curry."
@@ -1038,7 +1033,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Rice and beans is a great combination because together they provide a complete source of protein (all essential amino acids)."
@@ -1085,7 +1080,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 14,
           "subtitle": "While pineapple comes by boat, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s a good option to buy them frozen."
@@ -1137,7 +1132,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 0,
           "subtitle": "This is a fantastic recipe to discover a completely new taste."
@@ -1189,7 +1184,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 45,
           "subtitle": "A great recipe to cook with a less common type of legume and source of protein: lima beans."
@@ -1236,7 +1231,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 66,
           "subtitle": "This recipe uses canned tomatoes, which means no tomatoes were wasted in the process."
@@ -1283,7 +1278,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "The Middle-Eastern flavors of this recipe create a rich meal where you won’t miss cheese.."
@@ -1335,7 +1330,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Oven recipes are a great way to use old bread: just crumble it on top for a crunchy layer."
@@ -1382,7 +1377,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 59,
           "subtitle": "Another way to reduce portion sizes is using small amounts of strong-tasting cheese, such as feta."
@@ -1434,7 +1429,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 54,
           "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
@@ -1486,7 +1481,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
@@ -1538,7 +1533,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 18,
           "subtitle": "Another way to reduce portion sizes is using small amounts of strong-tasting cheese, such as feta."

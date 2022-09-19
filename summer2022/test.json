@@ -9035,7 +9035,7 @@
         },
         {
           "name": "Arugula",
-          "type": 85,
+          "type": "fresh",
           "quantity": 1,
           "quantityType": "g"
         },

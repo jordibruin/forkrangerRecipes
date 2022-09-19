@@ -265,7 +265,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Verantwoorde keuzes maken kan lastig zijn met zoveel verschillende informatie op je af komt 😵‍💫"
+          "title": "Verantwoorde keuzes maken kan lastig zijn met zoveel verschillende informatie die op je af komt 😵‍💫"
         },
         {
           "id": 1,
@@ -421,7 +421,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "In 2019 berekende een groep wetenschappers hoe een gezond EN duurzaam voedselpatroon  er uit zou zien 🥗"
+          "title": "In 2019 berekende een groep wetenschappers hoe een gezond EN duurzaam voedselpatroon er uit zou zien 🥗"
         },
         {
           "id": 1,
@@ -442,7 +442,7 @@
             {
               "id": 1,
               "title": "Eén keer per dag",
-              "correct": true
+              "correct": false
             },
             {
               "id": 2,
@@ -525,7 +525,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Last time we saw that soy is a big cause of deforestation together with beef and palm oil  🪓"
+          "title": "Vorige keer zagen we dat soja naast rundvlees en palmolie een grote aanjager van ontbossing is 🪓"
         },
         {
           "id": 1,
@@ -555,7 +555,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 24,
           "subtitle": "De meeste soja komt uit Brazilië, dus hier is een vegetarische versie van een Braziliaans recept."
@@ -691,7 +691,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Spaghetti bolognese met rundergehakt",
+          "title": "Welke maaltijd heeft de laagste footprint?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -818,7 +818,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 37,
-          "subtitle": "Een pastarecept, waarbij je  meteen in de praktijk kunt oefenen met  de juiste hoeveelheid pasta koken en niets te verspillen."
+          "subtitle": "Een pastarecept, waarbij je meteen in de praktijk kunt oefenen met  de juiste hoeveelheid pasta koken en niets te verspillen."
         }
       ]
     },
@@ -1186,7 +1186,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Bij een onderzoek in het VK werd gekeken  naar al het eten dat er thuis wordt weggegooid 🏠"
+          "title": "Bij een onderzoek in het VK werd gekeken naar al het eten dat er thuis wordt weggegooid 🏠"
         },
         {
           "id": 1,
@@ -1233,7 +1233,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Kaas heeft een veel hogere CO2-uitstoot dan andere zuivelproducten zoals yoghurt.  🧀 Waarom?"
+          "title": "Kaas heeft een veel hogere CO2-uitstoot dan andere zuivelproducten zoals yoghurt. 🧀 Waarom?"
         },
         {
           "id": 1,
@@ -1265,7 +1265,7 @@
         {
           "id": 2,
           "type": "recipe",
-          "recipeID": 43,
+          "recipeID": 68,
           "subtitle": "De Midden-Oosterse invloeden van dit recept zorgen voor een rijke smaak waardoor je geen kaas zult missen."
         }
       ]
@@ -1332,7 +1332,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Voor zachte kaas, zoals Mozzarella, is  minder melk nodig dan voor een harde kaas, zoals Parmezaan 🧀"
+          "title": "Voor zachte kaas, zoals Mozzarella, is minder melk nodig dan voor een harde kaas, zoals Parmezaan 🧀"
         },
         {
           "id": 1,
@@ -1405,7 +1405,7 @@
           ],
           "answerExplanation": {
             "text": "Verpakkingen zien we met onze eigen ogen, maar wat we niet zien, zijn al het land, water en energie die nodig waren om het eten te verbouwen. En deze hebben  een veel grotere impact.\n\nHet is dus beter om tomaten uit blik of een zak linzen te kopen dan zero-waste vlees.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics-1.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics-NL-1.png"
           }
         },
         {

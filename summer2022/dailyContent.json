@@ -62,7 +62,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "In the plant kingdom, nuts are the food with the highest amount of protein."
+          "title": "In the plant kingdom, nuts are the food with the highest amount of protein 💪"
         },
         {
           "id": 1,
@@ -82,11 +82,6 @@
             },
             {
               "id": 1,
-              "title": "Medium",
-              "correct": false
-            },
-            {
-              "id": 2,
               "title": "Low",
               "correct": true
             }
@@ -191,7 +186,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "The most forest is destroyed to create pastures for cows. A majority of this deforestation happens in South America.\n\nWhile soy also plays a role, it’s more complicated than blaming it all on tofu. We will take a closer look at soy and palm oil on our next visit to the Fading Forest.\n\n",
+            "text": "The most forest is destroyed to create pastures for cows. A majority of this deforestation happens in South America.\n\nWe will take a closer look at soy and palm oil on our next visit to the Fading Forest.\n\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/deforestation-causes-1.png"
           }
         },
@@ -270,7 +265,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Making responsible food choices can be very difficult with so much confusing information."
+          "title": "Making responsible food choices can be very difficult with so much confusing information 😵‍💫"
         },
         {
           "id": 1,
@@ -534,13 +529,8 @@
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "But what is all that soy used for?"
-        },
-        {
-          "id": 2,
           "type": "question",
-          "title": "77% of all soy is used for...",
+          "title": "What is most soy used for?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -864,11 +854,6 @@
               "id": 1,
               "title": "Same amount of land",
               "correct": false
-            },
-            {
-              "id": 2,
-              "title": "Less land",
-              "correct": false
             }
           ],
           "answerExplanation": {
@@ -989,7 +974,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 21,
-          "subtitle": "We can eat bananas in mainland Europe thanks to the transport by ship from banana producing regions. Let’s enjoy them in this wonderful curry."
+          "subtitle": "We can eat bananas in mainland Europe thanks to the transport by ship from banana-producing regions. Let’s enjoy them in this wonderful curry."
         }
       ]
     },
@@ -1347,7 +1332,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Soft cheeses like Mozzarella require less milk than hard cheeses like Parmesan."
+          "title": "Soft cheeses like Mozzarella require less milk than hard cheeses like Parmesan 🧀"
         },
         {
           "id": 1,
@@ -1358,7 +1343,7 @@
           "id": 2,
           "type": "question",
           "title": "Which option has a lower footprint?",
-          "subtitle": "(per kg of oil)",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
@@ -1427,7 +1412,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 54,
-          "subtitle": "A recipe that uses a lot of cans. Now you know that’s only a small part of the impact compared to how much you’re saving by cooking with these low-impact ingredients."
+          "subtitle": "A recipe that uses a lot of cans. Now you know that it still has a much lower impact than a chilli con carne."
         }
       ]
     },

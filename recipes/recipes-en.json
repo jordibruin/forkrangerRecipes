@@ -383,7 +383,7 @@
       "id": 3,
       "title": "African Peanut Soup",
       "description": "Tomato paste with chilli and peanut butter is a West African sauce for sweet potatoes, rice, meat or veggies in countries like Benin. You could also puree the sweet potatoes instead of leaving them in blocks.",
-      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/African-Peanut-Soup.jpg",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/African-peanut-soup-new.jpg",
       "duration": 35,
       "rewardTitle": "Bravo!",
       "rewardText": "If you used beef bouillon, you created beef flavour without beef emissions.",
@@ -1623,10 +1623,10 @@
         "plants"
       ],
       "id": 12,
-      "title": "Spinach pesto",
+      "title": "Spinach Pasta Pesto",
       "url": "https://forkranger.com/spinach-pesto/?share",
       "description": "I discovered this recipe by accident, and it was part of the inspiration for this book. The combination of ingredients almost creates a ground meat texture.",
-      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/spinach-pesto.jpg",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/spinach-pasta-pesto-new-2.jpg",
       "duration": 35,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
@@ -8596,7 +8596,7 @@
         },
         {
           "title": "Add peaches and squeeze lemon",
-          "detail": "let everything simmer until warm, season with salt and pepper\n\nkeep this short as the peaches will lose flavour when simmered too long",
+          "detail": "let everything simmer until warm, season with salt and pepper\n\nkeep this short as the peaches will lose flavor when simmered too long",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
@@ -8857,6 +8857,529 @@
           "title": "Serve noodle soup with tofu mix and spring onion",
           "detail": "",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/farfalle-primavera/?share",
+      "id": 65,
+      "title": "Farfalle Primavera",
+      "description": "In English farfalle is usually known as ‘bow-tie pasta’ but it’s actually Italian for butterflies. Primavera is Italian for the ‘Spring’, the season. Together, the farfalle with these fresh flavors and ingredients will definitely give you springy vibes no matter what the weather outside is.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/Farfalle-Primavera.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Make it a dinner party",
+      "variationBody": "Add white wine before adding the beans and (soy) cream",
+      "ingredients": [
+        {
+          "name": "Farfalle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Peas (frozen)",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cannelini beans (canned)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Hazelnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lemon zest and juice",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Onion (red)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut mushrooms into quarters",
+        "Chop hazelnuts",
+        "Chop parsley finely"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Sauté mushrooms",
+          "detail": "high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Cook pasta in the meantime",
+          "detail": "save 200 ml of the water when draining",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Reduce the heat and add garlic",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add beans and soy cream",
+          "detail": "drain beans before adding. Season with salt and pepper.",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add 200 ml pastawater, peas, parsley, and lemon juice and zest",
+          "detail": "season with salt and pepper to taste, bring to a simmer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Garnish with hazelnuts",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/cheesy-penne-with-arugula/?share",
+      "id": 66,
+      "title": "Cheesy Penne with Arugula",
+      "description": "This dish is easiest to make in a large pan so you can add the penne to the sauce. Add the arugula & mozzarella at the last minute to keep more flavor, and to make sure the mozzarella doesn’t string too much. It doesn't take long to prep or cook and also works well cold as a salad.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/06/cheesy-penne-with-rucola-1-scaled.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Penne (whole wheat)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zucchini",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned tomatoes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mozzarella",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Arugula",
+          "type": 85,
+          "quantity": 1,
+          "quantityType": "g"
+        },
+        {
+          "name": "Onion (red)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion",
+        "Cut zucchini into small cubes",
+        "Cut sun-dried tomatoes in small strips",
+        "Cut mozzarella into small cubes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Cook pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "In the meantime, sauté onion",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add zucchini and sun-dried tomatoes",
+          "detail": "stir",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add canned tomatoes and oregano",
+          "detail": "bring to a simmer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add drained cooked pasta",
+          "detail": "turn off heat and mix everything",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add arugula and mozzarella",
+          "detail": "stir and serve",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        }
+      ]
+    },
+    {
+      "filter": [
+        "pasta",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/pink-pasta/?share",
+      "id": 67,
+      "title": "Pink Pasta",
+      "description": "The classic combination of goat cheese, walnuts, and red beet as a super easy pasta recipe. By cooking the broccoli in the sauce it soaks up the flavors.",
+      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Green-Lemon-Spaghetti.jpg",
+      "duration": 25,
+      "rewardTitle": "Well done!",
+      "rewardText": "Popeye would be proud of your spinach power.",
+      "servings": 4,
+      "variationHeader": "Make it a dinner party",
+      "variationBody": "Blend the beetroot and creme fraiche (or oat fraiche) for a pink sauce!",
+      "ingredients": [
+        {
+          "name": "Spaghetti (whole wheat)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Beetroot (pre-cooked)",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soft goat cheese",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Creme fraiche (or oat fraiche)",
+          "type": "taste",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh rosemary",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut broccolil into small florets",
+        "Cut beetroot into cubes",
+        "Chop walnuts"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Cook pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "time": 10,
+          "emoji": ""
+        },
+        {
+          "title": "Make bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Sauté onion and garlic",
+          "detail": "",
+          "panType": "fryingPan1",
+          "time": 3,
+          "emoji": ""
+        },
+        {
+          "title": "Add broccoli, creme fraiche (or oat fraiche), bouillon, rosemary twigs and lemon zest",
+          "detail": "bring to boil, then close with lid and let it simmer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add beetroot and walnuts",
+          "time": 3,
+          "panType": "fryingPan1",
+          "emoji": "",
+          "detail": "cook until warm, season with salt and pepper. Keep the lid on if the broccoli isn't tender yet\n "
+        },
+        {
+          "title": "Take out rosemary twigs and serve the spaghetti with the sauce, crumble feta on top, and add lemon juice to taste",
+          "emoji": "",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice",
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/lemon-rice/?share",
+      "id": 68,
+      "title": "Lemon Rice with Hummus",
+      "description": "This recipe is inspired by Middle Eastern flavors. By cooking the rice with the veggies and spices it gets a wonderful taste. Together with the lemon juice and hummus it’s a fresh and creamy dish.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/06/Lemon-rice-with-hummus.jpg",
+      "duration": 35,
+      "rewardTitle": "Well done!",
+      "rewardText": "Popeye would be proud of your spinach power.",
+      "servings": 4,
+      "variationHeader": "Make it a dinner party",
+      "variationBody": "Instead of adding the aubergines and bell pepper to the pan, roast them in the oven (20-30 min at 200°C) and add them at the end. You can also replace cumin, turmeric, and thyme with za'atar.",
+      "ingredients": [
+        {
+          "name": "Brown rice",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Aubergine",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Red bell pepper",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Almonds",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lemon (juice & zest)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Thyme",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander or parsley",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut aubergines into 1-2 cm pieces",
+        "Cut red bell peppers into 1-2 cm pieces",
+        "Rinse the rice with cold water"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté onions, aubergine and bell pepper",
+          "detail": "on high heat until the aubergine is soft",
+          "panType": "fryingPan1",
+          "time": 8,
+          "emoji": ""
+        },
+        {
+          "title": "Add garlic, lemon zest, thyme, cumin, and turmeric",
+          "panType": "fryingPan1",
+          "detail": "turn down the heat and season with salt and pepper",
+          "time": 3,
+          "emoji": ""
+        },
+        {
+          "title": "Add rice and bouillon",
+          "detail": "first add the rice and then add the bouillon, add more water later if the rice cooks dry without being done, keep the lid on",
+          "panType": "fryingPan1",
+          "time": 10,
+          "emoji": ""
+        },
+        {
+          "title": "Meanwhile, chop the almonds and cut coriander/parsley",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Turn off the heat and add plenty of lemon juice",
+          "time": 5,
+          "panType": "fryingPan1",
+          "emoji": "",
+          "detail": "let it sit with the lid on to steam. Add lemon juice, taste and add more if needed, season with salt & pepper"
+        },
+        {
+          "title": "Serve rice with hummus, almonds and coriander/parsley",
+          "emoji": "",
+          "detail": ""
         }
       ]
     }

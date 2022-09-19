@@ -2,29 +2,29 @@
   "categories": [
     {
       "id": 0,
-      "title": "Base Camp",
-      "subtitle" : "Introduction",
+      "title": "Basecamp",
+      "subtitle" : "Introductie",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Base-Camp.png",
       "color": 0
     },
     {
       "id": 1,
       "title": "The Big Ranch",
-      "subtitle" : "Meat",
+      "subtitle" : "Vlees",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/big-ranch-new.png",
       "color": 1
     },
     {
       "id": 2,
       "title": "Power Valley",
-      "subtitle" : "Nuts & Legumes",
+      "subtitle" : "Noten & Peulvruchten",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
       "color": 2
     },
     {
       "id": 3,
       "title": "Fading Forest",
-      "subtitle" : "Deforestation",
+      "subtitle" : "Ontbossing",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/fading-forest.png",
       "color": 3
     },
@@ -38,28 +38,28 @@
         {
       "id": 5,
       "title": "Wild Waste",
-      "subtitle" : "Food Waste",
+      "subtitle" : "Voedselverspilling",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/07/wild-waste.png",
       "color": 5
     },
     {
       "id": 6,
       "title": "Muscle Mountain",
-      "subtitle" : "Protein",
+      "subtitle" : "Eiwit",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
       "color": 5
     },
     {
       "id": 7,
       "title": "Moo Moo Meadows",
-      "subtitle" : "Cheese",
+      "subtitle" : "Kaas",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
       "color": 6
     },
     {
       "id": 8,
-      "title": "The Harbor",
-      "subtitle" : "Transport & Packaging",
+      "title": "Haven",
+      "subtitle" : "Transport & Verpakkingen",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
       "color": 6
     }

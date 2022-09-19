@@ -8993,7 +8993,8 @@
       "filter": [
         "plants"
       ],
-      "url": "https://www.forkranger.com/cheesy-penne-with-arugula/?share",
+      "url": "https://www.forkranger.com/cheesy-penne-with-
+      /?share",
       "id": 66,
       "title": "Cheesy Penne with Arugula",
       "description": "This dish is easiest to make in a large pan so you can add the penne to the sauce. Add the arugula & mozzarella at the last minute to keep more flavor, and to make sure the mozzarella doesn’t string too much. It doesn't take long to prep or cook and also works well cold as a salad.",
@@ -9035,7 +9036,7 @@
         },
         {
           "name": "Arugula",
-          "type": "fresh",
+          "type": 85,
           "quantity": 1,
           "quantityType": "g"
         },

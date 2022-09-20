@@ -383,7 +383,7 @@
       "id": 3,
       "title": "Afrikaanse Pindasoep",
       "description": "Tomatenpuree met chili en pindakaas is een West-Afrikaanse saus voor zoete aardappels, rijst, vlees of groenten in landen zoals Benin. Je kunt de zoete aardappel ook pureren in plaats van deze in blokjes te laten.",
-      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/African-Peanut-Soup.jpg",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/African-peanut-soup-new.jpg",
       "duration": 35,
       "rewardTitle": "Bravo!",
       "rewardText": "Als je runderbouillon gebruikt, creëer je rundvleessmaak zonder rundvleesemissies.",
@@ -1626,7 +1626,7 @@
       "url": "https://forkranger.com/nl/spinazie-pasta-pesto/?share",
       "title": "Spinazie Pasta Pesto",
       "description": "Dit recept heb ik per toeval ontdekt. Door het combineren van de ingrediënten krijgt de saus bijna dezelfde structuur als wanneer gehakt toegevoegd zou worden.",
-      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/spinach-pesto.jpg",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2020/01/spinach-pasta-pesto-new2.jpg",
       "duration": 35,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
@@ -8600,6 +8600,794 @@
           "title": "Serveer de wraps met de crème fraîche, groente mix en flinke hoeveelheid munt",
           "detail": "",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/pitabroodjes-met-champignons/",
+      "id": 63,
+      "title": "Pitabroodjes met Champignons",
+      "description": "Een gezond fast-food alternatief wat je makkelijk thuis kunt maken. De umami-smaak van de champignons komt nog meer naar voren als ze in sojasaus worden gebakken. Deze eenvoudige versie kan je ook een upgrade geven door shiitake paddenstoelen te kiezen.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/06/pita-bread-with-mushrooms.jpg",
+      "duration": 20,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Pas het aantal pitabroodjes aan als de grootte van je pita kleiner of groter is.",
+      "ingredients": [
+        {
+          "name": "Pitabroodjes (volkoren)",
+          "type": "base",
+          "quantity": 10,
+          "quantityType": ""
+        },
+        {
+          "name": "Chinese kool (klein)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Champignons",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Paprika's",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pinda's",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Rode uien",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Sriracha (of andere hete saus)",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Knoflooksaus",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij rode uien in halve ringen",
+        "Snij de Chinese kool in reepjes",
+        "Snij de champignons in plakjes",
+        "Snij de paprika's in kleine stukjes",
+        "Hak de pinda's grof",
+        "Verwarm de oven voor op 220°C"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Bak de pitabroodjes",
+          "panType": "oven",
+          "detail": "op 220°C",
+          "time": 5
+        },
+        {
+          "title": "Fruit ondertussen de rode ui, champignons en paprika",
+          "detail": "op hoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg de taugé en sojasaus toe",
+          "detail": "verlaag het vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg pinda's toe",
+          "detail": "breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Snij de pitabroodjes open, vul ze met Chinese kool en voeg de champignon mix toe en doe er sriracha en knoflooksaus naar smaak overheen",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/champignon-gember-noedelsoep/?share",
+      "id": 64,
+      "title": "Champignon Gember Noedelsoep",
+      "description": "Noedelsoep kost traditioneel veel tijd om een bouillon te krijgen van groenten of vlees. Ons recept versnelt echter het proces tot maximale smaak door te bakken. Door veel knapperige groenten toe te voegen krijg je een mooie combinatie van een zoute soep met frisse toppings.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/06/mushroom-ginger-noodles-scaled.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Variaties",
+      "variationBody": "Kan je geen sugar snaps uit de diepvries vinden? Kies dan sperziebonen uit de diepvries. Voeg ze direct met de bouillon toe omdat ze een iets langere kooktijd hebben.",
+      "ingredients": [
+        {
+          "name": "volkoren",
+          "type": "base",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "paddenstoelen",
+          "type": "fresh",
+          "quantity": 1.5,
+          "quantityType": "L"
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tofu",
+          "type": "fresh",
+          "quantity": 375,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sugar snaps (diepvries)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Maïs uit blik",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lente-uitjes",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 60,
+          "quantityType": "g"
+        },
+        {
+          "name": "Knoflook",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij de knoflook en gember fijn",
+        "Snij de champignons in plakjes",
+        "Snijd tofu in blokjes van 1 cm, leg ze op keukenpapier en leg er keukenpapier op, druk met je handen om het water eruit te persen",
+        "Snij de lente-uitjes in ringetjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bak knoflook, gember en paddestoelen",
+          "detail": "op middelhoog vuur ",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg bouillon toe en breng aan de kook",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "In de tussentijd, bak tofu in olie met helft van de sojasaus",
+          "detail": "blijf regelmatig omdraaien",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Voeg noedels, sugar snaps en andere helft van de sojasaus aan de bouillon toe",
+          "detail": "kook",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg taugé en maïs toe",
+          "detail": "aat de maïs uitlekken voordat je het toevoegt, op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serveer noedels en soep met tofu en lente-ui",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/nl/farfelle-primavera/?share",
+      "id": 65,
+      "title": "Farfalle Primavera",
+      "description": "In het Engels maar ook in het Nederlands staan Farfalle meestal bekend als 'strikjes' pasta. Maar het is eigenlijk Italiaans voor 'vlinders'. Primavera is Italiaans voor het seizoen 'lente'. Samen geven de farfalle met de frisse smaken en ingredienten je geheid lentekriebels, wat voor weer het buiten ook is",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/Farfalle-Primavera.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Make it a dinner party",
+      "variationBody": "Blus af met witte wijn toe voordat je de bonen en (soja)room toevoegt",
+      "ingredients": [
+        {
+          "name": "Farfalle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Champignons",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cannelini bonen (uit blik)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Witte wijn (droog)",
+          "type": "taste",
+          "quantity": 150,
+          "quantityType": "ml"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Hazelnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Citroen rasp en sap",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflook",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de champignons in plakjes",
+        "Hak hazelnoten",
+        "Snij de peterselie fijn"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui en champignons",
+          "detail": "op hoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Kook ondertussen de pasta\n",
+          "detail": "bewaar 200 ml water van het afgieten",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Verlaag het vuur en voeg de knoflook toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de witte wijn toe en daarna de cannelini bonen en (soja)room",
+          "detail": "Laat bonen eerst uitlekken. Breng op smaak met zout en peper en breng aan de kook",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg 200ml pastawater, peterselie, en citroenrasp en -sap toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Garneer met hazelnoten",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/penne-met-mozarella-en-rucola/?share",
+      "id": 66,
+      "title": "Penne met Mozarella en Rucola",
+      "description": "Dit gerecht is het makkelijkste te maken in een grote pan, zodat je de penne kan toevoegen aan de saus. Voeg de rucola en mozzarella pas aan het einde toe zodat er zoveel mogelijk smaak blijft en om ervoor te zorgen dat de mozzarella niet te veel smelt en er een rommeltje van maakt. Voorbereiding en koken duren niet lang, en het gerecht werkt ook goed koud als salade.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/06/cheesy-penne-with-rucola-1-scaled.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Penne (volkoren)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mozzarella",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Rucola",
+          "type": "fresh",
+          "quantity": 85,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui",
+        "Snij courgette in kleine blokjes",
+        "Snij de zongedroogde tomaten in reepjes",
+        "Snij mozzarella in kleine blokjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Kook de pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Fruit de ui ondertussen",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de courgette en zongedroogde tomaten toe",
+          "detail": "roer ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de tomaten en oregano toe",
+          "detail": "bring to a simmer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg afgegoten gekookte pasta toe",
+          "detail": "zet vuur uit, roer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg de rucola en mozzarella toe",
+          "detail": "roer licht",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        }
+      ]
+    },
+    {
+      "filter": [
+        "pasta",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/roze-pasta/?share",
+      "id": 67,
+      "title": "Roze Pasta",
+      "description": "De klassieke combinatie van geitenkaas, walnoten en rode biet als supereenvoudig pastarecept. Door de broccoli in de saus te koken neemt het de smaken op.",
+      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Green-Lemon-Spaghetti.jpg",
+      "duration": 25,
+      "rewardTitle": "Well done!",
+      "rewardText": "Popeye would be proud of your spinach power.",
+      "servings": 4,
+      "variationHeader": "Maak er een feestje van",
+      "variationBody": "Pureer de bieten en crème fraîche (of haver fraîche) voor een roze saus!",
+      "ingredients": [
+        {
+          "name": "Spaghetti (volkoren)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Biet (voorgekookt)",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zachte geitenkaas",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Crème fraîche (of haver fraîche)",
+          "type": "taste",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse rozemarijn",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflook",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de broccoli in kleine roosjes",
+        "Snij de bieten in kleine blokjes",
+        "Hak de walnoten in stukjes"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Kook de pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "time": 10,
+          "emoji": ""
+        },
+        {
+          "title": "Maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Fruit de ui en knoflook",
+          "detail": "",
+          "panType": "fryingPan1",
+          "time": 3,
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de broccoli, crème fraîche (of haver fraîche), bouillon, rozemarijn en citroenrasp toe",
+          "detail": "breng aan de kook, dek daarna af met een deksel",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg de bieten en walnoten toe",
+          "time": 3,
+          "panType": "fryingPan1",
+          "emoji": "",
+          "detail": "kook tot alles warm is, breng op smaak met zout en peper. Houd het deksel erop als de broccoli nog niet gaar is"
+        },
+        {
+          "title": "Serveer de spaghetti met de saus, verkruimel feta erbovenop, en knijp citroen uit naar smaak",
+          "emoji": "",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice",
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/citroenrijst/?share",
+      "id": 68,
+      "title": "Citroenrijst met Hummus",
+      "description": "Dit recept is geïnspireerd door Midden-Oosterse smaken. De rijst krijgt een heerlijke smaak door hem met te groenten en de kruiden te koken. Samen met de citroen en de hummus wordt het een heerlijk fris en smeuïg geheel.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/06/Lemon-rice-with-hummus.jpg",
+      "duration": 35,
+      "rewardTitle": "Well done!",
+      "rewardText": "Popeye would be proud of your spinach power.",
+      "servings": 4,
+      "variationHeader": "Maak er een feestje van",
+      "variationBody": "Rooster de paprika en aubergine in de oven (20-30 min bij 200°C) in plaats van ze in de pan toe te voegen. Je kunt ook de kruiden vervangen door za'atar.",
+      "ingredients": [
+        {
+          "name": "Zilvervliesrijst",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Aubergine",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode paprika",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Amandelen",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Citroen (sap & rasp)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Tijm",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse koriander of peterselie",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de aubergine in 1-2 cm blokjes",
+        "Snij de paprika's in 1-2 cm stukjes",
+        "Spoel de rijst in een vergiet af onder koud water"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui, aubergine en paprika",
+          "detail": "op middelhoog vuur totdat de aubergine zacht is",
+          "panType": "fryingPan1",
+          "time": 8,
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de knoflook, citroenrasp, tijm, komijn en kurkuma toe",
+          "panType": "fryingPan1",
+          "detail": "verlaag het vuur en breng op smaak met zout en peper",
+          "time": 3,
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de rijst en bouillon toe",
+          "detail": "voeg eerst de rijst toe, daarna de bouillon, en voeg later meer water toe als de rijst droog kookt zonder dat deze gaar is, houd het deksel erop",
+          "panType": "fryingPan1",
+          "time": 10,
+          "emoji": ""
+        },
+        {
+          "title": "Hak ondertussen de amandelen fijn en snij de koriander/peterselie",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Zet het vuur uit en voeg voldoende citroensap toe",
+          "time": 5,
+          "panType": "fryingPan1",
+          "emoji": "",
+          "detail": "laat het staan met de deksel er op om zo de rijst te stomen. Voeg citroensap toe, proef en voeg naar smaak meer toe, breng op smaak met zout en peper"
+        },
+        {
+          "title": "Serveer de rijst met hummus, amandelen en koriander/peterselie",
+          "emoji": "",
+          "detail": ""
         }
       ]
     }

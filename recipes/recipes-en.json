@@ -1626,7 +1626,7 @@
       "title": "Spinach Pasta Pesto",
       "url": "https://forkranger.com/spinach-pesto/?share",
       "description": "I discovered this recipe by accident, and it was part of the inspiration for this book. The combination of ingredients almost creates a ground meat texture.",
-      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/spinach-pasta-pesto-new-2.jpg",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2020/01/spinach-pasta-pesto-new2.jpg",
       "duration": 35,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
@@ -8881,8 +8881,6 @@
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
-      "variationHeader": "Make it a dinner party",
-      "variationBody": "Add white wine before adding the beans and (soy) cream",
       "ingredients": [
         {
           "name": "Farfalle",
@@ -8909,9 +8907,15 @@
           "quantityType": "g"
         },
         {
+          "name": "White wine (dry)",
+          "type": "taste",
+          "quantity": 150,
+          "quantityType": "ml"
+        },
+        {
           "name": "(Soy) cream",
           "type": "taste",
-          "quantity": 400,
+          "quantity": 200,
           "quantityType": "ml"
         },
         {
@@ -8955,7 +8959,7 @@
       "cookTime": 20,
       "cookSteps": [
         {
-          "title": "Sauté mushrooms",
+          "title": "Sauté onion and mushrooms",
           "detail": "high heat",
           "panType": "fryingPan1",
           "emoji": "",
@@ -8976,15 +8980,15 @@
           "time": 2
         },
         {
-          "title": "Add beans and soy cream",
-          "detail": "drain beans before adding. Season with salt and pepper.",
+          "title": "Add white wine and then the beans and soy cream",
+          "detail": "drain beans before adding. Season with salt and pepper and bring to a simmer",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
         },
         {
           "title": "Add 200 ml pastawater, peas, parsley, and lemon juice and zest",
-          "detail": "season with salt and pepper to taste, bring to a simmer",
+          "detail": "",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3

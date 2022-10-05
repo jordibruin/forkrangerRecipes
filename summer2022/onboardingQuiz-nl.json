@@ -1,0 +1,73 @@
+{
+  "questions": [
+    {
+       "id": 1,
+      "type": "question",
+      "title": "What makes a bigger difference?",
+      "subtitle": "for reducing CO2 in average European or North American diet",
+      "answerOptions": [
+        {
+          "id": 1,
+          "title": "Eating vegetarian 1 day a week",
+          "correct": false
+        },
+        {
+          "id": 0,
+          "title": "Replacing beef with chicken",
+          "correct": true
+        }
+      ],
+      "answerExplanation": {
+        "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
+      },
+      "recipe" : 1
+    },
+    {
+       "id": 2,
+      "type": "question",
+      "title": "What makes a bigger difference?",
+      "subtitle": "for reducing CO2 in average European or North American diet",
+      "answerOptions": [
+        {
+          "id": 1,
+          "title": "Eating vegetarian 1 day a week",
+          "correct": false
+        },
+        {
+          "id": 0,
+          "title": "Replacing beef with chicken",
+          "correct": true
+        }
+      ],
+      "answerExplanation": {
+        "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
+      },
+      "recipe" : 2
+    },
+    {
+       "id": 3,
+      "type": "question",
+      "title": "What makes a bigger difference?",
+      "subtitle": "for reducing CO2 in average European or North American diet",
+      "answerOptions": [
+        {
+          "id": 1,
+          "title": "Eating vegetarian 1 day a week",
+          "correct": false
+        },
+        {
+          "id": 0,
+          "title": "Replacing beef with chicken",
+          "correct": true
+        }
+      ],
+      "answerExplanation": {
+        "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day.png"
+      },
+      "recipe" : 3
+    }
+  ]
+}

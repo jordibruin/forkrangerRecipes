@@ -9524,7 +9524,8 @@
           "title": "Kook de rijst ondertussen",
           "detail": "",
           "time": 10,
-          "emoji": ""
+          "emoji": "",
+          "panType": "cookingPan"
         },
         {
           "title": "Voeg linzen en tomaten toe",

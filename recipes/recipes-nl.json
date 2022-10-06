@@ -9390,6 +9390,155 @@
           "detail": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "rice",
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/linzen-en-tomaten-curry/?share",
+      "id": 69,
+      "title": "Linzen en Tomaten Curry",
+      "description": "Een snel en gemakkelijk curry recept met genoeg eiwitten. De cherrytomaten en linzen geven dit gerecht een goede textuur.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/10/lentil-and-tomato-curry.jpg",
+      "duration": 30,
+      "rewardTitle": "Well done!",
+      "rewardText": "Popeye would be proud of your spinach power.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Basmati rijst (volkoren)",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cherrytomaatjes",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Linzen uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Gele paprika's",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Tomatenpuree",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Currypoeder (garam masala)",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Chilipoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Suiker",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Peterselie",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de paprika’s in stukjes",
+        "Halveer de cherrytomaten"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "time": 3,
+          "emoji": ""
+        },
+        {
+          "title": "Voeg tomatenpuree, knoflook, paprika, currypoeder en chilipoeder toe",
+          "panType": "fryingPan1",
+          "detail": "",
+          "time": 2,
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de helft van de pindakaas toe, de andere helft naar smaak, suiker en (soja)room",
+          "detail": "roer en breng aan de kook, laat sudderen",
+          "panType": "fryingPan1",
+          "time": 10,
+          "emoji": ""
+        },
+        {
+          "title": "Kook de rijst ondertussen",
+          "detail": "",
+          "time": 10,
+          "emoji": ""
+        },
+        {
+          "title": "Voeg linzen en tomaten toe",
+          "time": 10,
+          "panType": "fryingPan1",
+          "emoji": "",
+          "detail": "giet linzen af voor het toevoegen, breng op smaak met zout en peper "
+        },
+        {
+          "title": "Serveer met wat limoensap en peterselie naar smaak",
+          "emoji": "",
+          "detail": ""
+        }
+      ]
     }
   ]
 }

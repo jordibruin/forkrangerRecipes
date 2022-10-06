@@ -9355,7 +9355,7 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "Sauté onions, aubergine and bell pepper",
+          "title": "Sauté onions, aubergine and bell pepper",
           "detail": "on high heat until the aubergine is soft",
           "panType": "fryingPan1",
           "time": 8,
@@ -9389,6 +9389,156 @@
         },
         {
           "title": "Serve rice with hummus, almonds and coriander/parsley",
+          "emoji": "",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice",
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/lentil-and-tomato-curry/?share",
+      "id": 69,
+      "title": "Lentil and Tomato Curry",
+      "description": "A quick and easy curry recipe with plenty of protein. The cherry tomatoes and lentils give the dish a nice texture.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/10/lentil-and-tomato-curry.jpg",
+      "duration": 30,
+      "rewardTitle": "Well done!",
+      "rewardText": "Popeye would be proud of your spinach power.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Basmati rice (brown)",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned lentils",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Yellow bell peppers",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "(Soy)cream",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Peanut butter",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Tomato paste",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Curry powder (garam masala)",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Chilli powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Sugar",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut bell peppers into short strips",
+        "Halve the cherry tomatoes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté onion",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "time": 3,
+          "emoji": ""
+        },
+        {
+          "title": "Add tomato paste, garlic, bell pepper, curry powder and chilli powder",
+          "panType": "fryingPan1",
+          "detail": "",
+          "time": 2,
+          "emoji": ""
+        },
+        {
+          "title": "Add half the peanut butter, the other half to taste, sugar, and (soy) cream",
+          "detail": "stir and bring to boil/simmer",
+          "panType": "fryingPan1",
+          "time": 10,
+          "emoji": ""
+        },
+        {
+          "title": "Cook rice in the meantime",
+          "detail": "",
+          "panType": "cookingPan",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Add tomatoes and lentils",
+          "time": 10,
+          "panType": "fryingPan1",
+          "emoji": "",
+          "detail": "drain lentils before adding, season with salt and pepper"
+        },
+        {
+          "title": "Serve with some lime juice and parsley to your taste",
           "emoji": "",
           "detail": ""
         }

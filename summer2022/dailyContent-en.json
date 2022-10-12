@@ -55,6 +55,7 @@
     },
     {
       "id": 2,
+      "notificationText" : "Test text",
       "home": {
         "title": "What’s the climate impact of nuts?",
         "category": 2

@@ -26,7 +26,8 @@
         "text": "Ons wereldwijde voedselsysteem veroorzaakt een derde van alle CO2-uitstoot.\n\nOp jouw Fork Ranger reis ga je ontdekken wat de meest belangrijke bronnen van deze emissies zijn en wat we eraan kunnen doen.",
         "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/food-causes-one-third-of-climate-change-NL.png"
       },
-      "recipe": 12
+      "recipe": 12,
+      "recipeSubtitle" : "recipe subtitle here"
     },
     {
       "id": 2,
@@ -49,7 +50,8 @@
         "text": "De meest effectieve manier om de klimaatimpact van ons eten te reduceren is minder vlees en zuivel te eten.\n\nJe hoeft geen vegetariër te worden om onderdeel te zijn van de oplossing. Een paar makkelijke aanpassingen kunnen al een enorm verschil maken.",
         "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/sustainable-diet-NL.png"
       },
-      "recipe": 4
+      "recipe": 4,
+      "recipeSubtitle" : "recipe subtitle here"
     },
     {
       "id": 3,
@@ -77,7 +79,8 @@
         "text": "Bij Fork Ranger zijn wij geïnspireerd door het feit dat lifestyle oplossingen veel meer CO2 kunnen besparen dan technologie.\n\nUiteindelijk gaat het er om een nieuwe manier van leven te vinden die in harmonie is met de natuur:\n- Minder vlees, meer planten\n- Minder vliegen, meer lokale avonturen\n- Minder spullen, meer herinneringen",
         "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/drawdown-solutions-NL.png"
       },
-      "recipe": 3
+      "recipe": 3,
+      "recipeSubtitle" : "recipe subtitle here"
     }
   ]
 }

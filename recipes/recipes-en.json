@@ -382,7 +382,7 @@
       "url": "https://forkranger.com/african-peanut-soup/?share",
       "id": 3,
       "title": "African Peanut Soup",
-      "description": "Tomato paste with chilli and peanut butter is a West African sauce for sweet potatoes, rice, meat or veggies in countries like Benin. You could also puree the sweet potatoes instead of leaving them in blocks.",
+      "description": "This rich and comforting soup can also be used as a curry if you use less water. The combination of sweet potatoes, tomato paste, chili, and peanut butter is inspired by a West African recipe from Benin.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/African-peanut-soup-new.jpg",
       "duration": 35,
       "rewardTitle": "Bravo!",
@@ -402,8 +402,8 @@
           "quantityType": "g"
         },
         {
-          "name": "Cucumber",
-          "type": "fresh",
+          "name": "Lime",
+          "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
@@ -440,7 +440,7 @@
         {
           "name": "Bouillon (beef)",
           "type": "taste",
-          "quantity": 500,
+          "quantity": 800,
           "quantityType": "ml"
         },
         {
@@ -454,14 +454,19 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
+        },
+        {
+          "name": "Coriander",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
         }
       ],
       "prepTime": 10,
       "prepSteps": [
         "Dice onion and mince garlic",
         "Peel and cut sweet potatoes into blocks",
-        "Grate ginger",
-        "Slice cucumber"
+        "Grate ginger"
       ],
       "cookTime": 25,
       "cookSteps": [
@@ -499,22 +504,27 @@
         },
         {
           "title": "Add peanut butter and bouillon",
-          "detail": "Simmer with lid on, taste and add salt and pepper if needed",
+          "detail": "Bring to boil and simmer with lid on, taste and add salt and pepper if needed",
           "panType": "fryingPan1",
           "emoji": "🥜",
           "time": 10
         },
         {
           "title": "Puree everything until smooth",
+          "detail": "add more water if necessary",
           "panType": "fryingPan1",
           "emoji": ""
         },
         {
-          "title": "Add spinach",
-          "detail": "Simmer",
+          "title": "Add spinach and lime juice",
+          "detail": "turn the heat low and stir so that the spinach becomes soft",
           "panType": "fryingPan1",
           "emoji": "",
-          "time": 3
+          "time": 4
+        },
+        {
+          "title": "Serve with coriander",
+          "emoji": ""
         }
       ]
     },

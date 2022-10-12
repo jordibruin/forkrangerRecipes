@@ -382,7 +382,7 @@
       "url": "https://forkranger.com/nl/afrikaanse-pindasoep/?share",
       "id": 3,
       "title": "Afrikaanse Pindasoep",
-      "description": "Tomatenpuree met chili en pindakaas is een West-Afrikaanse saus voor zoete aardappels, rijst, vlees of groenten in landen zoals Benin. Je kunt de zoete aardappel ook pureren in plaats van deze in blokjes te laten.",
+      "description": "Deze rijke 'comfort' soep kun je ook als currysaus gebruiken als je minder water toevoegt. De combi van zoete aardappel, tomatenpuree, chili en pindakaas is geïnspireerd door een West Afrikaans recept uit Benin.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/09/African-peanut-soup-new.jpg",
       "duration": 35,
       "rewardTitle": "Bravo!",
@@ -402,8 +402,8 @@
           "quantityType": "g"
         },
         {
-          "name": "Komkommer",
-          "type": "fresh",
+          "name": "Limoen",
+          "type": "taste",
           "quantity": 1,
           "quantityType": ""
         },
@@ -454,14 +454,19 @@
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
+        },
+        {
+          "name": "Koriander",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
         }
       ],
       "prepTime": 10,
       "prepSteps": [
         "Snipper de ui en pers of snij de knoflook fijn",
         "Rasp de gember",
-        "Schil de aardappels en snij deze in blokjes",
-        "Snij de komkommer in plakjes"
+        "Schil de aardappels en snij deze in blokjes"
       ],
       "cookTime": 25,
       "cookSteps": [
@@ -499,22 +504,27 @@
         },
         {
           "title": "Voeg de pindakaas toe en vervolgens de bouillon",
-          "detail": "laat sudderen met de deksel erop, proef en voeg zo nodig meer zout en peper toe",
+          "detail": "breng aan de kook en laat sudderen met de deksel erop, proef en voeg zo nodig meer zout en peper toe",
           "panType": "fryingPan1",
           "emoji": "🥜",
           "time": 10
         },
         {
           "title": "Pureer alles tot een soep",
+          "detail": "voeg zo nodig meer water toe",
           "panType": "fryingPan1",
           "emoji": ""
         },
         {
-          "title": "Voeg de spinazie toe",
-          "detail": "laat sudderen",
+          "title": "Voeg de spinazie en limoensap toe",
+          "detail": "zet het vuur laag en roer zodat de spinazie slinkt",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 3
+        },
+        {
+          "title": "Serveer met koriander",
+          "emoji": "🫖"
         }
       ]
     },

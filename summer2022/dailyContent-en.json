@@ -2,6 +2,7 @@
   "dailyContent": [
     {
       "id": 1,
+      "notificationText" : "Test text",
       "home": {
         "title": "A small step with a big impact",
         "category": 1

@@ -55,7 +55,7 @@
     },
     {
       "id": 2,
-      "notificationText" : "Test text",
+      "notificationText" : "Recipe of the day: White Wine Mushroom Tagliatelle",
       "home": {
         "title": "What’s the climate impact of nuts?",
         "category": 2
@@ -103,6 +103,7 @@
     },
     {
       "id": 3,
+      "notificationText" : "Recipe of the day: Minty Aubergine Wraps",
       "home": {
         "title": "Why food has such a high footprint",
         "category": 1

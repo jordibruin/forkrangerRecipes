@@ -2,7 +2,7 @@
   "dailyContent": [
     {
       "id": 1,
-      "notificationText" : "Test text",
+      "notificationText": "Test text",
       "home": {
         "title": "A small step with a big impact",
         "category": 1
@@ -55,7 +55,8 @@
     },
     {
       "id": 2,
-      "notificationText" : "Recipe of the day: White Wine Mushroom Tagliatelle",
+      "notificationTitle": "Today: Power Valley",
+      "notificationText": "What’s the climate impact of nuts? 🥜 - Recipe of the day: White Wine Mushroom Tagliatelle",
       "home": {
         "title": "What’s the climate impact of nuts?",
         "category": 2
@@ -103,7 +104,8 @@
     },
     {
       "id": 3,
-      "notificationText" : "Recipe of the day: Minty Aubergine Wraps",
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "Why does food have a high footprint? 🤔 - Recipe of the day: Minty Aubergine Wraps",
       "home": {
         "title": "Why food has such a high footprint",
         "category": 1
@@ -151,6 +153,8 @@
     },
     {
       "id": 4,
+      "notificationTitle": "Today: Fading Forest",
+      "notificationText": "Do you know the biggest cause of deforestation? 🪓 - Recipe of the day: Green Lemon Spaghetti",
       "home": {
         "title": "What’s the biggest cause of deforestation?",
         "category": 3

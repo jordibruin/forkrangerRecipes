@@ -27,7 +27,7 @@
         "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/food-causes-one-third-of-climate-change-NL.png"
       },
       "recipe": 12,
-      "recipeSubtitle" : "recipe subtitle here"
+      "recipeSubtitle" : "Dit is het eerst ontwikkelde Fork Ranger recept en is het favoriete recept van heel veel mensen."
     },
     {
       "id": 2,
@@ -51,7 +51,7 @@
         "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/sustainable-diet-NL.png"
       },
       "recipe": 4,
-      "recipeSubtitle" : "recipe subtitle here"
+      "recipeSubtitle" : "De meesten van ons zoeken naar manieren om meer groenten te eten en dit is één van de makkelijkste manieren."
     },
     {
       "id": 3,
@@ -80,7 +80,7 @@
         "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/drawdown-solutions-NL.png"
       },
       "recipe": 3,
-      "recipeSubtitle" : "recipe subtitle here"
+      "recipeSubtitle" : "Curry recepten zoals deze is een van de makkelijkste manieren om meer plantaardig te eten."
     }
   ]
 }

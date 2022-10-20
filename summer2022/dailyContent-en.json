@@ -207,6 +207,8 @@
     },
     {
       "id": 5,
+      "notificationTitle": "Today: Power Valley",
+      "notificationText": "Eat more of this climate superfood 🤩 - Recipe of the day: Coconut Dahl (this is one of our favorites)",
       "home": {
         "title": "Eat more of this climate superfood",
         "category": 2
@@ -264,6 +266,8 @@
     },
     {
       "id": 6,
+      "notificationTitle": "Today: Fellowship of the Forks",
+      "notificationText": "How does 1 vegan compare to 2 vegetarians? 🍽 - Recipe of the day: Spanish Rice",
       "home": {
         "title": "Let’s have more dinner parties",
         "category": 4
@@ -316,6 +320,8 @@
     },
     {
       "id": 7,
+      "notificationTitle": "Today: Wild Waste",
+      "notificationText": "Do you know where most food is wasted? 🗑 - Recipe of the day: African Peanut Soup",
       "home": {
         "title": "Where is most food wasted?",
         "category": 5
@@ -363,6 +369,8 @@
     },
     {
       "id": 8,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "The weight of all humans and their farm animals ⚖️ - Recipe of the day: Creamy Mushroom Pasta",
       "home": {
         "title": "The weight of humanity",
         "category": 1
@@ -420,6 +428,8 @@
     },
     {
       "id": 9,
+      "notificationTitle": "Today: Power Valley",
+      "notificationText": "Should you eat more nuts? 🥜 - Recipe of the day: Peanut Fruit Curry",
       "home": {
         "title": "Should you eat more nuts?",
         "category": 2
@@ -472,6 +482,8 @@
     },
     {
       "id": 10,
+      "notificationTitle": "Today: Muscle Mountain",
+      "notificationText": "[This is already your 🔟th day!] Four sources of protein 💪 - Recipe of the day: Farfalle Primavera",
       "home": {
         "title": "Where do we get protein?",
         "category": 6
@@ -524,6 +536,8 @@
     },
     {
       "id": 11,
+      "notificationTitle": "Today: Fading Forest",
+      "notificationText": "The most important fact about soy 📊 - Recipe of the day: Brazilian Strogonof",
       "home": {
         "title": "The most important fact about soy",
         "category": 3
@@ -571,6 +585,8 @@
     },
     {
       "id": 12,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "Why does beef have such a high footprint? 🐮 - Recipe of the day: Mushroom Coconut Rice",
       "home": {
         "title": "Why does beef have such a high footprint?",
         "category": 1
@@ -628,6 +644,8 @@
     },
     {
       "id": 13,
+      "notificationTitle": "Today: Wild Waste",
+      "notificationText": "What happens when you don’t finish your plate? 🤭 - Recipe of the day: Oven Pesto Potatoes",
       "home": {
         "title": "The impact of food waste",
         "category": 5
@@ -680,6 +698,8 @@
     },
     {
       "id": 14,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "How does cheese compare to meat? 🧀 - Recipe of the day: Crunchy Noodles",
       "home": {
         "title": "How does cheese compare to meat?",
         "category": 7
@@ -732,6 +752,8 @@
     },
     {
       "id": 15,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "What are all those corn fields for? 🌽 - Recipe of the day: Orange Prune Rice",
       "home": {
         "title": "What are all those corn fields for?",
         "category": 1
@@ -779,6 +801,8 @@
     },
     {
       "id": 16,
+      "notificationTitle": "Today: Wild Waste",
+      "notificationText": "What is the most wasted product? 🗑 - Recipe of the day: Pink Pasta",
       "home": {
         "title": "What is the most wasted product?",
         "category": 5
@@ -831,6 +855,8 @@
     },
     {
       "id": 17,
+      "notificationTitle": "Today: Fading Forest",
+      "notificationText": "Should you try to avoid palm oil? 🌴 - Recipe of the day: Indonesian Spicy Cabbage",
       "home": {
         "title": "Should you try to avoid palm oil?",
         "category": 3
@@ -878,6 +904,8 @@
     },
     {
       "id": 18,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "A climate tip for the meat lovers in your life 🍖 - Recipe of the day: Roast Potatoes with Mustard",
       "home": {
         "title": "A climate tip for meat lovers",
         "category": 1
@@ -930,6 +958,8 @@
     },
     {
       "id": 19,
+      "notificationTitle": "Today: The Harbor",
+      "notificationText": "How polluting are food miles? 🛣 - Recipe of the day: Banana Curry",
       "home": {
         "title": "How polluting are food miles?",
         "category": 8
@@ -987,6 +1017,8 @@
     },
     {
       "id": 20,
+      "notificationTitle": "Today: Muscle Mountain",
+      "notificationText": "[Day number 2️⃣0️⃣ Woohoo!] Are you eating enough protein? 💪 - Recipe of the day: Caribbean Chilli",
       "home": {
         "title": "Are you eating enough protein?",
         "category": 6
@@ -1034,6 +1066,8 @@
     },
     {
       "id": 21,
+      "notificationTitle": "Today: The Harbor",
+      "notificationText": "How much of our food travels by air? ✈️ - Recipe of the day: Pineapple Curry",
       "home": {
         "title": "How much of our food travels by air?",
         "category": 8
@@ -1081,6 +1115,8 @@
     },
     {
       "id": 22,
+      "notificationTitle": "Today: Fellowship of the Forks",
+      "notificationText": "What’s the main reason that keeps people from eating less meat? 😵‍💫 - Recipe of the day: Orange Chilli Spaghetti",
       "home": {
         "title": "Why people don’t change",
         "category": 4
@@ -1133,6 +1169,8 @@
     },
     {
       "id": 23,
+      "notificationTitle": "Today: Muscle Mountain",
+      "notificationText": "How much protein is in a can of beans? 🏋️ - Recipe of the day: Vegetable Jambalaya",
       "home": {
         "title": "How much protein is in a can of beans?",
         "category": 6
@@ -1185,6 +1223,8 @@
     },
     {
       "id": 24,
+      "notificationTitle": "Today: Wild Waste",
+      "notificationText": "The surprising footprint of food waste at home 🏠 - Recipe of the day: Cheesy Penne with Arugula",
       "home": {
         "title": "The surprising footprint of food waste",
         "category": 5
@@ -1232,6 +1272,8 @@
     },
     {
       "id": 25,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "Why does cheese have a high footprint? 🥸 - Recipe of the day: Lemon Rice with Hummus",
       "home": {
         "title": "Why cheese has a high footprint",
         "category": 7
@@ -1279,6 +1321,8 @@
     },
     {
       "id": 26,
+      "notificationTitle": "Today: Wild Waste",
+      "notificationText": "Why we waste so much bread 🥖 - Recipe of the day: Easy Pesto Lasagne",
       "home": {
         "title": "Why do we waste so much bread?",
         "category": 5
@@ -1331,6 +1375,8 @@
     },
     {
       "id": 27,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "A climate tip for cheese lovers 🧀 - Recipe of the day: Stuffed Bell Peppers",
       "home": {
         "title": "A climate tip for cheese lovers",
         "category": 7
@@ -1378,6 +1424,8 @@
     },
     {
       "id": 28,
+      "notificationTitle": "Today: The Harbor",
+      "notificationText": "What’s the impact of packaging? 📦 - Recipe of the day: Sweet Chilli",
       "home": {
         "title": "What’s the footprint of packaging?",
         "category": 8
@@ -1425,6 +1473,8 @@
     },
     {
       "id": 29,
+      "notificationTitle": "Today: The Big Ranch (the last one!)",
+      "notificationText": "Introducing a red meat budget 🍔 - Recipe of the day: Pita Bread with Mushrooms",
       "home": {
         "title": "Introducing a red meat budget",
         "category": 1
@@ -1477,6 +1527,8 @@
     },
     {
       "id": 30,
+      "notificationTitle": "Today: Fellowship of the Forks",
+      "notificationText": "[This your 3️⃣0️⃣th day] What works best to inspire people to start a new habit? - Recipe of the day: Balsamic Ravioli",
       "home": {
         "title": "How to convince other people",
         "category": 4

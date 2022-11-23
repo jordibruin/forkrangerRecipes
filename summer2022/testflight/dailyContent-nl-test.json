@@ -1,0 +1,1719 @@
+{
+  "dailyContent": [
+    {
+      "id": 1,
+      "notificationText": "Test text",
+      "home": {
+        "title": "Een kleine stap met een grote impact",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Welkom bij de Big Ranch! Hier gaan we ontdekken wat de impact van vlees is en wat je er aan kunt doen."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Er is één makkelijke stap die iedereen kan nemen om direct zijn/haar footprint te verlagen 🥾"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat maakt een groter verschil?",
+          "subtitle": "om CO2 te verminderen in een gemiddeld Europees of Noord-Amerikaans voedingspatroon",
+          "answerOptions": [
+            {
+              "id": 1,
+              "title": "1 dag in de week vegetarisch eten",
+              "correct": false
+            },
+            {
+              "id": 0,
+              "title": "Rundvlees vervangen door kip",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Rundvlees heeft de hoogste impact van al het vlees. Zonder minder vlees te eten, vermindert deze stap de CO2 impact van een gemiddeld Westers voedingspatroon al met één vijfde!\n\nNatuurlijk, het vervangen van rundvlees door kip (of varken) is niet het einddoel van een duurzaam voedingspatroon. Het is echter wel een gemakkelijke eerste stap die al een geweldig verschil maakt.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/replacing-beef-vs-vegetarian-for-1-day-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 22,
+          "subtitle": "Dit recept is één van onze favorieten en een lekkere manier om een klassiek rundvlees gerechtt vegetarisch te maken."
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "title": "Kom morgen terug om te ontdekken wat de impact van noten is! 🥜"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "notificationTitle": "Vandaag: Power Valley",
+      "notificationText": "Wat is de klimaatimpact van noten? 🥜 - Recept van de dag: Tagliatelle met Witte Wijn",
+      "home": {
+        "title": "Wat is de klimaatimpact van noten?",
+        "category": 2
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In het plantenrijk zijn noten het product met het meeste eiwit 💪"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Dat maakt noten een goede vleesvervanger, maar hoe zit het met de CO2- uitstoot?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Vergeleken met vlees is de klimaatimpact van noten…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoog",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Laag",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Noten hebben een extreem lage footprint, omdat ze aan bomen groeien. Door hun hoge eiwitgehalte en bron van gezonde vetten zijn ze een super vleesvervanger.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/nuts-footprint-per-100-g-protein-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/noten-en-de-zoektocht-naar-duurzame-eiwitten/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 58,
+          "subtitle": "De walnoten in dit romige pastagerecht geven niet alleen goede eiwitten, maar ook een lekkere bite."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Waarom heeft voedsel zo’n grote impact? 🤔 - Recept van de dag: Frisse Wraps met Aubergine",
+      "home": {
+        "title": "Waarom voedsel zo’n grote impact heeft",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er zijn veel verschillende problemen met ons voedselsysteem, maar wat is de belangrijkste? 🍽"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Wat is de grootste oorzaak voor de hoge CO2- uitstoot van eten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Transport",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Landgebruik",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Verpakkingen",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De meesten van ons leven in steden en daardoor zien we niet dat we de aarde vooral veranderen door landbouw.\n\nDe voedselproductie neemt ongeveer de helft van al het land op aarde in, als je ijs en woestijnen niet meerekent. Het meeste van dit land wordt gebruikt om vlees en zuivel te produceren.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/land-use-NL-2.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 20,
+          "subtitle": "Dit recept heeft heel wat minder land nodig dan een wrap met gehakt."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "Ken je de grootste oorzaak van ontbossing? 🪓 - Recept van de dag: Groene Spaghetti met Citroen ",
+      "home": {
+        "title": "Wat is grootste oorzaak van ontbossing?",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We zijn in het Fading Forest waar we gaan kijken waar onze bossen voor worden gekapt 🪓"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Bijna alle ontbossing vindt plaats  in tropische landen, maar wat is de grootste oorzaak van ontbossing?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is de grootste oorzaak van ontbossing?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Papier & hout",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Rundvlees",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Soy",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De meeste ontbossing is  om ruimte te maken voor koeien, het merendeel hiervan vindt plaats in Zuid Amerika.\n\nWe zullen bij de volgende bezoeken aan het Fading Forest kijken naar soja en palmolie.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/deforestation-causes-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/is-het-waar-dat-soja-ontbossing-veroorzaakt/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 2,
+          "subtitle": "Een groene maaltijd om de groene bossen van de wereld te redden."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "notificationTitle": "Vandaag: Power Valley",
+      "notificationText": "Voor het klimaat is dit een superfood🤩 - Recept van de dag: Kokosdahl (dit is een van onze favorieten)",
+      "home": {
+        "title": "Eet meer van dit klimaat superfood",
+        "category": 2
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "De vruchten van de vlinderbloemenfamilie zijn niet alleen super gezond, maar ook duurzaam. 🙌"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Wat deze planten uniek maakt, is dat ze een simpele droge vrucht hebben: peulen."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat zijn GEEN peulvruchten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Bonen",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Quinoa",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Linzen",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Kikkererwten",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Peulvruchten zijn planten die een kleine droge vrucht produceren. Zo kennen we kikkererwten, linzen, erwten en bonen!\n\nNet als noten bevatten  ze veel eiwit voor een heel lage footprint. Maar daarnaast hebben ze nog meer voordelen, zoals dat ze maar weinig water nodig hebben.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/climate-superfood-legumes-NL-2.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 55,
+          "subtitle": "De basis van dit gerecht zijn rode linzen, een van de makkelijkste en lekkerste manieren om met peulvruchten te koken."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "notificationTitle": "Vandaag: Fellowship of the Forks",
+      "notificationText": "Hoeveel impact heeft 1 veganist of 2 vegetariërs?  🍽 - Recept van de dag: Spaanse Rijst",
+      "home": {
+        "title": "Tijd voor feestjes",
+        "category": 4
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Verantwoorde keuzes maken kan lastig zijn met zoveel verschillende informatie die op je af komt 😵‍💫"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Het is daarom belangrijk om het grotere plaatje voor ogen te houden."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat bespaart meer CO2-uitstoot?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 persoon die veganistisch eet",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "2 personen die vegetarisch eten",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "3 personen die rundvlees door varkensvlees/kip vervangen",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Eén ander persoon inspireren om rundvlees te vervangen door kip maakt veel meer verschil dan in je eentje proberen alles perfect te doen.\n\nEten is een sociaal gebeuren. En de oplossing naar een duurzaam voedselsysteem kan dit ook zijn! Dus deel een recept of grafiekje en laten we vaker  bij elkaar komen om gezellig samen te eten!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/1-vegan-vs-3-replacing-beef-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/how-to-convince-your-friends-to-eat-less-meat/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 30,
+          "subtitle": "Dit recept is een groente feestje!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "notificationTitle": "Vandaag: Wild Waste",
+      "notificationText": "Weet je waar het meeste voedsel wordt verspild? 🗑 - Recept van de dag: Afrikaanse Pindasoep",
+      "home": {
+        "title": "Waar wordt het meeste voedsel verspild?",
+        "category": 5
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Ongeveer een derde van al het eten dat we produceren wordt niet gegeten 😢"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "In Westerse landen wordt het meeste voedsel verspild…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Tijdens productie",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "In de supermarkt",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Thuis",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Meer dan de helft van alle voedselverspilling in Noord-Amerika en Europa vindt plaats tijdens consumptie (thuis + restaurants & catering). Dat bekent dat we hierin allemaal een belangrijke rol hebben!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Total-food-waste-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/de-oplossing-voor-voedselverspilling-begint-bij-brood/"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 3,
+          "subtitle": "Soep is een handige maaltijd om van je oud brood af te komen, je kunt het brood erin dippen."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Het gewicht van alle mensen en hun gehouden dieren ⚖️ - Recept van de dag: Romige Pasta met Champignons",
+      "home": {
+        "title": "Het gewicht van de mensheid",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Stel je voor dat je alle mensen op Aarde bij elkaar op een weegschaal zou zetten... ⚖️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Zouden ze dan meer wegen dan alle wilde dieren?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke groep weegt het meest?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Mensen 👫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Koeien 🐄",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Varkens 🐖",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Wilde zoogdieren 🐘",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Alle koeien samen zijn zwaarder dan alle mensen en alle wilde zoogdieren bij elkaar opgeteld! Ze zijn ook zwaarder dan al het andere vee samen (varkens, kippen, schapen, geiten, paarden).\n\nDe planeet Aarde is eerder Planeet Koe geworden. ",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/weight-of-all-mammals-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 8,
+          "subtitle": "Nog een recept waar groenten de hoofdrol pakken (ook al horen champignons officieel tot het rijk van de schimmels)."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "notificationTitle": "Vandaag: Power Valley",
+      "notificationText": "Should you eat more nuts? 🥜 - Recipe of the day: Peanut Fruit Curry",
+      "home": {
+        "title": "Zou je meer noten moeten eten?",
+        "category": 2
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In 2019 berekende een groep wetenschappers hoe een gezond EN duurzaam voedselpatroon er uit zou zien 🥗"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Ze trokken een interessante conclusie over noten en peulvruchten."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is de aanbevolen hoeveelheid noten en peulvruchten? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meerdere keren per dag",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Eén keer per dag",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Een paar keer per week",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Op dit moment eten we hiervan maar 19 g per dag, terwijl het 125 g zou moeten zijn!\n\nProbeer elke dag ten minste één portie noten en één portie peulvruchten te eten. Dus haal die pot pindakaas maar tevoorschijn! 😍🥜",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/recommended-amount-nuts-and-legumes-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 5,
+          "subtitle": "Met dit recept heb je al de helft van de aanbevolen hoeveelheid peulvruchten en noten binnen."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "notificationTitle": "Vandaag: Muscle Mountain",
+      "notificationText": "[Dit is al je 🔟de dag!] Vier bronnen van eiwit 💪 - Recept van de dag: Farfalle Primavera",
+      "home": {
+        "title": "Waar halen we eiwit vandaan?",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel mensen maken zich zorgen over eiwitten als ze minder vlees gaan eten 😰"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Het is waar dat vlees veel eiwit bevat, maar er zijn ook andere bronnen van proteïne."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Uit welk product haalt de gemiddelde Europeaan de meeste eiwitten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Vlees 🥩",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Zuivel 🥛",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Granen 🍞",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Granen zoals pasta, rijst en brood zijn de belangrijkste energiebron voor mensen door hun koolhydraten, maar ze bevatten ook meer eiwit dan de meeste mensen denken.\n\nDeze producten - vooral de volkoren versie - zijn belangrijk voor een duurzaam voedingspatroon, omdat ze ons minder afhankelijk maken van de eiwitten van vlees en zuivel.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/noten-en-de-zoektocht-naar-duurzame-eiwitten/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 65,
+          "subtitle": "Een maaltijd met vier bronnen aan eiwit: pasta, bonen, erwten en hazelnoten."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "Het belangrijkste feit over soja 📊 - Recept van de dag: Braziliaanse Stroganoff",
+      "home": {
+        "title": "Dit moet je over soja weten",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Vorige keer zagen we dat soja naast rundvlees en palmolie een grote aanjager van ontbossing is 🪓"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Waar wordt de meeste soja voor gebruikt?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Vleesvervangers",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Veevoer",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Olie",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het grootste deel van soja wordt gebruikt als veevoer, vooral voor kippen en varkens. Soja voor producten zoals yoghurt en tofu vormen maar een klein deel van de gehele sojaproductie.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/soy-feed-NL.png",
+            "blogURL": "https://www.forkranger.com/nl/is-het-waar-dat-soja-ontbossing-veroorzaakt/"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 24,
+          "subtitle": "De meeste soja komt uit Brazilië, dus hier is een vegetarische versie van een Braziliaans recept."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Waarom heeft rundvlees zo’n hoge impact? 🐮 - Recept van de dag: Kokosrijst met Champignons",
+      "home": {
+        "title": "Waarom heeft rundvlees zo’n hoge impact?",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Bepaalde soorten vlees hebben een veel hogere klimaatimpact dan andere 🥩"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "De reden hiervoor is hoe de maag werkt van deze dieren."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke van deze dieren is GEEN herkauwer?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Koe 🐄",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Varken 🐖",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Geit 🐐",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Schaap 🐑",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Herkauwers hebben een speciale maag die het mogelijk maakt gras te eten. In dit proces, laten ze boeren van methaangas, een sterk broeikasgas.\n\nMethaan is een grote reden waarom rundvlees - maar ook geiten- en schapenvlees - een veel hogere impact dan ander voedsel heeft.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/ruminant-meat-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 28,
+          "subtitle": "Vlees heeft een sterke umami smaak, dit recept zit ook bomvol umami door de champignons, sojasaus en gefrituurde uitjes."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "notificationTitle": "Vandaag: Wild Waste",
+      "notificationText": "Wat gebeurt er als je je bord niet leegeet? 🤭 - Recept van de dag: Aardappels uit de Oven met Pesto",
+      "home": {
+        "title": "De impact van voedselverspilling",
+        "category": 5
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Voedsel verspillen voelt altijd slecht 🗑"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar wat is de link met klimaatverandering?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waarom is voedsel verspillen zo problematisch?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Rottende restjes veroorzaken veel methaanuitstoot",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Er moet meer voedsel geproduceerd worden",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Er is meer ruimte nodig voor vuilnisbelten",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een klein restje bewaren betekent dat je later een ‘gratis’ maaltijd hebt. Het lijkt onbeduidend of je een half broodje bewaart. Maar als 1% van de Europeanen een half broodje bewaart, scheelt dit 3 à 4 miljoen broodjes aan voedsel dat niet geproduceerd hoeft te worden.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/slice-of-bread-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 37,
+          "subtitle": "Dit is goed recept om overgebleven groente doorheen te doen."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Hoe verhoudt kaas zich tot vlees? 🧀 - Recept van de dag: Crunchy Noedels",
+      "home": {
+        "title": "Hoe zit het met kaas in vergelijking met vlees?",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel mensen die minder vlees eten, vinden het lastiger om ook minder kaas te eten 🧀"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Dus hoe zit het met de klimaatimpact van kaas vergeleken met de impact van vlees?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke maaltijd heeft de laagste footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Spaghetti bolognese met rundergehakt 🍝",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Spaghetti carbonara met spekjes 🥓",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Vegetarische lasagne met kaas 🧀",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De makkelijkste manier om vegetarisch te koken is door vlees te vervangen met kaas. Maar dan nemen zetten twee stappen vooruit en één stap terug. \n\nWe hoeven kaas niet helemaal op te geven, maar het eten ervan zou geen dagelijkse gewoonte moeten zijn. Wij zien kaas meer als luxeproduct voor het weekend.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 19,
+          "subtitle": "Kaas is lekker door de umami smaak, maar je kunt die smaak ook uit andere ingrediënten krijgen. In dit geval: sojasaus."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Waar zijn al die maïsvelden voor? 🌽 - Recipe of the day: Rijst met Pruimen en Sinaasappel",
+      "home": {
+        "title": "Waar zijn al die maïsvelden voor?",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Granen zoals tarwe en maïs worden niet alleen verbouwd voor mensen 🌽"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "We gebruiken ze ook als veevoer en biodiesel."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoeveel van de graanproductie is voor menselijke consumptie?",
+          "subtitle": "In de EU",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "67%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "23%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Minder dan een kwart van alle granen in de EU zijn voor menselijke consumptie. Het meeste wordt gebruikt als veevoer.\n\nDit betekent dat voor elke dag dat je geen vlees en zuivel eet, je ongeveer 1 kilo aan graan bespaart.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cereal-use-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 16,
+          "subtitle": "Een heerlijk recept zonder dierlijke producten en waar dus ook geen veevoer aan te pas is gekomen."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "notificationTitle": "Vandaag: Wild Waste",
+      "notificationText": "Wat is het meest verspilde product? 🗑 - Recept van de dag: Roze Pasta",
+      "home": {
+        "title": "Wat is het meest verspilde product?",
+        "category": 5
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Als je naar gewicht kijkt, zijn groente en fruit het meest verspilde eten, omdat er veel water in zit."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar wat als we kijken naar de ‘energie’ die wordt verspild? ⚡️"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is wereldwijd het meest verspilde product als je kijkt naar verspilde calorieën?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Groente en fruit",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Granen",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Vlees",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wereldwijd bestaat 53% van alle verspilde calorieën uit granen. Er zijn veel land en kunstmest nodig om granen te verbouwen, dus als we ze verspillen is het schadelijker dan bij groente en fruit.\n\nElk stukje oud brood of restje overgebleven pasta dat je eet, is winst voor het klimaat.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/food-waste-in-calories-NL.png",
+            "blogURL": "https://www.forkranger.com/nl/de-oplossing-voor-voedselverspilling-begint-bij-brood/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 67,
+          "subtitle": "Een pastarecept, waarbij je meteen in de praktijk kunt oefenen met de juiste hoeveelheid pasta koken en niets te verspillen."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "Moet je palmolie proberen te vermijden? 🌴 - Recept van de dag: Indonesische Spicy Spitskool",
+      "home": {
+        "title": "Moet je palmolie vermijden?",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Samen met rundvlees en soja is palmolie de grootste aanjager van ontbossing 🌴"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Dus laten we eens kijken naar een mogelijke oplossing."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Als je palmolie vervangt door andere olie is er…",
+          "subtitle": "per kg olie",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer land nodig",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Minder land nodig",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Palmolie is verreweg de meest efficiënte olieplant. Dus als je palmolie zou vervangen door andere producten is er veel meer land nodig en verschuif je het probleem naar andere gebieden.\n\nWat we wel kunnen doen is minder bewerkt voedsel kopen, want dat is waar palmolie vooral wordt gebruikt: ijs, koekjes, pizza, kant-en-klare maaltijden.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/palm-oil-land-use-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/waarom-palmolie-niet-zo-slecht-is-als-zijn-reputatie/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 43,
+          "subtitle": "Een eerbetoon aan Indonesië, waar heel veel regenwoud is gekapt om ruimte te maken voor palmolie."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Een klimaattip voor de vleesliefhebbers in jouw leven 🍖 - Recept van de dag: Geroosterde Groente",
+      "home": {
+        "title": "Een klimaattip voor vleesliefhebbers",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Kip heeft de laagste footprint van alle vleessoorten 🍗"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar hoe zit het als je ook naar portiegroottes kijkt?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat heeft de laagste footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "🍗 4 Kippenbouten (500 g)",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "🍔 4 Rundvlees hamburgers (400 g)",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "🥓 Spekjes (125 g)",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Kip en varken zijn altijd een duurzamere keuze dan rundvlees. Maar het is ook belangrijk om naar de portiegrootte te kijken. Een paar spekjes kunnen een gerecht veel smaak geven, terwijl je niet veel vlees gebruikt.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/smaller-portion-sizes-of-meat-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 7,
+          "subtitle": "Omdat je waarschijnlijk al genoeg recepten kent met spekjes is hier nog een lekker recept met aardappel waarbij je geen vlees mist."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "notificationTitle": "Vandaag: The Harbor",
+      "notificationText": "Hoe vervuilend zijn voedselkilometers? 🛣 - Recept van de dag: Curry met Banaan",
+      "home": {
+        "title": "Hoe vervuilend zijn voedselkilometers?",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Ons eten reist soms de hele wereld over 🌏"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar voor het klimaat is niet elke vorm van transport even slecht."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke vorm van transport heeft de laagste footprint?",
+          "subtitle": "per tonne of food",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Vrachtwagen 🚚",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Schip 🚢",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Trein 🚅",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Vliegtuig ✈️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Grote vrachtschepen zijn ook vervuilend, maar er past ongelofelijk veel op. Daardoor is de uitstoot per product enorm laag. \n\nDit betekent dat de CO2-uitstoot van transport veel kleiner is dan veel mensen denken.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/emissions-of-transport-methods-NL.png",
+            "imageURL (copy)": "https://www.forkranger.com/nl/de-verrassende-impact-van-het-eten-dat-per-vliegtuig-komt/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 21,
+          "subtitle": "We kunnen in Europa bananen eten, dankzij het transport per schip vanuit tropische gebieden. Laten we ervan genieten in deze lekkere curry."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "notificationTitle": "Vandaag: Muscle Mountain",
+      "notificationText": "[Dag 2️⃣0️⃣ Woohoo!] Eet je voldoende eiwitten? 💪 - Recept van de dag: Caribische Chili",
+      "home": {
+        "title": "Eet jij voldoende eiwitten?",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Voordat we gaan kijken hoe je genoeg eiwitten binnenkrijgt, moeten we eerst een andere vraag beantwoorden."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Hoeveel eiwitten hebben we eigenlijk nodig? 🤔"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Te veel eiwit",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Te weinig eiwit",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw van die leeftijd 54 g.\n\nAls je vlees en zuivel helemaal weglaat, heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/too-much-protein-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 17,
+          "subtitle": "Rijst en bonen zijn een gouden combinatie, omdat ze bij elkaar een complete bron van eiwit zijn (ze bevatten samen alle essentiële aminozuren)."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "notificationTitle": "Vandaag: The Harbor",
+      "notificationText": "Hoeveel van ons eten komt met het vliegtuig? ✈️ - Recept van de dag: Curry met Ananas",
+      "home": {
+        "title": "Hoeveel van ons eten komt per vliegtuig?",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Transport is meestal maar een klein deel van de impact van eten."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Behalve als het per vliegtuig komt ✈️"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoeveel procent van alle voedselkilometers worden per vliegtuig afgelegd?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "23,8 %",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "0,16%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Maar een heel klein deel van ons eten komt per vliegtuig, alleen producten die heel kwetsbaar zijn en minder lang houdbaar, zoals asperges of bessen.\n\nDit betekent dat ‘lokaal eten’ niet een bijzonder nuttige tip is om de footprint van je eten te verlagen. Het is veel belangrijker wat je eet (vlees of groente) en hoe het wordt verbouwd.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/share-of-transport-methods-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/de-verrassende-impact-van-het-eten-dat-per-vliegtuig-komt/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 14,
+          "subtitle": "Terwijl ananas altijd per boot komt, worden sugarsnaps en sperziebonen soms wel ingevlogen. Daarom is het van september tot april beter om ze uit de diepvries te kopen."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "notificationTitle": "Vandaag: Fellowship of the Forks",
+      "notificationText": "Wat is de hoofdreden die mensen weerhoudt minder vlees te eten? 😵‍💫 - Recept van de dag: Chili Spaghetti met Sinaasappel",
+      "home": {
+        "title": "Waarom mensen niet veranderen",
+        "category": 4
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Als gebruiker van deze app hoor jij bij de groep mensen die hun best doen voor het klimaat 🥳"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Hoe krijgen we jouw vlees-liefhebbende vrienden en familie ook zo ver?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is de hoofdreden die mensen ervan weerhoudt minder vlees te eten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Niet geloven dat vlees bijdraagt aan klimaatverandering",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Niet willen veranderen van gedrag",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Zich niet een andere manier van eten kunnen voorstellen",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De meeste mensen zijn het met de feiten eens. Maar als je gewend bent om bij elke maaltijd vlees te eten, kan het lastig zijn om je voor te stellen hoe een alternatief er uitziet. \n\nDe beste manier is om mensen te overtuigen is om zo te laten zien hoe lekker het is. Dus nodig mensen uit om te komen eten en stuur ze daarna het recept van dat wat je die avond hebt gekookt!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/eating-less-meat-imagination-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/how-to-convince-your-friends-to-eat-less-meat/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 0,
+          "subtitle": "Deze ongebruikelijke combinatie van smaken is een mooi voorbeeld van een alternatieve manier van koken zonder vlees."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "notificationTitle": "Vandaag: Muscle Mountain",
+      "notificationText": "Hoeveel eiwit zit er in een blik bonen? 🏋️ - Recept van de dag: Groente Jambalaya",
+      "home": {
+        "title": "Hoeveel eiwit zit er in een blik bonen?",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Peulvruchten zoals linzen, bonen en erwten zijn een goede bron van eiwitten. 💪"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Hoe doen ze het in vergelijking met dierlijke producten?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Een blik bonen heeft dezelfde hoeveelheid eiwit als…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 ei",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "3 eieren ",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "6 eieren",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Door meer peulvruchten te eten verlaag je de CO2-uitstoot van je eten met een gezonde bron van eiwitten.\n\nHet is waar dat vlees de makkelijkste manier is om eiwitten binnen te krijgen, maar zoals we eerder al zagen hebben we zoveel eiwitten helemaal niet nodig.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-CO2-comparison-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 45,
+          "subtitle": "Een mooi recept om met een minder bekende peulvrucht en tevens goede bron van eiwit te koken: Limabonen."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "notificationTitle": "Vandaag: Wild Waste",
+      "notificationText": "De verrassende impact van voedselverspilling thuis 🏠 - Recept van de dag: Penne met Mozarella en Rucola",
+      "home": {
+        "title": "De verrassende uitstoot van voedselverspilling",
+        "category": 5
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Bij een onderzoek in het VK werd gekeken naar al het eten dat er thuis wordt weggegooid 🏠"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "En toen berekenden ze de totale uitstoot van deze verspilling."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat heeft een grotere footprint?",
+          "subtitle": "in huishoudens in het VK",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Verspilde koffie ☕️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Verspilde tomaten 🍅",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zoals je kunt zien, hoort drinken ook bij voedselverspilling. Melk of koffie weggooien heeft ook een behoorlijke impact. En natuurlijk zien we ook hier weer dat we te veel brood en pasta weggooien.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/top-5-food-waste-carbon-footprint-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 66,
+          "subtitle": "Bij dit recept gebruik je tomaten uit blik, dit betekent dat er geen tomaten worden verspild tijdens productie of in de winkel."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Waarom heeft een kaas een hoge impact? 🥸 - Recept van de dag: Citroenrijst met Hummus",
+      "home": {
+        "title": "Waarom heeft kaas een hoge footprint?",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Kaas heeft een veel hogere CO2-uitstoot dan andere zuivelproducten zoals yoghurt. 🧀 Waarom?"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Wat is de hoofdreden voor de hoge footprint van kaas?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Grootte van de boerderij",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Hoeveelheid rauwe melk",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Rijpen van de kaas",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Voor een klein stuk kaas is een grote hoeveelheid melk nodig. Dit veroorzaakt de hoge uitstoot. \n\nHet transport, de verpakking en het feit dat de kaas van een industriële of ambachtelijke kaasmakerij komt, hebben nauwelijks invloed op de  footprint.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-milk-NL.png",
+            "blogURL": "https://www.forkranger.com/nl/kaas-vergeleken-met-vlees/"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 68,
+          "subtitle": "De Midden-Oosterse invloeden van dit recept zorgen voor een rijke smaak waardoor je geen kaas zult missen."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "notificationTitle": "Vandaag: Wild Waste",
+      "notificationText": "Waarom we zoveel brood verspillen 🥖 - Recept van de dag: Easy Pesto Lasagne",
+      "home": {
+        "title": "Waarom verspillen we zoveel brood?",
+        "category": 5
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Tijdens een Duits onderzoek keek men naar de producten die mensen thuis verspillen 🗑"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Ze onderzochten ook waarom mensen bepaalde producten weggooien."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat was de voornaamste reden om brood weg te gooien?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Over de datum",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Te veel gekocht",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Geen zin in",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Brood verspillen gaat over onze houding: Voelen we ons te goed om een broodkapje te eten? Of zien we het als waardevol voedsel?\r\n\r\nLaten we onszelf eraan herinneren dat eten een eerste levensbehoefte is. Het is te waardevol om weg te gooien, zelfs als ons oude brood een beetje hard is geworden.\r\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/reasons-for-bread-waste-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/de-oplossing-voor-voedselverspilling-begint-bij-brood/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 51,
+          "subtitle": "Ovengerechten zijn handig om oud brood op te maken: Verkruimel het brood er bovenop voor een krokant laagje."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Een klimaattip voor kaasliefhebbers 🧀 - Recept van de dag: Gevulde Paprika’s",
+      "home": {
+        "title": "Een klimaattip voor kaasliefhebbers",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Voor zachte kaas, zoals Mozzarella, is minder melk nodig dan voor een harde kaas, zoals Parmezaan 🧀"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Betekent dit dat je beter zachte kaas kan eten?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke optie heeft een lagere footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "80 g Parmezaanse kaas",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "250 g Mozzarella",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De portiegrootte van kaas verminderen maakt een groter verschil dan een specifieke kaas kiezen. \n\nOnze favoriete manier om dat te doen: Een heerlijke kwaliteit Parmezaanse kaas en de fijnste rasp. Je zult meer geraspte kaasdeeltjes hebben en daardoor heb je minder kaas nodig om dezelfde smaak te proeven.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/cheese-footprint-serving-size-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 59,
+          "subtitle": "Nog een manier om de portiegrootte te verminderen is kleine hoeveelheden gebruiken van kazen met een sterke smaak, zoals feta."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "notificationTitle": "Vandaag: The Harbor",
+      "notificationText": "Wat is de impact van verpakking? 📦 - Recept van de dag: Sweet Chili",
+      "home": {
+        "title": "Wat is de footprint van verpakkingen?",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel eten komt ons huis binnen in een  verpakking 📦"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Wat is de CO2-uitstoot van al dit plastic, glas, blik en karton?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Vergeleken met de uitstoot van voedsel verbouwen is de footprint van verpakkingen...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoog",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Laag",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Verpakkingen zien we met onze eigen ogen, maar wat we niet zien, zijn al het land, water en energie die nodig waren om het eten te verbouwen. En deze hebben  een veel grotere impact.\n\nHet is dus beter om tomaten uit blik of een zak linzen te kopen dan zero-waste vlees.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/production-vs-logistics-NL-1.png",
+            "blogURL": "https://www.forkranger.com/nl/plastic-om-komkommers-hoe-erg-is-dat/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 54,
+          "subtitle": "Een recept met veel ingrediënten uit blik. Maar nu weet je dit een veel lagere impact heeft dan chili con carne."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "notificationTitle": "Vandaag: The Big Ranch (de laatste!)",
+      "notificationText": "Hoe een rood vleesbudget eruit kan zien 🍔 - Recept van de dag: Pitabroodjes met Champignons",
+      "home": {
+        "title": "Een budget voor rood vlees",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Rood vlees - dus rund en varkensvlees - heeft een veel hogere CO2-uitstoot dan wit vlees 🥩"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Als je nog steeds rood vlees wil eten, wat is dan een duurzame hoeveelheid?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is een duurzame hoeveelheid rood vlees per week?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "5 g",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "100 g",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "300 g",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europa en de VS eten we op dit moment het equivalent van 5 hamburgers per week. Dit aanpassen naar 1 hamburger per week is ons meest belangrijke doel. Deze stap brengt ons al halverwege van een duurzaam voedingspatroon!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/sustainable-meat-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 63,
+          "subtitle": "Een lekker alternatief voor een broodje shoarma!"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "notificationTitle": "Vandaag: Fellowship of the Forks",
+      "notificationText": "[Dit is je 3️⃣0️⃣ste dag] Wat werkt het beste om mensen te inspireren voor een nieuwe gewoonte? - Recept van de dag: Balsamico Ravioli",
+      "home": {
+        "title": "Hoe overtuig je anderen?",
+        "category": 4
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We zien duurzaam eten vaak als een individueel probleem."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar een ander persoon overtuigen om ook een kleine stap te nemen is veel belangrijker dan in je eentje alles perfect te doen 👫"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat werkt het beste om anderen te inspireren een nieuwe gewoonte te ontwikkelen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Shockerende feiten 😱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Logische argumenten 🤓",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Kleine stapjes 🥾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Mensen worden niet overtuigd door logica of shockerende feiten. De beste manier om een nieuwe gewoonte eigen te maken is om een makkelijke oplossing aangeboden te krijgen, waardoor het heel simpel is en voelt om de eerste stap te zetten. Zoals de stap om rundvlees te vervangen door kip.\n\nOp deze manier voelen mensen zich niet overweldigd. En wanneer ze deze kleine stap hebben behaald, dan zijn ze gemotiveerd om door te gaan.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/small-steps-NL.png",
+            "blogURL": "https://www.forkranger.com/nl/how-to-convince-your-friends-to-eat-less-meat/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 18,
+          "subtitle": "Een van onze simpelste recepten, zo kun je ook op drukke dagen toch een stap zetten in de goede richting."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "home": {
+        "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",
+        "category": 0
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "question",
+          "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",
+          "subtitle": "Omgerekend naar jaarlijkse broeikasgasemissies wereldwijd",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "8%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "34%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "62%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Ons wereldwijde voedselsysteem veroorzaakt een derde van alle CO2-uitstoot.\\n\\nOp jouw Fork Ranger reis ga je ontdekken wat de meest belangrijke bronnen van deze emissies zijn en wat we eraan kunnen doen.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/food-causes-one-third-of-climate-change-NL.png"
+          }
+        },
+        {
+          "id": 1,
+          "type": "recipe",
+          "recipeID": 12,
+          "subtitle": "Dit is het eerst ontwikkelde Fork Ranger recept en is het favoriete recept van heel veel mensen."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "home": {
+        "title": "Waarmee kunnen we meer CO2-emissies besparen?",
+        "category": 0
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "question",
+          "title": "Waarmee kunnen we meer CO2-emissies besparen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Veranderen wat we eten",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Boerderijen duurzamer maken",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De meest effectieve manier om de klimaatimpact van ons eten te reduceren is minder vlees en zuivel te eten.\\n\\nJe hoeft geen vegetariër te worden om onderdeel te zijn van de oplossing. Een paar makkelijke aanpassingen kunnen al een enorm verschil maken.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/sustainable-diet-NL.png"
+          }
+        },
+        {
+          "id": 1,
+          "type": "recipe",
+          "recipeID": 4,
+          "subtitle": "De meesten van ons zoeken naar manieren om meer groenten te eten en dit is één van de makkelijkste manieren."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "home": {
+        "title": "Welke oplossing bespaart het meest CO2?",
+        "category": 0
+      },
+      "pages": [
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke oplossing bespaart het meest CO2?",
+          "subtitle": "Volgens de berekeningen van Project Drawdown",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Elektrische auto’s 🚗",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Minder voedselverspilling 🗑",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Plantrijke voedingspatronen 🥦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Bij Fork Ranger zijn wij geïnspireerd door het feit dat lifestyle oplossingen veel meer CO2 kunnen besparen dan technologie.\\n\\nUiteindelijk gaat het er om een nieuwe manier van leven te vinden die in harmonie is met de natuur:\\n- Minder vlees, meer planten\\n- Minder vliegen, meer lokale avonturen\\n- Minder spullen, meer herinneringen",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/drawdown-solutions-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 18,
+          "subtitle": "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten."
+        }
+      ]
+    }
+  ]
+}

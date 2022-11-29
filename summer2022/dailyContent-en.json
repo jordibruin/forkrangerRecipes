@@ -1595,6 +1595,420 @@
       ]
     },
     {
+      "id": 31,
+      "notificationTitle": "Today: Golden Fields",
+      "notificationText": "Are you eating the right carbs? 🌾  - Recipe of the day: Garlic Lime Spaghetti",
+      "home": {
+        "title": "Are you eating the right carbs? ",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "As we learned at Muscle Mountain, grains provide a lot of protein."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But not all grains are the same 🌾 "
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How is whole-grain bread different from white bread?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It has been baked at higher temperatures",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Outer layer of the grains has not been removed",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "It contains extra seeds",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The outer layer (bran) and germ have not been removed. This creates a flour that is a bit tougher to chew but also contains a lot more nutrients.\n\nSo in a way, choosing refined instead of whole grain is almost like a form of food waste: we are missing out on perfectly good nutrition.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/What-is-whole-grain.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 39,
+          "subtitle": "A great dish for whole grain spaghetti. While not all types of pasta are available as whole grain variant, most supermarkets have whole grain spaghetti."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "notificationTitle": "Today: Fading Forest",
+      "notificationText": "The dark side of avocados 🥑 - Recipe of the day: Black Bean Fajitas",
+      "home": {
+        "title": "The dark side of avocados",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Avocados have become extremely popular 🥑 "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "And with its popularity, some problems have come up…"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What is NOT true about avocados?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "High transport emissions ✈️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Use a lot of land 🌎",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Require a lot of water 💦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Most avocados come from Mexico, where forest is cut down to make space for them. They also use a lot of water and drug cartels are now also involved in the avocado business.\n\nIt’s a complicated product. That’s why we have given ourselves an avocado budget of 1 per month.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/avocado-land-use.png",
+            "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 49,
+          "subtitle": "To keep avocados more special, we’ve decided to only use them for authentic Mexican recipes, like these fajitas."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "notificationTitle": "Today: Golden Fields",
+      "notificationText": "The benefits of whole grain 🌾 - Recipe of the day: Zucchini and Peach Wraps",
+      "home": {
+        "title": "The benefits of whole grain",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Whole grain cereals are an important building block of a sustainable diet because they provide lots of nutrition for a low impact 🌾"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "What is NOT a benefit of whole grain?\n",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More protein",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "More fibre",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Fewer calories",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "More vitamins",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Whole grain has enormous health benefits: it reduces the risk of heart disease, diabetes and extends your lifespan. The extra protein and fibre are also more filling so you become hungry less quickly.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/health-benefits-of-whole-grain.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 62,
+          "subtitle": "With these wraps you can practice choosing the whole grain option."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "The total footprint of dairy 🥛 - Recipe of the day: Lazy Tortellini",
+      "home": {
+        "title": "The total footprint of dairy",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "If we sum up the emissions of all dairy products the average Europeean eats throughout a year 🥛…"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Would it be higher or lower than the emissions from pork? 🥓"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "The total footprint of dairy is…",
+          "subtitle": "emissions per year in average diet in North America and Europe",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Higher than pork ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Lower than pork ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wow, we were a bit surprised by this!\n\nThe dairy impact is high because we eat so much of it: yogurt for breakfast, a butter and cheese sandwich for lunch and lasagne with lots of mozzarella for dinner.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/total-emissions-of-Western-diet.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 35,
+          "subtitle": "In most tortellini types, a bit of cheese is already hidden inside. That’s why there’s no need to sprinkle more on top."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "notificationTitle": "Today: Vegetable Garden",
+      "notificationText": "The impact of seasonal food 🌱 - Recipe of the day: Sweet Potato and Lentil Curry",
+      "home": {
+        "title": "The impact of seasonal food",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "How much does it really matter if something is grown in season or not? 🌱"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Which type of spinach has a higher footprint?",
+          "subtitle": "in the Netherlands",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Grown locally in heated greenhouse 🏭",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Grown in season, transported from Spain 🚚",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Seasonal food can make a real difference compared to the non-seasonal version from a heated greenhouse.\n\nLocation matters less than whether it was grown in season. That’s because the bulk of emissions usually come from production, not transportation.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/spinach-seasonal.png",
+            "blogURL": "https://www.forkranger.com/why-the-benefits-of-seasonal-food-cant-be-measured-in-co2/"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 42,
+          "subtitle": "A one-pot curry with spinach. You can buy frozen spinach if it’s not in season."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "notificationTitle": "Today: Fading Forest",
+      "notificationText": "Is chocolate bad for the climate? 🍫 - Recipee of the day: Caribbean Chilli",
+      "home": {
+        "title": "Is chocolade bad for the climate?",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Most people have learned about the importance of Fairtrade chocolate. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But what about the climate impact? 🍫"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What’s the biggest factor for the impact of a chocolate bar?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "How much milk is used 🥛",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "How the cacao is grown 🍫",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "How it’s packaged 📦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Chocolate is another product that causes deforestation. But at it’s best, it can also help to protect the rainforest. That explains why the impact of chocolate reaches from -4 kg CO2 all the way to 5x worse than beef.\n\nThis means it’s important to buy sustainable chocolate, which doesn’t contribute to further deforestation. The minimum should be Rainforest Alliance (the green frog logo).",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/footprint-of-cacao.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 17,
+          "subtitle": "Did you know that many chilli’s contain cocoa, too? This one contains another rainforest product - cinnamon."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "Where does all the milk go? 🐄 - Recipe of the day: Chilli Spaghetti",
+      "home": {
+        "title": "Where does all the milk go?",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There are around 20 million dairy cows in the EU."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Where does most of the milk go? 🐄"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What is most milk used for?",
+          "subtitle": "in EU",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Drinking milk 🥛",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Cheese 🧀",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Butter 🧈",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Most milk is used to make cheese and butter because both products require a lot of milk.\n\nThat’s why we looked at cheese in Moo Moo Meadows. In future stories we’ll explore the other dairy products.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/milk-use.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 9,
+          "subtitle": "This Chilli Spaghetti is a great pasta recipe where you won’t miss cheese. Try it yourself!"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "notificationTitle": "Today: Golden Fields",
+      "notificationText": "The protein power of carbs 💪 - Recipe of the day: Fennel and Orange Couscous",
+      "home": {
+        "title": "The protein power of carbs",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "What most people don’t realize is that the average European gets more protein from cereals than from meat 💪"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Which of these contains the most protein?",
+          "subtitle": "per 100g of product",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Pasta 🍝",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rice 🍚",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Potatoes 🥔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wheat products like pasta and bread contain more protein than a lot of people think.\n\nThis means we often don’t even need to replace meat or dairy when eating wheat products. Especially because most people in Europe currently eat more than enough protein already.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/protein_of_carbs.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 52,
+          "subtitle": "Did you know that couscous is also made from wheat? Try this delicious Fennel and Orange Couscous."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

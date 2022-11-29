@@ -1596,6 +1596,419 @@
     },
     {
       "id": 31,
+      "notificationTitle": "Vandaag: Golden Fields",
+      "notificationText": "Eet je de juiste koolhydraten? 🌾  - Recept van de dag: Spaghetti met Knoflook en Limoen",
+      "home": {
+        "title": "Eet je de juiste koolhydraten?",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Zoals we bij Muscle Mountain hebben geleerd, leveren granen ons veel eiwitten."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar niet alle granen zijn hetzelfde 🌾 "
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoe is volkoren brood anders dan witbrood?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het wordt op hogere temperaturen gebakken",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "De buitenste laag van het graan is niet verwijderd",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Het bevat extra zaden",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De buitenste laag (zemelen en kiemen) zijn niet verwijderd. Dit zorgt voor een iets ‘zwaarder’ meel dat moeilijker is om op te kauwen maar wel veel meer voedingsstoffen bevat.\n\nDus op een bepaalde manier is het kiezen van niet-volkoren granen bijna een soort van voedselverspilling: we lopen perfecte voeding mis.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/What-is-whole-grain-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 39,
+          "subtitle": "Deze pasta is heerlijk met volkoren spaghetti. Hoewel niet alle soorten pasta in hun volkoren variant beschikbaar zijn, is volkoren spaghetti wel vaak beschikbaar in de supermarkt."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "De duistere kant van avocado’s 🥑 - Recept van de dag: Fajitas met Zwarte Bonen",
+      "home": {
+        "title": "De duistere kant van avocado’s",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Avocado’s zijn mateloos populair geworden 🥑"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "En met deze populariteit zijn er een aantal issues ontstaan… "
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is NIET waar over avocado’s?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoge emissies door transport ✈️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Kost veel land om te verbouwen 🌎",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Vragen veel water 💦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De meeste avocados komen uit Mexico, waar bos wordt gekapt om meer ruimte te creëren om ze te verbouwen. Ze vragen ook veel water en zelfs drugskartels mengen zich tegenwoordig in de avocado business.\n\nHet is een ingewikkeld product. Daarom hebben we onszelf een avocado budget van 1 per maand gegeven.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/avocado-land-use-NL.png",
+            "blogURL": "https://www.forkranger.com/nl/is-it-possible-to-eat-sustainable-avocados/"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 49,
+          "subtitle": "Om avocado’s bijzonder te houden hebben wij besloten om ze alleen voor traditioneel Mexicaanse gerechten te gebruiken. Zoals bij deze fajitas."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "notificationTitle": "Vandaag: Golden Fields",
+      "notificationText": "De voordelen van volkoren 🌾 - Recept van de dag: Wraps met Courgette en Perzik",
+      "home": {
+        "title": "De voordelen van volkoren",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Volkoren granen zijn een belangrijke bouwsteen in een duurzaam voedingspatroon omdat ze veel voedingswaarde voor een lage impact leveren 🌾"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Wat is NIET een voordeel van volkoren?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer eiwit",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Meer vezels",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Minder calorieën",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "Meer vitamines",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Volkoren heeft enorme gezondheidsvoordelen: het vermindert het risico op hartaandoeningen, diabetes en verlengt je levensduur. De extra eiwitten en vezels zijn ook meer vullend waardoor je minder snel honger hebt.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/health-benefits-of-whole-grain-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 62,
+          "subtitle": "Met deze wraps kan je gemakkelijk de volkoren optie kiezen."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "De totale impact van zuivel 🥛 - Recept van de dag: Lazy Tortellini",
+      "home": {
+        "title": "De totale impact van zuivel",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Als we de emissies van alle zuivelproducten die de gemiddelde Europeaan eet over een jaar optellen 🥛…"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Zou het dan hoger of lager zijn dan de emissies van varkensvlees?🥓"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "De totale impact van zuivel is… ",
+          "subtitle": "emissies per jaar in het gemiddelde dieet in Noord-Amerika en Europa",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoger dan van varkensvlees ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Lager dan van varkensvlees ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wow, we waren zelf hier ook door verrast!\n\nDe zuivel impact is hoog omdat we er zoveel van eten: yoghurt voor het ontbijt, een broodje kaas met boter voor de lunch en ‘s avonds lasagne met heel veel mozzarella.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/total-emissions-of-Western-diet-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 35,
+          "subtitle": "In de meeste soorten tortellini zit al kaas verstopt. Daarom hoef je er niet nog meer bovenop te doen."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "notificationTitle": "Vandaag: Vegetable Garden",
+      "notificationText": "De impact van seizoensgroente 🌱 - Recept van de dag: Curry met Zoete Aardappel en Linzen",
+      "home": {
+        "title": "De impact van seizoensgroente",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Hoeveel maakt het echt uit of iets in het seizoen is geteeld of niet? 🌱"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Welk type spinazie heeft een hogere CO2 impact?",
+          "subtitle": "in Nederland",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Lokaal geteeld in een verwarmde kas 🏭",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Geteeld in het seizoen, getransporteerd vanuit Spanje 🚚",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Seizoensgroente maakt een echt verschil vergeleken met het type dat niet in het seizoen, maar in een verwarmde kas wordt geteeld.\n\nDe locatie is minder belangrijk dan of het in het seizoen is geteeld. Dat komt omdat emissies van productie het grootste aandeel hebben, niet transport.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/spinach-seasonal-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 42,
+          "subtitle": "Een eenpanscurry met spinazie. Je kunt spinazie uit de diepvries kopen als het niet in het seizoen is."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "Is chocolade slecht voor het klimaat? 🍫 - Recept van de dag: Caribische Chili",
+      "home": {
+        "title": "Is chocolade slecht voor het klimaat?",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "De meeste mensen hebben gehoord over het belang van Fairtrade chocolade."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar hoe zit het met de klimaatimpact? 🍫"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat bepaalt het meeste de impact van een chocoladereep? ",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoeveel melk wordt gebruikt 🥛",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Hoe de cacao geproduceerd is 🍫",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Hoe het wordt verpakt 📦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Chocolade is een ander product dat ontbossing veroorzaakt. Maar op zo’n best, kan het ook helpen om het regenwoud te beschermen. Dat wordt zichtbaar in de impact van chocolade die van -4 kg CO2 tot 5x meer dan rundvlees reikt.\n\nDit betekent dat het belangrijk is duurzame chocolade te kopen, die niet bijdraagt aan verdere ontbossing. Het minimum zou Rainforest Alliance (de groene kikker logo) moeten zijn.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/footprint-of-cacao-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 17,
+          "subtitle": "Wist je dat veel chili’s ook cacao bevatten? Deze bevat een ander product uit het regenwoud - kaneel."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Waar is al die melk voor? 🐄 - Recept van de dag: Chili Spaghetti",
+      "home": {
+        "title": "Waar is al die melk voor?",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er zijn ongeveer 20 miljoen melkkoeien in de EU."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar waar is al die melk voor? 🐄"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waar wordt de meeste melk voor gebruikt? ",
+          "subtitle": "in de EU",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Om als melk te drinken 🥛",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Kaas 🧀",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Boter 🧈",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De meeste melk wordt gebruikt om kaas en boter van te maken omdat beide producten erg veel melk vragen.\n\nDaarom keken we naar kaas in Moo Moo Meadows. In de toekomstige stories ontdekken we andere zuivelproducten.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/milk-use-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 9,
+          "subtitle": "Deze Chili Spaghetti is geweldig, zelfs zonder kaas. Probeer het zelf eens!"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "notificationTitle": "Vandaag: Golden Fields",
+      "notificationText": "De kracht van eiwitten in granen 💪 - Recept van de dag: Couscous met Venkel en Sinaasappel",
+      "home": {
+        "title": "De kracht van eiwitten in granen",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Wat de meeste mensen zich niet realiseren is dat de gemiddelde Europeaan meer eiwitten krijgt door het eten van granen dan van vlees 💪"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Welke van deze producten bevat het meeste eiwit?",
+          "subtitle": "per 100g product",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Pasta 🍝",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rijst 🍚",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Aardappels 🥔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Tarweproducten zoals pasta en brood bevatten meet eiwit dan de meeste mensen denken.\n\nDit betekent dat we vaak niet eens vlees of zuivel hoeven te vervangen als we tarweproducten eten. Dat is vooral belangrijk om te weten omdat de meeste mensen in Europa op dit moment zelfs al meer dan voldoende eiwitten eten.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/protein_of_carbs-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 52,
+          "subtitle": "Wist je dat couscous ook van tarwe wordt gemaakt? Probeer eens deze heerlijke Couscous met Venkel en Sinaasappel."
+        }
+      ]
+    },
+    {
+      "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",
         "category": 0
@@ -1637,7 +2050,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 1001,
       "home": {
         "title": "Waarmee kunnen we meer CO2-emissies besparen?",
         "category": 0
@@ -1674,7 +2087,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 1002,
       "home": {
         "title": "Welke oplossing bespaart het meest CO2?",
         "category": 0

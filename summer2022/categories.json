@@ -3,63 +3,77 @@
     {
       "id": 0,
       "title": "Base Camp",
-      "subtitle" : "Introduction",
+      "subtitle": "Introduction",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Base-Camp.png",
       "color": 0
     },
     {
       "id": 1,
       "title": "The Big Ranch",
-      "subtitle" : "Meat",
+      "subtitle": "Meat",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Big-Ranch.png",
       "color": 1
     },
     {
       "id": 2,
       "title": "Power Valley",
-      "subtitle" : "Nuts & Legumes",
+      "subtitle": "Nuts & Legumes",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
       "color": 2
     },
     {
       "id": 3,
       "title": "Fading Forest",
-      "subtitle" : "Deforestation",
+      "subtitle": "Deforestation",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Fading-Forest.png",
       "color": 3
     },
     {
       "id": 4,
       "title": "Fellowship of the Forks",
-      "subtitle" : "Community",
+      "subtitle": "Community",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/fellowship-of-the-forks.png",
       "color": 4
     },
-        {
+    {
       "id": 5,
       "title": "Wild Waste",
-      "subtitle" : "Food Waste",
+      "subtitle": "Food Waste",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Wild-Waste.png",
       "color": 5
     },
     {
       "id": 6,
       "title": "Muscle Mountain",
-      "subtitle" : "Protein",
+      "subtitle": "Protein",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
       "color": 5
     },
     {
       "id": 7,
       "title": "Moo Moo Meadows",
-      "subtitle" : "Cheese",
+      "subtitle": "Cheese",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
       "color": 6
     },
     {
       "id": 8,
       "title": "The Harbor",
-      "subtitle" : "Transport & Packaging",
+      "subtitle": "Transport & Packaging",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
+      "color": 6
+    },
+    {
+      "id": 9,
+      "title": "Golden Fields",
+      "subtitle": "Grains",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
+      "color": 6
+    },
+    {
+      "id": 10,
+      "title": "Vegetable Garden",
+      "subtitle": "Seasonal & Local",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
       "color": 6
     }

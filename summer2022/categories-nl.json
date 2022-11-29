@@ -3,63 +3,77 @@
     {
       "id": 0,
       "title": "Basecamp",
-      "subtitle" : "Introductie",
+      "subtitle": "Introductie",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Base-Camp.png",
       "color": 0
     },
     {
       "id": 1,
       "title": "The Big Ranch",
-      "subtitle" : "Vlees",
+      "subtitle": "Vlees",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Big-Ranch.png",
       "color": 1
     },
     {
       "id": 2,
       "title": "Power Valley",
-      "subtitle" : "Noten & Peulvruchten",
+      "subtitle": "Noten & Peulvruchten",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
       "color": 2
     },
     {
       "id": 3,
       "title": "Fading Forest",
-      "subtitle" : "Ontbossing",
+      "subtitle": "Ontbossing",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Fading-Forest.png",
       "color": 3
     },
     {
       "id": 4,
       "title": "Fellowship of the Forks",
-      "subtitle" : "Community",
+      "subtitle": "Community",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/fellowship-of-the-forks.png",
       "color": 4
     },
-        {
+    {
       "id": 5,
       "title": "Wild Waste",
-      "subtitle" : "Voedselverspilling",
+      "subtitle": "Voedselverspilling",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Wild-Waste.png",
       "color": 5
     },
     {
       "id": 6,
       "title": "Muscle Mountain",
-      "subtitle" : "Eiwit",
+      "subtitle": "Eiwit",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
       "color": 5
     },
     {
       "id": 7,
       "title": "Moo Moo Meadows",
-      "subtitle" : "Kaas",
+      "subtitle": "Kaas",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
       "color": 6
     },
     {
       "id": 8,
       "title": "The Harbor",
-      "subtitle" : "Transport & Verpakkingen",
+      "subtitle": "Transport & Verpakkingen",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
+      "color": 6
+    },
+    {
+      "id": 9,
+      "title": "Golden Fields",
+      "subtitle": "Granen",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
+      "color": 6
+    },
+    {
+      "id": 10,
+      "title": "Vegetable Garden",
+      "subtitle": "Seizoensgebonden & Lokaal",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
       "color": 6
     }

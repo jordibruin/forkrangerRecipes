@@ -5,8 +5,6 @@
       "title": "Base Camp",
       "subtitle": "Introduction",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Base-Camp.png",
-      "backgroundColor": "a77c39",
-      "buttonColor": "4f4019",
       "color": 0
     },
     {
@@ -14,8 +12,6 @@
       "title": "The Big Ranch",
       "subtitle": "Meat",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Big-Ranch.png",
-      "backgroundColor": "d8c363",
-      "buttonColor": "6b5f24",
       "color": 1
     },
     {
@@ -23,8 +19,6 @@
       "title": "Power Valley",
       "subtitle": "Nuts & Legumes",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
-      "backgroundColor": "bc5543",
-      "buttonColor": "592a16",
       "color": 2
     },
     {
@@ -32,8 +26,6 @@
       "title": "Fading Forest",
       "subtitle": "Deforestation",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Fading-Forest.png",
-      "backgroundColor": "2d936b",
-      "buttonColor": "134c32",
       "color": 3
     },
     {
@@ -41,8 +33,6 @@
       "title": "Fellowship of the Forks",
       "subtitle": "Community",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/fellowship-of-the-forks.png",
-      "backgroundColor": "33787c",
-      "buttonColor": 124948,
       "color": 4
     },
     {
@@ -50,8 +40,6 @@
       "title": "Wild Waste",
       "subtitle": "Food Waste",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Wild-Waste.png",
-      "backgroundColor": "f4a26d",
-      "buttonColor": "86512b",
       "color": 5
     },
     {
@@ -59,8 +47,6 @@
       "title": "Muscle Mountain",
       "subtitle": "Protein",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
-      "backgroundColor": 707070,
-      "buttonColor": "2a4551",
       "color": 5
     },
     {
@@ -68,8 +54,6 @@
       "title": "Moo Moo Meadows",
       "subtitle": "Cheese",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
-      "backgroundColor": "f9c67d",
-      "buttonColor": "724e1a",
       "color": 6
     },
     {
@@ -77,8 +61,6 @@
       "title": "The Harbor",
       "subtitle": "Transport & Packaging",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
-      "backgroundColor": "8fa9b4",
-      "buttonColor": "2a4349",
       "color": 6
     },
     {
@@ -86,8 +68,6 @@
       "title": "Golden Fields",
       "subtitle": "Grains",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/golden-fields.png",
-      "backgroundColor": "f2bc75",
-      "buttonColor": "754f13",
       "color": 6
     },
     {
@@ -95,8 +75,6 @@
       "title": "Vegetable Garden",
       "subtitle": "Seasonal & Local",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/vegetable-garden.png",
-      "backgroundColor": "326b3e",
-      "buttonColor": "0f3a0f",
       "color": 6
     }
   ]

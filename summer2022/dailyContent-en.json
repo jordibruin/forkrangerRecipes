@@ -2009,6 +2009,492 @@
       ]
     },
     {
+      "id": 39,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "Why chickens are more sustainable than pigs 🐓 - Recipe of the day: Aubergine Tomato Curry",
+      "home": {
+        "title": "Why chickens are more sustainable than pigs",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We’ve already seen that beef has a lot higher impact than pork and chicken."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But chicken is also more sustainable than pork. Why? 🐓"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Why is chicken more sustainable than pork?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They can eat more sustainable feed",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "They need less feed",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "They eat faster",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Both pigs and chickens are mostly fed with grain and soy beans. The main reason why meat from chickens has a lower impact than from pigs is because they are more efficient at “converting” this feed into meat and eggs (even though this is of course a sad way to talk about animals…).\n\nThe aubergine in this curry creates a meaty texture while the chickpeas add some protein.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/feed-conversion.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 1,
+          "subtitle": "The aubergine in this curry creates a meaty texture while the chickpeas add some protein."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "Is margarine more sustainable than butter? 🧈 - Recipe of the day: Fennel Risotto",
+      "home": {
+        "title": "Why chickens are more sustainable than pigs",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "A lot of milk is used for butter production. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But the vegetable oils that you need for margarine also have a high footprint."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What is the benefit of margarine over butter?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Lower climate impact",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Requires less land ",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Requires less water",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "All of the above",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Oils have a relatively high footprint compared to vegetables and fruits. But they still have a much lower environmental footprint than dairy.\n\nAgain we draw the same conclusion: use margarine for daily use and butter for special occasions.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/butter-vs-margarine-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 13,
+          "subtitle": "To make a delicious risotto, you need to add some butter (for special occasions 😉) or margarine at the end. "
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "notificationTitle": "Today: Fading Forest",
+      "notificationText": "Tea vs Coffee ☕️ - Recipe of the day: Smokey Chilli",
+      "home": {
+        "title": "Tea vs Coffee",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Tea and coffee both grow around tropical forests and the world is drinking more and more of both. ☕️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "This means that in some areas forest is cut down to make more space. 🪓 But is the impact of coffee and tea the same?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which drink has the lowest footprint?",
+          "subtitle": "based on CO2 emissions",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Black coffee",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Cappuccino",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Tea",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Replacing some of your coffee with tea can reduce your footprint. But the impact of the cappuccino shows us the priorities: reducing dairy or using plant-based alternatives is much more important.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/coffee-vs-tea-2.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 22,
+          "subtitle": "A part of the smokey flavor of this delicious chilli comes from adding coffee!"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "notificationTitle": "Today: Ocean",
+      "notificationText": "How mussels bring back life 🌟 - Recipe of the day: Chickpea Wat",
+      "home": {
+        "title": "How mussels bring back life ",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "A lot of our waters are polluted with run-off fertilizer or manure. 💩"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "This means there’s too much nitrogen in the water, which creates dead zones. ☠️ Mussels are part of the solution."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How do mussels help with preventing water pollution?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Attract fish that eat nitrogen 🐟",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Promote the growth of algae 🌱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Filter the water 💦",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Mussels filter the extra nitrogen out of the water. They then poop it out and it becomes sediment. A reef full of mussels also creates habitat for more fish.\n\nSo eating mussels is great for nature!\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/mussels.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 34,
+          "subtitle": "Legumes like chickpeas also help with nitrogen issues: their roots can feed nitrogen into the soil so a farmer needs less fertilizer.\n"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "notificationTitle": "Today: Vegetable Garden",
+      "notificationText": "Seasonal food is great. But… - Recipe of the day: Creamy Gnocchi",
+      "home": {
+        "title": "Seasonal food is great. But…",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We’ve already seen that seasonal food can reduce your footprint 🍁"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But there is a catch…"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Seasonal food only makes sense if you also…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Buy it at a farmer’s market",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Buy it organic",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Reduce meat & dairy",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Seasonal food can reduce your footprint, but it only covers a part of your diet that already has a low footprint.\n\nOnce you are eating meat and dairy at a sustainable level, seasonal food becomes more important, also for other reasons beyond the climate impact.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/division-of-co2-in-diet.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 33,
+          "subtitle": "A summer recipe to enjoy when rocket, green beans, and bell pepper are in season."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "notificationTitle": "Today: Ocean",
+      "notificationText": "What you should know about salmon and tuna 🦈 - Recipe of the day: Saffron Pasta",
+      "home": {
+        "title": "What you should know about salmon and tuna",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Salmon and tuna are the two most consumed fish in the world. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Both have something in common with sharks, which creates a probem 🦈"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What is the biggest environmental issue around salmon and tuna?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They live in salty water",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "They eat other fish",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "They’re hard to catch",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Salmon and tuna eat other fish and are true carnivores. They are high in the food chain. This makes their role in the ecosystem extra important, but also more vulnerable.\n\nBecause you need to feed salmon with other fish, more than twice the amount of fish is needed for a piece of (farmed) salmon. So it’s much more sustainable to eat smaller fish.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/sea-food-chain-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 27,
+          "subtitle": "Salmon has a unique flavor that’s hard to imitate. We don’t have any fish recipes, but this creamy pasta recipe with saffron might have an even more unique flavor."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "notificationTitle": "Today: Vegetable Garden",
+      "notificationText": "The benefits of seasonal food 🍁 - Recipe of the day: Sweet potato mash with sauerkraut",
+      "home": {
+        "title": "The benefits of seasonal food",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Eating seasonal food has so many benefits that it was hard to put it into a quiz question…"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "So instead, let’s test your seasonal knowledge 😉"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which vegetable is in season all year round?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Kale",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "White cabbage",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Kohlrabi",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "When is the last time you had kale, white cabbage, or kohlrabi? 😉 Eating seasonal food helps us appreciate more vegetables and brings us more in touch with nature and the seasons and variations of our local food system.\n\nIt is a great way to support a farming system that is more connected to nature.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/benefits-of-seasonal.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 50,
+          "subtitle": "Here is your chance to cook with fermented white cabbage, also known as sauerkraut."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "The impact of one egg 🥚 - Recipe of the day: Nasi Goreng",
+      "home": {
+        "title": "The impact of one egg",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "So far we’ve seen that chicken has the lowest footprint of all meat."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But what about eggs? 🥚"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "The carbon footprint of 1 egg is…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Higher than a slice of cheese ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Lower than a slice of cheese ⬇️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Eggs have the lowest footprint of the most common animal foods. This is because chickens require less feed than pigs and cows.\n\nNote that the egg in this infographic is twice as heavy as the other products, so for the same weight, the impact is even lower.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/eggs-footprint.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 32,
+          "subtitle": "Nasi Goreng is delicious when you serve it with a fried egg."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "What’s the most sustainable milk? 🥛 - Recipe of the day: Tagliatelle with Pesto Rosso",
+      "home": {
+        "title": "What’s the most sustainable milk? ",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "By now we’ve seen lots of example of the high footprint of cow milk. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "What is the best plant-based alternative? 🥛"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which milk scores best?",
+          "subtitle": "looking at multiple environmental impact variables",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Oat",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Soy",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Almond",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "All three have a lower impact than cow’s milk. Looking at lots of other environmental factors, oat milk scores the best. Soy milk is the best option if you’re looking for a high-protein option.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/plant-based-milk.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 44,
+          "subtitle": "What counts for milk is also true for cream. Because soy cream is most widely available and has a neutral taste we suggest that in our recipes, but feel free to substitute for oat cream."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

@@ -76,6 +76,13 @@
       "subtitle": "Seizoensgebonden & Lokaal",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/vegetable-garden.png",
       "color": 6
+    },
+    {
+      "id": 11,
+      "title": "Ocean",
+      "subtitle": "Vis & Zeevruchten",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/vegetable-garden.png",
+      "color": 6
     }
   ]
 }

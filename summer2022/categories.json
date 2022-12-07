@@ -98,6 +98,15 @@
       "backgroundColor": "326b3e",
       "buttonColor": "0f3a0f",
       "color": 6
+    },
+    {
+      "id": 11,
+      "title": "Ocean",
+      "subtitle": "Fish & Seafood",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/vegetable-garden.png",
+      "backgroundColor": "326b3e",
+      "buttonColor": "0f3a0f",
+      "color": 6
     }
   ]
 }

@@ -1886,7 +1886,7 @@
               "correct": true
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "Hoe het wordt verpakt 📦",
               "correct": false
             }
@@ -1940,7 +1940,7 @@
               "correct": true
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "Boter 🧈",
               "correct": false
             }
@@ -2004,6 +2004,492 @@
           "type": "recipe",
           "recipeID": 52,
           "subtitle": "Wist je dat couscous ook van tarwe wordt gemaakt? Probeer eens deze heerlijke Couscous met Venkel en Sinaasappel."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Waarom kippen duurzamer zijn dan varkens 🐓 - Recept van de dag: Curry met Aubergine en Tomaten",
+      "home": {
+        "title": "Waarom kippen duurzamer zijn dan varkens",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben al gezien dat rundvlees een veel hogere impact heeft dan varkensvlees en kip."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar kip is ook duurzamer dan varkensvlees. Waarom eigenlijk? 🐓"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waarom is kip duurzamer dan varkensvlees?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ze kunnen duurzamer voedsel eten",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Ze hoeven minder voer te eten",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Ze eten sneller",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Varkens en kippen worden beide vooral met granen en sojabonen gevoed. De hoofdreden waarom vlees van kippen een lagere impact heeft dan van varkens is omdat ze efficiënter het voer ‘converteren’ naar vlees en eieren (ook al is dit een verdrietige manier om over dieren te praten…). ",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/feed-conversion-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 1,
+          "subtitle": "De aubergine in deze curry geeft het een vlezige textuur. De kikkererwten voegen wat eiwit toe."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Is margarine duurzamer dan boter? 🧈 - Recept van de dag: Risotto met Venkel",
+      "home": {
+        "title": "Boter vs Margarine",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er wordt veel melk gebruikt voor boterproductie. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar de plantaardige oliën die je gebruikt voor margarine hebben ook een hoge impact."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is het voordeel van margarine ten opzichte van boter?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Lagere klimaatimpact",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Heeft minder land nodig",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Heeft minder water nodig",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Alle bovenstaande",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Oliën hebben een relatieve hoge impact als je ze vergelijkt met groente en fruit. Maar ze hebben nog steeds een lagere klimaatimpact dan zuivel.\n\nWe trekken opnieuw dezelfde conclusie: gebruik margarine voor dagelijks gebruik en boter voor speciale gelegenheden.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/butter-vs-margarine-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 13,
+          "subtitle": "Voor een heerlijke risotto, voeg aan het einde een beetje boter (bij speciale gelegenheden 😉) of margarine toe."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "Thee vs Koffie☕️ - Recept van de dag: Smokey Chili",
+      "home": {
+        "title": "Thee vs Koffie",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Thee en koffie groeien beide rondom tropische regenwouden en de wereld drinkt steeds meer van beide. ☕️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Dit betekent dat in sommige gebieden bos wordt gekapt om meer ruimte te maken. 🪓 Maar is de impact van koffie en thee hetzelfde?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welk drankje heeft de laagste impact?",
+          "subtitle": "op basis van CO2 emissies",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Zwarte koffie",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Cappuccino",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Thee",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een deel van je koffie-gewoonte vervangen door thee kan je impact verminderen. Maar de impact van cappuccino laat ons de prioriteiten zien: het verminderen van zuivel of het kiezen voor plantaardige alternatieven is belangrijker.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/coffee-vs-tea-NL-2.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 22,
+          "subtitle": "Een deel van de rokerige smaak van de deze heerlijke chili komt door een kopje koffie toe te voegen!"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "notificationTitle": "Vandaag: Ocean",
+      "notificationText": "Hoe mosselen leven terugbrengen  🌟 - Recept van de dag: Chickpea Wat",
+      "home": {
+        "title": "Hoe mosselen leven terugbrengen",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel van onze wateren zijn verontreinigd met afstromende kunstmest of mest. 💩"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Dat zorgt voor te veel stikstof in het water, en veroorzaakt dead zones. ☠️\n\nMosselen zijn onderdeel van de oplossing.\n"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoe helpen mosselen het tegengaan van waterverontreiniging?",
+          "subtitle": "Ze...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "… trekken vissen aan die stikstof eten 🐟",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "… promoten de groei van algen 🌱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "… filteren het water 💦",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Mosselen filteren de extra stikstof uit het water. Ze poepen het dan uit en het wordt bezinksel. Een rif vol mosselen creëert ook leefgebied voor meer vissen.\n\nDus het eten van mosselen is goed voor de natuur!\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/mussels-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 34,
+          "subtitle": "Peulvruchten zoals kikkererwten helpen ook met stikstofproblemen: hun wortels voeden de bodem met stikstof zodat boeren minder kunstmest nodig hebben."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "notificationTitle": "Vandaag: Vegetable Garden",
+      "notificationText": "Seizoensgroente is geweldig! Maar… - Recept van de dag: Romige Gnocchi",
+      "home": {
+        "title": "Seizoensgroente is geweldig! Maar…",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben al gezien dat seizoensgroente je impact kan verminderen 🍁"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar er zit een addertje onder het gras…"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Seizoensgroente heeft vooral nut als je ook…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het op een boerenmarkt koopt",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Het biologisch koopt",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Minder vlees & zuivel eet",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Seizoensgroente eten kan je impact verminderen, maar het betreft alleen een deel van je voedingspatroon - groente en fruit - dat al een lage impact heeft.\n\nWanneer je vlees en zuivel in een duurzame hoeveelheid eet, dan wordt seizoensgebonden eten belangrijker, ook voor andere reden dan alleen klimaatimpact.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/division-of-co2-in-diet-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 33,
+          "subtitle": "Een zomerrecept om van te genieten als rucola, sperziebonen, en paprika’s in het seizoen zijn."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "notificationTitle": "Vandaag: Ocean",
+      "notificationText": "Wat je zou moeten weten over zalm en tonijn 🦈 - Recept van de dag: Saffraan Pasta",
+      "home": {
+        "title": "Wat je zou moeten weten over zalm en tonijn",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Zalm en tonijn zijn twee van de meest gegeten vissen in de wereld. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Beiden hebben iets gemeen met haaien, wat voor een probleem zorgt 🦈"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is het grootste probleem met zalm en tonijn?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ze leven in zoutwater",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Ze eten andere vis",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Ze zijn moeilijk te vangen",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zalm en tonijnen eten andere vis en zijn dus carnivoor. Ze zitten hoog op de voedselketen waardoor hun rol in het ecosysteem extra belangrijk, maar daardoor ook, kwetsbaar is.\n\nOmdat je zalm moet voeren met andere vis is er voor een stuk (gekweekte) zalm bijna twee keer zoveel vis nodig. Het is dus veel duurzamer om kleinere vissen te eten.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/sea-food-chain-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 27,
+          "subtitle": "Zalm heeft een unieke smaak die moeilijk te imiteren is. We hebben geen recepten met vis, maar hiermee maak je kennis met saffraan, en dat heeft een misschien nog wel uniekere smaak."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "notificationTitle": "Vandaag: Vegetable Garden",
+      "notificationText": "De voordelen van seizoensgroente 🍁 - Recept van de dag: Zoete Aardappel Stamppot met Zuurkool",
+      "home": {
+        "title": "De voordelen van seizoensgroente",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Seizoensgroente eten heeft zo veel voordelen dat het lastig was om dit in één vraag te vatten…"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Dus laten we in plaats daarvan eens jouw kennis over seizoensgroente toetsen 😉"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke groente is het hele jaar door in het seizoen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Boerenkool",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Witte kool",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Koolrabi",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wanneer heb je voor het laatst boerenkool, witte kool of koolrabi gegeten? 😉 Seizoensgroente helpt ons om meer verschillende groenten te waarderen en brengt ons in verbinding met de natuur, de seizoenen en de variaties in ons lokale voedselsysteem.\n\nHet is een geweldige manier om een voedselsysteem dat meer verbonden met de natuur te ondersteunen.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/benefits-of-seasonal-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 50,
+          "subtitle": "Hier is jouw kans om iets met gefermenteerde witte kool te maken, ook wel bekend als zuurkool."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "De impact van één ei 🥚 - Recept van de dag: Nasi Goreng",
+      "home": {
+        "title": "De impact van één ei",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Tot nu toe hebben we gezien dat kip de laagste impact heeft van al het vlees. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar hoe zit het met eieren? 🥚"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "De CO2 impact van 1 ei is…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoger dan een plakje kaas ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Lager dan een plakje kaas⬇️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Eieren hebben de laagste CO2 impact van de meest gegeten dierlijke producten. Dit is omdat kippen veel minder voer nodig hebben dan varkens en koeien.\n\nKijk, het ei in deze infographic is twee keer zo zwaar is als de andere producten, dus voor hetzelfde gewicht is de impact nog lager.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/eggs-footprint-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 32,
+          "subtitle": "Nasi Goreng is heerlijk als je het serveert met een gebakken ei."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Wat is de meest duurzame melk? 🥛 - Recept van de dag: Tagliatelle met Pesto Rosso",
+      "home": {
+        "title": "Wat is de meest duurzame melk? ",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben tot nu toe heel veel voorbeelden gezien van de hoge impact van koemelk. "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Wat is het beste plantaardige alternatief? 🥛"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke melk scoort het beste?",
+          "subtitle": "als we meerdere milieu-impact variabelen meenemen",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Haver",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Soja",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Amandel",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Alle drie hebben ze een lagere impact dan koemelk. Als we kijken naar meerdere variabelen voor milieu-impact scoort havermelk het beste. Sojamelk is de beste optie als je eentje wilt kiezen die veel eiwit bevat. ",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/plant-based-milk-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 44,
+          "subtitle": "Wat voor melk geldt, geldt ook voor room. Omdat sojaroom het meest verkrijgbaar is en een neutrale smaak heeft suggereren we die in onze recepten, maar voel je vrij om het voor haverroom te vervangen."
         }
       ]
     },

@@ -324,6 +324,65 @@
           "subtitle": "The cornerstone of this dish is red lentils, one of the easiest and most delicious ways to cook with legumes."
         }
       ]
+    },
+    {
+      "id": 7,
+      "notificationTitle": "Today: Power Valley",
+      "notificationText": "Eat more of this climate superfood 🤩 - Recipe of the day: Coconut Dahl (this is one of our favorites)",
+      "home": {
+        "title": "New2: Eat more of this climate superfood",
+        "category": 2
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There is a family of plants that are both super healthy AND sustainable: legumes 🙌"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "What makes them unique is that they produce a simple dry fruit."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What is NOT a legume?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Beans",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Quinoa",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Lentils",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Chickpeas",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Legumes are small dry fruit that we know as chickpeas, lentils, peas, or beans.\n\nLike nuts, they have a lot of protein for a very low footprint. But legumes have even more environmental benefits like needing very little water.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/climate-superfood-legumes-2.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 55,
+          "subtitle": "The cornerstone of this dish is red lentils, one of the easiest and most delicious ways to cook with legumes."
+        }
+      ]
     }
   ]
 }

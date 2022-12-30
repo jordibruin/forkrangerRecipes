@@ -10773,6 +10773,121 @@
           "time": 20
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/nl/aardappel-met-pesto-uit-de-oven/?share",
+      "id": 80,
+      "title": "Aardappel met Pesto uit de Oven",
+      "description": "Een simpel ovengerecht voor de aardappelliefhebbers. De pesto geeft het een ‘zomerse smaak’ zoals een review beschreef.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/potato-and-pesto-bake.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Aardappelschijfjes",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Champignons",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode pesto",
+          "type": "taste",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Geraspte kaas",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de champignons in plakjes",
+        "Halveer de courgette en snij in stukjes",
+        "Snij de broccoli in roosjes",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Bak de champignons met de ui",
+          "detail": "op middelhoog vuur, tot het vocht van champignons verdampt is, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Kook de aardappelschijfjes, voeg na ~3 min de broccoli toe (of kook in een derde pan)",
+          "detail": "kook ~5 min, zodat broccoli en aardappels beetgaar zijn",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Voeg de knoflook, paprikapoeder, courgette, pesto en (soja)room toe",
+          "detail": "roer goed en laat sudderen totdat alles warm is, proef en voeg zo nodig meer zout en peper toe",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Doe de aardappels in een ovenschaal met de helft van de saus. Doe de broccoli er bovenop en giet vervolgens de rest van de saus erover en bestrooi met kaas",
+          "detail": "200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

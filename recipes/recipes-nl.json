@@ -10888,6 +10888,118 @@
           "time": 20
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/nl/zoete-aardappel-en-biet-plaattaart/?share",
+      "id": 81,
+      "title": "Zoete Aardappel en Biet Plaattaart",
+      "description": "Een simpel ovengerecht voor de aardappelliefhebbers. De pesto geeft het een ‘zomerse smaak’ zoals een review beschreef.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/sweet-potato-and-beetroot-tart.jpg",
+      "duration": 50,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Variaties",
+      "variationBody": "Voor extra pit, kies pittige hummus.\n\nAls je geen verse bieten kan krijgen, gebruik dan voorgekookte bieten.\n\nJe kunt ook plakjes (bevroren) bladerdeeg gebruiken en daar een laag van maken. In dat geval heb je ongeveer 8 tot 10 plakjes nodig afhankelijk van de grootte van je bakplaat.",
+      "ingredients": [
+        {
+          "name": "Rol vers bladerdeeg",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Zoete aardappels",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse biet",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hummus",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Schil en snij de aardappels in 5 mm dunne plakken",
+        "Schil en snij de biet in 5 mm dunne plakken",
+        "Snij feta in blokjes",
+        "Hak de walnoten in stukjes",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "Als je bladerdeegplakjes gebruikt, druk ze samen",
+          "detail": "leg de plakken bladerdeeg een stukje over elkaar op een bakplaat met bakpapier. Druk ze licht samen om samen tot een laag te vormen",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Verspreid de hummus en de helft van de walnoten over de laag bladerdeeg",
+          "detail": "laat een opening aan de randen",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Leg de aardappel en biet plakken er bovenop",
+          "detail": "leg ze dicht tegen elkaar schuin 45°, wissel zoete aardappel en biet af",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg feta bovenop toe",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bak in de oven",
+          "detail": "bedek met aluminiumfolie als het te snel bruin wordt op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        },
+        {
+          "title": "Snij ondertussen de peterselie fijn",
+          "detail": "",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serveer met de feta, peterselie en overgebleven walnoten erop, breng op smaak met zout en peper",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

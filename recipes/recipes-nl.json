@@ -9806,6 +9806,132 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/romige-rijst-met-bieten/?share",
+      "id": 72,
+      "title": "Romige Rijst met Bieten",
+      "description": "Dit recept bootst het gevoel en de romigheid van risotto na, maar dan met gewone rijst. De groenten en zongedroogde tomaten zorgen voor veel smaak terwijl citroensap voor een mooie balans zorgt met de zoete rode biet. De pompoenpitten maken het af met een lichte crunch.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/Creamy-Beetroot-Rice.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Zilvervliesrijst",
+          "type": "base",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bieten (vers)",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Prei",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pompoenpitten",
+          "type": "fresh",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Crème fraîche (of haver fraîche)",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Citroen (sap)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 500,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snij de knoflook fijn",
+        "Snij de prei in ringen",
+        "Snij de wortel doormidden en in schijfjes",
+        "Snij de zongedroogde tomaten in reepjes",
+        "Snij de rode biet in kleine stukjes van ca. 1 cm"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Bak de wortel, prei en bieten",
+          "detail": "op middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Voeg de zongedroogde tomaten en knoflook toe",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de rijst toe en roer, voeg dan de bouillon toe",
+          "detail": "breng aan de kook, zet vuur zachter en de deksel op de pan. Proef regelmatig of de rijst klaar is. Als het nog niet gaar is en het vocht weg is, voeg dan wat meer toe",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 12
+        },
+        {
+          "title": "Voeg creme (of haver) fraiche en citroensap naar smaak toe",
+          "detail": "meng alles samen en verwarm",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serveer met pompoenpitten",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de gekookte noedels toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -9809,7 +9809,8 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "rice"
       ],
       "url": "https://www.forkranger.com/nl/romige-rijst-met-bieten/?share",
       "id": 72,
@@ -9930,6 +9931,124 @@
           "detail": "",
           "panType": "fryingPan1",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/nl/aardappel-frittata/?share",
+      "id": 73,
+      "title": "Aardappel Frittata",
+      "description": "Een vullend recept, met niet alleen aardappels maar genoeg andere groentes en texturen. Deze frittata is klaar binnen enkele minuten.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/potato-frittata.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Aardappelschijfjes (voorgekookt)",
+          "type": "base",
+          "quantity": 450,
+          "quantityType": "g"
+        },
+        {
+          "name": "Eieren",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Prei",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij de aardappelschijfjes in kleine blokjes",
+        "Snij de prei in ringen",
+        "Hak cashewnoten",
+        "Snij de zongedroogde tomaten in reepjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Bak de prei",
+          "detail": "middelhoog vuur, zet daarna opzij",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In de tussentijd, in een kom, klop de eieren",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de prei en alle andere ingrediënten toe aan de kom",
+          "detail": "meng goed, breng op smaak met zout en peper",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg helft van het frittatamengsel toe aan de verwarmde pan met olie",
+          "detail": "doe de deksel erop, middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Draai om als de bovenkant niet meer vloeibaar is",
+          "detail": "Tip bij het omdraaien: wanneer de frittata gemakkelijk van de bodem loslaat, gebruik dan een bord met dezelfde diameter als de frittata, leg deze er voorzichtig op en draai de frittata naar de andere kant.",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Bak de andere kant van de frittata",
+          "detail": "houd de deksel erop",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Herhaal voor de andere kant van het frittatamengsel",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
         }
       ]
     }

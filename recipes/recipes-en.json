@@ -10883,6 +10883,117 @@
           "time": 20
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/sweet-potato-and-beetroot-tart/?share",
+      "id": 81,
+      "title": "Sweet Potato and Beetroot Tart",
+      "description": "A tart that's filled with pretty colors and will also fill you up nicely. The hummus and feta give a nice tang, that contrasts well with the sweetness of the potato and the beetroot slices. Crunchy puff pastry completes the dish.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/sweet-potato-and-beetroot-tart.jpg",
+      "duration": 50,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Variations",
+      "variationBody": "For some extra spiciness, choose spicy hummus.\n\nIf you cannot get hold of fresh beets, use pre-cooked beets.\n\nYou can also use squares of puff pastry (frozen) and combine them to make one sheet. In that case you’ll need between 8 and 10 depending on the size of your tray.\n",
+      "ingredients": [
+        {
+          "name": "Fresh puff pastry sheet",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sweet potatoes",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh beetroot",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hummus",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Peel and slice potatoes into 5mm thin slices",
+        "Peel and slice beet into 5mm thin slices",
+        "Cut feta into blocks",
+        "Chop walnuts",
+        "Preheat oven to 200°C"
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "If needed, make puff pastry sheet",
+          "detail": "lay puff pastry sheets slightly overlapping onto an oven tray lined with baking paper. Slightly press them together to connect sheets",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Spread the hummus and half of the walnuts on the puff pastry",
+          "detail": "leave a gap at the edges",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add potato and beetroot slices on top",
+          "detail": "pack closely together under a 45° angle, alternating between the two",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add feta on top",
+          "emoji": ""
+        },
+        {
+          "title": "Bake in the oven",
+          "detail": "at 200°C, cover with aluminium foil if it browns too quickly",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        },
+        {
+          "title": "In the meantime, chop parsley finely",
+          "detail": "",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serve with parsley and remaining walnuts sprinkled on top, season with salt and pepper",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

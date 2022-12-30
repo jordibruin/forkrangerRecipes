@@ -10994,6 +10994,128 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/pita-bread-with-peanuts/?share",
+      "id": 82,
+      "title": "Pita Breads with Peanuts",
+      "description": "A healthy fast food alternative to make at home. The umami taste of the mushrooms comes out even more when sautéed in soy sauce. This simple version can easily be upgraded by choosing shiitake mushrooms.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/pita-bread-with-mushrooms-without-bell-pepper.jpg",
+      "duration": 20,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Adjust the number of pita-breads if the size of your pita is smaller or larger.",
+      "ingredients": [
+        {
+          "name": "Pita breads (whole wheat)",
+          "type": "base",
+          "quantity": 10,
+          "quantityType": ""
+        },
+        {
+          "name": "Chinese cabbage (small)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Mushrooms",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Mung bean sprouts",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Peanuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Red onions",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Sriracha (or other hot sauce)",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Garlic sauce",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Cut red onion into halve rings",
+        "Cut chinese cabbage into strips",
+        "Cut mushrooms into slices",
+        "Crush peanuts coarsely",
+        "Pre-heat oven to 220°C"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Bake pita-breads",
+          "panType": "oven",
+          "detail": "at 220°C",
+          "time": 5
+        },
+        {
+          "title": "In the meantime, sauté onion and mushrooms",
+          "detail": "high heat ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add mung bean sprouts and soy sauce",
+          "detail": "reduce heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add peanuts",
+          "detail": "season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Cut pita-bread open, fill with Chinese cabbage, add mushroom mix and add sriracha and garlic sauce to taste",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -11684,6 +11684,122 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "potato",
+        "plants"
+      ],
+      "id": 87,
+      "url": "https://www.forkranger.com/carrot-and-potato-roast/?share",
+      "title": "Carrot and Potato Roast",
+      "description": "Potato, carrot and parsnip are a dream team. The caramelized carrot and crispy potato and parsnip wedges are delicious with mayonnaise. The salad adds some freshness and protein.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/carrot-and-potato-roast-1.jpg",
+      "duration": 50,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Potatoes (waxy)",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Parsnips",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Pear",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Lamb's lettuce",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned lentils",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pumpkin seeds",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mayonnaise",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Olive oil",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Mustard",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Balsamic vinegar",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Pre-heat oven to 200°C",
+        "Cut potatoes into wedges",
+        "Cut carrots in half lengthwise",
+        "Cut parsnips into wedges",
+        "Cut pear into quartered slices"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Spread potatoes, parsnips, and carrots on a baking sheet",
+          "detail": "drizzle with some olive oil, season with salt and pepper at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 45
+        },
+        {
+          "title": "In the meantime, mix together the lamb’s lettuce, lentils, pear and pumpkin seeds",
+          "detail": "drain lentils before adding",
+          "emoji": ""
+        },
+        {
+          "title": "In another bowl, mix the olive oil, mustard and balsamic vinegar to create the salad dressing",
+          "detail": "season with salt and pepper",
+          "emoji": ""
+        },
+        {
+          "title": "Serve the roasted potato, parsnip and carrot with mayonnaise and the salad",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -10506,6 +10506,135 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/mexican-fajitas/?share",
+      "id": 78,
+      "title": "Mexican Fajitas",
+      "description": "This classic tex-mex recipe is inspired by 'refried black beans', a traditional staple of the Mexican kitchen. Yes, it seems like a lot of beans but it forms into a paste and is just right for 8 big wraps. Two more tips: don't be afraid to use lots of coriander in the Guacamole and when in doubt, add more lime juice!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/black-bean-fajitas-2.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tortilla wraps (whole wheat)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned black beans",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Avocados",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Creme fraiche (or oat fraiche)",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Smoked paprika powder",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Chilli flakes",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut tomatoes into cubes",
+        "Cut avocados into cubes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté onion",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Add garlic, cumin, smoked paprika powder and chilli flakes",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add black beans (including the liquid of the can) and half of the tomatoes",
+          "detail": "season with salt and pepper, bring to a boil and keep at medium heat so that water keeps boiling off and a paste is formed. With the back of a spoon, crush half of the beans",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Make Guacamole: add avocados and remaining tomatoes in a bowl",
+          "detail": "mash with a fork until it has the right structure, season with salt and pepper, and squeeze lime",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Spread creme fraiche (or oat fraiche) over the wraps, add black bean mix, guacamole and fresh coriander",
+          "detail": "Don't forget to add more lime juice",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

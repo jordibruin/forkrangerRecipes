@@ -11116,6 +11116,141 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/nl/zuurkool-zoete-aardappel-stamppot/?share",
+      "id": 83,
+      "title": "Zuurkool Zoete Aardappel Stamppot",
+      "description": "De groenten doen al het werk in dit recept en combineren veel verschillende smaken. De zoetheid van de appel balanceert de zuurkool en de paddenstoelen voegen een mooie umami-smaak toe. Zelfs iemand die normaal niet van zuurkool houdt, vond dit gerecht lekker.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/sauerkraut-potato-mash.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Zoete aardappels",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": "kg"
+        },
+        {
+          "name": "Appels",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zuurkool",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Andijvie",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Schil de zoete aardappels en snij deze in 1 cm dikke schijven",
+        "Snij de champignons in plakjes",
+        "Snij de appels in blokjes",
+        "Verkruimel de walnoten in kleine stukjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Kook de zuurkool",
+          "detail": "in z'n eigen vocht of voeg 100 ml water toe, doe de deksel erop",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Kook de zoete aardappels",
+          "detail": "gebruik een grote pan aangezien er later nog meer bijkomt",
+          "emoji": "",
+          "panType": "cookingPan2",
+          "time": 8
+        },
+        {
+          "title": "Fruit ondertussen de champignons",
+          "detail": "op middelhoog vuur, tot het vocht van champignons verdampt is, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg sojasaus toe",
+          "detail": "zet het vuur lager, voeg eerst 1 el water toe om het verdampen van de sojasaus te voorkomen",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Stamp ondertussen de zoete aardappels",
+          "detail": "totdat de stamppot een grove structuur heeft",
+          "panType": "cookingPan2",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de appel en walnoten toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Giet de zuurkool af en roer deze door de stamppot",
+          "detail": "roer goed",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Stamp de verse andijvie door de zoete aardappel stamppot",
+          "detail": "meng goed, breng op smaak met zout en peper",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serveer de stamppot met de champignons erop",
+          "detail": "Te zuur naar jouw smaak? Rasp of snij een extra appel en roer deze door de stamppot.",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

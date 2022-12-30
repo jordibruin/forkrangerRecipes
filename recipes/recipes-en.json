@@ -9553,6 +9553,143 @@
           "detail": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/brussels-sprouts-with-kale-and-apple/?share",
+      "id": 70,
+      "title": "Brussels Sprouts with Kale and Apple",
+      "description": "Not everyone likes brussels sprouts, but its bitter taste creates a delicious combination with the sweet apples, sour vinegar and umami from the cheese. ",
+      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Brussels-sprouts-oven-pasta.jpg",
+      "duration": 50,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Variation",
+      "variationBody": "The original recipe uses Gorgonzola which is more expensive and gives more flavour complexity to the dish",
+      "ingredients": [
+        {
+          "name": "Farfalle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Apples (Fuji)",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Brussels sprouts",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kale",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "White wine vinegar",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Organic cheese",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut apples into cubes",
+        "Cut brussels sprouts in half",
+        "Pre-heat oven to 200°C"
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "Cook kale",
+          "detail": "use a large pan",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Add pasta to the kale",
+          "detail": "cook a little longer",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add brussels sprouts to kale and pasta",
+          "detail": "cook until pasta, kale and sprouts are almost done",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In the meantime, sauté onion",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add garlic and apples",
+          "detail": "stir",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add (soy) cream and vinegar",
+          "detail": "season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add everything into an oven dish and top with cheese and walnuts",
+          "detail": " 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

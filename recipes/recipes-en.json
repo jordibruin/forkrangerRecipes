@@ -11251,6 +11251,153 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/orange-pasta-with-brussels-sprouts/?share",
+      "id": 84,
+      "title": "Orange Pasta with Brussels Sprouts",
+      "description": "The orange sauce for this pasta is made with orange juice and carrots. If the sauce ends up too thick, you can use some of the hot pasta water to thin it out and add some extra flavor. The roasted vegetables match the warm, smooth sauce perfectly.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/10/orange-pasta-with-brussels-sprouts.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tagliatelle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Brussels sprouts",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Orange juice",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Cashews",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Nutmeg",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut carrots into slices",
+        "Cut mushrooms into quarters",
+        "Clean and halve brussels sprouts",
+        "Pre-heat oven to 180°C"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Make bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bake brussels sprouts and mushrooms in an oven dish with some oil",
+          "detail": "at 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "In the meantime, sauté onion",
+          "detail": "use a soup/high pan, medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add garlic",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add carrots, cashews and bouillon",
+          "detail": "bring to a boil and cook until tender",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "In the meantime, cook pasta",
+          "detail": "",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Blend the carrotmix into a smooth sauce",
+          "detail": "season with salt and pepper to taste",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add nutmeg and orange juice",
+          "detail": "stir through",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serve tagliatelle with sauce and veggies on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

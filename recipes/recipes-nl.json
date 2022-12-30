@@ -10640,6 +10640,139 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/nl/oven-pasta-met-spinazie-en-bloemkool/?share",
+      "id": 79,
+      "title": "Oven Pasta met Spinazie en Bloemkool",
+      "description": "Dit is een simpel en flexibel ovengerecht. Je kunt het met verschillende groenten uitproberen. Ik zou wel iets met bite erin houden, zoals zongedroogde tomaten.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/Spinach-and-Cauliflower-Oven-Pasta.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Farfalle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bloemkool",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Geraspte kaas",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Witte wijn azijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Tijm",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Halveer de wortels in de lengte en snij in plakjes",
+        "Snij de zongedroogde tomaten in reepjes",
+        "Snij de bloemkool in kleine roosjes",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Bak de wortels met de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Kook de pasta",
+          "detail": "al dente",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de knoflook toe",
+          "detail": "breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de (soja)room, zongedroogde tomaten, azijn en kruiden toe",
+          "detail": "proef en voeg zo nodig meer zout en peper toe",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Doe alles in een ovenschaal. Leg de bloemkool roosjes er bovenop en bestrooi met kaas",
+          "detail": "200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

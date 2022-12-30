@@ -11526,6 +11526,164 @@
           "time": 40
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/red-cabbage-stir-fry-with-apple/?share",
+      "id": 86,
+      "title": "Red Cabbage Stir-fry with Apple",
+      "description": "This recipe gives the classic combination of red cabbage and apple an Asian twist. The raw apple adds a lot of freshness at the end. It’s important to do all your prep work before you start cooking because the cooking itself takes very little time. Use oil with a high smoking point, such as sunflower oil.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/Red-cabbage-stiry-fry.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Make it a dinner party🥳",
+      "variationBody": "Add sesame seeds on top! And if you've got more time, fry some marinated tempeh with it.",
+      "ingredients": [
+        {
+          "name": "Noodles (soba)",
+          "type": "base",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red cabbage",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Apples (Elstar)",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Cashews",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Vinegar (white wine)",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Peanut butter",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Honey",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Chilli flakes",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Sunflower oil",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        }
+      ],
+      "prepTime": 20,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Grate or mince ginger",
+        "Cut red cabbage into thin slices",
+        "Cut carrots into thin slices",
+        "Cut apple into thin strips"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "In a bowl, mix together the sauce: soy sauce, peanut butter, vinegar, honey",
+          "detail": "add a bit of water if it’s too thick, to create a smooth sauce",
+          "emoji": ""
+        },
+        {
+          "title": "Cook noodles",
+          "detail": "according to instructions",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Sauté onion and carrots",
+          "detail": "on high heat in a wok or large pan with oil",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add garlic, ginger, chilli flakes and red cabbage",
+          "detail": "keep the heat high and stir frequently to avoid burning, the cabbage will become softer but should still have a light crunch",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Add the peanut sauce",
+          "detail": "mix",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add noodles",
+          "detail": "stir until everything is well-mixed and warm",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serve right away with apple and cashews on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

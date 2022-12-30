@@ -10635,6 +10635,139 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/spinach-and-cauliflower-oven-pasta/?share",
+      "id": 79,
+      "title": "Spinach and Cauliflower Oven Pasta",
+      "description": "This is a simple oven dish that is very flexible. You could variate with different kinds of vegetables, but I would keep in something with a bite like the sun-dried tomatoes.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/Spinach-and-Cauliflower-Oven-Pasta.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Farfalle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cauliflower",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Spinach",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Organic, grated cheese",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "White wine vinegar",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Thyme",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Halve carrots and cut into slices",
+        "Cut sun-dried tomatoes into small strips",
+        "Cut cauliflower into small florets",
+        "Pre-heat oven to 200°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Sauté onion and carrots",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Cook pasta",
+          "detail": "al dente",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Add spinach and garlic",
+          "detail": "season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add (soy) cream, sun-dried tomatoes, vinegar and herbs",
+          "detail": "taste and add salt and pepper if needed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add pasta into an oven dish and mix with the sauce. Put the cauliflower florets on top and sprinkle with cheese.",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

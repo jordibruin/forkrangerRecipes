@@ -11000,6 +11000,122 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/pitabroodjes-met-pindas/?share",
+      "id": 82,
+      "title": "Pitabroodjes met Pinda's",
+      "description": "Een gezond fast-food alternatief wat je makkelijk thuis kunt maken. De umami-smaak van de champignons komt nog meer naar voren als ze in sojasaus worden gebakken. Deze eenvoudige versie kan je ook een upgrade geven door shiitake paddenstoelen te kiezen.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/pita-bread-with-mushrooms-without-bell-pepper.jpg",
+      "duration": 20,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Pas het aantal pitabroodjes aan als de grootte van je pita kleiner of groter is.",
+      "ingredients": [
+        {
+          "name": "Pitabroodjes (volkoren)",
+          "type": "base",
+          "quantity": 10,
+          "quantityType": ""
+        },
+        {
+          "name": "Chinese kool (klein)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Champignons",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pinda's",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Rode uien",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Sriracha (of andere hete saus)",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Knoflooksaus",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "ml"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij rode uien in halve ringen",
+        "Snij de Chinese kool in reepjes",
+        "Snij de champignons in plakjes",
+        "Hak de pinda's grof",
+        "Verwarm de oven voor op 220°C"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Bak de pitabroodjes",
+          "panType": "oven",
+          "detail": "op 220°C",
+          "time": 5
+        },
+        {
+          "title": "Fruit ondertussen de ui en champignons",
+          "detail": "op hoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg de taugé en sojasaus toe",
+          "detail": "verlaag het vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg pinda's toe",
+          "detail": "breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Snij de pitabroodjes open, vul ze met Chinese kool en voeg de champignon mix toe en doe er sriracha en knoflooksaus naar smaak overheen",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

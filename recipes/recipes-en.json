@@ -10768,6 +10768,121 @@
           "time": 20
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/potato-and-pesto-bake/?share",
+      "id": 80,
+      "title": "Potato and Pesto Bake",
+      "description": "A simple oven dish for the potato lovers, with the pesto giving ‘a taste of summer’ as one review described it. ",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/potato-and-pesto-bake.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Potato slices",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Mushrooms",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zucchini",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Red pesto",
+          "type": "taste",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Organic grated cheese",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Paprika powder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Cut onion and mince garlic",
+        "Cut mushrooms into quarters",
+        "Cut zucchini into quartered slices",
+        "Cut broccoli into florets",
+        "Preheat oven to 200°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Sauté onions and mushrooms",
+          "detail": "medium heat, until mushrooms shrink and moisture is gone",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Cook potato slices, after ~3 min add broccoli (or cook in separate pan)",
+          "detail": "cook for ~5 more minutes so potatoes and broccoli are almost done",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Add garlic, paprika powder, zucchini, pesto and (soy) cream",
+          "detail": "mix well and let everything simmer until warm, taste and add salt and pepper if needed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add potatoes into an oven dish and add half the sauce. Add the broccoli on top with the rest of the sauce and sprinkle with cheese",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

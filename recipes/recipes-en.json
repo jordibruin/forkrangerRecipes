@@ -10048,6 +10048,142 @@
           "time": 8
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "fruity"
+      ],
+      "url": "https://www.forkranger.com/chickpea-stew-with-apricot/?share",
+      "id": 74,
+      "title": "Chickpea Stew with Apricot",
+      "description": "This simple stew is inspired by a North-African Tajine. Celeriac has an earthy and at the same time fresh taste, which goes well with the rich tomato flavors. You could serve it with rice or bread if you have hungry guests.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/Chickpea-tajine-with-peaches.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Celeriac",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned chickpeas",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned peeled tomatoes",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Dried apricot",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cinnamon",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Red onions",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Peel celeriac and cut into small wedges",
+        "Dice onion and mince garlic",
+        "Mince or grate ginger finely",
+        "Cut dried apricot finely"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Sauté onion, garlic and ginger",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add celeriac, cinnamon, cumin, and turmeric",
+          "detail": "season with salt and pepper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add tomatoes, chickpeas, dried apricot",
+          "detail": "the celeriac should be just covered with water and add some water if needed \\n\\nbring to boil and then simmer with the lid on",
+          "emoji": "",
+          "time": 25
+        },
+        {
+          "title": "Add lemon juice",
+          "detail": "add to taste",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serve with the coriander",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

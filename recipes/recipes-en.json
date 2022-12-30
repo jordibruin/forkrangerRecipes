@@ -9809,6 +9809,127 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "rice"
+      ],
+      "url": "https://www.forkranger.com/creamy-beetroot-rice/?share",
+      "id": 72,
+      "title": "Creamy Beetroot Rice",
+      "description": "This recipe imitates the feeling and creaminess of risotto with regular rice. The vegetables and sun-dried tomatoes provide a lot of flavor while the lemon juice creates a nice balance to the sweet beetroot. The pumpkin seeds finish it off with a light crunch.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/Creamy-Beetroot-Rice.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Brown rice",
+          "type": "base",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Beetroot (fresh)",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Leek",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pumpkin seeds",
+          "type": "fresh",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Creme (or oat) fraiche",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lemon (juice)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 500,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Mince garlic",
+        "Cut leek into rings",
+        "Cut carrot in half and into slices",
+        "Cut sun-dried tomatoes into strips",
+        "Cut beetroot into small pieces of circa 1 cm"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Sauté carrot, leek and beetroot",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Add sun-dried tomatoes and garlic",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add rice and stir, then add bouillon",
+          "detail": "bring it to a boil and then reduce the heat to low and put on the lid. Taste if the rice is ready. If it’s not and the pan is dry, add a bit more water.",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 12
+        },
+        {
+          "title": "Add creme (or oat) fraiche and lemon juice to taste",
+          "detail": "mix everything together and let it heat up",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Serve with pumpkin seeds",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

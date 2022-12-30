@@ -10391,6 +10391,124 @@
           "tijd": 25
         }
       ]
+    },
+    {
+      "filter": [
+        "spicy",
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/smokey-zwarte-bonen-chili/?share",
+      "id": 77,
+      "title": "Smokey Zwarte Bonen Chili",
+      "description": "In de 19e eeuw kookten de Chilli Queens van San Antonio Chilli con Carne. Ze zorgden voor een inkomen voor hun familie in een tijd dat dit voor vrouwen niet gebruikelijk was. Met dit recept kan jij ook iets doen wat nog niet gebruikelijk is: Een heerlijke chilli sin carne. Wees niet bang voor de koffie, die proef je uiteindelijk niet, maar deze zorgt wel voor de ‘smokey’ smaak.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/Smokey-Chilli-without-spring-onion.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tomaten uit blik",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zwarte bonen uit blik",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Stokbrood voor erbij",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Koffie/espresso",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Chilivlokken",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kaneel",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder (gerookt)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Zet een kopje koffie"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de chili, kaneel, paprikapoeder, komijn en knoflook toe",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de tomaten en koffie toe",
+          "detail": "laat sudderen, breng op smaak met zout en peper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Voeg de zwarte bonen toe",
+          "detail": "laat sudderen met deksel op de pan, proef en voeg zo nodig meer zout en peper toe",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Serveer met brood",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

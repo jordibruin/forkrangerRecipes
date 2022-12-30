@@ -2689,7 +2689,7 @@
           "emoji": ""
         },
         {
-          "title": "Add soy sauce, vinegar and about 100 ml from the stock in which the noodles cook",
+          "title": "Add soy sauce, vinegar and about 100 ml from the bouillon in which the noodles cook",
           "detail": "stir and bring to boil/simmer",
           "panType": "fryingPan1",
           "emoji": "",
@@ -9688,6 +9688,125 @@
           "panType": "oven",
           "emoji": "",
           "time": 20
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/crunchy-noodles-with-mushrooms/?share",
+      "id": 71,
+      "title": "Crunchy Noodles with Mushrooms",
+      "description": "The peanuts and mung bean sprouts give this noodle soup a crunchy bite. The soy sauce and stock create a nice salty flavour, so be careful with extra seasoning.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/crunchy-noodles-with-mushrooms.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Noodles",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mung bean sprouts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Peanuts",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "White wine vinegar",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Bouillon (mushroom)",
+          "type": "taste",
+          "quantity": 500,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Mince or grate ginger",
+        "Cut mushrooms into slices",
+        "Cut carrots into slices"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Sauté mushrooms",
+          "detail": "high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add ginger and carrots",
+          "detail": "reduce heat and simmer until moisture of the mushrooms is gone",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Cook noodles in bouillon",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Add soy sauce, vinegar and about 100 ml from the bouillon in which the noodles cook",
+          "detail": "stir and bring to boil/simmer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add peanuts, mung bean sprouts, spring onions",
+          "detail": "mix together",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add cooked noodles",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
         }
       ]
     }

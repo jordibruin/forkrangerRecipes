@@ -9550,6 +9550,143 @@
           "detail": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/nl/spruitjes-met-boerenkool-en-appel/?share",
+      "id": 70,
+      "title": "Spruitjes met Boerenkool en Appel",
+      "description": "Niet iedereen houdt van spruitjes, maar hun licht bittere smaak is een heerlijke combinatie met de zoete appels, het zuur van de azijn en de hartige smaak van de kaas.",
+      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Brussels-sprouts-oven-pasta.jpg",
+      "duration": 50,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Variatie",
+      "variationBody": "In het oorspronkelijke recept wordt Gorgonzola gebruikt, wat iets duurder is en het geheel een complexere smaak geeft.",
+      "ingredients": [
+        {
+          "name": "Farfalle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Appels (Fuji)",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Spruiten",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Boerenkool",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Witte wijnazijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Geraspte kaas",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn\n",
+        "Snij de appels in stukjes",
+        "Halveer de spruiten",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Kook de boerenkool",
+          "detail": "gebruik een grote pan",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Voeg pasta aan de boerenkool toe",
+          "detail": "kook langer",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg spruitjes aan de boerenkool en pasta toe",
+          "detail": "kook nog ~5 min, zodat de pasta, boerenkool en spruitjes beetgaar zijn",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Fruit ondertussen de ui",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de knoflook en appels toe",
+          "detail": "roer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de (soja)room en azijn toe",
+          "detail": "breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Doe alles in een ovenschaal en bestrooi het geheel met de kaas en walnoten",
+          "detail": " 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        }
+      ]
     }
   ]
 }

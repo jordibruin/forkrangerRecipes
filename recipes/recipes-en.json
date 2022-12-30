@@ -10387,6 +10387,125 @@
           "time": 25
         }
       ]
+    },
+    {
+      "filter": [
+        "spicy",
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/smokey-black-bean-chilli/?share",
+      "id": 77,
+      "title": "Smokey Black Bean Chilli",
+      "description": "In the late 1800s, the chilli queens of San Antonio created chilli con carne. They entertained the plaza and supported their families in a time when women weren't supposed to. Hopefully this recipe can inspire you to also do something that isn't supposed to be: a delicious chilli sin carne. Don’t worry about the coffee, you won’t taste it at the end, but it is an essential ingredient to get the ‘smokey’ taste. ",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/Smokey-Chilli-without-spring-onion.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Canned tomatoes",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned black beans",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bread for on the side",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Coffee/espresso",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Chilli flakes",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cinnamon",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Smoked paprika powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Set coffee"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Sauté onions",
+          "detail": "medium heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add chilli, cinnamon, paprika powder, cumin and garlic",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add tomatoes, and coffee",
+          "detail": "simmer, season with salt and pepper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Add black beans",
+          "detail": "simmer with lid on, taste and add salt and pepper if needed",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Serve with bread",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -10184,6 +10184,106 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "quick",
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/tortellini-with-tomato-pesto/?share",
+      "id": 75,
+      "title": "Tortellini with Tomato Pesto",
+      "description": "As a teenager, the only thing I could make for dinner was tortellini with ready-made tomato sauce. This is a homage to that time, upgraded for more taste and healthy veggies.",
+      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Lazy-tortellini.jpg",
+      "duration": 20,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tortellini (spinach)",
+          "type": "base",
+          "quantity": 450,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned tomatoes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Frozen green beans",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Leek",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Red pesto",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Tomato paste",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic clove",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut leek into rings"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Cook tortellini, after ~5 min add green beans",
+          "detail": "tortellini usually needs about 15 min and the beans 10 min",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Sauté onion",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add leek",
+          "detail": "stir, season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add tomatoes, garlic and pesto",
+          "detail": "stir and bring to boil, then simmer, taste and add salt and pepper if needed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        }
+      ]
     }
   ]
 }

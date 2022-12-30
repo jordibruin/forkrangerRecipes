@@ -10288,6 +10288,109 @@
           "time": 10
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/nl/geroosterde-witlof-met-honing/?share",
+      "id": 76,
+      "title": "Geroosterde Witlof met Honing",
+      "description": "Het dreamteam van geitenkaas, honing en walnoten geeft de perfecte balans voor de bittere smaak van witlof. Je hoeft alleen maar alle ingrediënten te snijden en bereiden en dan te wachten tot de oven zijn werk doet. Als je dit recept voor 4 personen maakt, heb je misschien twee ovenschalen nodig.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/Chicory-1.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Aardappels (vastkokend)",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": "kg"
+        },
+        {
+          "name": "Stronken witlof",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 10,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zachte geitenkaas",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Honing",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Verse tijm",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snij de ui in halve ringen",
+        "Snij aardappels in schijven",
+        "Snij de witlof in kwarten en verwijder de kern (om de bitterheid te verminderen",
+        "Snij de zongedroogde tomaten in reepjes",
+        "Snij geitenkaas in blokjes van 1 cm",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Op een bakplaat, spreid de aardappelschijven",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de witlof, ui, walnoten, zongedroogde tomaten, geitenkaas en tijmtakjes bovenop toe",
+          "detail": "misschien heb je twee bakplaten nodig of spreid de aardappelschijven apart op een extra bakplaat",
+          "emoji": ""
+        },
+        {
+          "title": "Breng op smaak met zout en peper en sprenkel er wat olijfolie over",
+          "detail": "zorg ervoor dat de olijfolie de tijmtakjes bedekt zodat ze hun smaak afgeven",
+          "emoji": ""
+        },
+        {
+          "title": "Verdeel de honing over de stukken witlof",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bak in de oven",
+          "detail": "op 200°C\n\nals je twee bakplaten gebruikt, wissel dan halverwege van positie, zodat de onderste bakplaat bovenop ligt. In dit geval moet je het misschien ook nog 5-10 minuten extra bakken, zodat alles gelijkmatig bruin wordt.",
+          "panType": "oven",
+          "emoji": "",
+          "tijd": 25
+        }
+      ]
     }
   ]
 }

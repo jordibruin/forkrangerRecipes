@@ -10509,6 +10509,137 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/mexicaanse-fajitas/?share",
+      "id": 78,
+      "title": "Mexicaanse Fajitas",
+      "description": "Dit klassieke tex-mex recept is geïnspireerd op 'refried black beans', een traditioneel onderdeel van de Mexicaanse keuken. Ja, het lijken veel bonen, maar ze vormen een pasta en het is precies goed voor 8 grote wraps. Nog twee tips: wees niet bang om veel koriander te gebruiken in de guacamole en voeg bij twijfel meer limoensap toe!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/black-bean-fajitas-2.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip van de chef",
+      "variationBody": "Plet minimaal de helft van de bonen en zet het vuur hoog genoeg zodat een deel van het water verdampt. Daardoor ontstaat er een dikke pasta en wordt de smaak intenser. Voor meer informatie kun je zoeken op 'refried black beans'.",
+      "ingredients": [
+        {
+          "name": "Tortilla wraps (volkoren)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Zwarte bonen uit blik",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Avocado's",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Crème fraîche (of haver fraîche)",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Gerookt paprikapoeder",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Chili(vlokken)",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de tomaten in blokjes",
+        "Snij de avocado's in blokjes"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Voeg knoflook, komijn, gerookt paprikapoeder en chilivlokken toe",
+          "detail": "op middelhoog vuur",
+          "emoji": "",
+          "panType": "fryingPan1",
+          "time": 2
+        },
+        {
+          "title": "Voeg zwarte bonen (inclusief het vocht uit het blik) en de helft van de tomaten toe",
+          "detail": "breng op smaak met peper en zout, breng aan de kook en zet op middelhoog vuur zodat het water eruit blijft koken zodat het een pasta wordt. Plet met de achterkant van een lepel de helft van de zwarte bonen",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Maak Guacamole: voeg avocado's en de overgebleven tomaten samen in een kom",
+          "detail": "prak met een vork tot het de juiste structuur heeft, breng op smaak met peper en zout en pers de limoen",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Smeer crème fraîche (of haver fraîche) op de wraps, voeg de zwarte bonen mix, guacamole en verse koriander toe",
+          "detail": "vergeet niet meer limoensap toe te voegen",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

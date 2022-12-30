@@ -10051,6 +10051,143 @@
           "time": 8
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "fruity"
+      ],
+      "url": "https://www.forkranger.com/nl/kikkererwtenstoof-met-abrikoos/?share",
+      "id": 74,
+      "title": "Kikkererwtenstoof met Abrikoos",
+      "description": "Deze simpele stoofpot is geïnspireerd door een Noord-Afrikaanse Tajine. Knolselderij heeft een kruidige en tegelijk frisse smaak die goed samengaat met de rijke tomaten. Je zou het kunnen serveren met wat rijst of brood als je grote eters op bezoek hebt.",
+      "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/Chickpea-tajine-with-peaches.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Knolselderij",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Kikkererwten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik (gepelde)",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Gedroogde abrikozen",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kaneel",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Schil de knolselderij en snij in kleine partjes",
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de gember fijn",
+        "Snij de gedroogde abrikozen fijn"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui met de gember en knoflook",
+          "detail": "op middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de knolselderij, kaneel, komijn en kurkuma toe",
+          "detail": "breng op smaak met zout en peper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de tomaten, kikkererwten en gedroogde abrikozen toe",
+          "detail": "de knolselderij moet net 'onder water' staan en voeg zo nodig wat water toe\n\nbreng aan de kook en laat sudderen met het deksel erop",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 25
+        },
+        {
+          "title": "Voeg citroensap toe",
+          "detail": "voeg naar smaak toe",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer met de koriander",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

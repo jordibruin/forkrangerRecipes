@@ -11251,6 +11251,152 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/nl/oranje-pasta-met-spruiten/?share",
+      "id": 84,
+      "title": "Oranje Pasta met Spruiten",
+      "description": "De oranje saus van deze pasta wordt gemaakt met sinaasappelsap en wortel. Als de saus te dik wordt, kun je wat pastawater toevoegen om het te verdunnen en extra smaak toe te voegen. De geroosterde groenten passen perfect bij de warme, smeuïge saus.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/10/orange-pasta-with-brussels-sprouts.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tagliatelle",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spruitjes",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sinaasappelsap",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 500,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Nootmuskaat",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de wortels in plakjes",
+        "Snij de champignons in plakjes",
+        "Spruitjes schoonmaken en halveren",
+        "Verwarm de oven voor op 180°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": ""
+        },
+        {
+          "title": "Doe de spruitjes en champignons in een ovenschaal met wat olie en bak",
+          "detail": "op 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Fruit ondertussen de ui",
+          "detail": "gebruik een soep/hoge pan, middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg knoflook toe",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg wortels, cashewnoten en bouillon toe",
+          "detail": "breng aan de kook en kook door tot het gaar is",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Kook de pasta ondertussen",
+          "detail": "",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Mix met een staafmixer de wortelmix tot een gladde saus",
+          "detail": "breng op smaak met zout en peper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg nootmuskaat en sinaasappelsap toe",
+          "detail": "roer door",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serveer de tagliatelle met saus en de groenten bovenop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

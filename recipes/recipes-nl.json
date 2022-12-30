@@ -10188,6 +10188,106 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "quick",
+        "pasta"
+      ],
+      "url": "https://www.forkranger.com/nl/tortellini-met-tomatenpesto/?share",
+      "id": 75,
+      "title": "Tortellini met Tomatenpesto",
+      "description": "Als tiener was tortellini met kant en klare tomatensaus het enige gerecht dat ik zelf kon koken. Dit is een hulde aan die tijd, maar dan met meer groente en smaak.",
+      "imageUrl": "https://app.forkranger.com/wp-content/uploads/2021/03/Lazy-tortellini.jpg",
+      "duration": 20,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Tortellini (spinazie)",
+          "type": "base",
+          "quantity": 450,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sperziebonen uit de diepvries",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Prei",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode pesto",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Tomatenpuree",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de prei in ringen"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Kook de tortellini, voeg na ~5 min de sperziebonen toe",
+          "detail": "tortellini heeft meestal zo'n 15 min nodig en de bonen 10 min",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de prei toe",
+          "detail": "roer, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de tomaten, knoflook en pesto toe",
+          "detail": "roer en breng aan de kook, laat sudderen, proef en voeg zo nodig meer zout en peper toe",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        }
+      ]
     }
   ]
 }

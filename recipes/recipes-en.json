@@ -10284,6 +10284,109 @@
           "time": 10
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/roasted-chicory-with-honey/?share",
+      "id": 76,
+      "title": "Roasted Chicory with Honey",
+      "description": "The dream team combination of goat cheese, honey, and walnuts is the perfect balance for the bitter taste of the chicory. You only have to prep all the ingredients and then wait for the oven to do its magic. You might need two oven trays if you’re making this recipe for 4 people.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/Chicory-1.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Potatoes (waxy)",
+          "type": "base",
+          "quantity": 1,
+          "quantityType": "kg"
+        },
+        {
+          "name": "Heads of chicory",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 10,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soft goat cheese",
+          "type": "fresh",
+          "quantity": 180,
+          "quantityType": "g"
+        },
+        {
+          "name": "Honey",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Fresh thyme",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Cut onion into half rings",
+        "Cut potatoes into slices",
+        "Cut chicory into quarters and remove the core (to reduce bitterness)",
+        "Cut sundried tomatoes into strips",
+        "Cut goat cheese into 1 cm cubes",
+        "Preheat oven to 200°C"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "On an oven tray, spread the potato slices",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add the chicory, onion, walnuts, sundried tomatoes, goat cheese, and thyme twigs on top",
+          "detail": "you might need two oven trays or spread the potatoes separately on an extra oven tray",
+          "emoji": ""
+        },
+        {
+          "title": "Season with salt and pepper and drizzle with olive oil",
+          "detail": "make sure the olive oil covers the thyme twigs so they give off their flavor",
+          "emoji": ""
+        },
+        {
+          "title": "Spread the honey on the chicory parts",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bake in oven",
+          "detail": "at 200°C, if you're using two baking trays, switch positions halfway so the bottom tray is on top. In this case you might also need to bake it for 5-10 minutes extra so everything browns evenly.",
+          "panType": "oven",
+          "emoji": "",
+          "time": 25
+        }
+      ]
     }
   ]
 }

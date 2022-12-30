@@ -9930,6 +9930,124 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/potato-frittata/?share",
+      "id": 73,
+      "title": "Potato Frittata",
+      "description": "A filling recipe, with not only potatoes but plenty of other vegetables and textures. This frittata comes together in minutes.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/12/potato-frittata.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Potato slices (pre-cooked)",
+          "type": "base",
+          "quantity": 450,
+          "quantityType": "g"
+        },
+        {
+          "name": "Eggs",
+          "type": "fresh",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Leek",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Peas (frozen)",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cashews",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Cut potato slices into small cubes",
+        "Cut leek into rings",
+        "Crush cashews",
+        "Cut sun-dried tomatoes into strips"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Sauté leek",
+          "detail": "medium/high heat, set aside",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In the meantime, in a bowl, whisk the eggs",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add leek and all other ingredients to the bowl",
+          "detail": "mix well, season with salt and pepper to taste",
+          "emoji": ""
+        },
+        {
+          "title": "Add half of the frittata mixture to the heated pan with oil",
+          "detail": "add lid, medium heat ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Turn when top is not liquid anymore",
+          "detail": "Tip to turn: when the frittata easily pulls away from the bottom, use a plate with the same diameter as the frittata, carefully put it on top and flip the frittata to the other side.",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Bake other side of frittata",
+          "detail": "keep lid on",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Repeat for the other half of the frittata mixture",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        }
+      ]
     }
   ]
 }

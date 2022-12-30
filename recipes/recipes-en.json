@@ -11398,6 +11398,134 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+
+      ],
+      "url": "https://www.forkranger.com/leek-and-lentil-quiche/?share",
+      "id": 85,
+      "title": "Leek and Lentil Quiche",
+      "description": "In the traditional Dutch kitchen leek quiche is made with ham, but this veggie-packed version has a balanced palette of tastes thanks to the walnuts, sun-dried tomatoes and feta. By using soy cream this quiche is a good low dairy option. And no chance of food being wasted, because it always tastes great the next day for lunch!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/Quiche.jpg",
+      "duration": 55,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Puff pastry sheets",
+          "type": "base",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Leeks",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned lentils",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Eggs",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Lemon juice",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Cut leek into rings",
+        "Cut sun-dried tomatoes into short strips",
+        "Chop walnuts",
+        "Chop parsley finely",
+        "Preheat oven to 180°C"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Sauté leek",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "In a bowl, mix (soy) cream and eggs",
+          "detail": "season with salt and pepper",
+          "emoji": ""
+        },
+        {
+          "title": "Add walnuts, sun-dried tomatoes, lentils, lemon juice and parsley",
+          "detail": "drain lentils before adding, season with salt and pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Grease the springform pan with some butter or oil, line it with puff pastry",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add the leek and lentil mix to the springform pan",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Pour the cream mix over the veggies and crumble feta on top",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bake quiche",
+          "detail": "add aluminium foil on top to prevent feta from being burnt at 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 40
+        }
+      ]
     }
   ]
 }

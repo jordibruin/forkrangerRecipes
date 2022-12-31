@@ -11397,6 +11397,133 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+
+      ],
+      "url": "https://www.forkranger.com/nl/hartige-preitaart-met-linzen/?share",
+      "id": 85,
+      "title": "Hartige Preitaart met Linzen",
+      "description": "Traditiegetrouw wordt in de Hollandse keuken hartige preitaart gemaakt met ham, maar deze vegaversie heeft een uitgebalanceerd smaakpalet dankzij de walnoten, zongedroogde tomaatjes en feta. Door gebruik te maken van sojaroom bevat deze quiche weinig zuivel. En er is geen kans dat er eten wordt weggegooid, want het is altijd heerlijk bij de lunch de volgende dag!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/Quiche.jpg",
+      "duration": 55,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Plakken bladerdeeg",
+          "type": "base",
+          "quantity": 6,
+          "quantityType": ""
+        },
+        {
+          "name": "Prei",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Linzen uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Feta",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": ""
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Eieren",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Citroensap",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij de prei in ringen",
+        "Snij de zongedroogde tomaten in reepjes",
+        "Hak de walnoten in stukjes",
+        "Snij de peterselie fijn",
+        "Verwarm de oven voor op 180°C"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Bak de prei",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "In een kom, meng (soja) room en eieren",
+          "detail": "breng op smaak met zout en peper",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg walnoten, zongedroogde tomaten, linzen, citroensap en peterselie toe",
+          "detail": "giet linzen af voor het toevoegen, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Vet de springvorm in met wat boter of olie, bedek de springvorm met bladerdeeg",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg het prei-linzenmengsel toe aan de springvorm",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Giet het roommengsel over de groente en kruimel feta erover",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bak de preitaart",
+          "detail": "bedek met aluminium folie om te zorgen dat de feta niet verbrandt op 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 40
+        }
+      ]
     }
   ]
 }

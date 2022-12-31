@@ -11524,6 +11524,163 @@
           "time": 40
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/rode-kool-roerbak-met-appel/?share",
+      "id": 86,
+      "title": "Rode Kool Roerbak met Appel",
+      "description": "Dit recept geeft de klassieke combinatie van rode kool en appel een Aziatisch tintje. De rauwe appel voegt op het einde veel frisheid toe. Het is belangrijk om al je voorbereidende werk te doen voordat je begint met koken, omdat het koken zelf heel weinig tijd kost. Gebruik olie met een hoog rookpunt, zoals zonnebloemolie.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/Red-cabbage-stiry-fry.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Maak er een feestje van 🎉",
+      "variationBody": "Garneer met sesamzaadjes! En als je meer tijd hebt, bak er dan wat gemarineerde tempeh bij.",
+      "ingredients": [
+        {
+          "name": "Noedels (soba of wok)",
+          "type": "base",
+          "quantity": 350,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode kool",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Appels (Elstar)",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 6,
+          "quantityType": "el"
+        },
+        {
+          "name": "Azijn (witte wijn)",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Honing",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Chili(vlokken)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Zonnebloemolie",
+          "type": "taste",
+          "quantity": 6,
+          "quantityType": "el"
+        }
+      ],
+      "prepTime": 20,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de gember fijn",
+        "Snij de rode kool in dunne reepjes",
+        "Snij de wortels in dunne schijfjes",
+        "Snij de appel in dunne schijfjes"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "In een kom, meng de saus: sojasaus, pindakaas, azijn, honing",
+          "detail": "voeg een beetje water toe als het te dik is, om een gladde saus te vormen"
+        },
+        {
+          "title": "Kook de noedels",
+          "detail": "according to instructions",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Bak de wortels met de ui",
+          "detail": "op hoog vuur in een wok of grote pan met olie",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg knoflook, gember, chilivlokken en rode kool toe",
+          "detail": "houd het vuur hoog en roer vaak om verbranding te voorkomen, de rode kool wordt zachter maar heeft nog steeds een lichte crunch",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Voeg de pindasaus toe",
+          "detail": "meng",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg de noedels toe",
+          "detail": "meng tot alles goed gemixt is en verwarm",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serveer direct met appel en cashewnoten erop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

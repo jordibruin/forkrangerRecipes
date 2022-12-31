@@ -11681,6 +11681,121 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/nl/geroosterde-wortel-en-aardappel/?share",
+      "id": 87,
+      "title": "Geroosterde Wortel en Aardappel",
+      "description": "Aardappel, wortel en pastinaak zijn een fantastische combinatie. De gekaramelliseerde wortel en krokante aardappel- en pastinaakpartjes zijn heerlijk met mayonaise. De salade voegt wat frisheid en proteïne toe.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/carrot-and-potato-roast-1.jpg",
+      "duration": 50,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Aardappels (vastkokend)",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Pastinaken",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Peer",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Veldsla",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Linzen uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pompoenpitten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mayonnaise",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Olijfolie",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Mosterd",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Balsamico azijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Verwarm de oven voor op 200°C",
+        "Snij de aardappels in partjes",
+        "Snij de wortels doormidden in de lengte",
+        "Snij de pastinaken in partjes",
+        "Halveer de peer en snij in stukjes"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Verdeel de aardappel, pastinaak en wortel over een bakplaat",
+          "detail": "sprenkel er wat olijfolie over, breng op smaak met zout en peper, op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 45
+        },
+        {
+          "title": "Mix ondertussen de veldsla, linzen, peer en pompoenpitten",
+          "detail": "laat de linzen uitlekken voordat je ze toevoegt"
+        },
+        {
+          "title": "In een andere kom, meng de olijfolie, mosterd en balsamico azijn om een salade dressing te vormen",
+          "detail": "breng op smaak met zout en peper",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer de geroosterde aardappel, pastinaak en wortel met mayonaise en de salade",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

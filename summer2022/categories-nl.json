@@ -43,7 +43,8 @@
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/fellowship-of-the-forks.png",
       "backgroundColor": "33787c",
       "buttonColor": "124948",
-      "color": 4
+      "color": 4,
+      "unlockedAfterDailyContentID": 5
     },
     {
       "id": 5,
@@ -52,7 +53,8 @@
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Wild-Waste.png",
       "backgroundColor": "f4a26d",
       "buttonColor": "86512b",
-      "color": 5
+      "color": 5,
+      "unlockedAfterDailyContentID": 6
     },
     {
       "id": 6,
@@ -61,7 +63,8 @@
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
       "backgroundColor": "707070",
       "buttonColor": "2a4551",
-      "color": 5
+      "color": 5,
+      "unlockedAfterDailyContentID": 9
     },
     {
       "id": 7,
@@ -70,7 +73,8 @@
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
       "backgroundColor": "f9c67d",
       "buttonColor": "724e1a",
-      "color": 6
+      "color": 6,
+      "unlockedAfterDailyContentID": 13
     },
     {
       "id": 8,
@@ -79,7 +83,8 @@
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
       "backgroundColor": "8fa9b4",
       "buttonColor": "2a4349",
-      "color": 6
+      "color": 6,
+      "unlockedAfterDailyContentID": 18
     },
     {
       "id": 9,
@@ -88,7 +93,8 @@
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/golden-fields.png",
       "backgroundColor": "f2bc75",
       "buttonColor": "754f13",
-      "color": 6
+      "color": 6,
+      "unlockedAfterDailyContentID": 30
     },
     {
       "id": 10,
@@ -97,7 +103,8 @@
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/vegetable-garden.png",
       "backgroundColor": "326b3e",
       "buttonColor": "0f3a0f",
-      "color": 6
+      "color": 6,
+      "unlockedAfterDailyContentID": 34
     },
     {
       "id": 11,
@@ -106,7 +113,8 @@
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/ocean.png",
       "backgroundColor": "154b7c",
       "buttonColor": "0a283a",
-      "color": 6
+      "color": 6,
+      "unlockedAfterDailyContentID": 41
     }
   ]
 }

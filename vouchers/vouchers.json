@@ -1,0 +1,15 @@
+[
+    {
+        "code": "paprika40",
+        "recipeID": 40
+    },
+    {
+        "code": "bloemkool80",
+        "recipeID": 80
+    },
+    {
+        "code": "verlopencode",
+        "recipeID": 9,
+        "expiresAfter": "16-01-2023"
+    }
+]

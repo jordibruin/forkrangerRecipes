@@ -2510,7 +2510,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Het proces van koffiezetten kan ons ook een meer leren over verspilling in het algemeen 🗑"
+          "title": "Het proces van koffiezetten kan ons ook meer leren over verspilling in het algemeen 🗑"
         },
         {
           "id": 2,
@@ -2530,7 +2530,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Door voedsel te produceren halen we voedingsstoffen uit de bodem. En als we ze niet teruggeven via compost, degradeert de bodem. Ons doel zou moeten zijn om een ‘circle of life’ te creëren, net als in de Lion King.\n\nGebruikt koffiedik bevat nog veel voedingsstoffen. Één klein ding dat je kunt doen, is koffiedik gebruiken als meststof. Strooi het gewoon over de bodem van één van je planten of tuin!",
+            "text": "Door voedsel te produceren halen we voedingsstoffen uit de bodem. En als we ze niet teruggeven via compost, verslechterd de bodem. Ons doel zou moeten zijn om een ‘circle of life’ te creëren, net als in de Lion King.\n\nGebruikt koffiedik bevat nog veel voedingsstoffen. Één klein ding dat je kunt doen, is koffiedik gebruiken als meststof. Strooi het gewoon over de bodem van één van je planten of tuin!",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/coffee-waste-NL.png"
           }
         },
@@ -2584,10 +2584,10 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 1,
-          "subtitle": "De impact van rijst is misschien hoger dan die van pasta, maar hij is nog steeds relatief laag. Voeg dus alsjeblieft geen rijst toe aan de lijst met voedingsmiddelen die je probeert te vermijden en geniet van deze curry 😉"
+          "subtitle": "De impact van rijst is misschien hoger dan die van pasta, maar hij is nog steeds relatief laag. Dus zet rijst alsjeblieft niet op het lijstje van dingen je niet meer mag eten en geniet van deze curry 😉"
         }
       ]
     },
@@ -2634,14 +2634,14 @@
           ],
           "answerExplanation": {
             "text": "Een gezonde bodem bevat veel koolstof en is de basis van leven op aarde. Maar industriële landbouw vernietigt gezonde bodem in alarmerend tempo. Hierdoor komt niet alleen onze voedselproductie in gevaar, maar komt er ook veel CO2 vrij. \n\nHet goede nieuws is dat duurzamere vormen van landbouw de bodem kunnen herstellen. In de volgende stories zullen we ontdekken hoe dit alles verband houdt met onze voedselkeuzes.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/Rice-and-methane-NL.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/carbon-storage-soil-NL.png"
           }
         },
         {
           "id": 4,
           "type": "recipe",
           "recipeID": 7,
-          "subtitle": "Mosterd is een goed bodembedekker: boeren kunnen het gebruiken om de bodem te beschermen en te verbeteren."
+          "subtitle": "Mosterd is een goede bodembedekker: boeren kunnen het gebruiken om de bodem te beschermen en te verbeteren."
         }
       ]
     },
@@ -2722,7 +2722,7 @@
             {
               "id": 0,
               "title": "Om lokale variëteiten van producten te kopen",
-              "correct": false
+              "correct": true
             },
             {
               "id": 1,
@@ -2730,9 +2730,9 @@
               "correct": false
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "Omdat het minder kunstmest nodig heeft",
-              "correct": true
+              "correct": false
             }
           ],
           "answerExplanation": {
@@ -2779,7 +2779,7 @@
               "correct": false
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "Haring 🐟",
               "correct": true
             }
@@ -2793,7 +2793,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 30,
-          "subtitle": "Dit recept is geïnspireerd op een paella, die traditioneel wordt gemaakt met garnalen."
+          "subtitle": "Dit recept is geïnspireerd op paella, die traditioneel wordt gemaakt met garnalen."
         }
       ]
     },
@@ -2828,7 +2828,7 @@
               "correct": true
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "Gebruik van een speciaal type melk",
               "correct": false
             }

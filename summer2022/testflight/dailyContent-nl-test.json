@@ -2494,6 +2494,359 @@
       ]
     },
     {
+      "id": 48,
+      "notificationTitle": "Vandaag: Wild Waste",
+      "notificationText": "Wat koffie ons over ‘the circle of life’ kan leren ☕️ - Recept van de dag: Fruitige Curry met Pinda’s",
+      "home": {
+        "title": "Wat koffie ons over ‘the circle of life’ kan leren",
+        "category": 5
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In een eerdere story van Wild Waste zagen we dat er veel koffie wordt verspild ☕️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Het proces van koffiezetten kan ons ook een meer leren over verspilling in het algemeen 🗑"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waarom zorgt het koffieproces voor veel verspilling?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Maar een klein deel van de vrucht wordt gebruikt",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Veel van de koffievruchten verrotten tijdens het oogsten",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Door voedsel te produceren halen we voedingsstoffen uit de bodem. En als we ze niet teruggeven via compost, degradeert de bodem. Ons doel zou moeten zijn om een ‘circle of life’ te creëren, net als in de Lion King.\n\nGebruikt koffiedik bevat nog veel voedingsstoffen. Één klein ding dat je kunt doen, is koffiedik gebruiken als meststof. Strooi het gewoon over de bodem van één van je planten of tuin!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/coffee-waste-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 5,
+          "subtitle": "Het schillen van groente of fruit is vaak niet nodig en levert afval op. Dit hoeft dus ook niet voor de wortelen en appels die je nodig hebt voor dit recept."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "notificationTitle": "Vandaag: Golden Fields",
+      "notificationText": "De verrassend hoge impact van rijst 🍚 - Recept van de dag: Curry met Aubergine en Tomaten",
+      "home": {
+        "title": "De verrassend hoge impact van rijst",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "De impact van rijst is bijna drie keer zo hoog als die van brood en pasta! 🍚 Waarom?"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Waarom heeft rijst een hoge impact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Transport vanuit Azië naar Europa",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Hoge methaanemissies tijdens de productie",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Maar een klein deel van de plant wordt gebruikt voor consumptie",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Rijst wordt verbouwd in overstroomde rijstvelden. Hierdoor ontstaat een omgeving zonder zuurstof en komt er methaan vrij. Hetzelfde gebeurt ook op een vuilnisstortplaats, vandaar dat voedselverspilling ook methaan kan veroorzaken. \n\nEr zijn manieren om de methaanuitstoot van de rijstproductie te verminderen. Daarom vermeldt Project Drawdown dit als onderdeel van de beste oplossingen voor klimaatverandering.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/Rice-and-methane-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 1,
+          "subtitle": "De impact van rijst is misschien hoger dan die van pasta, maar hij is nog steeds relatief laag. Voeg dus alsjeblieft geen rijst toe aan de lijst met voedingsmiddelen die je probeert te vermijden en geniet van deze curry 😉"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "De ondergewaardeerde kracht van de bodem 🪱 - Recept van de dag: Geroosterde Groente",
+      "home": {
+        "title": "De ondergewaardeerde kracht van de bodem",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Dit is je 50ste story! 🎉 Om dat te vieren introduceren we een van de meest ondergewaardeerde onderwerpen: de bodem."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Lange tijd begrepen we de bodem niet. Het werd alleen gezien als een plek met aarde waar planten op groeien."
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Maar de recente wetenschap heeft ontdekt dat de bodem meer lijkt op een ondergrondse jungle vol leven. Een theelepel gezonde aarde bevat miljarden organismen. 🪱"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "De bodem is belangrijk in klimaatverandering omdat de bodem…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer warmte kan absorberen dan de oceaan ☀️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Meer koolstof vasthoudt dan alle bossen 🌳",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een gezonde bodem bevat veel koolstof en is de basis van leven op aarde. Maar industriële landbouw vernietigt gezonde bodem in alarmerend tempo. Hierdoor komt niet alleen onze voedselproductie in gevaar, maar komt er ook veel CO2 vrij. \n\nHet goede nieuws is dat duurzamere vormen van landbouw de bodem kunnen herstellen. In de volgende stories zullen we ontdekken hoe dit alles verband houdt met onze voedselkeuzes.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/Rice-and-methane-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 7,
+          "subtitle": "Mosterd is een goed bodembedekker: boeren kunnen het gebruiken om de bodem te beschermen en te verbeteren."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Ontdek waarom niet al het gras hetzelfde is 🌱 - Recept van de dag: Oven Polenta",
+      "home": {
+        "title": "Niet al het gras is hetzelfde",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel grasland voor koeien is een specifieke soort dat ‘Engels raaigras’ wordt genoemd 🐄"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Deze grassoort groeit snel en bevat veel voedingsstoffen 🌱 Maar dat gaat wel ten koste van iets..."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is het belangrijkste probleem met het meeste gras voor koeien? 🐄",
+          "subtitle": "als het gaat over Engels raaigras",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Vraagt veel water",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Trekt de verkeerde insecten aan",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Groeit als een monocultuur",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Veel graslanden voor koeien zijn industriële monoculturen. Ze hebben veel kunstmest nodig, beschadigen de grond en hebben geen bloemen of andere diversiteit. Daarom moeten ze eerder worden gezien als industrieparken of groene woestijnen dan als natuur.\n\nHetzelfde geldt voor ‘perfecte’ gazons 😉",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/grass-vs-meadow-NL.jpg"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 11,
+          "subtitle": "Wist je dat maïs ook tot de grasfamilie behoort? Polenta is een poeder gemaakt van maïs."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "notificationTitle": "Vandaag: Vegetable Garden",
+      "notificationText": "De echte reden waarom lokaal voedsel belangrijk is📍 - Recept van de dag: Spruitjes met Appel",
+      "home": {
+        "title": "De echte reden waarom lokaal voedsel belangrijk is",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "‘Eet lokaal’ is een van de meest voorkomende tips om duurzamer te eten 📍 Maar waarom is het belangrijk?"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Wat is een belangrijke reden om lokaal voedsel te kopen?",
+          "subtitle": "de belangrijkste van deze drie",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Om lokale variëteiten van producten te kopen",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Om transport emissies te reduceren",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Omdat het minder kunstmest nodig heeft",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Er zijn ongeveer 7500 appelrassen, maar de meeste supermarkten over de hele wereld hebben allemaal dezelfde Granny Smith en Golden Delicious.\n\nHet is belangrijk om een diversiteit aan groenten en fruit te ondersteunen (we zullen zien waarom in een latere story). Ga dus af en toe naar een boerenmarkt om op de hoogte te blijven van de eettradities van je eigen streek.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/apple-varieties-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 25,
+          "subtitle": "Voor dit recept kun je elke soort lokale zoete appel gebruiken."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "notificationTitle": "Vandaag: Ocean",
+      "notificationText": "Hoe verhoudt vis zich tot ander vlees? 🐟 - Recept van de dag: Spaanse Rijst",
+      "home": {
+        "title": "Hoe verhoudt vis zich tot ander vlees?",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben al veel ontdekt over vlees van landdieren. Tijd om naar ‘zeevlees’ te kijken 🐟"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Welke vissoort heeft de laagste CO2 impact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Zalm 🍣",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Garnalen 🍤",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Haring 🐟",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De CO2 impact van vis is vergelijkbaar met die van kip, maar kleinere vissen zoals ansjovis of haring zijn een betere optie.\n\nAlleen kijken naar CO2 kan misleidend zijn omdat er andere zaken zijn zoals overbevissing. Ook wat dat betreft zijn kleinere vissen of mosselen een betere keuze.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/co2-of-fish-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 30,
+          "subtitle": "Dit recept is geïnspireerd op een paella, die traditioneel wordt gemaakt met garnalen."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Wat je moet weten over yoghurt 🥛 - Recept van de dag: Biryani met Wortel en Bloemkool",
+      "home": {
+        "title": "Wat je moet weten over yoghurt",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Het begrijpen van het productieproces van yoghurt kan ons meer leren over de impact van zuivelproducten 🥛"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Hoe wordt yoghurt dikker dan melk? 🥛",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het verdampen van het water in de melk",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Door toevoeging van speciale bacteriën",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Gebruik van een speciaal type melk",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Yoghurt ontstaat door toevoeging van speciale bacteriën. De bacteriën eten de suikers in de melk op en maken de melk dikker. Door dit proces kun je uit 1 liter melk 1 liter yoghurt halen.\n\nDaarom heeft yoghurt een veel kleinere voetafdruk dan room, kaas of boter, waarvoor veel meer melk nodig is. Over het algemeen kun je stellen dat hoe meer vet een product bevat, hoe meer melk er is gebruikt.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/milk-for-dairy-products-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 48,
+          "subtitle": "Probeer dit recept uit India met yoghurt eens!"
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",

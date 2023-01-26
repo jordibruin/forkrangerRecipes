@@ -2495,6 +2495,359 @@
       ]
     },
     {
+      "id": 48,
+      "notificationTitle": "Today: Wild Waste",
+      "notificationText": "What coffee can teach us about the circle of life ☕️ - Recipe of the day: Peanut Fruit Rice",
+      "home": {
+        "title": "What coffee can teach us about the circle of life",
+        "category": 5
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In an earlier story of Wild Waste we saw that a lot of coffee is wasted ☕️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "The process of making coffee can also teach us a lesson about waste in general 🗑"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Why does the coffee process create a lot of waste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Only a small part of the fruit is used",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "A lot of coffee fruits rot during harvest",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Producing food means taking out nutrients from the soil. If we don’t give them back through compost, the soil degrades. Our goal should be to create a circle of life, just like in the Lion King.\n\nUsed coffee grounds still contain a lot of nutrients. A small thing you can do is using coffee grounds as fertilizer. Just sprinkle them over the soil of one of your plants or garden!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/coffee-waste-.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 5,
+          "subtitle": "Peeling vegetables or fruits is often unnecessary and creates waste. So it’s not needed in the case of carrots and apples you need for this recipe."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "notificationTitle": "Today: Golden Fields",
+      "notificationText": "The surprisingly high footprint of rice 🍚 - Recipe of the day: Aubergine Tomato Curry",
+      "home": {
+        "title": "The surprisingly high footprint of rice",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "The footprint of rice is almost three times higher than bread and pasta! 🍚 Why?"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Why does rice have a high footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Transport from Asia to Europe",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "High methane emissions during production",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Only small part of the plant is used for consumption",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Rice is grown in flooded paddies. This creates an environment without oxygen and releases methane. The same thing also happens on a landfill, which is why food waste can also cause methane.\n\nThere are ways to reduce the methane emissions of rice productions. That’s why Project Drawdown lists this as part of the top solutions for climate change.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/Rice-and-methane.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 1,
+          "subtitle": "The footprint of rice might be higher than pasta, but it’s still relatively low. So please don’t add rice to the list of foods you’re trying to avoid and enjoy this curry 😉"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "notificationTitle": "Today: Underground Jungle",
+      "notificationText": "The underrated power of soil 🪱 - Recipe of the day: Roast Potatoes with Mustard",
+      "home": {
+        "title": "The underrated power of soil",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "This is your 50th story! 🎉 To celebrate that we’re introducing one of the most underrated topics: soil."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "For a long time, we didn’t understand soil. It was only seen like a container of dirt that holds plants. 📦"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "But recent science has discovered that soil is more like an underground jungle full of life. One teaspoon of healthy soil contains billions of organisms. 🪱"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Soil is important for climate change because…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It can absorb more heat than the ocean ☀️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "It stores more carbon than all forests 🌳",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Healthy soil contains a lot of carbon and is the foundation of life. But industrial agriculture is destroying healthy soil at alarming rates. This not only endangers our food production but also releases a lot of CO2.\n\nThe good news is that more sustainable forms of agriculture can restore soil. In following stories we will explore how all of this relates to our food choices.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/carbon-storage-soil.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 7,
+          "subtitle": "Mustard is a good cover crop: farmers can use it to protect and improve the soil. "
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "Discover why not all grass is the same 🌱 - Recipe of the day: Oven Polenta",
+      "home": {
+        "title": "Not all grass is the same",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "A lot of grasslands for cows is a specific variety called ‘perennial ryegrass’ 🐄"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "This type of grass grows fast and has a lot of nutrients 🌱 But it comes at a high cost…"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What’s the main issue with most grass for cows? 🐄",
+          "subtitle": "in relation to perennial ryegrass",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Requires a lot of water",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Attracts the wrong insects",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Grows as monoculture",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Many grasslands for cows are industrial monocultures. They require a lot of fertilizer, damage the soil, and have no flowers or other diversity. Because of this they should be seen as industrial parks or green deserts rather than nature.\n\nThe same is true for those ‘perfect’ lawns 😉",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/grass-vs-meadow-.jpg"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 11,
+          "subtitle": "Did you know that corn also belongs to the grass family? Polenta is a powder made from corn."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "notificationTitle": "Today: Vegetable Garden",
+      "notificationText": "The real reason local food is important 📍 - Recipe of the day: Brussels Sprouts with Apple",
+      "home": {
+        "title": "The real reason local food is important",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "‘Eat local’ is one the most common tips to eat more sustainably 📍 But why is it important? "
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "What is an important reason to buy local food?",
+          "subtitle": "the most important among these three",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "To support local varieties of products",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "To reduce transport emissions",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Because it needs less fertilizer",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "There are around 7500 apple varieties but most supermarkets around the world all have the same Granny Smith and Golden Delicious.\n\nIt is important to support a diversity of vegetables and fruits (we’ll see why in a later story). So go to a farmers’ market from time to time, to stay in touch with the food traditions of your own region.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/apple-varieties.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 25,
+          "subtitle": "For this recipe you can use any kind of local sweet apple."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "notificationTitle": "Today: Ocean",
+      "notificationText": "How does fish compare to other meat? 🐟 - Recipe of the day: Spanish Rice",
+      "home": {
+        "title": "How does fish compare to other meat?",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We’ve already discovered a lot about meat from land animals. Time to look at ‘sea meat’ 🐟"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Which type of fish has the lowest footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Salmon 🍣",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Shrimp 🍤",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Herring 🐟",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The carbon footprint of fish is similar to chicken, but smaller fish like ansjovies or herring are a better option.\n\nOnly looking at CO2 can be misleading because there are other issues like overfishing. Also in that regard, smaller fish or mussels are a better choice.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/co2-of-fish.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 30,
+          "subtitle": "This recipe was inspired by a paella, which is traditionally made with shrimp. "
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "What you should know about yoghurt 🥛 - Recipe of the day: Carrot Cauliflower Biryani",
+      "home": {
+        "title": "What you should know about yoghurt",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Understanding the production process of yoghurt can teach us something about the impact of dairy products 🥛"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "How does yoghurt become thicker than milk? 🥛",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Evoporating the water in the milk",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "By adding special bacteria",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Using a special type of milk",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Yoghurt is created by adding special bacteria. The bacteria eat the sugars and thicken the milk. Through this process you can get 1 liter of yoghurt from 1 liter of milk.\n\nThat’s why yoghurt has a much lower footprint than cream, cheese, or butter, which require a lot more milk. Generally you can say the more fat a product contains, the more milk was used.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/milk-for-dairy-products.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 48,
+          "subtitle": "Try this recipe from India with yoghurt!"
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

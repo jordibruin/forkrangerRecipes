@@ -115,6 +115,16 @@
       "buttonColor": "0a283a",
       "color": 6,
       "unlockedAfterDailyContentID": 41
+    },
+    {
+      "id": 12,
+      "title": "Underground Jungle",
+      "subtitle": "Bodem & Biodiversiteit",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/soil.png",
+      "backgroundColor": "58432e",
+      "buttonColor": "3f2812",
+      "color": 6,
+      "unlockedAfterDailyContentID": 49
     }
   ]
 }

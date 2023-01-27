@@ -69,10 +69,10 @@
     {
       "id": 7,
       "title": "Moo Moo Meadows",
-      "subtitle": "Cheese",
-      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Moo-Moo-Meadows-cheese.png",
-      "backgroundColor": "f9c67d",
-      "buttonColor": "724e1a",
+      "subtitle": "Dairy",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/moo-moo-meadows-2-1.png",
+      "backgroundColor": "67a270",
+      "buttonColor": "3d593d",
       "color": 6,
       "unlockedAfterDailyContentID": 13
     },

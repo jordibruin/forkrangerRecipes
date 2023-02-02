@@ -2848,6 +2848,55 @@
       ]
     },
     {
+      "id": 55,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "How much meat did our grandparents eat? 🥩 - Recipe of the day: Leek and Lentil Quiche",
+      "home": {
+        "title": "How much meat did our grandparents eat?",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Today, the world eats around 5 times more meat than in 1961."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Overall, most of this increase happened in Asia because many people live there. But what if we look at meat consumption per person?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Where did meat consumption increase more?",
+          "subtitle": "per person since 1961",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Europe",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Africa",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europe and North America, meat consumption was already quite high. And then it further increased by one third.\n\nThe EAT Lancet report calculated what a sustainable of meat per person could look like: 16 kg per year. That means Europeans need to go from having meat multiple times a day, to eating meat 2-3 times a week.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/meat-consumption-since-1961.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 85,
+          "subtitle": "A meatless quiche that will convince any meatlover."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

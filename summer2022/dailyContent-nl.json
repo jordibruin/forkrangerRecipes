@@ -2847,6 +2847,55 @@
       ]
     },
     {
+      "id": 55,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Hoeveel vlees aten onze grootouders eigenlijk? 🥩 - Recept van de dag: Hartige Preitaart met Linzen",
+      "home": {
+        "title": "Hoeveel vlees aten onze grootouders eigenlijk?",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Vandaag eten we wereldwijd ongeveer 5 keer meer vlees dan in 1961."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Over het algemeen vond het grootste deel van deze toename plaats in Azië, omdat daar veel mensen wonen. Maar hoe zit het als we kijken naar de vleesconsumptie per persoon?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waar is de vleesconsumptie meer gestegen?",
+          "subtitle": "per persoon sinds 1961",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Europa",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Afrika",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europa en Noord-Amerika was de vleesconsumptie al behoorlijk hoog. En toen nam het verder toe met een derde.\n\nHet EAT Lancet-rapport berekende hoe een duurzame hoeveelheid vlees per persoon eruit zou kunnen zien: 16 kg per jaar. Dat betekent dat Europeanen moeten overstappen van meerdere keren per dag vlees eten naar 2-3 keer per week vlees eten.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/meat-consumption-since-1961-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 85,
+          "subtitle": "Een preitaart zonder vlees die elke vleesliefhebber zal overtuigen."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",

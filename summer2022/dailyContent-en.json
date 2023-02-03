@@ -2978,7 +2978,7 @@
             {
               "id": 0,
               "title": "…makes farming more efficient",
-              "correct": true
+              "correct": false
             },
             {
               "id": 1,
@@ -2988,7 +2988,7 @@
             {
               "id": 2,
               "title": "…creates healthier plants",
-              "correct": false
+              "correct": true
             }
           ],
           "answerExplanation": {

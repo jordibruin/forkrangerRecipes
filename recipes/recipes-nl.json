@@ -11796,6 +11796,139 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "url": "https://www.forkranger.com/nl/knolselderij-zoete-aardappel-stamppot/?share",
+      "id": 88,
+      "title": "Knolselderij Zoete Aardappel Stamppot",
+      "description": "Een typisch Hollands stamppotrecept met een twist: de aardappelpuree wordt gemaakt met zoete aardappels en knolselderij. Na wat snijwerk is het een heel eenvoudig gerecht voor koude dagen. Een lichtzure appel geeft een mooie balans aan de rijke smaak van de champignons.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/celeriac-sweet-potato-mash.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Zoete aardappel",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Knolselderij",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pompoenpitten",
+          "type": "fresh",
+          "quantity": 60,
+          "quantityType": "g"
+        },
+        {
+          "name": "Appel (goudrenet)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 750,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Azijn (witte wijn)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Rode uien",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "(Plantaardige) Boter of margarine",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse tijm",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse rozemarijn",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Schil de zoete aardappels en snij in schijven",
+        "Schil de knolselderij en snij deze in blokjes van 2 cm\n(de volgende stappen kun je ook tijdens het koken doen)",
+        "Snipper uien",
+        "Snij de champignons in kwarten",
+        "Snij de appel in blokjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Kook zoete aardappel, knolselderij, bouillon en rozemarijn",
+          "detail": "voeg deksel toe",
+          "panType": "cookingPan1",
+          "time": 15
+        },
+        {
+          "title": "Bak de champignons, ui en tijm",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "Rooster ondertussen de pompoenpitten in een pan",
+          "detail": "zet daarna opzij",
+          "panType": "fryingPan2",
+          "emoji": "",
+          "tijd": 3
+        },
+        {
+          "title": "Giet de aardappelen en knolselderij af en stamp tot puree",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "tijd": 2
+        },
+        {
+          "title": "Voeg boter, azijn en appel toe",
+          "detail": "breng op smaak met zout en peper, roer door",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "tijd": 2
+        }
+      ]
     }
   ]
 }

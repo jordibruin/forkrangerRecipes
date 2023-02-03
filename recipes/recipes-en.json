@@ -11701,7 +11701,7 @@
       "servings": 4,
       "ingredients": [
         {
-          "name": "Potatoes (waxy)",
+          "name": "Potato (waxy)",
           "type": "base",
           "quantity": 800,
           "quantityType": "g"
@@ -11798,6 +11798,139 @@
           "title": "Serve the roasted potato, parsnip and carrot with mayonnaise and the salad",
           "detail": "",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "potato",
+        "plants"
+      ],
+      "id": 88,
+      "url": "https://www.forkranger.com/celeriac-sweet-potato-mash/?share",
+      "title": "Celeriac Sweet Potato Mash",
+      "description": "A typically Dutch ‘stamppot’ recipe with a twist: the potato mash is made with sweet potatoes and celeriac. After some cutting work it’s a very simple dish for cold days. Using a slightly sour apple gives a great balance to rich taste of the mushrooms.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/11/celeriac-sweet-potato-mash.jpg",
+      "duration": 35,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Sweet potato",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Celeriac",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pumpkin seeds",
+          "type": "fresh",
+          "quantity": 60,
+          "quantityType": "g"
+        },
+        {
+          "name": "Apple (Goudrenet)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 750,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Vinegar (white wine)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Red onions",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "(Plant-based) Butter or margarine",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh thyme",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh rosemary",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 15,
+      "prepSteps": [
+        "Peel and cut the sweet potato into slices",
+        "Peel and cut the celeriac into 2 cm cubes\n(you can also do the next steps while cooking the potato and celeriac)",
+        "Dice onions",
+        "Cut the mushrooms into quarters",
+        "Cut the apple into cubes"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Make bouillon",
+          "detail": ""
+        },
+        {
+          "title": "Cook sweet potato, celeriac, bouillon and rosemary",
+          "detail": "add lid",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Sauté mushrooms, onion and thyme",
+          "detail": "medium/high heat ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 8
+        },
+        {
+          "title": "In the meantime, toast pumpkin seeds",
+          "detail": "set aside when done",
+          "panType": "fryingPan2",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Drain and mash the potatoes and celeriac",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add butter, vinegar and apple",
+          "detail": "season with salt and pepper to taste, mix ",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
         }
       ]
     }

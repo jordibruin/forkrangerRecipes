@@ -2896,6 +2896,217 @@
       ]
     },
     {
+      "id": 56,
+      "notificationTitle": "Vandaag: The Dry Lake",
+      "notificationText": "Weet jij waar het meeste van ons water voor wordt gebruikt? 💦 - Recept van de dag: Aardappel met Pesto uit de Oven",
+      "home": {
+        "title": "Het meeste water wordt gebruikt voor...",
+        "category": 13
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Ook al leven we op een blauwe planeet, zoet water is uiterst zeldzaam. Het meeste is zout water of opgesloten in ijs 🧊"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Om ieder mens van voldoende water te voorzien, moeten we er verantwoordelijk mee omgaan."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waar wordt de minste hoeveelheid water gebruikt?",
+          "subtitle": "wereldwijd",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Bij ons thuis 🚿",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Door industrieën 🏭",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Door landbouw 🚜",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Van al het water dat we onttrekken aan rivieren, meren of ondergrondse opslagplaatsen, wordt 70% gebruikt voor de landbouw. Ons voedsel speelt dus een belangrijke rol bij het goed zorgen voor watervoorziening.\n\nIn sommige Europese landen gebruikt de industrie het meeste water, maar huishoudens hebben meestal het kleinste aandeel.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/water-withdrawals-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 80,
+          "subtitle": "Aardappelen behoren tot de voedselproducten met de laagste watervoetafdruk."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "notificationTitle": "Vandaag: Vegetable Garden",
+      "notificationText": "Biodiversiteit is belangrijk. Maar waarom? 🌼 - Recept van de dag: Curry van rode biet en pompoen",
+      "home": {
+        "title": "De schoonheid van diversiteit",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Stel je een veld vol bloemen voor 🌼 Hoe meer kleuren en diversiteit, hoe mooier het eruit ziet!"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Biodiversiteit is niet alleen mooi voor het oog, maar ook belangrijk voor de landbouw 🧑‍🌾"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Diversiteit op een boerderij is belangrijk. Het...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "… maakt de landbouw efficiënter",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "… vereist minder energie om te oogsten",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "… vereist minder energie om te oogsten",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Als alle appelbomen hetzelfde zijn en één ervan wordt ziek, dan worden ze allemaal ziek en hebben we geen appels. Dit is een groot risico omdat plantenziektes vaker voorkomen bij klimaatverandering.\n\nDiversiteit is één van de belangrijkste kenmerken van een gezond ecosysteem. Het creëert ook meer unieke smaken, ondersteunt lokale voedseltradities en maakt het landschap mooier 🙂",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/why-diversity-is-important-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 57,
+          "subtitle": "A simple way to support diversity is cooking (plant-based) meals with lots of different colors!"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "De schade van kunstmest ☠️ - Recept van de dag: Zoete Aardappel en Biet Plaattaart",
+      "home": {
+        "title": "De schade van kunstmest",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Kunstmest kan op korte termijn de groei van gewassen stimuleren 🌱"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar het ‘leent’ deze productiviteit van de toekomst omdat het de bodem beschadigt ☠️. En dat is niet het enige probleem."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Kunstmest…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "… veroorzaakt 14% van alle voedselemissies ☁️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "… verbruikt 14% van al het zoetwater 💦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We horen vaak over de uitstoot van voedseltransport, maar kunstmest veroorzaakt meer dan het dubbele van de uitstoot.\n\nHet maken van kunstmest kost enorm veel energie. En als het op het veld wordt uitgereden, zetten micro-organismen in de bodem het om in lachgas, wat voor meer uitstoot zorgt.\n\nVaak gebruiken boeren ook te veel kunstmest, waardoor het water ernstig wordt vervuild.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/synthetic-fertilize-remissions-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 81,
+          "subtitle": "Zoals we eerder hebben gezien, zijn peulvruchten goed voor de bodem. Hier gebruiken we hummus als ‘bodem’ van deze heerlijke plaattaart."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "notificationTitle": "Vandaag: The Dry Lake",
+      "notificationText": "Hoe een ‘watervoetafdruk’ werkt 💦 - Recept van de dag: Frisse Wraps met Aubergine",
+      "home": {
+        "title": "Hoe een 'watervoetafdruk' werkt",
+        "category": 13
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Het water dat we gebruiken voor douches of irrigatie komt uit rivieren, meren of ondergrondse opslagplaatsen. Het heet 'blauw water' 🚿"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Voor de landbouw moeten we ook kijken naar ‘groen water’ 💦"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is groen water?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Water dat wordt gebruikt om vervuilende deeltjes op te lossen ☠️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Water opgeslagen in de bodem door regenval 🌧",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Smeltwater van gletsjers 🧊",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Blauw water wordt rechtstreeks uit rivieren, meren of ondergrondse opslag gehaald. Dit is het water dat wordt gebruikt voor douches of irrigatie.\n\nDe landbouw heeft nog een groot ‘verborgen’ aspect van water dat er ook toe doet: groen water. Dit wordt door neerslag in de bodem opgeslagen. Samen creëren ze de watervoetafdruk van een voedingsproduct.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/blue-and-green-water-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 20,
+          "subtitle": "Avocado's zijn erg dorstige planten, dus wilden we heerlijke wraps maken zonder avocado's."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",

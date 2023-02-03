@@ -2848,6 +2848,266 @@
       ]
     },
     {
+      "id": 55,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "How much meat did our grandparents eat? 🥩 - Recipe of the day: Leek and Lentil Quiche",
+      "home": {
+        "title": "How much meat did our grandparents eat?",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Today, the world eats around 5 times more meat than in 1961."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Overall, most of this increase happened in Asia because many people live there. But what if we look at meat consumption per person?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Where did meat consumption increase more?",
+          "subtitle": "per person since 1961",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Europe",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Africa",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europe and North America, meat consumption was already quite high. And then it further increased by one third.\n\nThe EAT Lancet report calculated what a sustainable of meat per person could look like: 16 kg per year. That means Europeans need to go from having meat multiple times a day, to eating meat 2-3 times a week.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/meat-consumption-since-1961.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 85,
+          "subtitle": "A meatless quiche that will convince any meatlover."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "notificationTitle": "Today: The Dry Lake",
+      "notificationText": "Do you know where most of our water is used? 💦 - Recipe of the day: Potato and Pesto Bake",
+      "home": {
+        "title": "Most water is used for…",
+        "category": 13
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Even though we live on a blue planet, fresh water is extremely rare. Most of it is salty or locked away in ice 🧊"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "To provide every human with enough water, we need to use it more responsibly."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Where is the least amount of water used?",
+          "subtitle": "worldwide",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "At home 🚿",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "By industries 🏭",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "By agriculture 🚜",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Of all the water we withdraw from rivers, lakes or underground storage, 70% is used for agriculture. That means our food plays an important role in taking good care of water.\n\nIn some European countries, industry uses the most water but household is usually the smallest share.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/water-withdrawals.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 80,
+          "subtitle": "Potatoes are one of the food products with the lowest water footprint."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "notificationTitle": "Today: Vegetable Garden",
+      "notificationText": "Biodiversity is important. But why? 🌼 - Recipe of the day: Beetroot and Pumpkin Curry",
+      "home": {
+        "title": "The beauty of diversity",
+        "category": 10
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Imagine a field full of flowers 🌼 The more colors and diversity, the more beautiful it looks!"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Biodiversity is not only nice for the eye, but also important for farming 🧑‍🌾"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Diversity on a farm is important because it…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "…makes farming more efficient",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "…requires less energy to harvest",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "…creates healthier plants",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "If all apple trees are the same and one of them gets sick, they all get sick and we don’t have any apples. This is a big risk because plant diseases are more likely with climate change.\n\nDiversity is one of the most important features of a healthy ecosystem. It also creates more unique flavours, supports local food traditions and creates a more beautiful landscape 🙂",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/why-diversity-is-important-2.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 57,
+          "subtitle": "A simple way to support diversity is cooking (plant-based) meals with lots of different colors!"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "notificationTitle": "Today: Underground Jungle",
+      "notificationText": "The damage of chemical fertilizer ☠️ - Recipe of the day: Sweet Potato and Beetroot Tart",
+      "home": {
+        "title": "The damage of chemical fertilizer",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Chemical fertilizer can boost the growth of crops in the short-term 🌱"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But it ‘borrows’ this productivity from the future because it damages the soil ☠️. And that’s not the only issue."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Chemical fertilizer…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "… causes 14% of all food emissions ☁️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "… uses 14% of all fresh water 💦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We often hear about the emissions of food transportation, but fertilizer causes more than double the emissions.\n\nIt costs an enormous amount of energy to manufacture fertilizer. And when it is spread on the field, micro-organisms in the soil convert it to laughing gas, adding even more emissions.\n\nOften farmers also use too much fertilizer, which creates serious water pollution.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/synthetic-fertilize-remissions.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 81,
+          "subtitle": "Like we’ve seen before, legumes are good for the soil. Here we use hummus as the ‘soil’ of these delicious tarts."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "notificationTitle": "Today: The Dry Lake",
+      "notificationText": "How a ‘water footprint’ works 💦 - Recipe of the day: Minty Aubergine Wraps",
+      "home": {
+        "title": "How a ‘water footprint’ works",
+        "category": 13
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "The water we use for showers or irrigation comes from rivers, lakes or underground storage. It’s called ‘blue water’ 🚿"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "For agriculture, we also need to take a look at ‘green water’ 💦"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What is green water?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Water used to dissolve polluting particles ☠️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Water stored in the soil through rainfall 🌧",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Melt water from glaciers 🧊",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Blue water is directly taken from rivers, lakes, or underground storage. This is the water used for showers or irrigation.\n\nAgriculture has another large ‘hidden’ aspect of water that also matters: green water. This is stored in the soil through rainfall. Together they create the water footprint of a food product.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/blue-and-green-water.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 20,
+          "subtitle": "Avocados are very thirsty plants so we wanted to create delicious wraps without the need for avocado."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

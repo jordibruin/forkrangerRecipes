@@ -3108,6 +3108,163 @@
       ]
     },
     {
+      "id": 60,
+      "notificationTitle": "Today: The Harbor",
+      "notificationText": "The footprint of tomatoes in winter 🍅 - Recipe of the day: Chickpea Tajine with Peaches",
+      "home": {
+        "title": "The footprint of tomatoes in winter",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Tomatoes are the most popular vegetable in Europe 🍅. They’re a summer vegetable, but you can now buy them year-round."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "There are several ways in which supermarkets offer tomatoes during cold winter months ❄️"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What type of ‘winter tomato’ has the highest footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Packaged in a can 🥫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Grown in a heated greenhouse 🔥",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Transported from a warm country 🚚",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Of course, seasonal food is the best option. But during winter months, canned food is also a good option. Canned tomatoes are harvested during summer. In the can they remain fresh anda are often tastier than tomatoes from a greenhouse.\n\nIt’s easy to feel decision stress with all these options. Just keep in mind: eating fewer animal products is more important than buying the most sustainable tomato.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/tomatoes-heated-greenhouse.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 61,
+          "subtitle": "These canned ingredients help to create a delicious meal around the celeriac, a ‘forgotten’ vegetable for the winter months."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "notificationTitle": "Today: Underground Jungle",
+      "notificationText": "How legumes improve the soil 🫘 - Recipe of the day: Sweet Potato and Lentil Curry",
+      "home": {
+        "title": "How legumes improve the soil",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "By now you’ve seen that legumes are great for the climate 🫘 Let’s find out how exactly that works."
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "What makes the roots of legumes special?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They allow the soil to store more water 💦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "They add nitrogen to the soil ⚡️",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "They attract worms that improve the soil 🪱",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Nitrogen is a key ingredient for plants. Instead of using nitrogen, legumes ADD it nitrogen to the soil. This happens through a ‘partnership’ with bacteria that like to live around their roots.\n\nThis means that farmers can use legumes instead of nitrogen fertilizer, which saves emissions and has lots of other benefits.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/nitrogen-fixing.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 42,
+          "subtitle": "A delicious curry with lentils to improve the soil!"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "There are millions of pigs in the Netherlands. Where are they? 🐷 - Recipe of the day: Vegetable Jambalaya",
+      "home": {
+        "title": "Hidden pigs",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "The Netherlands uses a star system to show the wellbeing of animals. A meat product can have 0-3 stars ⭐️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Only the pigs with 2 or 3 stars live in a stable where they can go outside 🐷"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How many of the pigs in the Netherlands never come outside? ",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "33%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "66%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "99%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Unfortunately it is very difficult to find 2-3 star pork. The animal welfare of pigs is a serious issue.\n\nWe often see cows in the fields, while pigs are hidden out of sight. You never see them, even though there are way more pigs than cows in the Netherlands and the EU.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/pigs-space.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 45,
+          "subtitle": "Smoked paprika powder is an excellent way to replace the taste of bacon of other meat."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

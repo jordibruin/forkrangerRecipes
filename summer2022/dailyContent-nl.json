@@ -3107,6 +3107,163 @@
       ]
     },
     {
+      "id": 60,
+      "notificationTitle": "Vandaag: The Harbor",
+      "notificationText": "De impact van tomaten in de winter 🍅 - Recept van de dag: Kikkererwten Tajine met Perziken",
+      "home": {
+        "title": "De impact van tomaten in de winter",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Tomaten zijn de populairste groente van Europa 🍅. Het is een zomergroente, maar je kunt ze tegenwoordig jaarrond kopen."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Er zijn meerdere manieren waarop supermarkten tomaten aanbieden tijdens de koude wintermaanden ❄️"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welk type ‘wintertomaat’ heeft de grootste impact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Verpakt in een blik 🥫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Gekweekt in een verwarmde kas 🔥",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Getransporteerd vanuit een warm land 🚚",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Natuurlijk is seizoensgebonden eten de beste optie. Maar tijdens de wintermaanden is ingeblikt voedsel ook een goede optie. Tomaten in blik worden in de zomer geoogst. In blik blijven ze vers en zijn vaak lekkerder dan tomaten uit de kas.\n\nHet is gemakkelijk om je besluiteloos te voelen met al deze opties. Bedenk dan: minder dierlijke producten eten is belangrijker dan de meest duurzame tomaat kopen.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/tomatoes-heated-greenhouse-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 61,
+          "subtitle": "Deze ingeblikte ingrediënten creëren een heerlijke maaltijd rond de knolselderij, een ‘vergeten’ groente voor de wintermaanden."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "Hoe peulvruchten de bodem verbeteren 🫘 - Recept van de dag: Zoete Aardappel en Linzen Curry",
+      "home": {
+        "title": "Hoe peulvruchten de bodem verbeteren",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Je hebt inmiddels gezien dat peulvruchten goed zijn voor het klimaat 🫘. Laten we eens kijken hoe dat precies werkt."
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Wat maakt de wortels van peulvruchten bijzonder?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ze zorgen ervoor dat de grond meer water kan opslaan 💦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Ze voegen stikstof toe aan de bodem ⚡️",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Ze trekken wormen aan die de grond verbeteren 🪱",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Stikstof is een belangrijk ingrediënt voor planten. In plaats van stikstof te gebruiken, voegen peulvruchten stikstof toe aan de grond. Dit gebeurt door een samenwerking met bacteriën die graag rond hun wortels leven.\n\nDit betekent dat boeren peulvruchten kunnen gebruiken in plaats van kunstmest. En dat bespaart emissies en heeft tal van andere voordelen.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/nitrogen-fixing-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 42,
+          "subtitle": "Een heerlijke curry met linzen om de bodem te verbeteren!"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Er zijn miljoenen varkens in Nederland. Waar zijn ze? 🐷 - Recept van de dag: Groente Jambalaya",
+      "home": {
+        "title": "Verborgen varkens",
+        "category": 1
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Nederland gebruikt Beter Leven sterren om het welzijn van dieren in beeld te brengen. Een vleesproduct kan 0-3 sterren hebben ⭐️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Alleen de varkens met 2 of 3 sterren leven in een stal waar ze naar buiten kunnen 🐷"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoeveel van de varkens in Nederland komen nooit buiten? 🐖",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "33%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "66%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "99%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Helaas is het erg moeilijk om varkensvlees met 2-3 sterren te vinden. Het dierenwelzijn van varkens is een serieus probleem.\n\nWe zien vaak koeien in de wei, terwijl varkens uit het zicht zijn weggestopt. Je ziet ze nooit, terwijl er in Nederland en de EU veel meer varkens dan koeien zijn.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/pigs-space-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 45,
+          "subtitle": "Gerookt paprikapoeder is een uitstekende manier om de smaak van spek van ander vlees te vervangen."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",

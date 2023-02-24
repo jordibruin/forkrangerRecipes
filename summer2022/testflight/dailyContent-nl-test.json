@@ -3313,7 +3313,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 86,
-          "subtitle": "Een recept met appels, één van de producten die je gemakkelijk kunt kopen in de biologische versie."
+          "subtitle": "Een recept met appels, één van de producten die je gemakkelijk biologisch kunt kopen."
         }
       ]
     },
@@ -3339,12 +3339,12 @@
         {
           "id": 2,
           "type": "text",
-          "title": "Er wordt bos gekapt om ruimte te maken voor plantages 🪓 Één van de oplossingen is ‘agroforestry’."
+          "title": "Daardoor wordt er bos gekapt om ruimte te maken voor plantages 🪓 Één van de oplossingen is ‘agroforestry’."
         },
         {
           "id": 3,
           "type": "question",
-          "title": "Bomen kappen op een duurzame manier",
+          "title": "Wat is agroforestry?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -3364,7 +3364,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Agroforestry is het combineren van voedselproductie met bos. Dat maakt het mogelijk om koffieplantages om te zetten in bossen. De kwaliteit verbetert ook omdat er meer schaduw is.\n\nDe beste manier om dit soort producten te vinden, is door hoogwaardige single origin koffie of chocolade te kopen. Hierdoor is er meer transparantie over waar het vandaan komt en ook vaker duurzaam en eerlijk.",
+            "text": "Agroforestry is het combineren van voedselproductie met bos. Dat maakt het mogelijk om koffieplantages om te zetten in bossen. De kwaliteit verbetert ook omdat er meer schaduw is.\n\nDe beste manier om dit soort producten te vinden, is door hoogwaardige single origin koffie of chocolade te kopen. Hierdoor is er meer transparantie over waar het vandaan komt en verhoogt de kans dat het duurzaam en eerlijk verbouwd werd.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/agroforestry-NL-1.png"
           }
         },
@@ -3398,7 +3398,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Welk voedsel heeft de meeste eiwitten? 💪",
+          "title": "Welk product heeft de meeste eiwitten? 💪",
           "subtitle": "per 100 g",
           "answerOptions": [
             {

@@ -3296,12 +3296,12 @@
             },
             {
               "id": 1,
-              "title": "Creating bigger farms to save money 💰",
+              "title": "Using chemicals to grow the most food possible 🧪",
               "correct": true
             },
             {
               "id": 2,
-              "title": "What is industrial agriculture?",
+              "title": "Creating bigger farms to save money 💰",
               "correct": false
             }
           ],
@@ -3345,7 +3345,7 @@
         {
           "id": 3,
           "type": "question",
-          "title": "Cutting trees in a sustainable way",
+          "title": "What does sustainable coffee look like?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -3383,7 +3383,7 @@
       "notificationText": "Here are some easy ways to add extra protein 💪 - Recipe of the day: Celeriac Sweet Potato Mash",
       "home": {
         "title": "The easiest way to add more protein",
-        "category": 3
+        "category": 6
       },
       "pages": [
         {
@@ -3426,7 +3426,7 @@
         {
           "id": 3,
           "type": "recipe",
-          "recipeID": 65,
+          "recipeID": 88,
           "subtitle": "The pumpkin seeds in this recipe provide some extra protein and crunch."
         }
       ]
@@ -3437,7 +3437,7 @@
       "notificationText": "The story of farmed fish 🐟 - Recipe of the day: Mushroom Ginger Noodle Soup",
       "home": {
         "title": "The story of farmed fish",
-        "category": 3
+        "category": 11
       },
       "pages": [
         {

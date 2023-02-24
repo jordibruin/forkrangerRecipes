@@ -3264,6 +3264,227 @@
       ]
     },
     {
+      "id": 63,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "Wat is biologische landbouw? 👩‍🌾 - Recept van de dag: Rode Kool Roerbak met Appel",
+      "home": {
+        "title": "Wat is biologische landbouw?",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Biologisch eten is niet alleen een label maar ook een mentaliteit. 🤓"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Om biologische landbouw beter te begrijpen, moeten we het vergelijken met industriële landbouw."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is industriële landbouw?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Technologie gebruiken in plaats van dieren 🚜",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Chemicaliën gebruiken om zoveel mogelijk voedsel te verbouwen 🧪",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Grotere boerderijen creëren om geld te besparen 💰",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Bij industriële landbouw draait alles om output: meer voedsel van het land halen, met alle mogelijke middelen. Dit maakt de voedselproductie zeer efficiënt, maar het vernietigt tegelijkertijd de bodem waarvan we afhankelijk zijn.\n\nBiologische landbouw gaat over het bewaren van de balans tussen een gezonde bodem en voedselproductie. Daarom gebruikt het wisselteelt, mest en compost.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/definition-of-organic-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 86,
+          "subtitle": "Een recept met appels, één van de producten die je gemakkelijk biologisch kunt kopen."
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "Hoe ziet duurzame koffie er uit? ☕️ - Recept van de dag: Tagliatelle met Witte Wijn en Champignons",
+      "home": {
+        "title": "Hoe ziet duurzame koffie er uit?",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Koffie en cacao groeien oorspronkelijk in de schaduw van het bos 🌳"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar om de productie te verhogen, verbouwen veel boerderijen nu koffie of cacao direct in de zon ☀️"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Daardoor wordt er bos gekapt om ruimte te maken voor plantages 🪓 Één van de oplossingen is ‘agroforestry’."
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat is agroforestry?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Voedsel verbouwen tussen bomen",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Landbouwgrond omzetten in bossen",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Bomen kappen op een duurzame manier",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Agroforestry is het combineren van voedselproductie met bos. Dat maakt het mogelijk om koffieplantages om te zetten in bossen. De kwaliteit verbetert ook omdat er meer schaduw is.\n\nDe beste manier om dit soort producten te vinden, is door hoogwaardige single origin koffie of chocolade te kopen. Hierdoor is er meer transparantie over waar het vandaan komt en verhoogt de kans dat het duurzaam en eerlijk verbouwd werd.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/agroforestry-NL-1.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 58,
+          "subtitle": "Dit recept bevat walnoten. En aangezien die van bomen komen, kunnen ze ook afkomstig zijn van agroforestry-systemen."
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "notificationTitle": "Vandaag: Muscle Mountain",
+      "notificationText": "Hier zijn enkele eenvoudige manieren om extra eiwitten toe te voegen 💪 - Recept van de dag: Knolselderij Zoete Aardappel Stamppot",
+      "home": {
+        "title": "De makkelijkste manier om meer eiwitten toe te voegen",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Noten en peulvruchten zijn een geweldige bron van eiwitten 🫘🥜"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Vooral omdat je ze gemakkelijk aan elke maaltijd kunt toevoegen."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welk product heeft de meeste eiwitten? 💪",
+          "subtitle": "per 100 g",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Walnoten",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Linzen",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Pompoenpitten",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "We ontdekten al dat de meeste mensen zich te veel zorgen maken over eiwitten. Maar als je volledig plantaardig eet, is het handig om te weten welke voedingsmiddelen eiwit toevoegen aan je maaltijd.\n\nEen handvol pompoen- of zonnebloempitten is een geweldige manier om wat extra eiwitten toe te voegen. Ze zorgen ook voor een smakelijke crunch bij elke maaltijd, van yoghurt tot rijst en pasta.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/protein_hacks-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 88,
+          "subtitle": "De pompoenpitten in dit recept zorgen voor wat extra eiwit en crunch."
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "notificationTitle": "Vandaag: Ocean",
+      "notificationText": "Het verhaal van gekweekte vis 🐟 - Recept van de dag: Champignon Gember Noedelsoep",
+      "home": {
+        "title": "Het verhaal van gekweekte vis",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Voordat de mens begon met landbouw, jaagden we op wilde dieren voor vlees 🏹. Dit veroorzaakte het uitsterven van veel grote zoogdieren zoals de mammoet."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Vissen is als jagen 🎣. En daardoor worden veel vissen bedreigd. Als oplossing - zoals we deden met dieren op het land - zijn we begonnen met viskwekerijen."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat hebben kweekvis en vlees met elkaar gemeen? 🐟🐖",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ze eten alleen planten (herbivoren)",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Ze zijn gedomesticeerd",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Er is land nodig om hun voer te verbouwen",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Gekweekte vis veroorzaakt dezelfde problemen als vlees: er is veel land voor nodig om de dieren te voeden. Soms vangen boerderijen zelfs wilde vis om als voer te gebruiken. Over het algemeen is het in het water hetzelfde probleem als op het land: we willen producten eten die veel voer nodig hebben.\n\nIn plaats daarvan moeten we voedsel met een lagere impact eten. Noten en peulvruchten van het land. Mosselen, kleinere vissen zoals haring en zeewier uit de oceaan.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/fish-feed-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 64,
+          "subtitle": "Gekweekte vis wordt gevoerd met soja. Het is beter om het zelf te eten zoals in dit recept, waar we tofu gebruiken."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",

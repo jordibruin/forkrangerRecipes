@@ -3521,7 +3521,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Gekweekte vis veroorzaakt dezelfde problemen als vlees: er is veel land voor nodig om de dieren te voeden. Soms vangen boerderijen zelfs wilde vis om als voer te gebruiken. Over het algemeen is het in het water hetzelfde probleem als op het land: we willen producten eten die veel voer nodig hebben.\n\nIn plaats daarvan moeten we voedsel met een lagere impact eten. Noten en peulvruchten van het land. Mosselen, kleinere vissen zoals haring en zeewier uit de oceaan.",
+            "text": "Biologische landbouw heeft veel voordelen, maar er is één nadeel: er is wat meer land voor nodig. Dus als we dezelfde hoeveelheid vlees willen blijven eten, zouden we nog meer land moeten gebruiken om het veevoer te verbouwen.\n\nDe oplossing is minder vlees en zuivel eten. Hierdoor komt veel landbouwgrond vrij die we kunnen gebruiken voor biologische landbouw.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/impact-of-organic-NL.png"
           }
         },
@@ -3538,7 +3538,7 @@
       "notificationTitle": "Vandaag: Moo Moo Meadows\n",
       "notificationText": "Wat is de impact van het gebruik van sojaroom? 🐄 - Recept van de dag: Romige Pasta met Peer",
       "home": {
-        "title": "Wat is de impact van het gebruik van sojaroom? 🐄 - Recept van de dag: Romige Pasta met Peer",
+        "title": "Wat is de impact van het gebruik van sojaroom?",
         "category": 7
       },
       "pages": [
@@ -3575,7 +3575,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Koken met 250 ml sojaroom in plaats van zuivelroom is evenveel als de impact van 400 gram pasta! Dat is meer dan we dachten.\n\nMaar als je het niet kunt vinden in je plaatselijke winkel, voel je er dan niet al te slecht over. Voor iedereen die een stapje extra wil en kan doen, is koken met plantaardige room een stap waard.",
+            "text": "Koken met 250 ml sojaroom in plaats van zuivelroom is evenveel als de impact van 400 gram pasta! Dat is meer dan we dachten.\n\nMaar als je het niet kunt vinden in je plaatselijke winkel, voel je er dan niet al te slecht over. Voor iedereen die een stapje extra wil en kan doen, is koken met plantaardige room de moeite waard.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/dairy-vs-soy-cream-NL.png"
           }
         },
@@ -3604,7 +3604,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Terwijl de meeste palmolie in Azië als frituurolie wordt gebruikt, importeert Europa ook 20% van de palmolie in de wereld 🌴"
+          "title": "Terwijl de meeste palmolie in Azië als (frituur)olie voor voedsel wordt gebruikt, importeert Europa ook 20% van de palmolie in de wereld 🌴"
         },
         {
           "id": 2,
@@ -3646,7 +3646,7 @@
       "notificationTitle": "Vandaag: Ocean",
       "notificationText": "Wat je over watervervuiling moet weten ☠️ Recept van de dag: Thaise Pinda Curry",
       "home": {
-        "title": "Dead zones in het water",
+        "title": "Dood water",
         "category": 11
       },
       "pages": [

@@ -3530,7 +3530,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 36,
-          "subtitle": "For wheat products usually a lot of chemical fertilizer is used, so buying organic pasta is a great choice."
+          "subtitle": "Wheat products usually require a lot of chemical fertilizer, so buying organic pasta is a great choice."
         }
       ]
     },
@@ -3689,7 +3689,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "In Europe and the US, most of the pollution comes from agriculture. In other regions it also comes from wastewater.\n\nThe products with the highest pollution are meat and dairy. That’s because their feed requires so much fertilizer. And because of the high-energy feed, their poop is then also full extra nutrients and causes pollution.",
+            "text": "In Europe and the US, most of the pollution comes from agriculture. In other regions it also comes from wastewater.\n\nThe products with the highest pollution are meat and dairy. That’s because their feed requires so much fertilizer. And because of the high-energy feed, their poop is then also full of extra nutrients and causes pollution.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/eutrophication.png"
           }
         },

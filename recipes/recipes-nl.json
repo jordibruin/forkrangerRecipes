@@ -8752,13 +8752,13 @@
       "variationBody": "Kan je geen sugar snaps uit de diepvries vinden? Kies dan sperziebonen uit de diepvries. Voeg ze direct met de bouillon toe omdat ze een iets langere kooktijd hebben.",
       "ingredients": [
         {
-          "name": "volkoren",
+          "name": "Noedels (volkoren)",
           "type": "base",
           "quantity": 250,
           "quantityType": "g"
         },
         {
-          "name": "paddenstoelen",
+          "name": "Bouillon (paddenstoelen)",
           "type": "fresh",
           "quantity": 1.5,
           "quantityType": "L"
@@ -11399,9 +11399,7 @@
       ]
     },
     {
-      "filter": [
-
-      ],
+      "filter": [],
       "url": "https://www.forkranger.com/nl/hartige-preitaart-met-linzen/?share",
       "id": 85,
       "title": "Hartige Preitaart met Linzen",

@@ -3485,6 +3485,222 @@
       ]
     },
     {
+      "id": 67,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "De impact van biologisch eten 🌱 - Recept van de dag: Caponata",
+      "home": {
+        "title": "De impact van biologisch eten",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Een Franse studie toonde aan dat biologische producten je klimaatimpact verkleinen. Maar er is iets dat je niet over het hoofd moet zien…"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Biologisch eten verkleint je klimaatimpact alleen als je ook...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "...bij kleine boerderijwinkels koopt 👩‍🌾",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "...minder vlees en zuivel eet 🥩",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "...seizoensgebonden eet 🍁",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Gekweekte vis veroorzaakt dezelfde problemen als vlees: er is veel land voor nodig om de dieren te voeden. Soms vangen boerderijen zelfs wilde vis om als voer te gebruiken. Over het algemeen is het in het water hetzelfde probleem als op het land: we willen producten eten die veel voer nodig hebben.\n\nIn plaats daarvan moeten we voedsel met een lagere impact eten. Noten en peulvruchten van het land. Mosselen, kleinere vissen zoals haring en zeewier uit de oceaan.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/impact-of-organic-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 36,
+          "subtitle": "Voor tarweproducten wordt meestal veel kunstmest gebruikt, dus het kopen van biologische pasta is een goede keuze."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "notificationTitle": "Vandaag: Moo Moo Meadows\n",
+      "notificationText": "Wat is de impact van het gebruik van sojaroom? 🐄 - Recept van de dag: Romige Pasta met Peer",
+      "home": {
+        "title": "Wat is de impact van het gebruik van sojaroom? 🐄 - Recept van de dag: Romige Pasta met Peer",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Misschien is het je opgevallen dat we ‘(soja)room’ vermelden in onze recepten."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Het betekent dat we de keuze aan jou laten: gebruik sojaroom of zuivelroom 🐄"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Maar we begonnen ons af te vragen: wat is het verschil? Dus berekenden we de impact voor onze ‘Creamy Pear Pasta’ 🍝"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Zuivelroom vervangen door sojaroom scheelt evenveel CO2-uitstoot als…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "De pasta weglaten 🍝 (520 g CO2)",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "De peren weglaten 🍐 (280 g CO2)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Koken met 250 ml sojaroom in plaats van zuivelroom is evenveel als de impact van 400 gram pasta! Dat is meer dan we dachten.\n\nMaar als je het niet kunt vinden in je plaatselijke winkel, voel je er dan niet al te slecht over. Voor iedereen die een stapje extra wil en kan doen, is koken met plantaardige room een stap waard.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/dairy-vs-soy-cream-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 40,
+          "subtitle": "Je kunt ook andere plantaardige kookroom gebruiken, maar wij vinden sojaroom het lekkerst."
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "notificationTitle": "Vandaag: Fading Forest",
+      "notificationText": "Wat Europa moet doen aan palmolie 🌴 - Recept van de dag: Indonesische Spicy Spitskool",
+      "home": {
+        "title": "Wat Europa moet doen aan palmolie",
+        "category": 3
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Zoals we ontdekten in de ‘Fading Forest’, is palmolie een grote oorzaak van ontbossing 🪓"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Terwijl de meeste palmolie in Azië als frituurolie wordt gebruikt, importeert Europa ook 20% van de palmolie in de wereld 🌴"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waar wordt de meeste palmolie voor gebruikt in de EU?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Biobrandstof",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Voedsel",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Cosmetica",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het grootste deel van de palmolie in de EU wordt gebruikt als biobrandstof. Het goede nieuws is dat het in 2030 uitgefaseerd zal zijn. Toch is het de vraag waardoor het vervangen gaat worden.\n\nHier moeten we een conclusie trekken die niet over eten gaat: ga fietsen of neem vaker het openbaar vervoer in plaats van de auto!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/palm_oil_in_europe-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 43,
+          "subtitle": "Een eerbetoon aan Indonesië, waar de meeste palmolie vandaan komt."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "notificationTitle": "Vandaag: Ocean",
+      "notificationText": "Wat je over watervervuiling moet weten ☠️ Recept van de dag: Thaise Pinda Curry",
+      "home": {
+        "title": "Dead zones in het water",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Vandaag gaan we kijken naar ‘eutrofiëring’. Het is een proces waarbij rivieren, meren en de oceaan vervuild raken 🌊"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Het begint wanneer water te veel voedingsstoffen bevat. Dit veroorzaakt de groei van algen aan de oppervlakte en blokkeert zonlicht 🦠"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Uiteindelijk stikken planten en vissen en sterven ze ☠️"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Waar komen de vervuilende voedingsstoffen vandaan?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Voedselverspilling",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Kunstmest",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Bootbrandstof",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europa en de VS is de meeste vervuiling afkomstig van de landbouw. In andere regio's komt het ook van afvalwater.\n\nDe producten met de hoogste vervuiling zijn vlees en zuivel. Dat komt omdat hun voer zoveel kunstmest nodig heeft. En door het energierijke voer zit hun poep dan ook vol extra voedingsstoffen en zorgt voor vervuiling.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/eutrophication-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 41,
+          "subtitle": "De beste manier om deze watervervuiling te verminderen is plantaardiger eten. Daarvoor zijn curries altijd handig!\n"
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",

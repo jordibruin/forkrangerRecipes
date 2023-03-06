@@ -584,6 +584,16 @@
     ]
   },
   {
+    "code": "weekzondervlees",
+    "expiresAfter": "13-03-2023",
+    "recipeIDs": [
+      56,
+      2,
+      55,
+      68
+    ]
+  },
+  {
     "code": "verlopencode",
     "recipeIDs": [
       9

@@ -4394,6 +4394,12 @@
       "filter": [
         "rice"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "id": 30,
       "url": "https://forkranger.com/nl/spaanse-rijst/?share",
       "title": "Spaanse Rijst",
@@ -4538,6 +4544,14 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/pindanoedels/?share",
       "id": 31,
       "title": "Pindanoedels",
@@ -4680,6 +4694,18 @@
         "quick",
         "spicy",
         "plants"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://forkranger.com/nl/nasi-goreng/?share",
       "id": 32,
@@ -4830,6 +4856,12 @@
         "potato",
         "pasta"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "id": 33,
       "url": "https://forkranger.com/nl/romige-gnocchi/?share",
       "title": "Romige Gnocchi",
@@ -4975,6 +5007,13 @@
         "potato",
         "plants"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/chickpea-wat/?share",
       "id": 34,
       "title": "Chickpea Wat",
@@ -5114,6 +5153,18 @@
         "quick",
         "pasta"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://forkranger.com/nl/lazy-tortellini/?share",
       "id": 35,
       "title": "Lazy Tortellini",
@@ -5214,6 +5265,12 @@
       "filter": [
         "plants",
         "pasta"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/caponata/?share",
       "id": 36,
@@ -5335,6 +5392,12 @@
       "filter": [
         "potato"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/aardappels-uit-de-oven-met-pesto/?share",
       "id": 37,
       "title": "Aardappels uit de Oven met Pesto",
@@ -5450,6 +5513,11 @@
       "filter": [
         "potato",
         "plants"
+      ],
+      "seasonalInfo": [
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/low-impact-bbq/?share",
       "id": 38,
@@ -5588,6 +5656,12 @@
         "pasta",
         "plants"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/spaghetti-met-knoflook-en-limoen/?share",
       "id": 39,
       "title": "Spaghetti met Knoflook en Limoen",
@@ -5722,6 +5796,13 @@
         "pasta",
         "fruity",
         "plants"
+      ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/romige-pasta-met-peer/?share",
       "id": 40,
@@ -5868,6 +5949,12 @@
     {
       "filter": [
         "rice"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/thaise-pinda-curry/?share",
       "id": 41,
@@ -6039,6 +6126,15 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/curry-met-zoete-aardappel-en-linzen/?share",
       "id": 42,
       "title": "Curry met Zoete Aardappel en Linzen",
@@ -6196,6 +6292,16 @@
         "spicy",
         "plants"
       ],
+      "seasonalInfo": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://forkranger.com/nl/indonesische-spicy-spitskool/?share",
       "id": 43,
       "title": "Indonesische Spicy Spitskool",
@@ -6345,6 +6451,12 @@
       "filter": [
         "pasta"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/tagliatelle-met-pesto-rosso/?share",
       "id": 44,
       "title": "Tagliatelle met Pesto Rosso",
@@ -6474,6 +6586,12 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/vegetable-jambalaya/?share",
       "id": 45,
       "title": "Groente Jambalaya",
@@ -6598,6 +6716,14 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
       "url": "https://forkranger.com/nl/nut-roast/?share",
       "isSpecial": true,
       "id": 46,
@@ -6703,6 +6829,16 @@
     {
       "filter": [
         "potato"
+      ],
+      "seasonalInfo": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://forkranger.com/nl/romige-spitskool-stamppot/?share",
       "id": 47,
@@ -6831,6 +6967,17 @@
       "filter": [
         "rice",
         "plants"
+      ],
+      "seasonalInfo": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
       ],
       "url": "https://forkranger.com/nl/biryani-met-wortel-en-bloemkool/?share",
       "id": 48,
@@ -6988,6 +7135,12 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/fajitas-met-zwarte-bonen/?share",
       "id": 49,
       "title": "Fajitas met Zwarte Bonen",
@@ -7124,6 +7277,14 @@
       "filter": [
         "plants",
         "potato"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/zoete-aardappel-stamppot-met-zuurkool/?share",
       "id": 50,
@@ -7267,6 +7428,14 @@
         "plants",
         "pasta"
       ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/easy-pesto-lasagne/?share",
       "id": 51,
       "title": "Easy Pesto Lasagne",
@@ -7381,6 +7550,13 @@
       "filter": [
         "fruity"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/couscous-met-venkel-en-sinaasappel/?share",
       "id": 52,
       "title": "Couscous met Venkel en Sinaasappel",
@@ -7479,6 +7655,12 @@
       "filter": [
         "plants",
         "pasta"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/pasta-met-aubergine-en-champignons/?share",
       "id": 53,
@@ -7609,6 +7791,14 @@
         "fruity",
         "spicy"
       ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/sweet-chili/",
       "id": 54,
       "title": "Sweet Chili",
@@ -7734,6 +7924,15 @@
       "filter": [
         "plants",
         "fruity"
+      ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/kokosdahl/?share",
       "id": 55,
@@ -7882,6 +8081,14 @@
         "fruity",
         "pasta"
       ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/noedels-met-sinaasappelsap/?share",
       "id": 56,
       "title": "Noedels met Sinaasappelsap",
@@ -8007,6 +8214,11 @@
     {
       "filter": [
         "plants"
+      ],
+      "seasonalInfo": [
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/curry-met-biet-en-pompoen/?share",
       "id": 57,
@@ -8150,6 +8362,18 @@
         "plants",
         "pasta"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://forkranger.com/nl/tagliatelle-met-witte-wijn-en-champignons/?share",
       "id": 58,
       "title": "Tagliatelle met Witte Wijn en Champignons",
@@ -8275,6 +8499,12 @@
     {
       "filter": [
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/gevulde-paprikas/?share",
       "id": 59,
@@ -8405,6 +8635,14 @@
       "filter": [
         "plants",
         "rice"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/jackfruit-rendang-stoof/?share",
       "id": 60,
@@ -8562,6 +8800,16 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://forkranger.com/nl/kikkererwten-tajine-met-perziken/?share",
       "id": 61,
       "title": "Kikkererwten Tajine met Perziken",
@@ -8690,6 +8938,12 @@
     {
       "filter": [
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/wraps-met-courgette-en-perzik/?share",
       "id": 62,
@@ -8834,6 +9088,12 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://www.forkranger.com/nl/pitabroodjes-met-champignons/",
       "id": 63,
       "title": "Pitabroodjes met Champignons",
@@ -8955,6 +9215,14 @@
     {
       "filter": [
         "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://www.forkranger.com/nl/champignon-gember-noedelsoep/?share",
       "id": 64,
@@ -9094,6 +9362,20 @@
         "plants",
         "pasta"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://www.forkranger.com/nl/farfelle-primavera/?share",
       "id": 65,
       "title": "Farfalle Primavera",
@@ -9228,6 +9510,13 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://www.forkranger.com/nl/penne-met-mozarella-en-rucola/?share",
       "id": 66,
       "title": "Penne met Mozarella en Rucola",
@@ -9344,6 +9633,14 @@
       "filter": [
         "pasta",
         "quick"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://www.forkranger.com/nl/roze-pasta/?share",
       "id": 67,
@@ -9477,6 +9774,12 @@
       "filter": [
         "rice",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://www.forkranger.com/nl/citroenrijst/?share",
       "id": 68,
@@ -9622,6 +9925,12 @@
       "filter": [
         "rice",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://www.forkranger.com/nl/linzen-en-tomaten-curry/?share",
       "id": 69,
@@ -9772,6 +10081,15 @@
       "filter": [
         "pasta"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://www.forkranger.com/nl/spruitjes-met-boerenkool-en-appel/?share",
       "id": 70,
       "title": "Spruitjes met Boerenkool en Appel",
@@ -9909,6 +10227,20 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://www.forkranger.com/crunchy-noodles-with-mushrooms/?share",
       "id": 71,
       "title": "Crunchy Noedels met Champignons",
@@ -10028,6 +10360,18 @@
       "filter": [
         "plants",
         "rice"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/romige-rijst-met-bieten/?share",
       "id": 72,
@@ -10155,6 +10499,18 @@
       "filter": [
         "potato"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://www.forkranger.com/nl/aardappel-frittata/?share",
       "id": 73,
       "title": "Aardappel Frittata",
@@ -10273,6 +10629,16 @@
       "filter": [
         "plants",
         "fruity"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/kikkererwtenstoof-met-abrikoos/?share",
       "id": 74,
@@ -10411,6 +10777,18 @@
         "quick",
         "pasta"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://www.forkranger.com/nl/tortellini-met-tomatenpesto/?share",
       "id": 75,
       "title": "Tortellini met Tomatenpesto",
@@ -10509,6 +10887,15 @@
     {
       "filter": [
         "potato"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/geroosterde-witlof-met-honing/?share",
       "id": 76,
@@ -10613,6 +11000,20 @@
       "filter": [
         "spicy",
         "plants"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/smokey-zwarte-bonen-chili/?share",
       "id": 77,
@@ -10730,6 +11131,14 @@
     {
       "filter": [
         "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://www.forkranger.com/nl/mexicaanse-fajitas/?share",
       "id": 78,
@@ -10861,6 +11270,15 @@
     {
       "filter": [
         "pasta"
+      ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://www.forkranger.com/nl/oven-pasta-met-spinazie-en-bloemkool/?share",
       "id": 79,
@@ -10995,6 +11413,13 @@
       "filter": [
         "potato"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://www.forkranger.com/nl/aardappel-met-pesto-uit-de-oven/?share",
       "id": 80,
       "title": "Aardappel met Pesto uit de Oven",
@@ -11110,6 +11535,12 @@
       "filter": [
         "potato"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://www.forkranger.com/nl/zoete-aardappel-en-biet-plaattaart/?share",
       "id": 81,
       "title": "Zoete Aardappel en Biet Plaattaart",
@@ -11222,6 +11653,20 @@
       "filter": [
         "plants",
         "quick"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/pitabroodjes-met-pindas/?share",
       "id": 82,
@@ -11338,6 +11783,16 @@
       "filter": [
         "plants",
         "potato"
+      ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
       ],
       "url": "https://www.forkranger.com/nl/zuurkool-zoete-aardappel-stamppot/?share",
       "id": 83,
@@ -11473,6 +11928,15 @@
       "filter": [
         "plants",
         "pasta"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/oranje-pasta-met-spruiten/?share",
       "id": 84,
@@ -11617,6 +12081,18 @@
     },
     {
       "filter": [],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://www.forkranger.com/nl/hartige-preitaart-met-linzen/?share",
       "id": 85,
       "title": "Hartige Preitaart met Linzen",
@@ -11743,6 +12219,20 @@
     {
       "filter": [
         "plants"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/rode-kool-roerbak-met-appel/?share",
       "id": 86,
@@ -11902,6 +12392,13 @@
         "plants",
         "potato"
       ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        11,
+        12
+      ],
       "url": "https://www.forkranger.com/nl/geroosterde-wortel-en-aardappel/?share",
       "id": 87,
       "title": "Geroosterde Wortel en Aardappel",
@@ -12016,6 +12513,16 @@
       "filter": [
         "plants",
         "potato"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.forkranger.com/nl/knolselderij-zoete-aardappel-stamppot/?share",
       "id": 88,

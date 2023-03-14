@@ -144,6 +144,12 @@
         "spicy",
         "plants"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/curry-met-aubergine-en-tomaten/?share",
       "id": 1,
       "title": "Curry met Aubergine en Tomaten",
@@ -272,6 +278,13 @@
         "quick",
         "plants"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/groene-spaghetti-met-citroen/?share",
       "id": 2,
       "title": "Groene Spaghetti met Citroen",
@@ -386,6 +399,15 @@
       "filter": [
         "spicy",
         "plants"
+      ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/afrikaanse-pindasoep/?share",
       "id": 3,
@@ -541,6 +563,15 @@
         "potato",
         "plants"
       ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/geroosterde-zoete-aardappel/?share",
       "id": 4,
       "title": "Geroosterde Zoete Aardappel ",
@@ -663,6 +694,12 @@
         "rice",
         "fruity",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/fruitige-curry-met-pindas/?share",
       "id": 5,
@@ -804,6 +841,18 @@
         "rice",
         "fruity",
         "plants"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "id": 6,
       "url": "https://forkranger.com/nl/haver-risotto-met-pruimen/?share",
@@ -948,6 +997,13 @@
         "potato",
         "plants"
       ],
+      "seasonalInfo": [
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
       "id": 7,
       "url": "https://forkranger.com/nl/geroosterde-groente/?share",
       "title": "Geroosterde Groente",
@@ -1083,6 +1139,12 @@
       "filter": [
         "pasta",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "id": 8,
       "url": "https://forkranger.com/nl/romige-pasta-met-champignons/?share",
@@ -1227,6 +1289,12 @@
         "spicy",
         "plants"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/chili-spaghetti/?share",
       "id": 9,
       "title": "Chili spaghetti",
@@ -1347,6 +1415,13 @@
       "url": "https://forkranger.com/nl/shepherds-pie/?share",
       "filter": [
         "potato"
+      ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "id": 10,
       "title": "Shepherds Pie",
@@ -1511,6 +1586,13 @@
     },
     {
       "url": "https://forkranger.com/nl/oven-polenta/?share",
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "id": 11,
       "title": "Oven Polenta",
       "description": "Polenta is een poeder gemaakt van maïs en samen met wat margarine en kaas een heerlijk smeuïg gerecht. Het is Italiaans, je kunt het vinden bij de pasta.",
@@ -1640,6 +1722,13 @@
         "quick",
         "plants"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "id": 12,
       "url": "https://forkranger.com/nl/spinazie-pasta-pesto/?share",
       "title": "Spinazie Pasta Pesto",
@@ -1754,6 +1843,13 @@
     {
       "filter": [
         "rice"
+      ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/risotto-met-venkel/?share",
       "id": 13,
@@ -1903,6 +1999,12 @@
         "rice",
         "fruity",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "id": 14,
       "title": "Curry met Ananas",
@@ -2060,6 +2162,12 @@
       "filter": [
         "potato",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "id": 15,
       "title": "Marokkaanse Soep",
@@ -2221,6 +2329,14 @@
         "fruity",
         "plants"
       ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/rijst-met-pruimen-en-sinaasappel/?share",
       "id": 16,
       "title": "Rijst met Pruimen en Sinaasappel",
@@ -2345,6 +2461,12 @@
         "rice",
         "fruity",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/caribische-chili/?share",
       "id": 17,
@@ -2510,6 +2632,15 @@
         "quick",
         "plants"
       ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "id": 18,
       "title": "Balsamico Ravioli",
       "url": "https://forkranger.com/nl/balsamic-ravioli/?share",
@@ -2595,6 +2726,14 @@
     {
       "filter": [
         "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/crunchy-noedels/?share",
       "id": 19,
@@ -2722,6 +2861,12 @@
       "filter": [
         "plants"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/frisse-wraps-met-aubergine/?share",
       "id": 20,
       "title": "Frisse Wraps met Aubergine",
@@ -2846,6 +2991,12 @@
         "rice",
         "fruity",
         "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/curry-met-banaan/?share",
       "id": 21,
@@ -2992,6 +3143,14 @@
         "spicy",
         "plants"
       ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/smokey-chilli/?share",
       "id": 22,
       "title": "Smokey Chili",
@@ -3120,6 +3279,13 @@
     {
       "filter": [
         "pasta"
+      ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "id": 23,
       "url": "https://forkranger.com/nl/spaghetti-bolognese/?share",
@@ -3312,6 +3478,13 @@
         "rice",
         "plants"
       ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/braziliaanse-stroganoff/?share",
       "id": 24,
       "title": "Braziliaanse Stroganoff",
@@ -3442,6 +3615,10 @@
       "filter": [
         "pasta"
       ],
+      "seasonalInfo": [
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/spruitjes-met-appel/?share",
       "id": 25,
       "title": "Spruitjes met Appel",
@@ -3564,6 +3741,13 @@
     {
       "filter": [
         "pasta"
+      ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/geroosterde-bloemkool-met-pasta/?share",
       "id": 26,
@@ -3699,6 +3883,12 @@
       "filter": [
         "pasta"
       ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/saffraan-pasta/?share",
       "id": 27,
       "title": "Saffraan Pasta",
@@ -3831,6 +4021,14 @@
       "filter": [
         "rice",
         "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "url": "https://forkranger.com/nl/kokosrijst-met-champignons/?share",
       "id": 28,
@@ -3976,6 +4174,17 @@
     {
       "filter": [
         "rice"
+      ],
+      "seasonalInfo": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
       ],
       "id": 29,
       "url": "https://forkranger.com/nl/indiase-curry/?share",

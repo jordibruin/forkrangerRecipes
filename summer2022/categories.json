@@ -135,6 +135,16 @@
       "buttonColor": "6d5341",
       "color": 6,
       "unlockedAfterDailyContentID": 55
+    },
+    {
+      "id": 14,
+      "title": "Fair Fields",
+      "subtitle": "Working conditions",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/fairfields.png",
+      "backgroundColor": "c68a61",
+      "buttonColor": "6d5341",
+      "color": 6,
+      "unlockedAfterDailyContentID": 70
     }
   ]
 }

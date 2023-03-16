@@ -3521,7 +3521,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Gekweekte vis veroorzaakt dezelfde problemen als vlees: er is veel land voor nodig om de dieren te voeden. Soms vangen boerderijen zelfs wilde vis om als voer te gebruiken. Over het algemeen is het in het water hetzelfde probleem als op het land: we willen producten eten die veel voer nodig hebben.\n\nIn plaats daarvan moeten we voedsel met een lagere impact eten. Noten en peulvruchten van het land. Mosselen, kleinere vissen zoals haring en zeewier uit de oceaan.",
+            "text": "Biologische landbouw heeft veel voordelen, maar er is één nadeel: er is wat meer land voor nodig. Dus als we dezelfde hoeveelheid vlees willen blijven eten, zouden we nog meer land moeten gebruiken om het veevoer te verbouwen.\n\nDe oplossing is minder vlees en zuivel eten. Hierdoor komt veel landbouwgrond vrij die we kunnen gebruiken voor biologische landbouw.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/impact-of-organic-NL.png"
           }
         },
@@ -3538,7 +3538,7 @@
       "notificationTitle": "Vandaag: Moo Moo Meadows\n",
       "notificationText": "Wat is de impact van het gebruik van sojaroom? 🐄 - Recept van de dag: Romige Pasta met Peer",
       "home": {
-        "title": "Wat is de impact van het gebruik van sojaroom? 🐄 - Recept van de dag: Romige Pasta met Peer",
+        "title": "Wat is de impact van het gebruik van sojaroom?",
         "category": 7
       },
       "pages": [
@@ -3575,7 +3575,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Koken met 250 ml sojaroom in plaats van zuivelroom is evenveel als de impact van 400 gram pasta! Dat is meer dan we dachten.\n\nMaar als je het niet kunt vinden in je plaatselijke winkel, voel je er dan niet al te slecht over. Voor iedereen die een stapje extra wil en kan doen, is koken met plantaardige room een stap waard.",
+            "text": "Koken met 250 ml sojaroom in plaats van zuivelroom is evenveel als de impact van 400 gram pasta! Dat is meer dan we dachten.\n\nMaar als je het niet kunt vinden in je plaatselijke winkel, voel je er dan niet al te slecht over. Voor iedereen die een stapje extra wil en kan doen, is koken met plantaardige room de moeite waard.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/dairy-vs-soy-cream-NL.png"
           }
         },
@@ -3604,7 +3604,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Terwijl de meeste palmolie in Azië als frituurolie wordt gebruikt, importeert Europa ook 20% van de palmolie in de wereld 🌴"
+          "title": "Terwijl de meeste palmolie in Azië als (frituur)olie voor voedsel wordt gebruikt, importeert Europa ook 20% van de palmolie in de wereld 🌴"
         },
         {
           "id": 2,
@@ -3646,7 +3646,7 @@
       "notificationTitle": "Vandaag: Ocean",
       "notificationText": "Wat je over watervervuiling moet weten ☠️ Recept van de dag: Thaise Pinda Curry",
       "home": {
-        "title": "Dead zones in het water",
+        "title": "Dood water",
         "category": 11
       },
       "pages": [
@@ -3689,7 +3689,7 @@
           ],
           "answerExplanation": {
             "text": "In Europa en de VS is de meeste vervuiling afkomstig van de landbouw. In andere regio's komt het ook van afvalwater.\n\nDe producten met de hoogste vervuiling zijn vlees en zuivel. Dat komt omdat hun voer zoveel kunstmest nodig heeft. En door het energierijke voer zit hun poep dan ook vol extra voedingsstoffen en zorgt voor vervuiling.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/eutrophication-NL.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/eutrophication-NL-1.png"
           }
         },
         {
@@ -3697,6 +3697,389 @@
           "type": "recipe",
           "recipeID": 41,
           "subtitle": "De beste manier om deze watervervuiling te verminderen is plantaardiger eten. Daarvoor zijn curries altijd handig!\n"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "notificationTitle": "Vandaag: Fair Fields",
+      "notificationText": "De oneerlijke prijs van rijst 🍚 - Recept van de dag: Risotto met Venkel",
+      "home": {
+        "title": "De oneerlijke prijs van rijst",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel van de producten waar we in Europa van genieten, komen uit tropische landen. Vaak krijgen die boeren en arbeiders niet genoeg betaald 👨🏾‍🌾"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Een rijstboer in Thailand krijgt bijvoorbeeld maar 56% van wat hij nodig heeft om een leefbaar inkomen te verdienen 💸"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "De gemiddelde prijs voor witte rijst in Nederland is € 1,69 per kg 🍚 Als de boer een eerlijk bedrag krijgt, hoeveel zou dit de prijs dan verhogen?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Hoeveel zou de prijs stijgen? 🍚",
+          "subtitle": "om een behoorlijke levensstandaard te bieden, ervan uitgaande dat rijst € 1,69 per kg kost",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "0,05 €",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "1 €",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "1,55 €",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Boeren en arbeiders van veel producten worden aanzienlijk onderbetaald. Maar het zou eigenlijk niet veel kosten om dit probleem op te lossen.\n\nOm beter te begrijpen waarom dit gebeurt, moeten we onderzoeken waar het meeste geld terechtkomt. Dat is voor het volgende verhaal in Fair Fields.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/fair_price_of_rice-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 13,
+          "subtitle": "Arborio rijst voor risotto komt trouwens niet uit Thailand, maar uit Italië."
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "Welk voedsel zou niet bestaan zonder bestuivers? 🌼 - Recept van de dag: Curry met Biet en Pompoen",
+      "home": {
+        "title": "Het bestuiversteam",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel planten zijn afhankelijk van insecten om hun stuifmeel te verspreiden en zich voort te planten 🌼"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Bijen zijn de bekendste bestuivers, maar veel andere insecten zoals vlinders en vliegen maken ook deel uit van het team 🦋"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welk voedsel zou niet bestaan zonder bestuivers?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Chocolade 🍫",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rijst, aardappelen en pasta 🌾",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Al het eten 🍽",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het goede nieuws is dat het voedsel dat we het meest eten - rijst, tarwe en aardappelen - niet afhankelijk is van bestuivers. Maar veel van het voedsel dat het leven beter maakt, is er wel van afhankelijk: van appels tot chocolade.\n\nDat is één van de vele redenen waarom het belangrijk is om voor het bestuiversteam te zorgen.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/pollinators-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 57,
+          "subtitle": "Pompoen is een ander product dat niet zou bestaan zonder bestuivers."
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "notificationTitle": "Vandaag: The Dry Lake",
+      "notificationText": "Het enige nadeel van noten 🥜 - Recept van de dag: Spaghetti met Knoflook en Limoen",
+      "home": {
+        "title": "Het enige nadeel van noten",
+        "category": 13
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben gezien dat noten vol eiwitten zitten en een veel kleinere voetafdruk hebben dan vlees 🥜"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar als het om watergebruik gaat, vallen ze in dezelfde categorie als rundvlees... 💧"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke noten hebben de laagste watervoetafdruk?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Amandelen",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Cashewnoten",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Pinda's",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Pinda's en walnoten verbruiken het minste water. Maar het is waar dat vooral amandelen, cashewnoten en pistachenoten erg dorstige planten zijn. In droge gebieden is dit een probleem.\n\nTegelijkertijd scoren noten VEEL beter dan vlees op alle andere milieukwesties. Dat betekent dat ze nog steeds een goede eiwitbron zijn in de transitie naar een duurzamer voedselsysteem.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/pollinators-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 39,
+          "subtitle": "Pinda's hebben de laagste watervoetafdruk van noten. Ze werken meestal goed in rijstrecepten, maar hier passen ze uitstekend bij deze pasta."
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "notificationTitle": "Vandaag: The Harbor",
+      "notificationText": "De impact van thuisbezorging 🏠 - Recept van de dag: Romige Spitskool Stamppot",
+      "home": {
+        "title": "De impact van thuisbezorging",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Stel je voor dat je een hele leuke boerderijwinkel bij jou in de buurt hebt gevonden die biologische groenten verkoopt 👩‍🌾"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Je kunt hun groentebox in de winkel kopen maar ze kunnen hem ook naar je huis sturen 📦"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Als de boerderijwinkel op 4 km afstand is, welke optie heeft dan een lagere klimaatimpact?",
+          "subtitle": "ervan uitgaande dat beide op benzine rijden",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Zelf erheen rijden 🚗",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Het laten bezorgen 🚚",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zoals we eerder al ontdekten, hebben voedselkilometers een veel kleinere klimaatimpact dan mensen denken. Maar er is één geval waarin elke kilometer ertoe doet: wanneer je zelf rijdt! Want dat is veel uitstoot en verkeer voor slechts één levering, in vergelijking met een vrachtwagen vol groenteboxen.\n\nBij Fork Ranger geloven we niet dat alles 24/7 geleverd moet worden. Meer gemak is niet de oplossing voor een duurzame wereld. Maar als het alternatief autorijden is, is bezorgen meestal de betere optie.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/driving_local_food-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 47,
+          "subtitle": "Hoewel voedselkilometers geen bruikbare maatstaf zijn, is het kopen van lokaal voedsel om andere redenen nog steeds belangrijk. In dit recept zijn veel ingrediënten uit Nederland gebruikt."
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "notificationTitle": "Vandaag: Muscle Mountain",
+      "notificationText": "Hoe kom je aan voldoende vitamine B12 ✨ - Recept van de dag: Biryani met Wortel en Bloemkool",
+      "home": {
+        "title": "Hoe je genoeg vitamine B12 binnenkrijgt",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er is één voedingsstof die moeilijk binnen te krijgen is met alleen planten: vitamine B12 ✨"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "In het EAT-Lancet-rapport werd berekend hoe een gezond en duurzaam voedingspatroon eruit zou moeten zien. Over het algemeen gaat het om het eten van veel groenten, peulvruchten en noten 🥦🥜"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Maar ook vlees en zuivel spelen een rol en leveren de aanbevolen hoeveelheid B12 🥛"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat is de aanbevolen hoeveelheid zuivel per dag? 🥛",
+          "subtitle": "volgens het EAT-Lancet rapport",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "0 porties 🚫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 portie 🥛",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "2 porties 🥛🧀",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Als je volgens het EAT Lancet dieet eet, zou je voldoende vitamine B12 binnen moeten krijgen. Veel plantaardige vlees- en zuivelalternatieven bevatten ook B12.\n\nEet je minder vlees & zuivel dan dit, dan is het belangrijk om op te letten en een Vitamine B12 supplement te overwegen.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/B12_per_week-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 48,
+          "subtitle": "Van alle zuivelproducten heeft yoghurt de laagste voetafdruk. En in dit recept is het een heerlijke toevoeging!"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "notificationTitle": "Vandaag: The Harbor",
+      "notificationText": "Het plastic dilemma, kun je er iets aan doen? 🥤 - Recept van de dag: Venkel Sinaasappel Couscous",
+      "home": {
+        "title": "Het plastic dilemma",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben het er al over gehad dat verpakkingen meestal een klein onderdeel zijn van de klimaatimpact van voedsel 🥫 Maar als je er iets aan wilt doen, wat kun je dan doen?"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "We waren echt gefrustreerd toen we dit onderzochten... de verpakkingsindustrie is een puinhoop! 🫙"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Zo kennen we allemaal plastic vervuiling, maar plastic heeft ook voordelen 🥤"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat is het voordeel van plastic verpakking?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Lage CO2 impact ☁️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Gemakkelijk te recyclen ♻️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Eenvoudig schoon te maken 🫧",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het is verwarrend en frustrerend om als consument de verpakkingsdilemma's op te lossen. De toekomstige oplossing is afscheid nemen van eenmalige verpakkingen: flessen hergebruiken en je tassen en dozen meenemen. Maar op deze manier leven is bijna onmogelijk in onze huidige wereld.\n\nOns advies is dus om verpakkingen te vermijden waar dat kan. Niet om 100% zero waste te worden, maar om het gemak van eenmalige verpakkingen af te leren. Begin met brood: dat kopen we regelmatig en in veel supermarkten is het mogelijk om het in een herbruikbare zak te doen.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/B12_per_week-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 52,
+          "subtitle": "Dit is een recept met weinig verpakking omdat venkel, sinaasappels en courgettes meestal niet in plastic verpakt zijn."
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "notificationTitle": "Vandaag: Muscle Mountain",
+      "notificationText": "Welk voedsel levert de meeste vitamine B12? 💊 - Recept van de dag: Nasi Goreng",
+      "home": {
+        "title": "Welk voedsel levert de meeste vitamine B12?",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "B12 is een vitamine die je alleen uit dierlijk voedsel kunt halen 🐐 Maar niet alle dierlijk voedsel bevat dezelfde hoeveelheid..."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welk voedsel levert de meeste vitamine B12?",
+          "subtitle": "voor hetzelfde gewicht",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Zalm 🍣",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Varkensvlees 🥓",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Melk 🥛",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zalm bevat verreweg de meeste B12 en heeft ook een lagere klimaatimpact dan zuivel of vlees. Dat maakt het de meest klimaatvriendelijke manier om je B12-niveau aan te vullen.\n\nEieren en zuivel hebben ook relatief veel B12 voor een lage impact. Rundvlees heeft nog meer B12 maar ook een veel grotere impact. Varkensvlees bevat zeer weinig B12.\n\nGoed om te weten: vaak bevatten plantaardige vlees- en zuivelalternatieven ook B12.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/B12_in_co2-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 32,
+          "subtitle": "Serveer deze Nasi Goreng met een eitje voor een goede toevoeging van vitamine B12."
         }
       ]
     },

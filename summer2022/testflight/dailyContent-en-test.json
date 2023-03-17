@@ -3869,6 +3869,55 @@
       ]
     },
     {
+      "id": 74,
+      "notificationTitle": "Today: The Harbor",
+      "notificationText": "The footprint of home delivery 🏠 - Recipe of the day: Creamy Cabbage Potato Mash",
+      "home": {
+        "title": "The footprint of home delivery",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Imagine found you’ve found a really nice farm shop in your area that sells organic vegetables 👩‍🌾"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "You can buy their veggie box at the shop but they can also send it to your house 📦"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "If the farm shop is 4 km away, which option has a lower footprint?",
+          "subtitle": "assuming both drive on petrol",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Driving there yourself 🚗",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Getting it delivered 🚚",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "As we discovered before, food miles have a much lower footprint than people think. But there is one case where every mile matters: when you’re driving yourself! Because that’s a lot of emissions and traffic for only one delivery, compared to a truck full of veggie boxes.\n\nAt Fork Ranger, we don’t believe that everything should be delivered 24/7. More convenience is not the solution to a sustainable world. But if the alternative is driving a car, delivery is usually the better option.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/driving_local_food.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 47,
+          "subtitle": "Even though food miles are not a useful measure, buying local food is still important for other reasons. This recipe uses lots of ingredients from the Netherlands.\n"
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

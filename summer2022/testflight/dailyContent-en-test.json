@@ -4036,6 +4036,55 @@
       ]
     },
     {
+      "id": 77,
+      "notificationTitle": "Today: Muscle Mountain",
+      "notificationText": "Which food provides the most Vitamin B12? 💊 - Recipe of the day: Nasi Goreng",
+      "home": {
+        "title": "Which food provides the most Vitamin B12?",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "B12 is a vitamin you can only get from animal foods 🐐 But not all animal foods contain the same amount…"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Which food provides the most Vitamin B12?",
+          "subtitle": "for the same weight",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Salmon 🍣",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Pork 🥓",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Milk 🥛",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Salmon contains by far the most B12, and it also has a lower footprint than dairy and other meat. That makes it the most climate-friendly way to fill up your B12 levels.\n\nEggs and dairy also have a relatively high amount of B12 for a low footprint. Beef has even more B12 but also a much higher footprint. Pork contains very little B12.\n\nGood to know: often plant-based meat and dairy alternatives also contain B12.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/B12_in_co2.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 32,
+          "subtitle": "Serve this Nasi Goreng with an egg for a good addition of vitamin B12."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

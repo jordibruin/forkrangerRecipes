@@ -3815,6 +3815,60 @@
       ]
     },
     {
+      "id": 73,
+      "notificationTitle": "Today: The Dry Lake ",
+      "notificationText": "The only downside of nuts 🥜 - Recipe of the day: Garlic Lime Spaghetti",
+      "home": {
+        "title": "The only downside of nuts",
+        "category": 13
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We’ve seen that nuts are full of protein and have a much lower footprint than meat 🥜"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But when it comes to water use, they’re in the same category as beef… 💧"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which nuts have the lowest water footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Almonds",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Cashews",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Peanuts",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Peanuts and walnuts use the least water. But it’s true that especially almonds, cashews, and pistachios are very thirsty plants. This is a problem in dry areas.\n\nAt the same time, nuts score MUCH better than meat on all other environmental issues. That means they are still a good source of protein in the transition to a more sustainable food system.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/water-footprint-nuts.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 39,
+          "subtitle": "Peanuts have the lowest water footprint of nuts. They usually work well in rice recipes, but here they are a great fit for this pasta."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

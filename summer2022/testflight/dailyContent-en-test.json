@@ -3846,7 +3846,7 @@
             },
             {
               "id": 1,
-              " title": "Cashews",
+              "title": "Cashews",
               "correct": false
             },
             {
@@ -3900,7 +3900,7 @@
             },
             {
               "id": 1,
-              " title": "Getting it delivered 🚚",
+              "title": "Getting it delivered 🚚",
               "correct": true
             }
           ],
@@ -3954,12 +3954,12 @@
             },
             {
               "id": 1,
-              " title": "1 portion 🥛",
+              "title": "1 portion 🥛",
               "correct": true
             },
             {
               "id": 2,
-              " title": "2 portions 🥛🧀",
+              "title": "2 portions 🥛🧀",
               "correct": false
             }
           ],
@@ -4013,12 +4013,12 @@
             },
             {
               "id": 1,
-              " title": "Easy to recycle ♻️",
+              "title": "Easy to recycle ♻️",
               "correct": false
             },
             {
               "id": 2,
-              " title": "Easy to clean 🫧",
+              "title": "Easy to clean 🫧",
               "correct": false
             }
           ],
@@ -4062,12 +4062,12 @@
             },
             {
               "id": 1,
-              " title": "Pork 🥓",
+              "title": "Pork 🥓",
               "correct": false
             },
             {
               "id": 2,
-              " title": "Milk 🥛",
+              "title": "Milk 🥛",
               "correct": false
             }
           ],

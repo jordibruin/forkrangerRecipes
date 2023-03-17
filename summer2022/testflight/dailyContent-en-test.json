@@ -3918,6 +3918,65 @@
       ]
     },
     {
+      "id": 75,
+      "notificationTitle": "Today: Muscle Mountain",
+      "notificationText": "How to get enough vitamin B12 ✨ - Recipe of the day: Carrot Cauliflower Biryani",
+      "home": {
+        "title": "How to get enough vitamin B12",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There is one nutrient that’s difficult to get with only plants: vitamin B12 ✨"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "The EAT-Lancet report calculated what a healthy and sustainable diet should look like. Overall, it’s about eating lots of veggies, legumes, and nuts 🥦🥜"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "But meat and dairy also play a role and provide the recommended amount of B12 🥛"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "What is the recommended amount of dairy per day? 🥛",
+          "subtitle": "according to the EAT-Lancet report",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "0 portions 🚫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 portion 🥛",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "2 portions 🥛🧀",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "If you eat according to the EAT Lancet diet, you should get enough vitamin B12. Many plant-based meats and dairy alternatives also contain B12.\n\nIf you eat less meat & dairy than this, it’s important to pay attention and consider a Vitamin B12 supplement.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/B12_per_week.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 48,
+          "subtitle": "Of all dairy products, yogurt has the lowest footprint. And in this recipe it’s a delicious addition!"
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

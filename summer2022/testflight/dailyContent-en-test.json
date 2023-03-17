@@ -3977,6 +3977,65 @@
       ]
     },
     {
+      "id": 76,
+      "notificationTitle": "Today: The Harbor",
+      "notificationText": "The plastic dilemma, can you do something about it? 🥤 - Recipe of the day: Fennel Orange Couscous",
+      "home": {
+        "title": "The plastic dilemma",
+        "category": 8
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We already covered that packaging is usually a small part of the climate impact of food 🥫 But if you want to do something about it, what can you do? "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "We were really frustrated researching this… the packaging industry is messed up! 🫙"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "For example, we all know about plastic pollution, but plastic also has benefits 🥤"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "What is the benefit of plastic packaging?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Low carbon footprint ☁️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Easy to recycle ♻️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Easy to clean 🫧",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "It’s confusing and frustrating to solve the packaging dilemmas as a consumer. The future solution is saying goodbye to single-use packaging: reusing bottles and taking your bags and boxes with you. But living this way is almost impossible in our current world.\n\nSo our advice is to avoid packaging where you can. Not to become 100% zero waste, but as a way of unlearning the convenience that single-use packaging brings. Start with bread: we buy it regularly and in many supermarkets it’s possible to put it in a reusable bag.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/pros-and-cons-of-packaging.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 52,
+          "subtitle": "This is a recipe with little packaging because fennel, oranges, and zucchini are usually not wrapped in plastic."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

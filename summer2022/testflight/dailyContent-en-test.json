@@ -3702,6 +3702,65 @@
       ]
     },
     {
+      "id": 71,
+      "notificationTitle": "Today: Fair Fields",
+      "notificationText": "The unfair price of rice 🍚 - Recipe of the day: Fennel Risotto\n",
+      "home": {
+        "title": "The unfair price of rice",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Many of the products we enjoy in Europe come from tropical countries. Often, those farmers and workers don’t get paid enough 👨🏾‍🌾"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "For example, a rice farmer in Thailand only gets 56% of what they need to make a decent living 💸"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "The average price for white rice in the Netherlands is € 1.69 per kg 🍚 If the farmer gets paid a fair amount, how much would it increase the price?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "How much would the price increase? 🍚",
+          "subtitle": "to provide a decent living standard, assuming that rice costs € 1.69 per kg",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "0,05 €",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "1 €",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "1,55 €",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Farmers and workers of many products get significanlty underpaid. But it wouldn’t actually cost much to fix this problem.\n\nTo better understand why this happens, we need to explore where most of the money ends up. That’s for the next story in Fair Fields.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/fair_price_of_rice.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 13,
+          "subtitle": "Arborio rice for risotto doesn’t come from Thailand, but from Italy.\n"
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

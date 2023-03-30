@@ -145,6 +145,16 @@
       "buttonColor": "777a3c",
       "color": 6,
       "unlockedAfterDailyContentID": 70
+    },
+    {
+      "id": 15,
+      "title": "The Good Ranch",
+      "subtitle": "Duurzaam Vlees",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/the-good-ranch.png",
+      "backgroundColor": "d6b116",
+      "buttonColor": "7c6814",
+      "color": 6,
+      "unlockedAfterDailyContentID": 77
     }
   ]
 }

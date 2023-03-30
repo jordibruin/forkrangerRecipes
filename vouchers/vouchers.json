@@ -279,6 +279,7 @@
   },
   {
     "code": "maytheforksbewithyou2019",
+    "unlockSeasonalInfo": true,
     "recipeIDs": [
       0,
       1,
@@ -479,6 +480,7 @@
   },
   {
     "code": "kale",
+    "unlockSeasonalInfo": true,
     "recipeIDs": [
       0,
       1,
@@ -532,6 +534,7 @@
   },
   {
     "code": "boerenkool",
+    "unlockSeasonalInfo": true,
     "recipeIDs": [
       0,
       1,

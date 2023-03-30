@@ -6,13 +6,13 @@
         "fruity"
       ],
       "seasonalInfo": [
-				5,
-				6,
-				7,
-				8,
-				9,
-				10
-			],
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://forkranger.com/nl/orange-chilli-spaghetti-2/?share",
       "id": 0,
       "title": "Chili Spaghetti met Sinaasappel",
@@ -12631,21 +12631,421 @@
           "detail": "zet daarna opzij",
           "panType": "fryingPan2",
           "emoji": "",
-          "tijd": 3
+          "time": 3
         },
         {
           "title": "Giet de aardappelen en knolselderij af en stamp tot puree",
           "detail": "",
           "panType": "cookingPan1",
           "emoji": "",
-          "tijd": 2
+          "time": 2
         },
         {
           "title": "Voeg boter, azijn en appel toe",
           "detail": "breng op smaak met zout en peper, roer door",
           "panType": "cookingPan1",
           "emoji": "",
-          "tijd": 2
+          "time": 2
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "seasonalInfo": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "url": "https://www.forkranger.com/nl/romige-gnocchi-met-geroosterde-bloemkool/?share",
+      "id": 89,
+      "title": "Romige Gnocchi met Geroosterde Bloemkool",
+      "description": "Ook al lijkt het een random mix, toch zijn het smaken en texturen die goed samengaan. Door de gnocchi in een pan te bakken in plaats van water, worden ze minder plakkerig. Samen met de smaakvolle bloemkool en romige saus is het een fijne en makkelijke maaltijd.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/03/Creamy-gnocchi-with-roasted-cauliflower.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Gnocchi",
+          "type": "base",
+          "quantity": 600,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bloemkool",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hazelnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Gerookt paprikapoeder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode uien",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij de knoflook fijn",
+        "Snij rode uien in halve ringen",
+        "Snij de bloemkool in kleine roosjes",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Bak op een bakplaat de bloemkool, hazelnoten en uien ringen",
+          "detail": "sprenkel olijfolie eroverheen, paprikapoeder, gerookt paprikapoeder en komijn\n\nbreng op smaak met zout en peper ~20 min at 200°C\n",
+          "panType": "oven",
+          "time": 20
+        },
+        {
+          "title": "Bak gnocchi",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg knoflook toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg sojaroom, erwten en citroensap toe",
+          "detail": "kook tot het indikt, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Meng de bloemkool, hazelnoten en ui door de saus of serveer apart",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "rice"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/eenpans-linzenrijst/?share",
+      "id": 90,
+      "title": "Eenpans Linzenrijst",
+      "description": "Makkelijk te bereiden en na kort wachten is het klaar. Het eiwit van de linzen en noten maakt het een vullende maaltijd, dus je zult niet hongerig van tafel gaan.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/03/one-pot-lentil-rice.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Basmati rijst",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Linzen uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Aubergine",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Venkel",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Cherrytomaatjes",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 500,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Curry poeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kaneel",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snij de knoflook fijn",
+        "Snij de aubergine in blokjes",
+        "Verwijder de stengels van de venkel, halveer de knollen en snij in halve ringen"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": ""
+        },
+        {
+          "title": "Bak de aubergine en venkel",
+          "detail": "in een ruime hoeveelheid olie, middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg knoflook, paprikapoeder, currypoeder en kaneel toe",
+          "detail": "meng",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg rijst, cherrytomaatjes, linzen (uitgelekt), cashewnoten en bouillon toe",
+          "detail": "laat de linzen uitlekken voordat je ze toevoegt, doe de deksel erop maar roer regelmatig",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 15
+        },
+        {
+          "title": "Serveer met koriander, knijp de limoen uit en voeg meer zout en peper toe naar smaak",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "pasta",
+        "quick",
+        "spicy"
+      ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/pittige-groene-penne/?share",
+      "id": 91,
+      "title": "Pittige Groene Penne",
+      "description": "Dit is een super simpel recept en kwam tot stand met gewoon wat restjes uit de koelkast. Soms is dat hoe goede recepten ontstaan. Het geheime ingredient? Chili vlokken! Als je het recept volgt krijg je precies de juiste balans met de pesto. Groen met een kick!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/03/spicy-green-penne.jpg",
+      "duration": 20,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Penne",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Groene pesto",
+          "type": "fresh",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Chili vlokken",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Parmezaanse kaas (optioneel)",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui",
+        "Hak de walnoten in stukjes"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Kook de pasta",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Fruit ondertussen de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg spinazie en tuinerwten toe",
+          "detail": "tot de spinazie geslonken is en de doperwten ontdooid zijn",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Giet de pasta af, voeg pesto toe",
+          "detail": "meng om de pasta te coaten ",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg pesto pasta, walnoten en chili vlokken toe",
+          "detail": "roer op laag vuur ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serveer met geraspte parmezaanse kaas (optioneel)",
+          "detail": "",
+          "emoji": ""
         }
       ]
     }

@@ -4156,7 +4156,7 @@
           "id": 1,
           "type": "question",
           "title": "After supermarkets, where does most of the money go?",
-          "subtitle": "They...",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
@@ -4229,7 +4229,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Plant-based meat has half the footprint of chicken. Legumes and nuts have an even lower footprint but plant-based meat are a great solution for some of our favorite snacks, like hamburgers or hot dogs.",
+            "text": "Plant-based meat has half the footprint of chicken. Legumes and nuts have an even lower footprint but plant-based meat is a great solution for some of our favorite snacks, like hamburgers or hot dogs.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/impact_meat_substitutes-1.png"
           }
         },
@@ -4253,7 +4253,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Because of climate change, pesticides and other issues, the whole community of flying insects is in trouble 🐝"
+          "title": "Because of climate change, pesticides, and other issues, the whole community of flying insects is in trouble 🐝"
         },
         {
           "id": 1,

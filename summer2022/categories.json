@@ -155,6 +155,16 @@
       "buttonColor": "7c6814",
       "color": 6,
       "unlockedAfterDailyContentID": 77
+    },
+    {
+      "id": 16,
+      "title": "Windmill Land",
+      "subtitle": "Energy Use",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/windmill-land.png",
+      "backgroundColor": "8eafb2",
+      "buttonColor": "065e60",
+      "color": 6,
+      "unlockedAfterDailyContentID": 82
     }
   ]
 }

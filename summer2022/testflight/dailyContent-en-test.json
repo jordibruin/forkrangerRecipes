@@ -4085,6 +4085,320 @@
       ]
     },
     {
+      "id": 78,
+      "notificationTitle": "Today: The Good Ranch",
+      "notificationText": "How animal feed can be sustainable 🐷 - Recipe of the day: Easy Pesto Lasagne",
+      "home": {
+        "title": "How animal feed can be sustainable",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "The main problem with animals in the food system at the moment is that we use valuable land to grow food for them 🌽"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But there are also ways that meat can be sustainable. That’s what we’re going to explore in The Good Ranch."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How can animals be part of a sustainable food system? 🐷",
+          "subtitle": "They...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "... eat plants that are toxic for humans",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "... eat by-products of food processing ",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "... eat lower-quality grains",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "There are many by-products from food processing. For example, when making sunflower oil you are left with a dry ‘cake’ that we can’t eat but is nutritious feed for animals.\n\nAnother important role that especially pigs can play is eating food waste (although it’s always more effective to first eat leftover food ourselves).\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/sustainable-animal-feed.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 51,
+          "subtitle": "Choose whole grain lasagne: there are a lot of by-products from milling white flour that are fed to animals. But it’s a lot more sustainable to eat the entire grain of wheat ourselves."
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "notificationTitle": "Today: Fair Fields",
+      "notificationText": "Where does most of the money go? 💰 - Recipe of the day: Cauliflower Oven Pasta",
+      "home": {
+        "title": "Where does most of the money go?",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "When we buy food, most of the money goes to supermarkets while many farmers don’t get paid enough 🛒"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "After supermarkets, where does most of the money go?",
+          "subtitle": "They...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Farmers 👩🏽‍🌾",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Seed and fertilizer companies 🌱",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Food manucturers 🏭",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "For every euro or dollar we spend on food, 78 cents goes to big corporations. We were surprised by the high share for seed and fertilizer companies. These are the companies that have lots of lobbyists and are promoting ‘efficient farming’ with pesticides and special seeds.\n\nBecause of this unequal distribution, paying farmers a fair amount wouldn’t increase the end price of many products that much.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/supermarkets_take_biggest_share.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 26,
+          "subtitle": "The supermarket is super convenient, but let’s try to buy our veggies from a smaller shop or market from time to time."
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "notificationTitle": "Today: The Good Ranch",
+      "notificationText": "The footprint of plant-based meat 🍔 - Recipe of the day: Pita breads with Mushrooms",
+      "home": {
+        "title": "The footprint of plant-based meat",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There are more and more plant-based alternatives for meat and they definitely have a lower footprint 🍔"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But how do they compare to the other plant-based sources of protein? 🫘"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Compared to legumes, the climate footprint of plant-based meat is…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Higher ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Similar",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Lower ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Plant-based meat has half the footprint of chicken. Legumes and nuts have an even lower footprint but plant-based meat are a great solution for some of our favorite snacks, like hamburgers or hot dogs.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/impact_meat_substitutes-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 63,
+          "subtitle": "Mushrooms are a great way to replace the taste of meat but for these pita breads you could also use plant-based shoarma."
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "notificationTitle": "Today: Underground Jungle",
+      "notificationText": "The new normal of flying insects 🐝 - Recipe of the day: One-pot Lentil Rice",
+      "home": {
+        "title": "The new normal of flying insects",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Because of climate change, pesticides and other issues, the whole community of flying insects is in trouble 🐝"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "A study in Germany found that the number of flying insects decreased even in protected areas 🦋"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How much did flying insects decrease?",
+          "subtitle": "total biomass in the past 27 years in protected areas in Germany",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "75%",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "100%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "27 years is a very short time, but not in the life of a human. If you’re born in the 90s (like us), you don’t even know what the ‘normal’ amount of insects feels like. That makes it difficult to compare and feel the extreme changes.\n\nThe decrease of insects is a serious issue for food production but also for wildlife. One way to help them: take a patch of garden and leave it alone. Just let nature do its thing!\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/decrease_of_insects.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 90,
+          "subtitle": "The cashews we use in this recipe would no longer exist if we lose all pollinating insects."
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "notificationTitle": "Today: The Good Ranch",
+      "notificationText": "Cows with two ‘lives’ 🐄 - Recipe of the day: Sweet Potato Mash with Sauerkraut",
+      "home": {
+        "title": "Cows with two ‘lives’",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There are two ways to get beef: from cows that are specifically held for meat. Or from dairy cows that no longer give milk 🐄"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Meat from dairy cows has a much lower footprint, but there is a downside."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What’s the downside of meat from dairy cows?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It requires more water 💦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "You can’t get a steak from it 🥩",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "The meat is less healthy 🩺",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We’re cherry-picking the best cuts of meat and want too many steaks. Because those cuts can only come from beef cows, they have the highest footprint. If we want to have more sustainable meat, we also need to eat the other parts, especially from dairy cows. This is usually sausage and minced meat.\n\nIf you still want to eat beef, go to a butcher and ask for meat from ‘dual purpose’ cows. These are breeds of cows that give both high-quality milk and beef. They are healthier cows but also rare, because they are less productive.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/double_purpose_cows.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 50,
+          "subtitle": "Sauerkraut works really well with sausages… but this sauerkraut recipe is also delicious without any meat!"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "notificationTitle": "Today: Windmill Land",
+      "notificationText": "Gas vs. induction 🍳 - Recipe of the day: Zucchini Peach Wraps",
+      "home": {
+        "title": "Gas vs. induction",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "It’s time to take a look at the energy we use in our own home for cooking food."
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Cooking on gas causes about 75 kg CO2 per year. How much is it with induction?",
+          "subtitle": "with current numbers from the Netherlands",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "60 kg CO2",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "6 kg CO2",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Right now the saved emissions are very little because most electricity is generated with fossil fuel. But even when the electricity comes from renewable sources, it’s much more important to look at what we eat. The average Dutch diet has a footprint of around 1300 kg CO2e per person.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/induction_vs_gas.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 62,
+          "subtitle": "We love induction cooking, but if you have a gas stove: place wraps directly on the flame for 20-30 seconds and make them really delicious."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

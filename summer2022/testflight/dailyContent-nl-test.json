@@ -1989,7 +1989,7 @@
               "correct": false
             },
             {
-              "id": 2,
+              "id": 1,
               "title": "Aardappels 🥔",
               "correct": false
             }
@@ -3964,7 +3964,7 @@
           ],
           "answerExplanation": {
             "text": "Als je volgens het EAT Lancet dieet eet, zou je voldoende vitamine B12 binnen moeten krijgen. Veel plantaardige vlees- en zuivelalternatieven bevatten ook B12.\n\nEet je minder vlees & zuivel dan dit, dan is het belangrijk om op te letten en een Vitamine B12 supplement te overwegen.\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/B12_per_week-NL-1.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/B12_per_week-NL.png"
           }
         },
         {
@@ -4049,7 +4049,7 @@
           "title": "B12 is een vitamine die je alleen uit dierlijk voedsel kunt halen 🐐 Maar niet alle dierlijk voedsel bevat dezelfde hoeveelheid..."
         },
         {
-          "id": 2,
+          "id": 1,
           "type": "question",
           "title": "Welk voedsel levert de meeste vitamine B12?",
           "subtitle": "voor hetzelfde gewicht",
@@ -4076,10 +4076,324 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 32,
           "subtitle": "Serveer deze Nasi Goreng met een eitje voor een goede toevoeging van vitamine B12."
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "notificationTitle": "Vandaag: The Good Ranch",
+      "notificationText": "Hoe dieren voeren duurzaam kan zijn 🐷 - Recept van de dag: Easy Pesto Lasagne",
+      "home": {
+        "title": "Hoe dieren voeren duurzaam kan zijn",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Het grootste probleem met dieren in het voedselsysteem op dit moment is dat we waardevol land gebruiken om voedsel voor ze te verbouwen 🌽"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar er zijn ook manieren waarop vlees duurzaam kan zijn. Dat is wat we gaan ontdekken in The Good Ranch."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoe kunnen dieren een plek hebben in een duurzaam voedselsysteem? 🐷",
+          "subtitle": "Ze...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "… eten planten die giftig zijn voor de mens",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "… eten bijproducten van voedselverwerking",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "… eten granen van mindere kwaliteit",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Er zijn veel bijproducten van de voedselverwerking. Bij het maken van bijvoorbeeld zonnebloemolie hou je een droge ‘koek’ over die we niet kunnen eten maar wel voedzaam is voor dieren.\n\nEen andere belangrijke rol die vooral varkens kunnen spelen is het eten van voedselverspilling (hoewel het altijd effectiever is om eerst zelf etensresten op te eten).\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/sustainable-animal-feed-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 51,
+          "subtitle": "Kies voor volkoren lasagne: er zijn veel bijproducten van het malen van wit meel die aan dieren worden gevoerd. Maar het is een stuk duurzamer om de hele tarwekorrel zelf te eten."
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "notificationTitle": "Vandaag: Fair Fields",
+      "notificationText": "Waar gaat het meeste geld naartoe? 💰 - Recept van de dag: Geroosterde Bloemkool met Pasta",
+      "home": {
+        "title": "Waar gaat het meeste geld naartoe?",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Als we eten kopen, gaat het meeste geld naar supermarkten, terwijl veel boeren niet genoeg betaald krijgen 🛒"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Na supermarkten, waar gaat het meeste geld naartoe?",
+          "subtitle": "Ze...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Boeren 👩🏽‍🌾",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Zaad- en kunstmestbedrijven 🌱",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Voedselfabrikanten 🏭",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Van elke euro of dollar die we aan voedsel uitgeven, gaat 78 cent naar grote bedrijven. We waren verrast door het hoge aandeel voor zaad- en kunstmestbedrijven. Dit zijn de bedrijven die veel lobbyisten hebben en die ‘efficiënte landbouw’ promoten met pesticiden en speciale zaden.\n\nVanwege deze ongelijke verdeling zou het betalen van een redelijk bedrag aan de boeren de eindprijs van veel producten niet zo veel verhogen.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/supermarkets_take_biggest_share-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 26,
+          "subtitle": "De supermarkt is super handig, maar laten we af en toe proberen onze groenten in een kleinere winkel of markt te kopen."
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "notificationTitle": "Vandaag: The Good Ranch",
+      "notificationText": "De klimaatimpact van vleesvervangers 🍔 - Recept van de dag: Pitabroodjes met Champignons",
+      "home": {
+        "title": "De klimaatimpact van vleesvervangers",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er zijn steeds meer plantaardige alternatieven voor vlees en ze hebben een lagere klimaatimpact dan vlees 🍔"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar hoe verhouden ze zich tot de andere plantaardige eiwitbronnen? 🫘"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Vergeleken met peulvruchten is de klimaatimpact van vleesvervangers...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoger ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Vergelijkbaar",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Lager ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vleesvervangers hebben de helft van de klimaatimpact van kip. Peulvruchten en noten hebben een nog lagere impact, maar vleesvervangers zijn een geweldige oplossing voor sommige van onze favoriete snacks, zoals hamburgers of hotdogs.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/impact_meat_substitutes-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 63,
+          "subtitle": "Champignons zijn een prima manier om de smaak van vlees te vervangen, maar voor deze pitabroodjes zou je ook plantaardig shoarma kunnen gebruiken."
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "Het nieuwe normaal van vliegende insecten 🐝 - Recept van de dag: Eenpans Linzenrijst",
+      "home": {
+        "title": "Het nieuwe normaal van vliegende insecten",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Door klimaatverandering, pesticiden en andere problemen zit de hele groep van vliegende insecten in de problemen 🐝"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Uit een studie in Duitsland bleek dat het aantal vliegende insecten zelfs in beschermde gebieden afnam 🦋"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoeveel zijn de vliegende insecten afgenomen?",
+          "subtitle": "totale biomassa in de afgelopen 27 jaar in beschermde gebieden in Duitsland",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "75%",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "100%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "27 jaar is een zeer korte tijd, maar niet in het leven van een mens. Als je in de jaren 90 geboren bent (zoals wij), weet je niet eens hoe de ‘normale’ hoeveelheid insecten aanvoelt. Dat maakt het moeilijk om de extreme veranderingen te vergelijken en te voelen.\n\nDe afname van insecten is een serieus probleem voor de voedselproductie, maar ook voor dieren in het wild. Een manier om ze te helpen: neem een stuk tuin en laat het zijn gang gaan. Laat de natuur simpelweg haar werk doen!\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/decrease_of_insects-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 90,
+          "subtitle": "De cashewnoten die we in dit recept gebruiken, zouden niet meer bestaan als we alle bestuivende insecten zouden verliezen."
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "notificationTitle": "Vandaag: The Good Ranch",
+      "notificationText": "Koeien met twee ‘levens’ 🐄 - Recept van de dag: Zoete Aardappel Stamppot met Zuurkool",
+      "home": {
+        "title": "Koeien met twee 'levens'",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er zijn twee manieren om aan rundvlees te komen: van koeien die speciaal voor vlees gehouden worden. Of van melkkoeien die geen melk meer geven 🐄"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Vlees van melkkoeien heeft een veel lagere klimaatimpact, maar er is een keerzijde."
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat is de keerzijde van vlees van melkkoeien?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het vereist meer water 💦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Je krijgt er geen biefstuk van 🥩",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Het vlees is minder gezond 🩺",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We pakken de beste stukken vlees en willen te veel steaks. Omdat die delen alleen van vleeskoeien kunnen komen, hebben zij de grootste footprint. Als we duurzamer vlees willen hebben, moeten we ook de andere delen eten, vooral van melkkoeien. Dit is meestal worst en gehakt.\n\nWil je toch rundvlees eten, ga dan naar een slager en vraag om vlees van ‘dubbeldoelkoeien’. Dit zijn koeienrassen die zowel melk van hoge kwaliteit als rundvlees geven. Het zijn gezondere koeien maar ook zeldzaam, omdat ze minder productief zijn.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/double_purpose_cows-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 50,
+          "subtitle": "Zuurkool past erg goed met worstjes… maar dit zuurkoolrecept is ook lekker zonder vlees!"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "notificationTitle": "Vandaag: Windmill Land",
+      "notificationText": "Gas vs. inductie 🍳 - Recept van de dag: Courgette Peach Wraps",
+      "home": {
+        "title": "Gas vs. inductie",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Het is tijd om eens te kijken naar de energie die we in ons eigen huis gebruiken om voedsel te koken."
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Koken op gas veroorzaakt ongeveer 75 kg CO2 per jaar. Hoeveel kost het met inductie?",
+          "subtitle": "Met actuele nummers uit Nederland",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "60 kg CO2",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "6 kg CO2",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Op dit moment is de bespaarde uitstoot erg klein omdat de meeste elektriciteit wordt opgewekt met fossiele brandstof. Maar zelfs als de elektriciteit uit hernieuwbare bronnen komt, is het veel belangrijker om te kijken naar wat we eten. Het gemiddelde Nederlandse dieet heeft een klimaatimpact van ongeveer 1300 kg CO2e per persoon.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/induction_vs_gas-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 62,
+          "subtitle": "Wij houden van koken op inductie, maar als je een gasfornuis hebt: leg wraps 20-30 seconden direct op het vuur en maak ze echt heerlijk."
         }
       ]
     },

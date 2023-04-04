@@ -8426,8 +8426,8 @@
         {
           "name": "Glas witte wijn (Chardonnay)",
           "type": "taste",
-          "quantity": 800,
-          "quantityType": "ml"
+          "quantity": 1,
+          "quantityType": ""
         },
         {
           "name": "Parmezaanse kaas",

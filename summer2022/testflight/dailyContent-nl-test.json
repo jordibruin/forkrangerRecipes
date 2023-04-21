@@ -4478,7 +4478,7 @@
         {
           "id": 2,
           "type": "text",
-          "title": "Tijdens een avondje uit gaan bieren vaak samen met fastfood 🍔 Dus hoe vergelijken ze?"
+          "title": "Tijdens een avondje uit gaat bieren vaak samen met snacks 🍔 Dus hoe vergelijken ze?"
         },
         {
           "id": 3,
@@ -4592,7 +4592,7 @@
           "id": 2,
           "type": "question",
           "title": "Hoeveel van het inkomen geven mensen in Nederland uit aan eten? 💰",
-          "subtitle": "als percentage van het gezinsinkomen in 2018",
+          "subtitle": "als percentage van het huishoudinkomen in 2018",
           "answerOptions": [
             {
               "id": 0,
@@ -4684,7 +4684,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Eiwitten bestaat uit 20 verschillende aminozuren. We hebben de juiste mix nodig om ‘complete’ eiwitten binnen te krijgen 💪"
+          "title": "Eiwitten bestaan uit 20 verschillende aminozuren. We hebben de juiste mix nodig om ‘complete’ eiwitten binnen te krijgen 💪"
         },
         {
           "id": 1,
@@ -4720,7 +4720,7 @@
           ],
           "answerExplanation": {
             "text": "Het is niet waar dat je alle 20 aminozuren alleen uit vlees kunt halen. Het is ook niet zo dat je de juiste combinaties in één maaltijd moet eten (bijvoorbeeld rijst en bonen). Het enige dat je moet doen, is binnen 24 uur een gevarieerd aanbod van voedsel eten.\n\nMet andere woorden, je hoeft je geen zorgen te maken over 'volledige' eiwitten.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/complete-protein-NL.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/complete-protein-NL-1.png"
           }
         },
         {
@@ -4768,7 +4768,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Veel boeren over de hele wereld zijn klein en hebben geen onderhandelingsmacht met grote bedrijven. Daarom is de Fairtrade minimumprijs een belangrijke structuur.\n\nBij Fairtrade hoort ook een premie. Het is een extra bedrag dat in een fonds gaat. Boeren en arbeiders kunnen beslissen waar het wordt uitgegeven en vaak wordt het gebruikt voor huisvesting, onderwijs of het verbeteren van de boerderij.\n",
+            "text": "Veel boeren over de hele wereld zijn klein en hebben geen onderhandelingsmacht met grote bedrijven. Daarom is de Fairtrade minimumprijs een belangrijke structuur.\n\nBij Fairtrade hoort ook een premie. Het is een extra bedrag dat in een fonds gaat. Boeren en arbeiders kunnen beslissen waar het wordt uitgegeven en vaak gebruiken ze het voor huisvesting, onderwijs of het verbeteren van de boerderij.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/how-fairtrade-works-NL-1.png"
           }
         },
@@ -4776,7 +4776,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 21,
-          "subtitle": "Bananen zijn een makkelijk Fairtrade product om te kopen."
+          "subtitle": "Bananen kun je makkelijk Fairtrade kopen."
         }
       ]
     },

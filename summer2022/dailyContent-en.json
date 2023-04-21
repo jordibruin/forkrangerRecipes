@@ -4399,6 +4399,389 @@
       ]
     },
     {
+      "id": 84,
+      "notificationTitle": "Today: Moo Moo Meadows",
+      "notificationText": "What is a sustainable amount of dairy? 🥛 - Recipe of the day: Creamy Beetroot Rice",
+      "home": {
+        "title": "What is a sustainable amount of dairy?",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In a story at Muscle Mountain we already saw that a little bit of dairy can be part of a sustainable diet 🐄"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "The recommended amount in the EAT-Lancet report is 250 ml of whole milk equivalents 🥛"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Whole milk equivalents stands for the amount of milk that went into a dairy product like cream or cheese 🧀"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "What is the equivalent of 250 ml of whole milk?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Small cup of cream (70 g) 🍦",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "4 slices of cheese (100 g) 🧀",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "One pack of butter (200 g) 🧈",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "250 ml of whole milk equivalents is about one portion of any dairy product. Overall, we can say we need to bring back our dairy consumption from 2-3 portions to 1 portion per day. This recommendation is not a hard truth but a guideline. ",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/250-ml-whole-milk-eq.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 72,
+          "subtitle": "A rice recipe with (soy) cream!"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "notificationTitle": "Today: Golden Fields",
+      "notificationText": "What’s the impact of your favorite drink? 🍺 - Recipe of the day: Noodles with Orange Juice",
+      "home": {
+        "title": "What’s the impact of your favorite drink?",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "So far we’ve mostly looked at the impact of food. But drinks also require land and have a footprint 🍾"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "For example, to make 1 liter of beer you need around 200 grams of barley 🌾 "
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "During a night out, beers often go together with fast food 🍔 So how do they compare?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "How many beers have the same impact as one chicken burger? 🍺",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "7",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "24",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The impact of a drink depends on our habits: the emissions of milk and coffee can really add up if you drink it every day. In that case, trying to reduce coffee or switching to plant-based milk can make a difference.\n\nThere are lots of reasons to drink less alcohol but the footprint of the occasional beer is relatively low. The snacks after a night out probably have a higher impact: one chicken burger has the same footprint as 7 beers. 🍻 (47 in the case of beef)\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/drinks-1.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 56,
+          "subtitle": "In this recipe the broccoli soaks up the flavors of the orange juice. Delicious!"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "notificationTitle": "Today: The Good Ranch",
+      "notificationText": "Is grass-fed beef more sustainable? 🥩 - Recipe of the day: Spinach Pesto",
+      "home": {
+        "title": "Is grass-fed beef more sustainable?",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Many people say that the solution for meat is eating grass-fed beef 🥩"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "There are many reasons to feed cows grass instead of corn, but a lower climate impact is not one of them 🐂"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Why does grass-fed beef not have a lower footprint? 🥩",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It requires more cows for the same amount of meat",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Most grass-fed beef is shipped form Australia to the US/Europe",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Grass-fed cows damage grasslands",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Cows that only eat grass are healthier, but they also grow slower. So you need more cows for the same amount of meat. And this requires extra land and causes extra methane emissions.\n\nBeef has a high footprint because: 1) cows burp methane 2) cows require a lot of feed. Whether you get this feed from grain or grass doesn’t change the fact that it requires a lot of land, which has a high carbon cost.\n\nThere are other benefits of grazing cows but not for the climate: while cows can help grasslands to store carbon, this does not offset the extra emissions.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/grassfed-beef-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 12,
+          "subtitle": "This pasta recipe is a great alternative to the traditional bolognese (which requires minced beef)\n"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "notificationTitle": "Today: Fair Fields",
+      "notificationText": "How much do you spend on food? 🤑 - Recipe of the day: Coconut Dahl",
+      "home": {
+        "title": "How much do you spend on food?",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "The price of food is a topic of many conversations with the current inflation 📈"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "So let’s take a look at how much we spend on food 🤑"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How much of their income do people in the Netherlands spend on food? 💰",
+          "subtitle": "as percentage of household income in 2018",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "8%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "33%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In rich Western countries we only spend around 6-12% on food. But Dutch people think it’s three times higher!\n\nEating sustainably is often cheaper because meat is expensive. But we also need to make farming more sustainable and fair and buying those products is often more expensive at the moment. So if you can allow it, don’t be too stingy with food.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/spending-on-food.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 55,
+          "subtitle": "The Fairtrade versions of products like coconut milk are an example of where spending the extra money is worth it."
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "notificationTitle": "Today: Underground Jungle",
+      "notificationText": "Is honey sustainable? 🍯 - Recipe of the day: Celeriac Sweet Potato Mash",
+      "home": {
+        "title": "Is honey sustainable?",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There are over 16,000 known bee species in the world but only 8 of them are considered ‘honey bees’ 🐝"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "While most insects are in decline, honey bees have increased the last 50 years 📈 What does it mean for the pollination of food?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which bees are better at pollinating food crops? ",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Honey bees",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Wild bees",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The reason that we have so many honey bees is because we use them as ‘honey farms’. While honey bees are really good at collecting pollen for honey, they don’t stop at other flowers to pollinate them. And if there are too bee hives in one area, there is no more food for other pollinators.\n\nSo eating honey is not helping (pollinating) insects. Instead, to increase biodiversity you can eat more organic products and keep native plants in your garden.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/honey_bees.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 88,
+          "subtitle": "This recipe includes apples, a product that’s easy to buy organically and support more biodiversity."
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "notificationTitle": "Today: Muscle Mountain",
+      "notificationText": "Can you get ‘complete’ protein from plants? 🥦 - Recipe of the day: Caribbean Chilli",
+      "home": {
+        "title": "Can you get ‘complete’ protein from plants?",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Protein consists of 20 different amino acids. We need the right mix to get ‘complete’ protein 💪"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Many people believe that only meat contains all essentail amino acids. This is false ❌ All foods contain all amino acids, but to different levels."
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "So the question is: how do we make sure we get the right mix?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "What is most important to get the right mix of amino acids?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Only eating certain foods in the morning",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Paying attention to food combinations in one meal",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Eating diverse foods during the day",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "It is false that you can only get all 20 amino acids from meat. It’s also not true that you need to eat the right combinations in one meal (e.g. rice and beans). All you need is to eat a diverse range of foods within 24 hours.\n\nIn other words, there is no need to worry about ‘complete’ protein.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/complete-protein1.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 17,
+          "subtitle": "One of the easiest ways to eat diverse food is making it more colorful!"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "notificationTitle": "Today: Fair Fields",
+      "notificationText": "How Fairtrade works 👨🏾‍🌾 - Recipe of the day: Banana Curry",
+      "home": {
+        "title": "How Fairtrade works",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We’ve all heard about Fairtrade products, but what do the farmers actually get? 👨🏾‍🌾"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "How does Fairtrade work? 💸\n",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Farmers are guaranteed a minimum price",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Farmers get a premium on top of their sales price",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Both",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Many farmers around the world are small and don’t have negotiation power with big companies. That’s why the Fairtrade minimum price is an important structure.\n\nFairtrade also includes a premium. It’s an extra sum of money that goes into a fund. Farmers and workers can decide where it's spend and they often use it for housing, education, or improving the farm.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/how-fairtrade-works.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 21,
+          "subtitle": "Bananas are an easy product to buy Fairtrade."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

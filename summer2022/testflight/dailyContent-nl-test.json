@@ -4488,17 +4488,17 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": 1,
+              "title": "1",
               "correct": false
             },
             {
               "id": 1,
-              "title": 7,
+              "title": "7",
               "correct": true
             },
             {
               "id": 2,
-              "title": 24,
+              "title": "24",
               "correct": false
             }
           ],

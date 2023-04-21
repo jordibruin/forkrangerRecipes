@@ -2482,7 +2482,7 @@
           ],
           "answerExplanation": {
             "text": "Alle drie hebben ze een lagere impact dan koemelk. Als we kijken naar meerdere variabelen voor milieu-impact scoort havermelk het beste. Sojamelk is de beste optie als je eentje wilt kiezen die veel eiwit bevat. ",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/plant-based-milk-NL-1.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/plant-based-milk-NL-1.png"
           }
         },
         {
@@ -4394,6 +4394,389 @@
           "type": "recipe",
           "recipeID": 62,
           "subtitle": "Wij houden van koken op inductie, maar als je een gasfornuis hebt: leg wraps 20-30 seconden direct op het vuur en maak ze echt heerlijk."
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "notificationTitle": "Vandaag: Moo Moo Meadows",
+      "notificationText": "Wat is een duurzame hoeveelheid zuivel? 🥛 - Recept van de dag: Romige Rijst met Bieten",
+      "home": {
+        "title": "Wat is een duurzame hoeveelheid zuivel?",
+        "category": 7
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In een van de stories bij Muscle Mountain zagen we al dat een klein beetje zuivel onderdeel kan zijn van een duurzaam voedingspatroon 🐄"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "De aanbevolen hoeveelheid in het EAT-Lancet rapport is 250 ml volle melkequivalenten 🥛"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Volle melkequivalenten staat voor de hoeveelheid melk die in een zuivelproduct zoals room of kaas is gegaan 🧀"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat is het equivalent van 250 ml volle melk?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Klein bakje room (70g) 🍦",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "4 plakjes kaas (100 g) 🧀",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "1 pak boter (200 g) 🧈",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "250 ml volle melkequivalenten is ongeveer één portie van een zuivelproduct. Over het algemeen kunnen we zeggen dat we onze zuivelconsumptie moeten terugbrengen van 2-3 porties naar 1 portie per dag. Deze aanbeveling is geen harde waarheid maar een richtlijn.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/250-ml-whole-milk-eq-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 72,
+          "subtitle": "Een rijstrecept met (soja)room!"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "notificationTitle": "Vandaag: Golden Fields",
+      "notificationText": "Wat is de impact van je favoriete drankje? 🍺 - Recept van de dag: Noedels met Sinaasappelsap",
+      "home": {
+        "title": "Wat is de impact van je favoriete drankje?",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Tot nu toe hebben we vooral gekeken naar de impact van voedsel. Maar drankjes hebben ook land nodig en hebben een klimaatimpact 🍾"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Om bijvoorbeeld 1 liter bier te maken heb je ongeveer 200 gram gerst nodig 🌾"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Tijdens een avondje uit gaat bieren vaak samen met snacks 🍔 Dus hoe vergelijken ze?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Hoeveel bier heeft dezelfde impact als één kipburger? 🍺",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "7",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "24",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De impact van een drankje hangt af van onze gewoonten: de uitstoot van melk en koffie kan behoorlijk oplopen als je het elke dag drinkt. In dat geval kan het verminderen van koffie of het overstappen op plantaardige melk een verschil maken.\n\nEr zijn tal van redenen om minder alcohol te drinken, maar de klimaatimpact van af en toe een biertje is relatief klein. De snacks na een avondje uit hebben waarschijnlijk een grotere impact: één kipburger heeft dezelfde klimaatimpact als 7 biertjes 🍻 (47 in het geval van rundvlees).\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/drinks-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 56,
+          "subtitle": "In dit recept neemt de broccoli de smaken van het sinaasappelsap op. Verrukkelijk!"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "notificationTitle": "Vandaag: The Good Ranch",
+      "notificationText": "Is ‘grass-fed’ rundvlees duurzamer? 🥩 - Recept van de dag: Spinazie Pasta Pesto",
+      "home": {
+        "title": "Is ‘grass-fed’ rundvlees duurzamer?",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Veel mensen zeggen dat de oplossing voor vlees het eten van ‘grass-fed’ rundvlees is 🥩"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Er zijn veel redenen om koeien gras te voeren in plaats van maïs, maar een lagere klimaatimpact hoort daar niet bij 🐂"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Waarom heeft ‘grass-fed’ rundvlees geen lagere klimaatimpact? 🥩",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Er zijn meer koeien nodig voor dezelfde hoeveelheid vlees",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Het meeste ‘grass-fed’ rundvlees wordt vanuit Australië naar de VS/Europa verscheept",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "‘Grass-fed’ koeien beschadigen graslanden",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Koeien die alleen gras eten zijn gezonder, maar groeien ook langzamer. Je hebt dus meer koeien nodig voor dezelfde hoeveelheid vlees. En daar is extra land voor nodig en zorgt voor extra methaan-uitstoot.\n\nRundvlees heeft een hoge klimaatimpact omdat: 1) koeien methaan-gas uitboeren 2) koeien veel voer nodig hebben. Of je dit voer nu van graan of gras krijgt, verandert niets aan het feit dat er veel land voor nodig is, wat een hoge klimaatimpact met zich meebrengt.\n\nEr zijn andere voordelen van grazende koeien, maar niet voor het klimaat: koeien kunnen graslanden helpen om koolstof op te slaan, maar dit weegt niet op tegen de extra uitstoot.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/grassfed-beef-NL-1.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 12,
+          "subtitle": "Dit pastarecept is een geweldig alternatief voor de traditionele bolognese (waar rundergehakt voor nodig is)"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "notificationTitle": "Vandaag: Fair Fields",
+      "notificationText": "Hoeveel geef jij uit aan eten? 🤑 - Recept van de dag: Kokosdahl",
+      "home": {
+        "title": "Hoeveel geef je uit aan eten?",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "De prijs van voedsel is een onderwerp van veel gesprekken met de huidige inflatie 📈"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Dus laten we eens kijken hoeveel we uitgeven aan eten 🤑"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoeveel van het inkomen geven mensen in Nederland uit aan eten? 💰",
+          "subtitle": "als percentage van het huishoudinkomen in 2018",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "8%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "33%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In rijke westerse landen geven we slechts zo'n 6-12% uit aan voedsel. Maar Nederlanders denken dat het drie keer zo hoog is!\n\nDuurzaam eten is vaak goedkoper omdat vlees duur is. Maar we moeten de landbouw ook duurzamer en eerlijker maken en het kopen van die producten is op dit moment vaak duurder. Dus als je je het kunt veroorloven, wees dan niet te zuinig met geld aan eten besteden.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/spending-on-food-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 55,
+          "subtitle": "De Fairtrade-versies van producten zoals kokosmelk zijn een voorbeeld van waar het extra geld de moeite waard is."
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "notificationTitle": "Vandaag: Underground jungle",
+      "notificationText": "Is honing duurzaam? 🍯 - Recept van de dag: Knolselderij Zoete Aardappel Stamppot",
+      "home": {
+        "title": "Is honing duurzaam?",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er zijn meer dan 16.000 bekende bijensoorten in de wereld, maar slechts 8 daarvan worden beschouwd als 'honingbijen' 🐝"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Terwijl de meeste insecten achteruitgaan, zijn honingbijen de afgelopen 50 jaar toegenomen 📈 Wat betekent dit voor de bestuiving van voedsel?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke bijen zijn beter in het bestuiven van voedselgewassen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Honingbijen",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Wilde bijen",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De reden dat we zoveel honingbijen hebben, is omdat we ze gebruiken als 'honingfabrieken'. Hoewel honingbijen erg goed zijn in het verzamelen van stuifmeel voor honing, stoppen ze niet bij andere bloemen om ze te bestuiven. En als er in een gebied te veel bijenkasten staan, is er geen voedsel meer voor andere bestuivers.\n\nHet eten van honing helpt dus niet voor (bestuivende) insecten. Om de biodiversiteit te vergroten kun je in plaats daarvan meer biologische producten eten en inheemse planten in je tuin houden.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/honey_bees-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 88,
+          "subtitle": "Dit recept bevat appels, een product dat gemakkelijk biologisch te kopen is en meer biodiversiteit ondersteunt."
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "notificationTitle": "Vandaag: Muscle Mountain",
+      "notificationText": "Kun je ‘volledige’ eiwitten uit planten halen? 🥦 - Recept van de dag: Caribische Chili",
+      "home": {
+        "title": "Kun je 'volledige' eiwitten uit planten halen?",
+        "category": 6
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Eiwitten bestaan uit 20 verschillende aminozuren. We hebben de juiste mix nodig om ‘complete’ eiwitten binnen te krijgen 💪"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Veel mensen geloven dat alleen vlees alle essentiële aminozuren bevat. Dit is onjuist ❌ Alle voedingsmiddelen bevatten alle aminozuren, maar in verschillende niveaus."
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "De vraag is dus: hoe zorgen we voor de juiste mix?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat is het belangrijkste om de juiste mix van aminozuren te krijgen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Alleen bepaalde voedingsmiddelen in de ochtend eten",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Aandacht besteden aan voedselcombinaties in één maaltijd",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Gedurende de dag gevarieerd eten",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het is niet waar dat je alle 20 aminozuren alleen uit vlees kunt halen. Het is ook niet zo dat je de juiste combinaties in één maaltijd moet eten (bijvoorbeeld rijst en bonen). Het enige dat je moet doen, is binnen 24 uur een gevarieerd aanbod van voedsel eten.\n\nMet andere woorden, je hoeft je geen zorgen te maken over 'volledige' eiwitten.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/complete-protein-NL-1.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 17,
+          "subtitle": "Één van de gemakkelijkste manieren om divers voedsel te eten, is door het kleurrijker te maken!"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "notificationTitle": "Vandaag: Fair Fields",
+      "notificationText": "Hoe Fairtrade werkt 👨🏾‍🌾 - Recept van de dag: Curry met Banaan",
+      "home": {
+        "title": "Hoe Fairtrade werkt",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben allemaal wel eens gehoord van Fairtrade producten, maar wat krijgen de boeren eigenlijk? 👨🏾‍🌾"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Hoe werkt Fairtrade? 💸",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Boeren krijgen gegarandeerd een minimumprijs",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Boeren krijgen een premie bovenop hun verkoopprijs",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Beide",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Veel boeren over de hele wereld zijn klein en hebben geen onderhandelingsmacht met grote bedrijven. Daarom is de Fairtrade minimumprijs een belangrijke structuur.\n\nBij Fairtrade hoort ook een premie. Het is een extra bedrag dat in een fonds gaat. Boeren en arbeiders kunnen beslissen waar het wordt uitgegeven en vaak gebruiken ze het voor huisvesting, onderwijs of het verbeteren van de boerderij.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/how-fairtrade-works-NL-1.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 21,
+          "subtitle": "Bananen kun je makkelijk Fairtrade kopen."
         }
       ]
     },

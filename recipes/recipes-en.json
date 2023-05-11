@@ -12866,7 +12866,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Lime",
+          "name": "Lemon",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
@@ -12918,7 +12918,7 @@
           "time": 15
         },
         {
-          "title": "Serve with coriander and squeeze lime and add more salt and pepper to taste",
+          "title": "Serve with coriander and squeeze lemon and add more salt and pepper to taste",
           "detail": "",
           "emoji": ""
         }

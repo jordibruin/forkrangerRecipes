@@ -1,0 +1,18 @@
+[
+    {
+        "month": 1,
+        "color": "3d7066",
+        "lastchance": [1,2,3],
+        "storage": [4,5,6],
+        "primetime": [7],
+        "startingnow": [8,9]
+    },
+    {
+        "month": 2,
+        "color": "966929",
+        "lastchance": [1,2,3],
+        "storage": [4,5,6],
+        "primetime": [7],
+        "startingnow": [8,9]
+    }
+]

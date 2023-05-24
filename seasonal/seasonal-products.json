@@ -924,31 +924,6 @@
     ]
   },
   {
-    "id": "52",
-    "nameNL": "Ui",
-    "nameEN": "Onion",
-    "image": "onion",
-    "LC": [],
-    "GFS": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      11,
-      12
-    ],
-    "PT": [
-      7,
-      8,
-      9,
-      10
-    ],
-    "SN": [
-      6
-    ]
-  },
-  {
     "id": "53",
     "nameNL": "Veldsla",
     "nameEN": "Lamb's lettuce",

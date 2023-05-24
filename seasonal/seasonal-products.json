@@ -221,13 +221,13 @@
   },
   {
     "id": "23",
-    "nameNL": "Kropsla",
+    "nameNL": "Sla",
     "nameEN": "Lettuce",
     "image": "lettuce",
     "LC": [10],
     "GFS": [],
-    "PT": [6, 7, 8, 9],
-    "SN": [5]
+    "PT": [7, 8, 9],
+    "SN": [6]
   },
   {
     "id": "24",

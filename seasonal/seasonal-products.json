@@ -62,7 +62,7 @@
   {
     "id": "7",
     "nameNL": "Aubergine",
-    "nameEN": "Eggplant",
+    "nameEN": "Aubergine",
     "image": "eggplant",
     "LC": [10],
     "GFS": [],
@@ -152,7 +152,7 @@
   {
     "id": "16",
     "nameNL": "Doperwt",
-    "nameEN": "Green Peas",
+    "nameEN": "Peas",
     "image": "peas",
     "LC": [8],
     "GFS": [],
@@ -262,7 +262,7 @@
   {
     "id": "27",
     "nameNL": "Paksoi",
-    "nameEN": "Bok choy",
+    "nameEN": "Pak choi",
     "image": "bokchoy",
     "LC": [10],
     "GFS": [],
@@ -402,7 +402,7 @@
   {
     "id": "41",
     "nameNL": "Rucola",
-    "nameEN": "Arugula",
+    "nameEN": "Rocket",
     "image": "rucola",
     "LC": [10],
     "GFS": [],
@@ -422,7 +422,7 @@
   {
     "id": "43",
     "nameNL": "Schorseneer",
-    "nameEN": "Salsify",
+    "nameEN": "Black salsify",
     "image": "blacksalsify",
     "LC": [2],
     "GFS": [1],
@@ -472,7 +472,7 @@
   {
     "id": "48",
     "nameNL": "Spitskool",
-    "nameEN": "Oxheart cabbage",
+    "nameEN": "Pointed cabbage",
     "image": "oxheartcabbage",
     "LC": [1],
     "GFS": [12],
@@ -502,7 +502,7 @@
   {
     "id": "51",
     "nameNL": "Tuinboon",
-    "nameEN": "Flat bean",
+    "nameEN": "Broad beans",
     "image": "flatbean",
     "LC": [9],
     "GFS": [],

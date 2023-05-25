@@ -13047,6 +13047,174 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "id": 92,
+      "url": "https://www.forkranger.com/bean-soup-with-salsa/?share",
+      "title": "Bean Soup with Salsa",
+      "description": "Bean soup is one of those traditional, simple, Dutch recipes many grandmas used to make. The brown bean for good reason is sometimes called Dutch bean. We're putting it in a new guise with Latin flavors.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/05/Bean-Soup-with-Salsa.jpg",
+      "duration": 35,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Brown beans (canned)",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red bell pepper",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned corn",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 12,
+          "quantityType": ""
+        },
+        {
+          "name": "Bread (sourdough)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Chilli pepper",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon",
+          "type": "taste",
+          "quantity": 600,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Tomato paste",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Paprika powder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Red onions",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onions and mince garlic",
+        "Cut bell pepper into short strips",
+        "Cut sun-dried tomatoes into strips",
+        "Cut away the seeds of the chilli peppers and chop finely",
+        "Cut the fresh coriander"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Make bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Sauté two-thirds of the onions",
+          "detail": "medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add garlic, tomato paste, cumin and paprika powder",
+          "detail": "lower heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add sun-dried tomatoes, beans and bouillon",
+          "detail": "drain beans before adding, add lid, occasionally stir, medium/high heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "In the meantime, sauté remaining one-third of onions",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add corn, bell pepper and chili pepper",
+          "detail": "drain corn before adding, medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Turn off heat, add lime juice and salt and pepper to taste",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serve soup with the salsa and fresh coriander on top, and slices of bread",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -4782,6 +4782,384 @@
       ]
     },
     {
+      "id": 91,
+      "notificationTitle": "Today: Windmill Land",
+      "notificationText": "Does putting a lid on the pan save energy? 🔥 - Recipe of the day: Spicy Green Penne",
+      "home": {
+        "title": "Does putting a lid on the pan save energy?",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We already covered that the energy of cooking has a much lower climate impact than the ingredients 🍳"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But there are a lot of opinions about how to reduce energy use while cooking. So let’s take a closer look 🔎"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What saves the most energy when cooking pasta?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Right amount of water ",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "\nAdding the lid",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Turning heat down after water boils and pasta is added",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Putting the lid on traps the heat but doesn’t reduce the energy that goes into the pan. The most effective thing is to actually reduce the amount of energy.\n\nIf you’re a climate nerd you now know how to reduce cooking energy. But don’t stress too much about it: the ingredients that go into the pan are more important.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/cooking_pasta.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 91,
+          "subtitle": "Use your new pasta knowledge with this simple and delicious recipe."
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "notificationTitle": "Today: Ocean",
+      "notificationText": "Underwater food forests 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup",
+      "home": {
+        "title": "Underwater food forests",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "The majority of our food comes from land but we also get some food from the Ocean. Mostly by hunting or farming fish 🐟"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "We already saw that farming mussels is much more sustainable but there is another way to farm the oceans: seaweed! 🌊"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Seaweed is like an underwater forest that can capture CO2 while providing really nutritious food. But can it grow fast enough?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "How fast does seaweed grow?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "60 cm per day",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "60 cm per month",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "60 cm per year",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Seaweed is a great climate solution: it grows much faster than trees, is easy and cheap to farm, and nutritious.\n\nThe biggest benefit of seaweed is that we can grow food without needing any land. Seaweed might not be a common product, but if you can find it, give this climate superfood a try!\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/seaweed.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 64,
+          "subtitle": "You could add some sheets of Nori seaweed to this dish (often used for sushi)."
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "notificationTitle": "Today: Fair Fields",
+      "notificationText": "Can you afford Fairtrade & organic products? 💰 - Recipe of the day: Creamy Tomato Pasta with Hazelnuts",
+      "home": {
+        "title": "Can you afford Fairtrade & organic products?",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In rich countries people spend around 8-10% of their income on food. In poor countries it’s up to 50% 💰"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "How much did people spend on food in 1960 compared to today?",
+          "subtitle": "Data from the Netherlands, share of total",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "The same 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The same 💰",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Three times more 💰💰💰",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In rich countries we spend less and less on basic needs and use more of our money on luxuries. This also has a climate cost: the richer you are the higher your footprint (on average).\n\nAt the same time, many farmers are not getting paid enough. So we think it’s important to be aware of this decline in food spending. Maybe we can afford to buy more organic and Fairtrade products than we think.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/decline_on_food_spending.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 93,
+          "subtitle": "Organic pasta is often not that much more expensive."
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "notificationTitle": "Today: Golden Fields",
+      "notificationText": "The most produced crop in the world 🥇 - Recipe of the day: Chilli Spaghetti",
+      "home": {
+        "title": "The most produced crop in the world",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "The most produced crop in the world is not wheat, corn, or rice. It’s sugarcane! 🥇"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "It’s used for many different things, like packaging, fuel, and of course sugar. How does the climate impact of sugar compare to other foods?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which ingredient in a chocolate cake has the highest climate impact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "100 g butter 🧈",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "300 g chocolate 🍫",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "175 g sugar 🍚",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The footprint per kg of sugar is not very high. The biggest reason to be careful with sugar is still your own health.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/chocolade-cake.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 9,
+          "subtitle": "Sometimes a little bit of sugar can make a tomato sauce more balanced. Try it with this delicious Chilli spaghetti."
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "notificationTitle": "Today: Windmill Land",
+      "notificationText": "How sustainable is a BBQ? 🔥 - Recipe of the day: Low Impact BBQ",
+      "home": {
+        "title": "How sustainable is a BBQ?",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "At Fork Ranger we love a good campfire 🔥 But burning wood also causes CO2 and pollution."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "The same is true for a barbecue: what’s the impact of grilling with charcoal?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "What has a higher climate impact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Charcoal for one BBQ session (1.5 kg) 🔥 ",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "20 Pork sausages (1 kg) 🌭",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "A barbecue burns wood (or fossil fuel) and is not really sustainable in the era of climate change, but it’s a luxury we can allow ourselves once in a while. Much more important is what we put on the BBQ.\n\nAnother important note: buy charcoal with the FSC mark for sustainable forestry.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/chocolade-cake.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 38,
+          "subtitle": "Try some of these veggie options at your next BBQ!"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "notificationTitle": "Today: Underground Jungle",
+      "notificationText": "What is regenerative agriculture? 🧑‍🌾 - Recipe of the day: Bean Soup with Salsa",
+      "home": {
+        "title": "What is regenerative agriculture?",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Regenerative agriculture describes a way of farming that *improves* nature, rather than destroying it 🌈"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "But there is no official definition 🏭 So people fear that big companies will use it for greenwashing."
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "One study looked at how most research and websites define regenerative agriculture 🔎 There is one outcome that was mentioned most often."
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "What is the most mentioned outcome of regenerative agriculture?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Taking up more CO2 in the soil ☁️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Healthier soil 🪱",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "More biodiversity 🦋",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "At the core of regenerative agriculture is improving the soil. This is often achieved by avoiding ‘inputs’ like chemical fertilizer or pesticides, making farm animals part of the system, and not tilling the land.\n\nThe easiest way to support regenerative agriculture is buying organic products, because there is a lot of overlap between these two concepts.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/chocolade-cake.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 92,
+          "subtitle": "A delicious bean recipe. And as you know by now: beans improve the soil."
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "notificationTitle": "Today: Fellowship of the Forks",
+      "notificationText": "How many people actually care about the climate? 🧐 - Recipe of the day: Lasagne with Walnuts",
+      "home": {
+        "title": "How many people actually care about the climate?",
+        "category": 4
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "For a study in the US, people were asked: How many people do you think are worried about climate change? Their answer: 43%."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Then they looked at how many people actually care 🧐"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How many people are actually worried about climate change?",
+          "subtitle": "in the US",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "37%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "66%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "89%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Two-thirds of all Americans worry about climate change. But people *think* that this number is only 43%! So speak up, there are lots of people who care about the climate but stay silent. We need to support each other 💚",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 94,
+          "subtitle": "Use this lasagne to invite friends for dinner and a talk about climate change."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

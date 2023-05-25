@@ -13351,6 +13351,157 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta"
+      ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "id": 94,
+      "url": "https://www.forkranger.com/lasagne-with-walnuts/?share",
+      "title": "Lasagne with Walnuts",
+      "description": "Lasagna does not need meat to be filling. This one proves that with a nice tomato sauce with mushrooms and walnuts. The other layer with creamy spinach brings a nice balance. I promise, you won't even miss meat here.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/04/yellow-fried-rice.jpg",
+      "duration": 60,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Lasagne sheets (whole wheat)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Chestnut mushrooms",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinach",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Creme (or oat) fraiche",
+          "type": "fresh",
+          "quantity": 125,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned tomatoes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh basil",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Parmesan",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut mushrooms into slices",
+        "Cut sun-dried tomatoes",
+        "Chop walnuts",
+        "Chop parsley and basil",
+        "Preheat oven to 180°C"
+      ],
+      "cookTime": 50,
+      "cookSteps": [
+        {
+          "title": "Sauté onion and mushrooms",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In the meantime, sauté spinach",
+          "detail": "",
+          "panType": "fryingPan2",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add walnuts, sun-dried tomatoes, parsley, basil, garlic, and canned tomatoes",
+          "detail": "medium heat, season with salt and pepper to taste",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add creme (or oat) fraiche",
+          "detail": "medium heat, season with salt and pepper to taste",
+          "panType": "fryingPan2",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Assemble the lasagna in an oven form",
+          "detail": "tomato-mushroom sauce, lasagne sheet, spinach, tomato-mushroom sauce etc., add parmesan on top",
+          "panType": "oven",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Bake in the preheated oven",
+          "detail": "at 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        }
+      ]
     }
   ]
 }

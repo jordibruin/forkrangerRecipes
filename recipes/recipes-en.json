@@ -13215,6 +13215,142 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "rice"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "id": 93,
+      "url": "https://www.forkranger.com/yellow-fried-rice/?share",
+      "title": "Yellow Fried Rice",
+      "description": "This fried rice is a simple dish to make, with few ingredients. That does not mean it has to taste simple. The secret ingredient is the crumbled tofu, that together with the rice soaks up all the different spices and flavors.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/04/yellow-fried-rice.jpg",
+      "duration": 35,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rice (brown)",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tofu",
+          "type": "fresh",
+          "quantity": 375,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Bok choy",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 6,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Peanuts",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Place tofu on paper towel and put paper towel on top, press with your hands to squeeze out the water",
+        "Crumble tofu in a bowl with soy sauce, put in fridge for 10 min",
+        "Chop carrot into thin slices",
+        "Cut bok choy into strips"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Sauté tofu",
+          "detail": "medium/high heat, use plenty of oil, stir regularly",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "In the meantime, cook rice",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Add carrots",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add bok choy",
+          "detail": "stir",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add turmeric and rice",
+          "detail": "stir, season with salt and pepper to taste",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add lime juice to taste",
+          "detail": "mix",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serve with fresh coriander and peanuts",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

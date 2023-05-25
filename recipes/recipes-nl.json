@@ -13347,6 +13347,157 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta"
+      ],
+      "seasonalInfo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/lasagne-met-walnoten/?share",
+      "id": 94,
+      "title": "Lasagne met Walnoten",
+      "description": "Lasagne heeft geen vlees nodig om vullend te zijn. Dit is het bewijs met een lekkere tomatensaus met champignons en walnoten. De andere romige laag met spinazie brengt het mooi in balans. Ik beloof je dat je het vlees niet eens mist.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/04/yellow-fried-rice.jpg",
+      "duration": 60,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Lasagnebladen (volkoren)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Crème fraîche (of haver fraîche)",
+          "type": "fresh",
+          "quantity": 125,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 30,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse basilicum",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Parmezaanse kaas",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de champignons in plakjes",
+        "Snij de zongedroogde tomaten",
+        "Hak de walnoten in stukjes",
+        "Snij de peterselie en basilicum",
+        "Verwarm de oven voor op 180°C"
+      ],
+      "cookTime": 50,
+      "cookSteps": [
+        {
+          "title": "Bak ui en champignons",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Bak ondertussen de spinazie",
+          "detail": "",
+          "panType": "fryingPan2",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg walnoten, zongedroogde tomaten, peterselie, basilicum, knoflook en tomaten uit blik toe",
+          "detail": "middelhoog vuur, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg crème fraîche (of haver fraîche) toe",
+          "detail": "middelhoog vuur, breng op smaak met zout en peper ",
+          "panType": "fryingPan2",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Maak de lasagne in een ovenschaal",
+          "detail": "tomaten-champignon saus, lasagnebladeren, spinazie, tomaten-champignon saus, etc. voeg bovenop geraspte parmezaan toe",
+          "panType": "oven",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Bak in de voorverwarmde oven",
+          "detail": "op 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        }
+      ]
     }
   ]
 }

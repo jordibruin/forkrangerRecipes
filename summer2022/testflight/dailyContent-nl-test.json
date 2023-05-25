@@ -4781,6 +4781,384 @@
       ]
     },
     {
+      "id": 91,
+      "notificationTitle": "Vandaag: Windmill Land",
+      "notificationText": "Bespaart een deksel op de pan energie? 🔥 - Recept van de dag: Pittige Groene Penne",
+      "home": {
+        "title": "Bespaart een deksel op de pan energie?",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben al gezien dat de energie van het koken een veel lagere klimaatimpact heeft dan de ingrediënten 🍳"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar er zijn veel meningen over hoe je het energieverbruik tijdens het koken kunt verminderen. Dus laten we het eens nader bekijken 🔎"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Wat bespaart de meeste energie bij het koken van pasta?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Juiste hoeveelheid water",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Het deksel op de pan doen",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Het vuur lager zetten nadat het water kookt en de pasta is toegevoegd",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het deksel erop houdt de warmte vast, maar vermindert niet de energie die in de pan gaat. Het meest effectieve is om de hoeveelheid energie daadwerkelijk te verminderen.\n\nAls je een klimaat nerd bent, weet je nu hoe je de energie van het koken kunt verminderen. Maar maak je er ook weer niet te druk om: de ingrediënten die in de pan gaan zijn belangrijker.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/cooking_pasta-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 91,
+          "subtitle": "Gebruik je nieuwe kennis over pasta koken bij dit eenvoudige en heerlijke recept."
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "notificationTitle": "Vandaag: Ocean",
+      "notificationText": "Onderwater voedselbossen 🌊 - Recept van de dag: Champignon Gember Noedelsoep",
+      "home": {
+        "title": "Voedselbossen onder water",
+        "category": 11
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Het grootste deel van ons voedsel komt van het land, maar we halen ook voedsel uit de oceaan. Meestal door te jagen of vissen erin te kweken 🐟"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "We zagen al dat het kweken van mosselen veel duurzamer is, maar je kan nog meer in oceanen kweken: zeewier! 🌊"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Zeewier is als een onderwaterbos dat CO2 kan vastleggen en tegelijkertijd voor echt voedzaam voedsel zorgt. Maar kan het snel genoeg groeien?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Hoe snel groeit zeewier?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "60cm per dag",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "60cm per maand",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "60cm per jaar",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zeewier is een geweldige oplossing voor het klimaat: het groeit veel sneller dan bomen, is gemakkelijk en goedkoop te kweken en erg voedzaam.\n\nHet grootste voordeel van zeewier is dat we voedsel kunnen verbouwen zonder land nodig te hebben. Zeewier is misschien niet een veelvoorkomend product, maar als je het kunt vinden, probeer dan eens dit klimaat superfood!\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/seaweed-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 64,
+          "subtitle": "Je zou wat vellen Nori-zeewier aan dit gerecht kunnen toevoegen (vaak gebruikt voor sushi)."
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "notificationTitle": "Vandaag: Fair Fields",
+      "notificationText": "Kun je je Fairtrade & biologische producten veroorloven? 💰 - Recept van de dag: Romige Pasta met Tomaten en Hazelnoten",
+      "home": {
+        "title": "Kun je Fairtrade & biologische producten betalen?",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "In rijke landen geven mensen zo'n 8-10% van hun inkomen uit aan voedsel. In arme landen is dat tot 50% 💰"
+        },
+        {
+          "id": 1,
+          "type": "question",
+          "title": "Hoeveel gaven mensen in 1960 aan voedsel uit in vergelijking met nu?",
+          "subtitle": "Gegevens uit Nederland, aandeel van het totaal",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hetzelfde 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Het dubbele 💰💰",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Drie keer meer 💰💰💰",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In rijke landen geven we steeds minder uit aan basisbehoeften en besteden we meer van ons geld aan luxegoederen. Dit heeft ook een klimaatimpact: hoe rijker je bent, hoe groter je klimaatimpact (gemiddeld gezien).\n\nTegelijkertijd krijgen veel boeren niet genoeg betaald. Daarom vinden we het belangrijk om op de hoogte te zijn van deze daling. Misschien kunnen we het ons veroorloven om meer biologische en Fairtrade producten te kopen dan we denken.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/decline_on_food_spending-NL.png"
+          }
+        },
+        {
+          "id": 2,
+          "type": "recipe",
+          "recipeID": 93,
+          "subtitle": "Biologische pasta is vaak niet eens zo heel veel duurder."
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "notificationTitle": "Vandaag: Golden Fields",
+      "notificationText": "Het meest geproduceerde gewas ter wereld 🥇 - Recept van de dag: Chili Spaghetti",
+      "home": {
+        "title": "Het meest geproduceerde gewas ter wereld",
+        "category": 9
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Het meest geproduceerde gewas ter wereld is niet tarwe, maïs of rijst. Het is suikerriet! 🥇"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Het wordt voor veel verschillende dingen gebruikt, zoals verpakking, brandstof en natuurlijk suiker. Hoe verhoudt de klimaatimpact van suiker zich tot andere voedingsmiddelen?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welk ingrediënt in een chocoladetaart heeft de grootste klimaatimpact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "100 g boter 🧈",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "300 g chocolade 🍫",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "175 g suiker 🍚",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De klimaatimpact per kg suiker is niet heel hoog. De grootste reden om voorzichtig te zijn met suiker is nog steeds je eigen gezondheid.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/chocolade-cake-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 9,
+          "subtitle": "Soms kan een klein beetje suiker een tomatensaus evenwichtiger maken. Probeer het eens met deze heerlijke Chili Spaghetti."
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "notificationTitle": "Vandaag: Windmill Land",
+      "notificationText": "Hoe duurzaam is een barbecue? 🔥 - Recept van de dag: Low Impact BBQ",
+      "home": {
+        "title": "Hoe duurzaam is een BBQ?",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Bij Fork Ranger houden we van een goed kampvuur 🔥 Maar het verbranden van hout veroorzaakt ook CO2 en vervuiling."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Hetzelfde geldt voor een barbecue: wat is de klimaatimpact van grillen met houtskool?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hetzelfde geldt voor een barbecue: wat is de klimaatimpact van grillen met houtskool?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Houtskool voor één BBQ-sessie (1,5 kg) 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "20 Varkensworstjes (1 kg) 🌭",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een barbecue verbrandt hout (of fossiele brandstof) en is niet echt duurzaam in tijden van klimaatverandering, maar het is een luxe die we ons af en toe kunnen permitteren. Veel belangrijker is wat we op de BBQ leggen.\n\nNog een belangrijke opmerking: koop houtskool met het FSC-keurmerk voor duurzame bosbouw.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/chocolade-cake-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 38,
+          "subtitle": "Probeer een aantal van deze vegetarische opties bij je volgende barbecue!"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "notificationTitle": "Vandaag: Underground Jungle",
+      "notificationText": "Wat is regeneratieve landbouw? 🧑‍🌾 - Recept van de dag: Bruine Bonensoep met Salsa",
+      "home": {
+        "title": "Wat is regeneratieve landbouw?",
+        "category": 12
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Regeneratieve landbouw beschrijft een manier van landbouw die de natuur verbetert in plaats van haar te vernietigen 🌈"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Maar er is geen officiële definitie 🏭 Dus mensen vrezen dat grote bedrijven het zullen gebruiken voor greenwashing."
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "In één studie werd gekeken naar hoe de meeste onderzoeken en websites regeneratieve landbouw definiëren 🔎 Er is één uitkomst die het vaakst werd genoemd."
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat is de meest genoemde uitkomst van regeneratieve landbouw?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer CO2 opnemen in de bodem ☁️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Gezondere bodem 🪱",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Meer biodiversiteit 🦋",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De kern van regeneratieve landbouw is het verbeteren van de bodem. Dit wordt vaak bereikt door 'inputs' zoals kunstmest of pesticiden te vermijden, dieren onderdeel te maken van het systeem en het land niet te bewerken.\n\nDe makkelijkste manier om regeneratieve landbouw te steunen is door biologische producten te kopen, omdat er veel overlap is tussen deze twee concepten.\n",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/chocolade-cake-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 92,
+          "subtitle": "Een heerlijk bonen recept. En zoals je inmiddels weet: bonen verbeteren de bodem."
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "notificationTitle": "Vandaag: Fellowship of the Forks",
+      "notificationText": "Hoeveel mensen geven eigenlijk om het klimaat? 🧐 - Recept van de dag: Lasagne met Walnoten",
+      "home": {
+        "title": "Hoeveel mensen geven eigenlijk om het klimaat?",
+        "category": 4
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Voor een onderzoek in de VS werd mensen gevraagd: hoeveel mensen denk je dat zich zorgen maken over klimaatverandering? Hun antwoord: 43%."
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Vervolgens keken ze naar hoeveel mensen zich daadwerkelijk zorgen maken 🧐"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoeveel mensen maken zich daadwerkelijk zorgen over klimaatverandering?",
+          "subtitle": "in de VS",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "37%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "66%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "89%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Tweederde van alle Amerikanen maakt zich zorgen over klimaatverandering. Maar mensen *denken* dat dit aantal slechts 43% is! Dus spreek je uit, er zijn veel mensen die om het klimaat geven, maar het misschien niet uiten. We moeten elkaar steunen 💚",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 94,
+          "subtitle": "Gebruik deze lasagne om vrienden uit te nodigen voor een etentje en een gesprek over klimaatverandering."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",

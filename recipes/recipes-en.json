@@ -13502,6 +13502,159 @@
           "time": 30
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta",
+        "quick"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "id": 95,
+      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "title": "Creamy Tomato Pasta with Hazelnuts",
+      "description": "Tomato paste and cream are the base for the pasta dish that Frank used to eat during summer camp. The sun-dried tomatoes and hazelnuts give a great bite with the rich, and creamy sauce.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/04/yellow-fried-rice.jpg",
+      "duration": 25,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Penne (whole wheat)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zucchini",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hazelnuts",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rucola",
+          "type": "fresh",
+          "quantity": 85,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Tomato paste",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Vinegar (white wine)",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Parmesan",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion and mince garlic",
+        "Cut zucchini into quarters and in slices",
+        "Cut sun-dried tomatoes into strips",
+        "Chop hazelnuts"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Cook pasta",
+          "detail": "save 100 ml water when draining",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "\nIn the meantime, heat up some oil from the sun-dried tomatoes and sauté onion and garlic",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add tomato paste",
+          "detail": "stir",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Add cream, oregano, sun-dried tomatoes and zucchini",
+          "detail": "stir and simmer, season with salt & pepper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add 100ml of pasta water, rocket and vinegar",
+          "detail": "let it warm up",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Stir in the pasta and parmesan",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Garnish with hazelnuts",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

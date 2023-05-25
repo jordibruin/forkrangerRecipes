@@ -13043,6 +13043,174 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/bruine-bonensoep-met-salsa/?share",
+      "id": 92,
+      "title": "Bruine Bonensoep met Salsa",
+      "description": "Bruine bonensoep is een van die traditionele simpele gerechten die veel oma's vroeger maakten. De bruine boon wordt niet voor niets soms ook de Hollandse boon genoemd. Wij stoppen hem in een nieuw jasje.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/05/Bean-Soup-with-Salsa.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Bruine bonen uit blik",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode paprika's",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Maïs uit blik",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 12,
+          "quantityType": ""
+        },
+        {
+          "name": "Brood (zuurdesem)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Chilipeper",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon",
+          "type": "taste",
+          "quantity": 600,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Tomatenpuree",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Rode uien",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de paprika’s in stukjes",
+        "Snij de zongedroogde tomaten in reepjes",
+        "Snij de chilipepers in fijne reepjes en verwijder de zaadjes",
+        "Snij de verse koriander"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Fruit twee-derde van de uien",
+          "detail": "op middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg knoflook, tomatenpuree, komijn en paprikapoeder toe",
+          "detail": "verlaag vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg zongedroogde tomaten, bonen en bouillon toe",
+          "detail": "laat de bonen uitlekken voordat je ze toevoegt, voeg deksel toe, roer af en toe door, op middelhoog vuur",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Fruit ondertussen overige een-derde van de uien",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg maïs, paprika en chili peper toe",
+          "detail": "laat de maïs uitlekken voordat je het toevoegt, op middelhoog vuur ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Zet het vuur uit, voeg limoensap, zout en peper naar smaak toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer de soep met de salsa en verse koriander erop, en sneetjes brood",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

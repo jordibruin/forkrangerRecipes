@@ -13498,6 +13498,159 @@
           "time": 30
         }
       ]
+    },
+    {
+      "filter": [
+        "pasta",
+        "quick"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/romige-pasta-met-tomaat-en-hazelnoten/?share",
+      "id": 95,
+      "title": "Romige Pasta met Tomaat en Hazelnoten",
+      "description": "\nTomatenpuree en room zijn de basis voor het pastagerecht dat Frank vaak at tijdens zomerkamp. De zongedroogde tomaten en hazelnoten geven een lekkere bite bij de rijke, romige saus.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/04/yellow-fried-rice.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Penne (volkoren)",
+          "type": "base",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hazelnoten",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rucola",
+          "type": "fresh",
+          "quantity": 85,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Tomatenpuree",
+          "type": "taste",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Oregano",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Azijn (witte wijn)",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Parmezaanse kaas",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui en pers of snij de knoflook fijn",
+        "Snij de courgette in vieren en vervolgens in plakjes",
+        "Snij de zongedroogde tomaten in reepjes",
+        "Hak hazelnoten"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Kook de pasta",
+          "detail": "bewaar 100ml water tijdens het afgieten",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "In de tussentijd, verwarm wat olie van de zongedroogde tomaten en bak hierin de ui en knoflook",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg de tomatenpuree toe",
+          "detail": "roer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg room, oregano, zongedroogde tomaten en courgette toe",
+          "detail": "roer en laat sudderen, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg 100ml pastawater, rucola en azijn toe",
+          "detail": "laat het warm worden",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Roer de pasta en parmezaanse kaas erdoor",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Garneer met hazelnoten",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

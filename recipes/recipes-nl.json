@@ -13211,6 +13211,142 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [
+        "plants",
+        "rice"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/gele-gebakken-rijst/?share",
+      "id": 93,
+      "title": "Gele Gebakken Rijst",
+      "description": "Deze gebakken rijst is een eenvoudig gerecht om te maken, met weinig ingrediënten. Dat betekent niet dat het simpel hoeft te smaken. Het geheime ingrediënt is de verkruimelde tofu, die samen met de rijst alle verschillende spices en smaken opneemt.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/04/yellow-fried-rice.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rijst (bruin)",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tofu",
+          "type": "fresh",
+          "quantity": 375,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Paksoi",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 6,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Pinda's",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Plaats de tofu op keukenpapier en leg er keukenpapier op, druk met je handen om het water eruit te persen",
+        "Verkruimel de tofu in een kom met sojasaus, zet in de koelkast voor 10 min",
+        "Snij de wortels in dunne schijfjes",
+        "Snij paksoi in repen"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Bak de tofu",
+          "detail": "op middelhoog vuur, gebruik genoeg olie, roer regelmatig",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Kook de rijst ondertussen",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Voeg wortels toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg paksoi toe",
+          "detail": "roer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg de kurkuma en rijst toe",
+          "detail": "meng, breng op smaak met zout en peper",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg limoensap naar smaak toe",
+          "detail": "meng",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serveer met verse koriander en pinda's",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

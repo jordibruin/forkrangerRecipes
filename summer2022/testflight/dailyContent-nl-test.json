@@ -4846,7 +4846,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Het grootste deel van ons voedsel komt van het land, maar we halen ook voedsel uit de oceaan. Meestal door te jagen of vissen erin te kweken 🐟"
+          "title": "Het grootste deel van ons voedsel komt van het land, maar we halen ook voedsel uit de oceaan. Meestal door te jagen of vissen te kweken 🐟"
         },
         {
           "id": 1,
@@ -4937,7 +4937,7 @@
         {
           "id": 2,
           "type": "recipe",
-          "recipeID": 93,
+          "recipeID": 95,
           "subtitle": "Biologische pasta is vaak niet eens zo heel veel duurder."
         }
       ]
@@ -5092,7 +5092,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "De kern van regeneratieve landbouw is het verbeteren van de bodem. Dit wordt vaak bereikt door 'inputs' zoals kunstmest of pesticiden te vermijden, dieren onderdeel te maken van het systeem en het land niet te bewerken.\n\nDe makkelijkste manier om regeneratieve landbouw te steunen is door biologische producten te kopen, omdat er veel overlap is tussen deze twee concepten.\n",
+            "text": "De kern van regeneratieve landbouw is het verbeteren van de bodem. Dit wordt vaak bereikt door 'inputs' zoals kunstmest of pesticiden te vermijden, dieren onderdeel te maken van het systeem en het land niet te ploegen.\n\nDe makkelijkste manier om regeneratieve landbouw te steunen is door biologische producten te kopen, omdat er veel overeenkomsten zijn tussen deze twee concepten.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/what-is-regen-ag-NL.png"
           }
         },

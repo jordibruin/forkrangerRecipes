@@ -4813,7 +4813,7 @@
             },
             {
               "id": 1,
-              "title": "\nAdding the lid",
+              "title": "Adding the lid",
               "correct": false
             },
             {
@@ -4921,7 +4921,7 @@
             },
             {
               "id": 1,
-              "title": "The same 💰",
+              "title": "Double 💰💰",
               "correct": false
             },
             {
@@ -4938,7 +4938,7 @@
         {
           "id": 2,
           "type": "recipe",
-          "recipeID": 93,
+          "recipeID": 95,
           "subtitle": "Organic pasta is often not that much more expensive."
         }
       ]
@@ -5152,7 +5152,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 94,
           "subtitle": "Use this lasagne to invite friends for dinner and a talk about climate change."

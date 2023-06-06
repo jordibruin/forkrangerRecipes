@@ -8093,7 +8093,7 @@
         {
           "title": "Bak het naan brood in de oven",
           "detail": "op 200°C",
-          "panType": "fryingPan1",
+          "panType": "oven",
           "emoji": "",
           "time": 4
         },

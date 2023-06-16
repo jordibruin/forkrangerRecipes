@@ -724,22 +724,22 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Welke maaltijd heeft de laagste footprint?",
-          "subtitle": "",
+          "title": "Vergeleken met varkensvlees en kip is de footprint van kaas… 🧀",
+          "subtitle": "in CO2 per kg",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Spaghetti bolognese met rundergehakt 🍝",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "Spaghetti carbonara met spekjes 🥓",
+              "title": "Hoger ⬆️",
               "correct": true
             },
             {
+              "id": 1,
+              "title": "Hetzelfde",
+              "correct": false
+            },
+            {
               "id": 2,
-              "title": "Vegetarische lasagne met kaas 🧀",
+              "title": "Lager ⬇️",
               "correct": false
             }
           ],

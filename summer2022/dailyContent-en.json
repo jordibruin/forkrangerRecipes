@@ -724,8 +724,8 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Which meal has the lowest footprint?",
-          "subtitle": "",
+          "title": "Compared to pork and chicken, the footprint of cheese is… 🧀",
+          "subtitle": "in CO2 per kg",
           "answerOptions": [
             {
               "id": 0,
@@ -734,12 +734,17 @@
             },
             {
               "id": 1,
-              "title": "Spaghetti carbonara with bacon 🥓",
+              "title": "Higher ⬆️",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Vegetarian lasagne with cheese 🧀",
+              "title": "The same ",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Lower ⬇️",
               "correct": false
             }
           ],

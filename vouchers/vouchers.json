@@ -652,6 +652,16 @@
     ]
   },
   {
+    "code": "juni",
+    "expiresAfter": "30-06-2023",
+    "recipeIDs": [
+      13,
+      2,
+      42,
+      80
+    ]
+  },
+  {
     "code": "april",
     "expiresAfter": "30-04-2023",
     "recipeIDs": [

@@ -7475,7 +7475,7 @@
       "url": "https://forkranger.com/nl/easy-pesto-lasagne/?share",
       "id": 51,
       "title": "Easy Pesto Lasagne",
-      "description": "Het leuke van deze lasagne is dat het iets heel anders is dan het traditionele recept. En het is super makkelijk. We hebben het gemaakt met mascarpone en met haver fraiche en tot onze verbazing vonden we de haver versie lekkerder!",
+      "description": "Het leuke van deze lasagne is dat het iets heel anders is dan het traditionele recept. En het is super makkelijk. We hebben het gemaakt met roomkaas (mascarpone) en met haver fraiche en tot onze verbazing vonden we de haver versie lekkerder!",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/easy-pesto-lasagna.jpg",
       "duration": 45,
       "rewardTitle": "You're a chef!",
@@ -7513,7 +7513,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Mascarpone (of haver spread)",
+          "name": "Roomkaas (mascarpone) of haver spread",
           "type": "taste",
           "quantity": 500,
           "quantityType": "g"
@@ -7553,7 +7553,7 @@
       "cookTime": 35,
       "cookSteps": [
         {
-          "title": "Verwarm de mascarpone (of haver spread), bouillon en pesto",
+          "title": "Verwarm de roomkaas (of haver spread), bouillon en pesto",
           "detail": "meng goed, verwarm tot het kookt",
           "panType": "cookingPan1",
           "emoji": "",

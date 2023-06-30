@@ -692,5 +692,41 @@
       74,
       48
     ]
+  },
+  {
+    "code": "tomato",
+    "unlockSeasonalInfo": true,
+    "recipeIDs": [
+      70,
+      74,
+      76,
+      4,
+      28,
+      80,
+      9,
+      39,
+      20,
+      57,
+      72,
+      84
+    ]
+  },
+  {
+    "code": "tomaat",
+    "unlockSeasonalInfo": true,
+    "recipeIDs": [
+      70,
+      74,
+      76,
+      4,
+      28,
+      80,
+      9,
+      39,
+      20,
+      57,
+      72,
+      84
+    ]
   }
 ]

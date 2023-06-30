@@ -13654,7 +13654,7 @@
           "time": 10
         },
         {
-          "title": "\nIn the meantime, heat up some oil from the sun-dried tomatoes and sauté onion and garlic",
+          "title": "In the meantime, heat up some oil from the sun-dried tomatoes and sauté onion and garlic",
           "detail": "medium/high heat",
           "panType": "fryingPan1",
           "emoji": "",
@@ -13691,6 +13691,107 @@
           "title": "Garnish with hazelnuts",
           "detail": "",
           "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "id": 200,
+      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "title": "Sunny Soup",
+      "description": "Sunny Soup Intro",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/06/1.png",
+      "duration": 25,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 3,
+      "ingredients": [
+        {
+          "name": "Potatoes (medium size)",
+          "type": "base",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Red lentils",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": "cups"
+        },
+        {
+          "name": "Beef tomato",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Carrot (large)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Vegetable stock cube",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Peel and slice carrot and potatoes",
+        "Slice tomato"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Boil 1 L of water",
+          "detail": "add stock cube and mix well, medium heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add carrot, potato, tomato and lentils",
+          "detail": "medium heat",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add turmeric",
+          "detail": "season with salt and pepper",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Blend the mix",
+          "detail": "add the mix in portions to the blender",
+          "emoji": "",
+          "time": 3
         }
       ]
     }

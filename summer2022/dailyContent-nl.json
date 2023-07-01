@@ -5245,7 +5245,7 @@
       },
       "pages": [
         {
-          "id": 2,
+          "id": 0,
           "type": "question",
           "title": "Welke oplossing bespaart het meest CO2?",
           "subtitle": "Volgens de berekeningen van Project Drawdown",
@@ -5272,7 +5272,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 1,
           "type": "recipe",
           "recipeID": 18,
           "subtitle": "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten."

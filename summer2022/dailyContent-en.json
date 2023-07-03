@@ -729,7 +729,7 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Spaghetti bolognese with beef 🍝",
+              "title": "Lower ⬇️",
               "correct": false
             },
             {
@@ -740,11 +740,6 @@
             {
               "id": 2,
               "title": "The same ",
-              "correct": false
-            },
-            {
-              "id": 3,
-              "title": "Lower ⬇️",
               "correct": false
             }
           ],

@@ -14159,6 +14159,279 @@
     },
     {
       "filter": [
+        "plants",
+        "potato"
+      ],
+      "seasonalInfo": [
+        3,
+        9,
+        10,
+        11
+      ],
+      "id": 101,
+      "url": "https://www.forkranger.com/roasted-brussel-sprouts-and-cauliflower/?share",
+      "title": "Roasted Brussel Sprouts and Cauliflower",
+      "description": "This recipe contains more than your daily dose of nuts, but it’s not just the pecans you see. The cashew-turmeric cream sauce adds some nice flavours to the roasted veggies. Even with a hand blender this sauce is quickly made!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/Roasted-brussels-sprouts-and-cauliflower.jpg",
+      "duration": 40,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Halve brussel sprouts if they are on the large side",
+      "ingredients": [
+        {
+          "name": "Potato slices (pre-cooked)",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Brussel sprouts",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cauliflower",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Pecans",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cashews",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soy) cream",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Nutmeg",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Pre-heat oven to 180°C",
+        "Clean brussels sprouts",
+        "Cut cauliflower into small florets",
+        "Soak cashews in water (at least 10 min)",
+        "Dice onion and mince garlic"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "On two oven trays, bake the brussels sprouts, cauliflower, potato slices and pecans",
+          "detail": "drizzle with olive oil and season with salt and pepper to taste\n\nat 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        },
+        {
+          "title": "In the meantime, sauté onion and garlic",
+          "detail": "medium heat until browned",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Turn heat off and add drained cashews, (soy)cream, nutmeg and turmeric",
+          "detail": "season with salt and pepper and mix",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Puree to a smooth sauce with a hand blender",
+          "detail": "add some table spoons of water if you prefer a thinner sauce",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serve the roasted veggies and potatoes with the cashew-turmeric cream sauce",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "id": 102,
+      "url": "https://www.forkranger.com/spinach-potato-curry/?share",
+      "title": "Spinach Potato Curry",
+      "description": "I first had saag (spinach curry) in England. I loved how it was creamy without the use of some cream substance like coconut milk. Potatoes and lentils go well with the curry. Warm your naan before dipping in.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/spinach-potato-curry.jpg",
+      "duration": 35,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Potatoes",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinach (frozen)",
+          "type": "fresh",
+          "quantity": 450,
+          "quantityType": "g"
+        },
+        {
+          "name": "Red lentils (dried)",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Naan breads",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Ginger",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "g"
+        },
+        {
+          "name": "Yellow curry paste",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice onion",
+        "Mince garlic and ginger",
+        "Cut potatoes into small 1 cm cubes",
+        "Preheat oven to 200°C"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Make bouillon",
+          "detail": "",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Sauté onion",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add garlic, curry paste, turmeric and cumin",
+          "detail": "stir",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add bouillon, potatoes, spinach and lentils",
+          "detail": "bring to a boil, then cover\n\nstir regularly, cook until most of the liquid is gone and the potatoes are done\n\nadd more water if needed",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Bake naan bread in the oven",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Serve with naan bread",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
         "plants"
       ],
       "seasonalInfo": [

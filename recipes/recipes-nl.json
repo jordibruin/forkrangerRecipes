@@ -13553,7 +13553,7 @@
       "url": "https://www.forkranger.com/nl/romige-pasta-met-tomaat-en-hazelnoten/?share",
       "id": 95,
       "title": "Romige Pasta met Tomaat en Hazelnoten",
-      "description": "\nTomatenpuree en room zijn de basis voor het pastagerecht dat Frank vaak at tijdens zomerkamp. De zongedroogde tomaten en hazelnoten geven een lekkere bite bij de rijke, romige saus.",
+      "description": "Tomatenpuree en room zijn de basis voor het pastagerecht dat Frank vaak at tijdens zomerkamp. De zongedroogde tomaten en hazelnoten geven een lekkere bite bij de rijke, romige saus.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/05/creamy-tomato-pasta-with-hazelnuts.jpg",
       "duration": 25,
       "rewardTitle": "You're a chef!",
@@ -13685,6 +13685,741 @@
         },
         {
           "title": "Garneer met hazelnoten",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "rice",
+        "spicy",
+        "plants"
+      ],
+      "seasonalInfo": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/pittige-groente-met-pindasaus/?share",
+      "id": 96,
+      "title": "Pittige Groente met Pindasaus",
+      "description": "Dit is een van onze nieuwe favoriete recepten: super simpel, boordevol groente en eiwit, en zo lekker! Het werkt ook als salade zonder de rijst. Als het nauw komt met de pittigheid, begin dan eerst met de helft van de sambal. Hoewel het echt het lekkerst is met alle sambal!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/spicy-greens.jpg",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Rijst (zilvervlies)",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Sperziebonen",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Lente-uitjes",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": ""
+        },
+        {
+          "name": "Pinda's",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Sambal",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Suiker",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Rijstazijn (of witte wijn azijn)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Haal de uiteinden van de sperziebonen eraf en halveer ze",
+        "Snij de broccoli in kleine roosjes",
+        "Snij de lente-uitjes in ringetjes",
+        "Snij de verse koriander"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "In een kom, meng sambal, suiker, komijn, pindakaas en rijstazijn",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Kook de rijst",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 10
+        },
+        {
+          "title": "Kook ondertussen de sperziebonen",
+          "detail": "",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Voeg de broccoli aan de sperziebonen toe",
+          "detail": "",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Giet sperziebonen en broccoli af wanneer ze gaar zijn, voeg de sambal-pinda mix toe",
+          "detail": "zet het vuur uit, meng goed",
+          "panType": "cookingPan2",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer de rijst met de pittige groente en garneer met lente-ui, koriander en pinda's",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "url": "https://www.forkranger.com/nl/balsamico-broccoli-noedels/?share",
+      "id": 99,
+      "title": "Balsamico Broccoli Noedels",
+      "description": "De saus die de noedels en groenten samenbrengt in dit gerecht, is een unieke combinatie. Sojasaus en balsamico azijn is onverwacht, maar het werkt verrassend goed. Noedels en tofu nemen de saus lekker op.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/Balsamico-broccoli-noodles.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Kies broccoli OF bloemkool voor minder dan 4 porties of voor een makkelijkere versie van dit recept.",
+      "ingredients": [
+        {
+          "name": "Noedels (volkoren)",
+          "type": "base",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bloemkool",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Tofu",
+          "type": "fresh",
+          "quantity": 375,
+          "quantityType": "g"
+        },
+        {
+          "name": "Champignons",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pinda's",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Balsamico azijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Sambal",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snij de knoflook fijn",
+        "Snij de broccoli in kleine roosjes",
+        "Snij de bloemkool in kleine roosjes",
+        "Snij de champignons in plakjes",
+        "Snijd tofu in blokjes van 1 cm, leg ze op keukenpapier en leg er keukenpapier op, druk met je handen om het water eruit te persen",
+        "Meng sojasaus, balsamico azijn, water en sambal"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Kook bloemkool",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg broccoli toe",
+          "detail": "giet daarna af en bewaar het kookvocht om de noedels in te koken",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Fruit ondertussen de tofu",
+          "detail": "op middelhoog vuur, keer de blokjes regelmatig, zet daarna aan de kant",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Verhit nieuwe olie in dezelfde pan en fruit de champignons",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg knoflook toe",
+          "detail": "",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg sojasaus mix toe",
+          "detail": "roer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg tofu, broccoli en bloemkool toe",
+          "detail": "roer, haal van het vuur en gebruik deksel om warm te houden",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Kook de noedels",
+          "detail": "",
+          "panType": "cookingPan2",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Serveer noedels met groenten, saus en pinda's",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "url": "https://www.forkranger.com/nl/geroosterde-biet-en-wortel/?share",
+      "id": 100,
+      "title": "Geroosterde Biet en Wortel",
+      "description": "De geroosterde groenten zijn een heerlijke match met de frisse yoghurt en nootachtige smaak van de bulgur. Het toevoegen van walnoten aan de oven zorgt ook voor een heerlijke crunch. Zorg ervoor dat je verse bieten koopt, niet de voorgekookte en verpakte.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/Bulgur-with-beets.jpg",
+      "duration": 45,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Bulgur",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bieten (vers)",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Kastanje champignons",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Plantaardige) yoghurt",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 600,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Olijfolie",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Gerookt paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Chilipoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse munt",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Verwarm de oven voor op 180°C",
+        "Maak de bieten schoon en snij in kleine partjes (schillen is niet nodig)",
+        "Snij wortels in lange dunne reepjes",
+        "Snij de champignons in plakjes",
+        "Snij de munt fijn",
+        "Verkruimel de walnoten in kleine stukjes"
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "In een grote kom, meng gerookt paprikapoeder, komijn en chilipoeder met olijfolie",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Meng bieten, wortels en champignons met de kruiden",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Verdeel de bieten, wortels en champignons over een bakplaat en voeg de walnoten toe",
+          "detail": "gebruik zo nodig twee bakplaten\n\nop 180°C\n\nopen voorzichtig elke 10 min kort de oven om wat stoom eruit te laten",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        },
+        {
+          "title": "Kook ondertussen de bulgur in de bouillon",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 12
+        },
+        {
+          "title": "In een kleine kom, meng yogurt met munt en limoen",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer de bulgur met de geroosterde groente en de yoghurt-munt saus",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "seasonalInfo": [
+        3,
+        9,
+        10,
+        11
+      ],
+      "url": "https://www.forkranger.com/nl/geroosterde-spruitjes-en-bloemkool/?share",
+      "id": 101,
+      "title": "Geroosterde Spruitjes en Bloemkool",
+      "description": "Dit recept bevat meer dan je dagelijkse dosis noten, maar niet alleen door de pecannoten die je ziet. De cashew-kurkuma roomsaus voegt een aantal lekkere smaken toe aan de geroosterde groenten. Zelfs met een staafmixer is deze saus snel gemaakt!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/Roasted-brussels-sprouts-and-cauliflower.jpg",
+      "duration": 40,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Halveer de spruitjes als ze aan de grote kant zijn",
+      "ingredients": [
+        {
+          "name": "Aardappelschijfjes",
+          "type": "base",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spruiten",
+          "type": "fresh",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bloemkool",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Pecannoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Soja)room",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Nootmuskaat",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Verwarm de oven voor op 180°C",
+        "Maak de spruitjes schoon",
+        "Snij de bloemkool in kleine roosjes",
+        "Week de cashewnoten in water (voor tenminste 10 min)",
+        "Snipper de ui en pers of snij de knoflook fijn"
+      ],
+      "cookTime": 30,
+      "cookSteps": [
+        {
+          "title": "Op twee bakplaten, bak de spruitjes, bloemkool, aardappelschijfjes en pecannoten",
+          "detail": "sprenkel met olijfolie en zout en peper naar smaak, op 180°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        },
+        {
+          "title": "Fruit de ui en knoflook",
+          "detail": "middelhoog vuur tot dat ze bruin worden",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Zet het vuur uit en voeg de afgegoten cashewnoten, (soja)room, nootmuskaat en kurkuma toe",
+          "detail": "meng goed, breng op smaak met zout en peper",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Pureer tot een gladde saus met een staafmixer",
+          "detail": "voeg een aantal eetlepels water toe als je een dunnere saus wilt",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer the geroosterde groente en aardappels met de cashew-kurkuma roomsaus",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "potato"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "url": "https://www.forkranger.com/nl/spinazie-aardappel-curry/?share",
+      "id": 102,
+      "title": "Spinazie Aardappel Curry",
+      "description": "Ik had voor het eerst saag (spinaziecurry) in Engeland. Ik vond het bijzonder lekker dat het romig was zonder het gebruik van iets van room zoals kokosmelk. Aardappelen en linzen passen goed bij de curry. Warm je naan op voordat je die erin dipt.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/spinach-potato-curry.jpg",
+      "duration": 35,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Aardappels",
+          "type": "base",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinazie (diepvries)",
+          "type": "fresh",
+          "quantity": 450,
+          "quantityType": "g"
+        },
+        {
+          "name": "Rode linzen (gedroogd)",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Naan broden",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 500,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Gember",
+          "type": "taste",
+          "quantity": 20,
+          "quantityType": "g"
+        },
+        {
+          "name": "Gele curry pasta",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui",
+        "Snij de knoflook en gember fijn",
+        "Snij de aardappel in kleine blokjes van 1 cm",
+        "Verwarm de oven voor op 200°C"
+      ],
+      "cookTime": 25,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Fruit de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg knoflook, curry pasta, kurkuma en komijn toe",
+          "detail": "roer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg bouillon, aardappels, spinazie en linzen toe",
+          "detail": "breng aan de kook en doe de deksel erop\n\nroer regelmatig, kook tot het vocht grotendeels verdampt is en de aardappels gaar zijn\n\nvoeg meer water toe zo nodig",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "Bak het naan brood in de oven",
+          "detail": "op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Serveer met naan brood",
           "detail": "",
           "emoji": ""
         }

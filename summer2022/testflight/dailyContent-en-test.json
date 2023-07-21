@@ -5207,7 +5207,7 @@
           ],
           "answerExplanation": {
             "text": "How do you feel about this difference? For Mareike from the Fork Ranger team this was less than she thought. And therefore she decided to buy Fairtrade bananas from now onwards.\n\nIn an ideal world, supermarkets would pay a fair price for ALL bananas. But for now, buying the Fairtrade option not only ensures a fair wage but it’s also an investment into a different food system.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/fairtrade_bananas.png"
           }
         },
         {
@@ -5261,7 +5261,7 @@
           ],
           "answerExplanation": {
             "text": "The problem with grass-fed products is that it can still come from grass monocultures sprayed with chemical fertilizer.\n\nOrganic is not only about avoiding pesticides and chemical fertilizer, but also has lots of other requirements, like that animals must be outside part of the time. All of this means organic meat and dairy are better for biodiversity. But only if we also reduce the amounts we eat.\n\nOf course when it comes to increasing biodiversity, there is also the option to have no cows at all.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/grass-fed-vs-organic.png"
           }
         },
         {
@@ -5315,7 +5315,7 @@
           ],
           "answerExplanation": {
             "text": "Maybe we shouldn’t use the oven every day but clearly it’s more important to focus on the impact of the ingredients. Especially since in a few years, all electricity will be renewable 😎",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/energy_use_of_oven.png"
           }
         },
         {
@@ -5374,7 +5374,7 @@
           ],
           "answerExplanation": {
             "text": "A lot of our nature is out of balance: there are no predators and because of streets and cities, deer can’t migrate to other areas. Then they crowd out other animals and plants.\n\nShooting them is one solution, and the majority of hunting in the Netherlands happens for this reason. So this can be a form of sustainable meat, but there is not enough to replace our current meat consumption.\n\nAlso when it comes to wild meat, keep in mind that the situation (and therefore sustainability) differs a lot from region to region and for different animal types. This is just one example.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/hunting-for-biodiversity.png"
           }
         },
         {
@@ -5388,16 +5388,16 @@
     {
       "id": 102,
       "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "The impact of lab-grown meat 🍖 - Recipe of the day: Balsamic Broccoli Noodles",
+      "notificationText": "The impact of cultivated meat 🍖 - Recipe of the day: Balsamic Broccoli Noodles",
       "home": {
-        "title": "The impact of lab-grown meat",
+        "title": "The impact of cultivated meat",
         "category": 15
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Besides making meat plant-based, there are also initiatives to grow meat in a lab 🧑‍🔬"
+          "title": "Besides making meat plant-based, there are also initiatives to grow meat without animals 🧫"
         },
         {
           "id": 1,
@@ -5407,12 +5407,12 @@
         {
           "id": 2,
           "type": "text",
-          "title": "Right now it’s still very expensive 💰 And the carbon footprint ranges from very low to much higher than beef."
+          "title": "Right now cultivated meat is still very expensive 💰 And the carbon footprint ranges from very low to much higher than beef."
         },
         {
           "id": 3,
           "type": "question",
-          "title": "What determines the carbon footprint of lab-grown meat?",
+          "title": "What determines the carbon footprint of cultivated meat?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -5432,15 +5432,15 @@
             }
           ],
           "answerExplanation": {
-            "text": "Lab-grown meat is not yet widely available, apart from a handful of high-end restaurants. So a study estimated the carbon footprint of lab-grown meat in 2030.\n\nThe impact was determined by the energy mix: when all energy is renewable, the impact is expected to be comparable to plant-based meat. But with the expected energy mix of 2030, the impact is higher than pork and chicken.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+            "text": "Cultivated meat is not yet widely available, apart from a handful of high-end restaurants. So a study estimated the carbon footprint of cultivated meat in 2030.\n\nThe impact was determined by the energy mix: when all energy is renewable, the impact is expected to be comparable to plant-based meat. But with the expected energy mix of 2030, the impact is higher than pork and chicken.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/lab-grown-meat.png"
           }
         },
         {
           "id": 4,
           "type": "recipe",
           "recipeID": 99,
-          "subtitle": "This recipe includes tofu, which has roughly the same footprint as the best case scenario for lab-grown meat."
+          "subtitle": "This recipe includes tofu, which has roughly the same footprint as the best case scenario for cultivated meat."
         }
       ]
     },
@@ -5486,8 +5486,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "An espresso has the lowest footprint but it’s also just 40 ml. French press also has a low footprint because it doesn’t have use much electricy or create waste (it also contains the most caffeine).\n\nMore important than how you make your coffee is the coffee you buy: the espresso would have a much higher impact if we use the average coffee numbers from a different study. The most sustainable coffee comes from agroforestry (see the infographic in ‘Fading Forest’).",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+            "text": "An espresso has the lowest footprint but it’s also just 40 ml. French press also has a low footprint because it doesn’t have use much electricy or create waste (it also contains the most caffeine).\n\nMore important than how you make your coffee is the coffee you buy: the espresso would have a much higher impact if we use the average coffee numbers from a big study that reviewed multiple coffees. The most sustainable coffee comes from agroforestry (see the infographic in ‘Fading Forest’).",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/coffee_machines.png"
           }
         },
         {

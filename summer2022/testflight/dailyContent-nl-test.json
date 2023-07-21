@@ -44,7 +44,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 22,
-          "subtitle": "Dit recept is één van onze favorieten en een lekkere manier om een klassiek rundvlees gerechtt vegetarisch te maken."
+          "subtitle": "Dit recept is één van onze favorieten en een lekkere manier om een klassiek rundvlees gerecht vegetarisch te maken."
         },
         {
           "id": 4,
@@ -70,7 +70,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Dat maakt noten een goede vleesvervanger, maar hoe zit het met de CO2- uitstoot?"
+          "title": "Dat maakt noten een goede vleesvervanger, maar hoe zit het met de CO2-uitstoot?"
         },
         {
           "id": 2,
@@ -169,7 +169,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Bijna alle ontbossing vindt plaats  in tropische landen, maar wat is de grootste oorzaak van ontbossing?"
+          "title": "Bijna alle ontbossing vindt plaats in tropische landen, maar wat is de grootste oorzaak van ontbossing?"
         },
         {
           "id": 2,
@@ -724,22 +724,22 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Welke maaltijd heeft de laagste footprint?",
-          "subtitle": "",
+          "title": "Vergeleken met varkensvlees en kip is de footprint van kaas… 🧀",
+          "subtitle": "in CO2 per kg",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Spaghetti bolognese met rundergehakt 🍝",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "Spaghetti carbonara met spekjes 🥓",
+              "title": "Hoger ⬆️",
               "correct": true
             },
             {
+              "id": 1,
+              "title": "Hetzelfde",
+              "correct": false
+            },
+            {
               "id": 2,
-              "title": "Vegetarische lasagne met kaas 🧀",
+              "title": "Lager ⬇️",
               "correct": false
             }
           ],
@@ -1989,7 +1989,7 @@
               "correct": false
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "Aardappels 🥔",
               "correct": false
             }
@@ -5018,7 +5018,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Hetzelfde geldt voor een barbecue: wat is de klimaatimpact van grillen met houtskool?",
+          "title": "Wat heeft een hogere klimaatimpact?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -5159,6 +5159,345 @@
       ]
     },
     {
+      "id": 98,
+      "notificationTitle": "Vandaag: Fair Fields",
+      "notificationText": "De kosten van Fairtrade 💸 - Recept van de dag: Pittige Groente met Pindasaus",
+      "home": {
+        "title": "De kosten van Fairtrade",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Als je Fairtrade bananen naast de goedkopere bananen ziet, kan dat als een moeilijke keuze voelen 🍌"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Elke rit naar de supermarkt voel je dit dilemma: goed voor mijn portemonnee of goed voor de mensen? 🤔"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Maar wat als je je keuze voor een heel jaar maakt?"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Hoeveel extra zou het kosten om 3 Fairtrade bananen per week te kopen, een heel jaar lang? 🍌",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "ca. 5 €",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "ca. 20 €",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "ca. 50 €",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wat vind je van dit verschil? Voor Mareike van het Fork Ranger team was dit minder dan ze dacht. En daardoor besloot ze vanaf nu Fairtrade bananen te kopen.\n\nIn een ideale wereld zouden supermarkten een eerlijke prijs betalen voor ALLE bananen. Maar voor nu zorgt het kopen van de Fairtrade-optie niet alleen voor een eerlijk loon, maar het is ook een investering in een ander voedselsysteem.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 96,
+          "subtitle": "Je kunt beginnen door de keuze te maken om altijd de Fairtrade versie van één product te kopen, zoals bananen, koffie of in dit geval: rijst."
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "notificationTitle": "Vandaag: The Good Ranch",
+      "notificationText": "Wat zijn de voordelen van koeien alleen gras voeren? - Recept van de dag: Geroosterde Bieten en Wortelen",
+      "home": {
+        "title": "Wat zijn de voordelen koeien alleen gras voeren?",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Koeien gras voeren in plaats van mais is beter voor de koeien 🐄 Maar we schreven al dat het niet automatisch beter is voor het klimaat. Hoe zit het met de biodiversiteit?"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Er zijn veel mensen met uitgesproken meningen over grasgevoerde koeien, maar er is heel weinig wetenschappelijk onderzoek naar 🤨"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "We hebben een paper gevonden waarin de impact van grasgevoerde melkkoeien op de biodiversiteit wordt beoordeeld 🐝"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Welke beschrijving van een product ondersteunt meer biodiversiteit?",
+          "subtitle": "voor zuivelproducten",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Grasgevoerd",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Biologisch",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het probleem met grasgevoerde producten is dat het nog steeds afkomstig kan zijn van met kunstmest besproeide grasmonoculturen.\n\nBiologisch gaat niet alleen over het vermijden van pesticiden en kunstmest, maar heeft ook tal van andere eisen, zoals dat dieren een deel van de tijd buiten moeten zijn. Dit alles betekent dat biologisch vlees en zuivel beter zijn voor de biodiversiteit. Maar alleen als we ook de hoeveelheden die we ervan eten verlagen.\n\nAls het om het vergroten van de biodiversiteit gaat, is er natuurlijk ook de mogelijkheid om helemaal geen koeien te houden.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 100,
+          "subtitle": "We kunnen zelf ook gras eten, of in ieder geval de zaden. Tarwe is een grassoort en dit recept bevat tarwe in de vorm van bulgur."
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "notificationTitle": "Vandaag: Windmill Land",
+      "notificationText": "De klimaatimpact van je oven 🔥 - Recept van de dag: Geroosterde Spruitjes en Bloemkool",
+      "home": {
+        "title": "De klimaatimpact van je oven",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben het energieverbruik van inductie versus gas al behandeld. Maar hoe zit het met de oven? ♨️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Stel dat je aardappelen 30 minuten braadt in plaats van ze in de pan te bakken 🥔"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Hoeveel hoger is de klimaatimpact van de oven?",
+          "subtitle": "vergeleken met aardappelen bakken in de pan",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1,5x 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "2,5x 🔥🔥🔥",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "7,5x 🔥🔥🔥🔥🔥🔥",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Misschien moeten we de oven niet elke dag gebruiken, maar het is duidelijk belangrijker om ons te concentreren op de impact van de ingrediënten. Vooral omdat over een paar jaar alle elektriciteit hernieuwbaar is 😎",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 101,
+          "subtitle": "Groenten roosteren in de oven is een van de gemakkelijkste manieren om veel smaak te creëren."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "notificationTitle": "Vandaag: The Good Ranch",
+      "notificationText": "Is jagen duurzaam? 🏹 - Recept van de dag: Spinazie Aardappel Curry",
+      "home": {
+        "title": "Is jagen duurzaam?",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We hebben veel geleerd over boerderijdieren. Het is tijd om naar wilde dieren te kijken 🐗"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Laten we gebieden in Nederland verkennen met herten: in één ervan mag niet worden gejaagd 🦌"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "En in het andere gebied schieten ze herten, waardoor het er niet te veel zijn 🏹"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat is er gebeurd met het gebied waar ze herten hebben geschoten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hogere biodiversiteit 🌼⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Lagere bodemkwaliteit 🪱⬇️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Bepaalde insecten verdwenen 🪰⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Veel van onze natuur is uit balans: er zijn geen roofdieren en door straten en steden kunnen herten niet naar andere gebieden migreren. Dan verdringen ze andere dieren en planten.\n\nZe bejagen is een oplossing, en de meeste jacht in Nederland gebeurt om deze reden. Dit kan dus een vorm van duurzaam vlees zijn, maar er is niet genoeg om onze huidige vleesconsumptie te vervangen.\n\nHoud er ook bij wildvlees rekening mee dat de situatie (en dus de duurzaamheid) erg verschilt per regio en per diersoort. Dit is slechts één voorbeeld.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 102,
+          "subtitle": "Eerlijk gezegd heeft deze curry niets met jagen te maken. Maar het is makkelijk en lekker."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "notificationTitle": "Vandaag: The Good Ranch",
+      "notificationText": "De impact van kweekvlees 🍖 - Recept van de dag: Balsamico Broccoli Noedels",
+      "home": {
+        "title": "De impact van kweekvlees",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Naast vlees plantaardig maken zijn er ook initiatieven om vlees te kweken in een lab 🧑‍🔬"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Het werkt door cellen van een dier te nemen en die vervolgens tot vlees te laten groeien 🍖"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Op dit moment is het nog steeds erg duur 💰 En de klimaatimpact varieert van zeer laag tot veel hoger dan rundvlees."
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Wat bepaalt de klimaatimpact van in een laboratorium gekweekt vlees?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoe snel de cellen groeien 🧫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Soort dier waar de cellen vandaan komen 🐄",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Hoeveel van de energie hernieuwbaar is ⚡️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Kweekvlees is nog niet algemeen verkrijgbaar, afgezien van een handjevol dure restaurants. Dus een studie schatte de klimaatimpact van kweekvlees in 2030.\n\nDe impact werd bepaald door de energiemix: wanneer alle energie hernieuwbaar is, is de impact naar verwachting vergelijkbaar met plantaardig vlees. Maar met de gemiddelde energiemix van 2018 is de impact groter dan die van varkensvlees en kip.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change-NL.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 99,
+          "subtitle": "Dit recept bevat tofu, dat ongeveer dezelfde impact heeft als het beste scenario voor kweekvlees."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "notificationTitle": "Vandaag: Windmill Land",
+      "notificationText": "Wat is de meest duurzame koffie? ☕️ - Recept van de dag: Kikkererwten en Citroen Wraps",
+      "home": {
+        "title": "Wat is de meest duurzame koffie?",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Er zijn veel verschillende manieren om een kopje koffie te bereiden ☕️ "
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Ze hebben allemaal een unieke smaak, maar verschillen ze ook in hun klimaatimpact?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Welke koffie met welke methode heeft de laagste klimaatimpact? ☕️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Espresso (40 ml)",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Capsule (110ml)",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "French press (150 ml)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een espresso heeft de kleinste klimaatimpact, maar is ook slechts 40 ml. De French press heeft ook een lage impact omdat het niet veel elektriciteit gebruikt of afval produceert (het bevat ook de meeste cafeïne).\n\nBelangrijker dan hoe je je koffie zet, is de koffie die je koopt: de espresso zou veel meer impact hebben als we de gemiddelde koffiecijfers uit een ander onderzoek zouden gebruiken. De meest duurzame koffie komt uit agroforestry (zie de infographic in ‘Fading Forest’).",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change-NL.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 97,
+          "subtitle": "Agroforestry gaat over het mengen van landbouw met bomen. Dit recept bevat walnoten, die natuurlijk van bomen komen en ook in agroforestry-systemen kunnen worden gekweekt."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",
@@ -5245,7 +5584,7 @@
       },
       "pages": [
         {
-          "id": 2,
+          "id": 0,
           "type": "question",
           "title": "Welke oplossing bespaart het meest CO2?",
           "subtitle": "Volgens de berekeningen van Project Drawdown",
@@ -5272,7 +5611,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 1,
           "type": "recipe",
           "recipeID": 18,
           "subtitle": "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten."

@@ -13846,6 +13846,162 @@
         9,
         10
       ],
+      "url": "https://www.forkranger.com/nl/kikkererwten-en-citroen-wraps/?share",
+      "id": 97,
+      "title": "Kikkererwten en Citroen Wraps",
+      "description": "Deze wraps zijn geïnspireerd op smaken uit het Midden-Oosten. De sappige tomaten samen met de kikkererwten en crunchy walnoten geven dit gerecht een heerlijke textuur.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/06/chickpea-and-lemon-wraps.jpg",
+      "duration": 30,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Wraps (volkoren)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Sjalotten",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Cherrytomaatjes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinazie",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kikkererwten uit blik",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Plantaardige) yoghurt",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Citroen (sap en rasp)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Chilipoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse koriander",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de sjalotten en pers of snij de knoflook fijn",
+        "Halveer de cherrytomaten",
+        "Hak de walnoten in stukjes",
+        "Snij koriander"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Bak sjalotten, knoflook, komijn, kurkuma en paprikapoeder",
+          "detail": "op middelhoog vuur ",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg helft van citroensap en alle citroenrasp, kikkererwten en tomaten toe",
+          "detail": "laat de kikkererwten uitlekken voordat je ze toevoegt, op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In een kom, meng de yoghurt, andere helft citroensap, koriander en chilipoeder",
+          "detail": "breng op smaak met zout en peper",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Voeg walnoten toe aan de kikkererwten mix",
+          "detail": "roer",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Verwarm de wraps",
+          "detail": "",
+          "time": 2,
+          "emoji": ""
+        },
+        {
+          "title": "Serveer de wraps met yoghurt, verse spinaziebladeren en de kikkererwten mix",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "url": "https://www.forkranger.com/nl/balsamico-broccoli-noedels/?share",
       "id": 99,
       "title": "Balsamico Broccoli Noedels",

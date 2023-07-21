@@ -724,22 +724,22 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Which meal has the lowest footprint?",
-          "subtitle": "",
+          "title": "Compared to pork and chicken, the footprint of cheese is… 🧀",
+          "subtitle": "in CO2 per kg",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Spaghetti bolognese with beef 🍝",
+              "title": "Lower ⬇️",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Spaghetti carbonara with bacon 🥓",
+              "title": "Higher ⬆️",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Vegetarian lasagne with cheese 🧀",
+              "title": "The same ",
               "correct": false
             }
           ],
@@ -5156,6 +5156,345 @@
           "type": "recipe",
           "recipeID": 94,
           "subtitle": "Use this lasagne to invite friends for dinner and a talk about climate change."
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "notificationTitle": "Today: Fair Fields",
+      "notificationText": "The cost of Fairtrade 💸 - Recipe of the day: Spicy Greens with Peanut Sauce",
+      "home": {
+        "title": "The cost of Fairtrade",
+        "category": 14
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "When you see Fairtrade bananas right next to the cheaper bananas, it can feel like a tough choice 🍌"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Each trip to the supermarket you feel this dilemma: good for my wallet or good for the people? 🤔"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "But what if you make your choice for a whole year? "
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "How much extra would it cost to buy 3 Fairtrade bananas a week, for a whole year? 🍌",
+          "subtitle": "in the Netherlands",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "ca. 5 €",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "ca. 20 €",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "ca. 50 €",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "How do you feel about this difference? For Mareike from the Fork Ranger team this was less than she thought. And therefore she decided to buy Fairtrade bananas from now onwards.\n\nIn an ideal world, supermarkets would pay a fair price for ALL bananas. But for now, buying the Fairtrade option not only ensures a fair wage but it’s also an investment into a different food system.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 96,
+          "subtitle": "You can start by making the choice to always buy the Fairtrade version of one product, like bananas, coffee, or in this case: rice."
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "notificationTitle": "Today: The Good Ranch",
+      "notificationText": "What are the benefits of feeding cows with grass only? - Recipe of the day: Roasted Beets and Carrots",
+      "home": {
+        "title": "What are the benefits of feeding cows with grass only?",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Feeding cows grass instead of corn is better for the cows 🐄 But we’ve already covered that it’s not automatically better for the climate. What about biodiversity?"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "There are lots of people with strong opinions about grass-fed cows but there is very little scientific research 🤨"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "We found a paper that reviewed the impact of grass-fed dairy cows on biodiversity 🐝"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "Which description of a product is more likely to support greater biodiversity?",
+          "subtitle": "for dairy products",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Grass-fed",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Organic",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The problem with grass-fed products is that it can still come from grass monocultures sprayed with chemical fertilizer.\n\nOrganic is not only about avoiding pesticides and chemical fertilizer, but also has lots of other requirements, like that animals must be outside part of the time. All of this means organic meat and dairy are better for biodiversity. But only if we also reduce the amounts we eat.\n\nOf course when it comes to increasing biodiversity, there is also the option to have no cows at all.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 100,
+          "subtitle": "We can also eat grass ourselves, or at least the seeds. Wheat is a type of grass and this recipe includes wheat in the form of bulgur."
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "notificationTitle": "Today: Windmill Land",
+      "notificationText": "The climate impact of your oven 🔥 - Recipe of the day: Roasted Brussel Sprouts and Cauliflower",
+      "home": {
+        "title": "The climate impact of your oven",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We’ve already covered the energy use of induction vs. gas. But what about the oven? ♨️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Let‘s say you‘re roasting potatoes for 30 minutes instead of frying them in the pan 🥔"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "How much higher is the climate impact of the oven?",
+          "subtitle": "compared to frying potatoes in the pan",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1.5x 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "2.5x 🔥🔥🔥",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "7.5x 🔥🔥🔥🔥🔥🔥",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Maybe we shouldn’t use the oven every day but clearly it’s more important to focus on the impact of the ingredients. Especially since in a few years, all electricity will be renewable 😎",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 101,
+          "subtitle": "Roasting veggies in the oven is one of the easiest ways to create a lot of flavor."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "notificationTitle": "Today: The Good Ranch",
+      "notificationText": "Is hunting sustainable? 🏹 - Recipe of the day: Spinach Potato Curry",
+      "home": {
+        "title": "Is hunting sustainable?",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "We’ve learned a lot about farm animals. It’s time to look at wild animals 🐗"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "Let’s explore areas In the Netherlands with deer: in one of them, no hunting is allowed 🦌"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "And in the other area, they shoot deer so there aren’t too many of them 🏹"
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "What happened to the area where they shot deer?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Higher biodiversity 🌼⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Lower soil quality 🪱⬇️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Certain insects disappeared 🪰⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "A lot of our nature is out of balance: there are no predators and because of streets and cities, deer can’t migrate to other areas. Then they crowd out other animals and plants.\n\nShooting them is one solution, and the majority of hunting in the Netherlands happens for this reason. So this can be a form of sustainable meat, but there is not enough to replace our current meat consumption.\n\nAlso when it comes to wild meat, keep in mind that the situation (and therefore sustainability) differs a lot from region to region and for different animal types. This is just one example.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 102,
+          "subtitle": "To be honest, this curry has nothing to do with hunting. But it’s easy and delicious. "
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "notificationTitle": "Today: The Good Ranch",
+      "notificationText": "The impact of lab-grown meat 🍖 - Recipe of the day: Balsamic Broccoli Noodles",
+      "home": {
+        "title": "The impact of lab-grown meat",
+        "category": 15
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "Besides making meat plant-based, there are also initiatives to grow meat in a lab 🧑‍🔬"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "It works by taking cells from an animal and then growing those into meat 🍖"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "title": "Right now it’s still very expensive 💰 And the carbon footprint ranges from very low to much higher than beef."
+        },
+        {
+          "id": 3,
+          "type": "question",
+          "title": "What determines the carbon footprint of lab-grown meat?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "How fast the cells grow 🧫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Type of animal the cells come from 🐄",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "How much of the energy is renewable ⚡️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Lab-grown meat is not yet widely available, apart from a handful of high-end restaurants. So a study estimated the carbon footprint of lab-grown meat in 2030.\n\nThe impact was determined by the energy mix: when all energy is renewable, the impact is expected to be comparable to plant-based meat. But with the expected energy mix of 2030, the impact is higher than pork and chicken.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 99,
+          "subtitle": "This recipe includes tofu, which has roughly the same footprint as the best case scenario for lab-grown meat."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "notificationTitle": "Today: Windmill Land",
+      "notificationText": "What’s the most sustainable coffee? ☕️ - Recipe of the day: Chickpea and Lemon Wraps",
+      "home": {
+        "title": "What’s the most sustainable coffee?",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There are lots of different ways to prepare a cup of coffee ☕️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "They all have a unique taste, but to they also differ in their carbon footprint?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which coffee with which method has the lowest carbon footprint? ☕️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Espresso (40 ml)",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Capsule (110 ml)",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "French press (150 ml)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "An espresso has the lowest footprint but it’s also just 40 ml. French press also has a low footprint because it doesn’t have use much electricy or create waste (it also contains the most caffeine).\n\nMore important than how you make your coffee is the coffee you buy: the espresso would have a much higher impact if we use the average coffee numbers from a different study. The most sustainable coffee comes from agroforestry (see the infographic in ‘Fading Forest’).",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/people_worried_climate_change.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 97,
+          "subtitle": "Agroforestry is about mixing agriculture with trees. This recipe includes walnuts, which of course comes from trees and can also be grown in agroforestry systems."
         }
       ]
     },

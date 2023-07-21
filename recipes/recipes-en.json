@@ -13850,6 +13850,162 @@
         9,
         10
       ],
+      "id": 97,
+      "url": "https://www.forkranger.com/chickpea-and-lemon-wraps/?share",
+      "title": "Chickpea and Lemon Wraps",
+      "description": "These wraps are inspired by Middle Eastern flavors. The juicy tomatoes together with the chickpeas and crunchy walnuts give this dish a delicious texture.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2022/06/chickpea-and-lemon-wraps.jpg",
+      "duration": 30,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Wraps (whole wheat)",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Shallots",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Cherry tomatoes",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Spinach",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned chickpeas",
+          "type": "fresh",
+          "quantity": 800,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "(Plant-based) yoghurt",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Lemon (juice and zest)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Chilli powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Paprika powder",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Dice shallots and mince garlic",
+        "Halve cherry tomatoes",
+        "Chop walnuts",
+        "Chop coriander"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Sauté shallots, garlic, cumin, turmeric and paprika powder",
+          "detail": "medium/high heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Add half of lemon juice and all of lemon zest, chickpeas, and tomatoes",
+          "detail": "drain chickpeas before adding, medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In a bowl, mix yoghurt, other half of lemon juice, coriander, chili powder",
+          "detail": "season with salt and pepper to taste",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Add walnuts to chickpea mix",
+          "detail": "stir",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 2
+        },
+        {
+          "title": "Heat up wraps",
+          "detail": "",
+          "time": 2,
+          "emoji": ""
+        },
+        {
+          "title": "Serve the wraps with yoghurt, fresh spinach leaves, and chickpea mix",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "id": 99,
       "url": "https://www.forkranger.com/balsamic-broccoli-noodles/?share",
       "title": "Balsamic Broccoli Noodles",

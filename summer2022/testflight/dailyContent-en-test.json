@@ -5433,14 +5433,14 @@
           ],
           "answerExplanation": {
             "text": "Cultivated meat is not yet widely available, apart from a handful of high-end restaurants. So a study estimated the carbon footprint of cultivated meat in 2030.\n\nThe impact was determined by the energy mix: when all energy is renewable, the impact is expected to be comparable to plant-based meat. But with the expected energy mix of 2030, the impact is higher than pork and chicken.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/lab-grown-meat.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/lab-grown-meat-2.png"
           }
         },
         {
           "id": 4,
           "type": "recipe",
           "recipeID": 99,
-          "subtitle": "This recipe includes tofu, which has roughly the same footprint as the best case scenario for cultivated meat."
+          "subtitle": "This recipe includes tofu, which has roughly the same footprint as the best-case scenario for cultivated meat."
         }
       ]
     },

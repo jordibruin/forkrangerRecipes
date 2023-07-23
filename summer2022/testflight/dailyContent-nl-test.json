@@ -5222,7 +5222,7 @@
       "notificationTitle": "Vandaag: The Good Ranch",
       "notificationText": "Wat zijn de voordelen van koeien alleen gras voeren? - Recept van de dag: Geroosterde Bieten en Wortelen",
       "home": {
-        "title": "Wat zijn de voordelen koeien alleen gras voeren?",
+        "title": "Wat zijn de voordelen van koeien alleen gras voeren?",
         "category": 15
       },
       "pages": [
@@ -5288,7 +5288,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Stel dat je aardappelen 30 minuten braadt in plaats van ze in de pan te bakken 🥔"
+          "title": "Stel dat je aardappelen 30 minuten in de oven doet in plaats van ze in de pan te bakken 🥔"
         },
         {
           "id": 2,
@@ -5396,7 +5396,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Naast vlees plantaardig maken zijn er ook initiatieven om vlees te kweken in een lab 🧑‍🔬"
+          "title": "Naast vlees plantaardig maken zijn er ook initiatieven om vlees te kweken zonder dieren te houden 🧫"
         },
         {
           "id": 1,
@@ -5411,7 +5411,7 @@
         {
           "id": 3,
           "type": "question",
-          "title": "Wat bepaalt de klimaatimpact van in een laboratorium gekweekt vlees?",
+          "title": "Wat bepaalt de klimaatimpact van kweekvlees?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -5431,7 +5431,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Kweekvlees is nog niet algemeen verkrijgbaar, afgezien van een handjevol dure restaurants. Dus een studie schatte de klimaatimpact van kweekvlees in 2030.\n\nDe impact werd bepaald door de energiemix: wanneer alle energie hernieuwbaar is, is de impact naar verwachting vergelijkbaar met plantaardig vlees. Maar met de gemiddelde energiemix van 2018 is de impact groter dan die van varkensvlees en kip.",
+            "text": "Kweekvlees is nog niet algemeen verkrijgbaar, afgezien van een handjevol dure restaurants. Dus een studie schatte de klimaatimpact van kweekvlees in 2030.\n\nDe impact werd bepaald door de energiemix: wanneer alle energie hernieuwbaar is, is de impact naar verwachting vergelijkbaar met plantaardig vlees. Maar met de verwachte energiemix van 2030 is de impact groter dan die van varkensvlees en kip.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/lab-grown-meat-NL.png"
           }
         },

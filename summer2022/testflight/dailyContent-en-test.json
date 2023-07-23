@@ -5343,7 +5343,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Let’s explore areas In the Netherlands with deer: in one of them, no hunting is allowed 🦌"
+          "title": "Let’s explore two areas in the Netherlands with deer: in one of them, no hunting is allowed 🦌"
         },
         {
           "id": 2,
@@ -5466,18 +5466,18 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Which coffee with which method has the lowest carbon footprint? ☕️",
+          "title": "Which method of making coffee has the highest footprint? ☕️",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
               "title": "Espresso (40 ml)",
-              "correct": true
+              "correct": false
             },
             {
               "id": 1,
               "title": "Capsule (110 ml)",
-              "correct": false
+              "correct": true
             },
             {
               "id": 2,

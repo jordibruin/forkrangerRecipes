@@ -422,6 +422,8 @@
       "rewardTitle": "Bravo!",
       "rewardText": "Als je runderbouillon gebruikt, creëer je rundvleessmaak zonder rundvleesemissies.",
       "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "Als je een vleesliefhebber bent, kan je ook runderbouillon gebruiken. Zo creëer je rundvleessmaak zonder rundvleesemissies.",
       "ingredients": [
         {
           "name": "Zoete aardappels",
@@ -472,7 +474,7 @@
           "quantityType": "tl"
         },
         {
-          "name": "Bouillon (rundvlees)",
+          "name": "Bouillon (groente)",
           "type": "taste",
           "quantity": 500,
           "quantityType": "ml"

@@ -422,6 +422,8 @@
       "rewardTitle": "Bravo!",
       "rewardText": "If you used beef bouillon, you created beef flavour without beef emissions.",
       "servings": 4,
+      "variationHeader": "Tip",
+      "variationBody": "If you're a meat lover you can also use beef bouillon. That way you give it a beef flavour without beef emissions.",
       "ingredients": [
         {
           "name": "Sweet potatoes",
@@ -472,7 +474,7 @@
           "quantityType": "tea sp"
         },
         {
-          "name": "Bouillon (beef)",
+          "name": "Bouillon (vegetable)",
           "type": "taste",
           "quantity": 800,
           "quantityType": "ml"

@@ -14766,7 +14766,7 @@
         {
           "title": "Fry the soaked bread on both sides",
           "detail": "repeat for the second slice of bread",
-          "panType": "repeat for the second slice of bread",
+          "panType": "fryingPan1",
           "emoji": "",
           "time": 5
         }

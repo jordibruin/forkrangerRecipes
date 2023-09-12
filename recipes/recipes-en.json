@@ -14597,7 +14597,7 @@
       "title": "Sunny Soup",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
-      "description": "Brighten your day with this wholesome sunny soup. Lentils are packed with protein and fibre as well as B vitamins. They make a great alternative to meat. Ginger and garlic combined offer a feisty flavour as well as being supportive of the circulatory system.",
+      "description": "Brighten your day with this wholesome sunny soup. Lentils are packed with protein and fibre as well as B vitamins. They make a great alternative to meat. Ginger and garlic combined offer a feisty flavour.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/08/5.png",
       "duration": 25,
       "rewardTitle": "Great job!",
@@ -14638,7 +14638,7 @@
           "name": "Garlic cloves",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "ml"
+          "quantityType": ""
         },
         {
           "name": "Turmeric",
@@ -14649,6 +14649,7 @@
       ],
       "prepTime": 10,
       "prepSteps": [
+        "Mince garlic",
         "Peel and slice carrot and potatoes",
         "Slice tomato"
       ],
@@ -14662,7 +14663,7 @@
           "time": 2
         },
         {
-          "title": "Add carrot, potato, tomato and lentils",
+          "title": "Add garlic, carrot, potato, tomato and lentils",
           "detail": "medium heat",
           "panType": "cookingPan1",
           "emoji": "",
@@ -14688,7 +14689,7 @@
         "plants"
       ],
       "id": 201,
-      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "url": "",
       "title": "Beetroot Eggy Sourdough",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
@@ -14766,7 +14767,7 @@
         "plants"
       ],
       "id": 202,
-      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "url": "",
       "title": "Three Fruit Skewers",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
@@ -14899,17 +14900,17 @@
         "plants"
       ],
       "id": 204,
-      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "url": "",
       "title": "Eggy Veggie Wraps",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
-      "description": "Any growing teens in the family? This recipe will satisfy your hungry adolescents. Eggs are a highly nutritious source of protein, minerals and vitamins, elevating your levels of good cholesterol.",
+      "description": "Any growing teens in the family? This recipe will satisfy your hungry adolescents. Eggs are a highly nutritious source of protein, minerals and vitamins.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/09/03.png",
       "duration": 30,
       "rewardTitle": "Great job!",
       "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
       "variationHeader": "Tip",
-      "variationBody": "Add a flavour of choice: esto, chilli, curry powder, turmeric and ginger or other.",
+      "variationBody": "Add a flavour of choice: pesto, chilli, curry powder, turmeric and ginger or other.",
       "servings": 4,
       "ingredients": [
         {
@@ -15010,7 +15011,7 @@
         "plants"
       ],
       "id": 205,
-      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "url": "",
       "title": "Coconut and Ginger Chickpea Salsa Wraps",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
@@ -15116,15 +15117,15 @@
       ],
       "prepTime": 15,
       "prepSteps": [
-        "Halve the orange and grate the peel of the half you are using",
+        "Grate zest of orange and peel and segment",
         "Grate ginger",
-        "Chop the cherry tomatoes, onion, apple, chilli pepper, and coriander",
+        "Chop the bell pepper, cherry tomatoes, onion, apple, chilli pepper, and coriander",
         "Drain and rinse the chickpeas"
       ],
       "cookTime": 5,
       "cookSteps": [
         {
-          "title": "Add orange, ginger, cherry tomatoes, onion, apple, chilli pepper and coriander in a bowl",
+          "title": "Add orange segments, ginger, bell pepper, cherry tomatoes, onion, apple, chilli pepper and coriander in a bowl",
           "detail": "mix together",
           "emoji": ""
         },
@@ -15145,11 +15146,11 @@
         "plants"
       ],
       "id": 206,
-      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "url": "",
       "title": "Red Eggs",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
-      "description": "Pushed for time, this is quick and easy and surprisingly light. Tomatoes offer a variety of health benefits including potassium. Foods rich in potassium are important in managing high blood pressure.",
+      "description": "Pushed for time, this is quick and easy and surprisingly light. Tomatoes offer a variety of nutrients including potassium. Foods rich in potassium are important in managing high blood pressure.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/09/05.png",
       "duration": 20,
       "rewardTitle": "Great job!",
@@ -15186,7 +15187,7 @@
       "prepTime": 5,
       "prepSteps": [
         "Core the tomatoes",
-        "Mince garlic",
+        "Chop garlic",
         "Grate cheese",
         "Preheat the oven"
       ],
@@ -15233,7 +15234,7 @@
         "plants"
       ],
       "id": 207,
-      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "url": "",
       "title": "Mango and Orange Granita",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
@@ -15272,9 +15273,7 @@
       "prepTime": 5,
       "prepSteps": [
         "Chop mango",
-        "Squeeze juice of the orange",
-        "Grate cheese",
-        "Preheat the oven"
+        "Squeeze juice of the orange"
       ],
       "cookTime": 20,
       "cookSteps": [
@@ -15352,6 +15351,7 @@
       "prepSteps": [
         "Cut broccoli into small florets",
         "Dice onion",
+        "Grate the cheese",
         "Preheat the oven to 180 degrees C"
       ],
       "cookTime": 20,
@@ -15404,11 +15404,11 @@
         "plants"
       ],
       "id": 209,
-      "url": "https://www.forkranger.com/creamy-tomato-pasta-with-hazelnuts/?share",
+      "url": "",
       "title": "Cakes from the Ocean",
       "isPartOfText": "NAT 🥕",
       "isPartOfUrl": "https://thenat.co.uk",
-      "description": "Rich in omega-3 fatty acids, vitamin B12, and other essential nutrients, salmon is wonderful for hair and skin health. Adapt this recipe and try tinned tuna or freshly cooked cod or hake instead.",
+      "description": "Rich in omega-3 fatty acids, vitamin B12, and other essential nutrients. Adapt this recipe and try tinned tuna or freshly cooked cod or hake instead.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/08/2.png",
       "duration": 30,
       "rewardTitle": "Great job!",
@@ -15461,7 +15461,7 @@
       "cookTime": 25,
       "cookSteps": [
         {
-          "title": "In a bowl, mix salmon, breadcrumbs, egg, dill, and squeeze lemon",
+          "title": "In a bowl, mix salmon, breadcrumbs, mayonnaise egg, dill, and squeeze lemon",
           "detail": "mix well",
           "emoji": ""
         },

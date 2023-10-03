@@ -14582,6 +14582,370 @@
           "emoji": ""
         }
       ]
+    },
+    {
+      "filter": [],
+      "id": 220,
+      "title": "Groentecake",
+      "isPartOfText": "Wereldgemeente Loon op Zand",
+      "isPartOfUrl": "https://wereldgemeenteloonopzand.nl/",
+      "description": "Serveer met rijst of een tomatensalade.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/10/logo.png",
+      "duration": 55,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Wokgroente",
+          "type": "base",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Eieren",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Bloem",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Geitenkaas",
+          "type": "taste",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Currypasta",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Slagroom",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 1,
+      "prepSteps": [
+        "Verwarm de oven voor op 220°C"
+      ],
+      "cookTime": 55,
+      "cookSteps": [
+        {
+          "title": "Klop de eieren los in een grote schaal ",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de curry en slagroom toe",
+          "detail": "blijf kloppen",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de wokgroente toe",
+          "detail": "meng goed",
+          "emoji": ""
+        },
+        {
+          "title": "Schep het mengsel in een cakeblik met bakpapier en bak",
+          "detail": "op 220°C, test met een satéprikker of de cake gaar is",
+          "panType": "oven",
+          "emoji": "",
+          "time": 45
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 221,
+      "title": "Indische Spruitjessoep",
+      "isPartOfText": "Wereldgemeente Loon op Zand",
+      "isPartOfUrl": "https://wereldgemeenteloonopzand.nl/",
+      "description": "",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/10/logo.png",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Spruitjes",
+          "type": "base",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ui",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 60,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zonnebloemolie",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kokosmelk",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 600,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Gembersiroop",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Ketjap manis",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "el"
+        },
+        {
+          "name": "Sambal oelek",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Citroensap",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui",
+        "Maak de spruitjes schoon en halveer ze"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bak de ui",
+          "detail": "verhit de olie in een wok, op laag tot middelhoog vuur",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de spruitjes toe",
+          "detail": "op hoog vuur",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de kokosmelk, bouillon, pindakaas, ketjap, gembersiroop en sambal toe",
+          "detail": "meng goed, breng aan de kook en laat sudderen met deksel erop",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 6
+        },
+        {
+          "title": "Voeg de taugé toe",
+          "detail": "roer goed",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg naar smaak citroensap toe",
+          "detail": "",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serveer met de cashewnoten en brood of cassave kroepoek",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 222,
+      "title": "Indische Spruitjessoep",
+      "isPartOfText": "Wereldgemeente Loon op Zand",
+      "isPartOfUrl": "https://wereldgemeenteloonopzand.nl/",
+      "description": "",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/10/logo.png",
+      "duration": 25,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Spruitjes",
+          "type": "base",
+          "quantity": 500,
+          "quantityType": "g"
+        },
+        {
+          "name": "Taugé",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Ui",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Cashewnoten",
+          "type": "fresh",
+          "quantity": 60,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zonnebloemolie",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Kokosmelk",
+          "type": "taste",
+          "quantity": 400,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 600,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Gembersiroop",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Ketjap manis",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "el"
+        },
+        {
+          "name": "Sambal oelek",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Citroensap",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Snipper de ui",
+        "Maak de spruitjes schoon en halveer ze"
+      ],
+      "cookTime": 15,
+      "cookSteps": [
+        {
+          "title": "Maak bouillon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Bak de ui",
+          "detail": "verhit de olie in een wok, op laag tot middelhoog vuur",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de spruitjes toe",
+          "detail": "op hoog vuur",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 3
+        },
+        {
+          "title": "Voeg de kokosmelk, bouillon, pindakaas, ketjap, gembersiroop en sambal toe",
+          "detail": "meng goed, breng aan de kook en laat sudderen met deksel erop",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 6
+        },
+        {
+          "title": "Voeg de taugé toe",
+          "detail": "roer goed",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Voeg naar smaak citroensap toe",
+          "detail": "",
+          "panType": "fryinPan1",
+          "emoji": "",
+          "time": 1
+        },
+        {
+          "title": "Serveer met de cashewnoten en brood of cassave kroepoek",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
     }
   ]
 }

@@ -50,5 +50,18 @@
     "bodyNL": "De eerste was al heel snel vol, dus we hebben nog eentje togevoegd!\n\nHet Fork Ranger Campfire is een (gratis) maandelijkse online meetup over 'solving climate change with food' (pay as you like). Het is een introductie tot Fork Ranger en het grotere plaatje van duurzaam eten. Voor iedereen die hier nieuw is of meer wil weten.",
     "buttonTextNL": "Lees meer",
     "buttonURLNL": "https://www.forkranger.com/nl/kampvuur/"
+  },
+  {
+    "id": 5,
+    "startDate": "04-10-2023",
+    "endDate": "10-10-2023",
+    "titleEN": "Join our online campfire!",
+    "bodyEN": "The Fork Ranger Campfire is a monthly online meetup about ‘solving climate change with food’ (pay as you like). It's an introduction to Fork Ranger and the bigger picture of sustainable food. For anyone who is new to Fork Ranger or wants to learn more. The next one is upcoming Tuesday at 20:00 Amsterdam time.",
+    "buttonTextEN": "Learn more",
+    "buttonURLEN": "https://www.forkranger.com/campfire/",
+    "titleNL": "Doe mee aan ons online kampvuur!",
+    "bodyNL": "Het Fork Ranger Campfire is een maandelijkse online meetup over 'solving climate change with food' (pay as you like). Het is een introductie tot Fork Ranger en het grotere plaatje van duurzaam eten. Voor iedereen die hier nieuw is of meer wil weten. De volgende is aankomende dinsdag om 20:00.",
+    "buttonTextNL": "Lees meer",
+    "buttonURLNL": "https://www.forkranger.com/nl/kampvuur/"
   }
 ]

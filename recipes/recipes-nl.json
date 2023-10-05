@@ -14591,7 +14591,7 @@
       "isPartOfUrl": "https://wereldgemeenteloonopzand.nl/",
       "description": "Serveer met rijst of een tomatensalade.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/10/logo.png",
-      "duration": 55,
+      "duration": 60,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
@@ -14633,9 +14633,10 @@
           "quantityType": "g"
         }
       ],
-      "prepTime": 1,
+      "prepTime": 5,
       "prepSteps": [
-        "Verwarm de oven voor op 220°C"
+        "Verwarm de oven voor op 220°C",
+        "Rasp of snijd de geitenkaas in blokjes"
       ],
       "cookTime": 55,
       "cookSteps": [
@@ -14646,6 +14647,11 @@
         },
         {
           "title": "Voeg de curry en slagroom toe",
+          "detail": "blijf kloppen",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de geitenkaas en de bloem toe",
           "detail": "blijf kloppen",
           "emoji": ""
         },
@@ -14900,7 +14906,7 @@
           "emoji": ""
         },
         {
-          "title": "Verdeel het mengels uit de mengkom over de ovenschaal",
+          "title": "Verdeel het mengel uit de mengkom over de ovenschaal",
           "detail": "roer door",
           "emoji": ""
         },
@@ -15551,6 +15557,12 @@
           "type": "fresh",
           "quantity": 4,
           "quantityType": ""
+        },
+        {
+          "name": "Kaas",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
         },
         {
           "name": "Uien",

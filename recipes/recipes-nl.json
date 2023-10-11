@@ -9546,7 +9546,8 @@
     },
     {
       "filter": [
-        "plants"
+        "plants",
+        "pasta"
       ],
       "seasonalInfo": [
         6,

@@ -63,5 +63,18 @@
     "bodyNL": "Het Fork Ranger Campfire is een maandelijkse online meetup over 'solving climate change with food' (pay as you like). Het is een introductie tot Fork Ranger en het grotere plaatje van duurzaam eten. Voor iedereen die hier nieuw is of meer wil weten. De volgende is aankomende dinsdag om 20:00.",
     "buttonTextNL": "Lees meer",
     "buttonURLNL": "https://www.forkranger.com/nl/kampvuur/"
+  },
+  {
+    "id": 6,
+    "startDate": "20-10-2023",
+    "endDate": "01-12-2023",
+    "titleEN": "Did you know we create gift boxes for organizations?",
+    "bodyEN": "We’ve helped a lot of organizations create an impactful gift box around our book or seasonal calendar. And this year we ship - besides to the Netherlands - also to the UK!",
+    "buttonTextEN": "Learn more",
+    "buttonURLEN": "https://www.forkranger.com/organizations/",
+    "titleNL": "Wist je dat wij ook kerstpakketten maken?",
+    "bodyNL": "We hebben al veel bedrijven geholpen met een betekenisvol (kerst)pakket rondom het boek of de seizoenskalender. Zou dit ook iets voor jouw organisatie kunnen zijn?",
+    "buttonTextNL": "Lees meer",
+    "buttonURLNL": "https://www.forkranger.com/nl/organisaties/"
   }
 ]

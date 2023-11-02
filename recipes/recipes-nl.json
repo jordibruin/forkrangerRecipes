@@ -1641,12 +1641,6 @@
           "quantityType": ""
         },
         {
-          "name": "Stengels bleekselderij",
-          "type": "fresh",
-          "quantity": 5,
-          "quantityType": ""
-        },
-        {
           "name": "Geraspte kaas",
           "type": "taste",
           "quantity": 100,

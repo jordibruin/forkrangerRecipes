@@ -1641,12 +1641,6 @@
           "quantityType": ""
         },
         {
-          "name": "Celery sticks",
-          "type": "fresh",
-          "quantity": 5,
-          "quantityType": ""
-        },
-        {
           "name": "Organic cheese grated",
           "type": "taste",
           "quantity": 100,
@@ -3737,7 +3731,7 @@
           "time": 3
         },
         {
-          "title": "Cook pasta, after 3 minutes add brussel sprouts",
+          "title": "Cook pasta, after 3 minutes add brussels sprouts",
           "detail": "cook for ~5 more minutes so pasta and sprouts are almost done",
           "panType": "cookingPan1",
           "emoji": "",
@@ -14328,7 +14322,7 @@
       ],
       "id": 101,
       "url": "https://www.forkranger.com/roasted-brussel-sprouts-and-cauliflower/?share",
-      "title": "Roasted Brussel Sprouts and Cauliflower",
+      "title": "Roasted Brussels Sprouts and Cauliflower",
       "description": "This recipe contains more than your daily dose of nuts, but it’s not just the pecans you see. The cashew-turmeric cream sauce adds some nice flavours to the roasted veggies. Even with a hand blender this sauce is quickly made!",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2023/07/Roasted-brussels-sprouts-and-cauliflower.jpg",
       "duration": 40,
@@ -14336,7 +14330,7 @@
       "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
       "servings": 4,
       "variationHeader": "Tip",
-      "variationBody": "Halve brussel sprouts if they are on the large side",
+      "variationBody": "Halve brussels sprouts if they are on the large side",
       "ingredients": [
         {
           "name": "Potato slices (pre-cooked)",
@@ -14345,7 +14339,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Brussel sprouts",
+          "name": "Brussels sprouts",
           "type": "fresh",
           "quantity": 500,
           "quantityType": "g"

@@ -5499,6 +5499,60 @@
       ]
     },
     {
+      "id": 104,
+      "notificationTitle": "Today: Windmill Land",
+      "notificationText": "What’s the most sustainable coffee? ☕️ - Recipe of the day: Chickpea and Lemon Wraps",
+      "home": {
+        "title": "TEST What’s the most sustainable coffee?",
+        "category": 16
+      },
+      "pages": [
+        {
+          "id": 0,
+          "type": "text",
+          "title": "There are lots of different ways to prepare a cup of coffee ☕️"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "title": "They all have a unique taste, but to they also differ in their carbon footprint?"
+        },
+        {
+          "id": 2,
+          "type": "question",
+          "title": "Which method of making coffee has the highest footprint? ☕️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Espresso (40 ml)",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Capsule (110 ml)",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "French press (150 ml)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "An espresso has the lowest footprint but it’s also just 40 ml. French press also has a low footprint because it doesn’t have use much electricy or create waste (it also contains the most caffeine).\n\nMore important than how you make your coffee is the coffee you buy: the espresso would have a much higher impact if we use the average coffee numbers from a big study that reviewed multiple coffees. The most sustainable coffee comes from agroforestry (see the infographic in ‘Fading Forest’).",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/coffee_machines.png"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 97,
+          "subtitle": "Agroforestry is about mixing agriculture with trees. This recipe includes walnuts, which of course comes from trees and can also be grown in agroforestry systems."
+        }
+      ]
+    },
+    {
       "id": 1000,
       "home": {
         "title": "How much does our food contribute to climate change?",

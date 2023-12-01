@@ -807,6 +807,18 @@
     ]
   },
   {
+    "code": "\"2828\"",
+    "recipeIDs": [
+      2,
+      64,
+      47,
+      34,
+      40,
+      48,
+      53
+    ]
+  },
+  {
     "code": "tomaat",
     "unlockSeasonalInfo": true,
     "recipeIDs": [

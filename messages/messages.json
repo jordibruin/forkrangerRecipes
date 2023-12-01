@@ -90,4 +90,17 @@
     "buttonTextNL": "Lees meer",
     "buttonURLNL": "https://www.forkranger.com/nl/kampvuur/"
   }
+    {
+    "id": 8,
+    "startDate": "01-12-2023",
+    "endDate": "07-12-2023",
+    "titleEN": "Our newest product: a poster that shows a sustainable diet",
+    "bodyEN": "We’re very excited about a beautiful poster we launched this week. It shows exactly what a healthy and sustainable looks like in the Netherlands.",
+    "buttonTextEN": "Learn more",
+    "buttonURLEN": "https://www.forkranger.com/product/poster-gezond-eten-binnen-de-grenzen-van-een-aarde/",
+    "titleNL": "Ons nieuwste product: een poster die een duurzaam voedingspatroon toont",
+    "bodyNL": "We zijn heel enthousiast over een poster die we deze week hebben uitgebracht. Het is een mooie illustratie die laat zien hoe een duurzaam en gezond dieet er uitziet.",
+    "buttonTextNL": "Lees meer",
+    "buttonURLNL": "https://www.forkranger.com/nl/product/poster-gezond-eten-binnen-de-grenzen-van-een-aarde/"
+  }
 ]

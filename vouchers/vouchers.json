@@ -58,6 +58,50 @@
     ]
   },
   {
+    "code": "pindakaas ",
+    "recipeIDs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  {
     "code": "peanut butter",
     "recipeIDs": [
       0,
@@ -628,8 +672,7 @@
     ]
   },
   {
-    "code": "EarthDay2023",
-    "expiresAfter": "24-04-2023",
+    "code": "kale ",
     "unlockSeasonalInfo": true,
     "recipeIDs": [
       0,
@@ -684,6 +727,60 @@
   },
   {
     "code": "boerenkool",
+    "unlockSeasonalInfo": true,
+    "recipeIDs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      12,
+      13,
+      17,
+      18,
+      20,
+      28,
+      32,
+      33,
+      38,
+      42,
+      43,
+      45,
+      47,
+      48,
+      51,
+      52,
+      55,
+      56,
+      57,
+      58,
+      67,
+      68,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ]
+  },
+  {
+    "code": "boerenkool ",
     "unlockSeasonalInfo": true,
     "recipeIDs": [
       0,
@@ -807,6 +904,24 @@
     ]
   },
   {
+    "code": "tomato ",
+    "unlockSeasonalInfo": true,
+    "recipeIDs": [
+      70,
+      74,
+      76,
+      4,
+      28,
+      80,
+      9,
+      39,
+      20,
+      57,
+      72,
+      84
+    ]
+  },
+  {
     "code": "2828g",
     "recipeIDs": [
       2,
@@ -820,6 +935,24 @@
   },
   {
     "code": "tomaat",
+    "unlockSeasonalInfo": true,
+    "recipeIDs": [
+      70,
+      74,
+      76,
+      4,
+      28,
+      80,
+      9,
+      39,
+      20,
+      57,
+      72,
+      84
+    ]
+  },
+  {
+    "code": "tomaat ",
     "unlockSeasonalInfo": true,
     "recipeIDs": [
       70,

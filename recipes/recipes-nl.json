@@ -9872,19 +9872,19 @@
           "name": "Komijn",
           "type": "taste",
           "quantity": 2,
-          "quantityType": "tea sp"
+          "quantityType": "tl"
         },
         {
           "name": "Kurkuma",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tea sp"
+          "quantityType": "tl"
         },
         {
           "name": "Tijm",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "TBL sp"
+          "quantityType": "el"
         },
         {
           "name": "Ui",

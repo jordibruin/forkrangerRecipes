@@ -90,7 +90,7 @@
     "buttonTextNL": "Lees meer",
     "buttonURLNL": "https://www.forkranger.com/nl/kampvuur/"
   },
-    {
+  {
     "id": 8,
     "startDate": "01-12-2023",
     "endDate": "07-12-2023",
@@ -102,5 +102,18 @@
     "bodyNL": "We zijn heel enthousiast over een poster die we deze week hebben uitgebracht. Het is een mooie illustratie die laat zien hoe een duurzaam en gezond dieet er uitziet.",
     "buttonTextNL": "Lees meer",
     "buttonURLNL": "https://www.forkranger.com/nl/product/poster-gezond-eten-binnen-de-grenzen-van-een-aarde/"
+  },
+  {
+    "id": 9,
+    "startDate": "18-12-2023",
+    "endDate": "23-12-2023",
+    "titleEN": "Christmas gifting",
+    "bodyEN": "Still looking for a meaningful present? Consider the Fork Ranger book or seasonal calendar. It’s also the best way to support our work. Order today for the best chance to receive it before Christmas (for the Netherlands and the UK). Orders on the 21st before 15:00 will still be shipped the same day, and hopefully arrive on time. Happy holidays✨",
+    "buttonTextEN": "Order here",
+    "buttonURLEN": "https://www.forkranger.com/shop/",
+    "titleNL": "Kerstcadeaus",
+    "bodyNL": "Zoek je nog een betekenisvol cadeau? Overweeg het Fork Ranger boek of de seizoenskalender. Het is ook de beste manier om ons te steunen. Bestel vandaag zodat je de meeste kans hebt dat het voor Kerst aankomt. Orders op geplaatst op de 21ste voor 15:00 worden nog op dezelfde dag verstuurd en komen hopelijk op tijd. Fijne feestdagen ✨",
+    "buttonTextNL": "Bestel hier",
+    "buttonURLNL": "https://www.forkranger.com/nl/shop/"
   }
 ]

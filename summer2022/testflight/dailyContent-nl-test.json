@@ -100,6 +100,30 @@
           "type": "recipe",
           "recipeID": 58,
           "subtitle": "De walnoten in dit romige pastagerecht geven niet alleen goede eiwitten, maar ook een lekkere bite."
+        },
+        {
+          "id": 4,
+          "type": "question",
+          "title": "Test bonusvraag title",
+          "subtitle": "subtitle...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Answer 1",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Answer 2",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Answertext blablabla...",
+            "title": "EMOJI",
+            "imageURL": "",
+            "blogURL": ""
+          }
         }
       ]
     },

@@ -103,13 +103,13 @@
         },
         {
           "id": 4,
-          "isSupporter": true,
+          "supporterOnly": true,
           "type": "text",
           "title": "introtext bonusvraag"
         },
         {
           "id": 5,
-          "isSupporter": true,
+          "supporterOnly": true,
           "type": "question",
           "title": "Test bonusvraag title",
           "subtitle": "subtitle...",

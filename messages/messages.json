@@ -115,5 +115,18 @@
     "bodyNL": "Zoek je nog een betekenisvol cadeau? Overweeg het Fork Ranger boek of de seizoenskalender. Het is ook de beste manier om ons te steunen. Orders die vandaag voor 15:00 besteld worden, worden nog op dezelfde dag verstuurd en komen hopelijk op tijd voor Kerstmis. Fijne feestdagen ✨",
     "buttonTextNL": "Bestel hier",
     "buttonURLNL": "https://www.forkranger.com/nl/shop/"
+  },
+  {
+    "id": 10,
+    "startDate": "12-01-2024",
+    "endDate": "24-01-2024",
+    "titleEN": "Help us measure the impact of the Fork Ranger app 🌍",
+    "bodyEN": "Have you used this app for more than 3 days? Please join the survey!\n\nJack's researching gamified apps & sustainable diets for his master thesis. And of course we're super curious how the Fork Ranger app scores. It will only take 5-10 minutes to fill out the survey.",
+    "buttonTextEN": "Go to Jack's survey",
+    "buttonURLEN": "https://forms.office.com/e/V6YnbAa4Lr",
+    "titleNL": "Help ons de impact van de Fork Ranger app te meten 🌍",
+    "bodyNL": "Heb je deze app al meer dan 3 dagen gebruikt? Doe dan mee met de enquête?\n\nJack onderzoekt gamified apps & duurzaam eten voor zijn master thesis. En natuurlijk zijn we super benieuwd hoe de Fork Ranger app scoort. Het duurt maar 5-10 minuten om in te vullen.",
+    "buttonTextNL": "Ga naar Jack's enquête",
+    "buttonURLNL": "https://forms.office.com/e/V6YnbAa4Lr"
   }
 ]

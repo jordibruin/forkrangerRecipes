@@ -512,6 +512,20 @@
     ]
   },
   {
+    "code": "flexitime",
+    "unlockSeasonalInfo": true,
+    "recipeIDs": [
+      47,
+      72,
+      71,
+      70,
+      32,
+      73,
+      74,
+      58
+    ]
+  },
+  {
     "code": "leven",
     "recipeIDs": [
       0,

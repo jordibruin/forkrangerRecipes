@@ -900,6 +900,21 @@
     ]
   },
   {
+    "code": "bean",
+    "recipeIDs": [
+      20,
+      22,
+      9,
+      45,
+      1,
+      85,
+      54,
+      34,
+      68,
+      59
+    ]
+  },
+  {
     "code": "tomato",
     "unlockSeasonalInfo": true,
     "recipeIDs": [

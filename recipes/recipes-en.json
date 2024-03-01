@@ -14586,20 +14586,6 @@
       "filter": [
         "plants"
       ],
-      "seasonalInfo": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
       "id": 103,
       "url": "https://www.forkranger.com/recipe/peanut-butter-love/?share",
       "title": "Peanut Butter Love",
@@ -14608,6 +14594,8 @@
       "description": "Peanut butter is part of a healthy diet and there are lots of combinations you can make. An easy option is banana. Our favorite is with pomegranate seeds (or also red currants). The juicy seeds make it less dry and adding acidity is always a good idea whenever you have something fatty because it brings out more flavor (this is why lime and lemon juice can bring a dish to another level).",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011089-819x1024-square-b6556ddeb32e5eeae7fa63436705fde9-yvu6c250wibk.jpg",
       "duration": 2,
+      "variationHeader": "Make it a dinner party 🎉",
+      "variationBody": "Try pomegranate seeds instead of banana! Or if you like it sweet, add a little cinnamon on top.",
       "rewardTitle": "Great job!",
       "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
       "servings": 8,
@@ -14644,6 +14632,423 @@
         },
         {
           "title": "Cut banana slices and add on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 104,
+      "url": "https://www.forkranger.com/recipe/hummus-zucchini-sun-dried-tomato/?share",
+      "title": "Hummus Zucchini Sun-dried Tomato",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "This simple combination has become our go-to lunch option! Slicing raw zucchini might seem weird but it creates a texture like a slice of cheese. The hummus makes it creamy and the sundried tomato tapenade adds flavor (without it the zucchini is a bit boring).",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010948-819x1024-square-77f4fbeb057d4423c43c5494569940b4-yvu6c250wibk.jpg",
+      "duration": 2,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Zucchini",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 160,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sun-dried tomato tapenade",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "With a cheese slicer, create slices of zucchini",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Make a sandwich: hummus, sun-dried tomato tapenade, and add sliced zucchini on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 105,
+      "url": "https://www.forkranger.com/recipe/hummus-rocket-tomato/?share",
+      "title": "Hummus Rocket Tomato",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "The creamy hummus and juicy tomato are a great combination. Here the quality of the tomato really makes a big difference. The rocket adds a spicy crunch and of course lots of color!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010041-819x1024-square-03e5b6988572241869385a4c16d267f4-yvu6c250wibk.jpg",
+      "duration": 2,
+      "variationHeader": "Tip",
+      "variationBody": "Try different types of hummus, for example a spicy one!",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Rocket",
+          "type": "fresh",
+          "quantity": 85,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Make a sandwich with hummus and rocket",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Slice tomatoes and add on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 106,
+      "url": "https://www.forkranger.com/recipe/hummus-pickles-fried-onion/?share",
+      "title": "Hummus Pickles Fried Onion",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "The sour and juicy pickle and the umami-flavor and crunch of the fried onions. This is a great comfort-food sandwich.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010958-819x1024-square-a98337d29226a0251c9fdab4f67431e6-c5uf0sdwir3e.jpg",
+      "duration": 2,
+      "variationHeader": "Tip",
+      "variationBody": "Buy sliced pickles if available and try different types of hummus for a change.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Pickles (sliced)",
+          "type": "fresh",
+          "quantity": 120,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Fried onions (dried)",
+          "type": "taste",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Make a sandwich: hummus, sliced pickles and some fried onions on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "spicy"
+      ],
+      "id": 107,
+      "url": "https://www.forkranger.com/recipe/hummus-sambal-cucumber/?share",
+      "title": "Hummus Sambal Cucumber",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "It’s straightforward but it works: hummus as a creamy base, cucumber for crunch, and the sambal to spice up your lunch.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010053-819x1024-square-13696364548a77d9d28c084af7e4dbd8-yvu6c250wibk.jpg",
+      "duration": 2,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Cucumber",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sambal",
+          "type": "taste",
+          "quantity": 8,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Make a sandwich with hummus and sambal",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Slice cucumber and add on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 108,
+      "url": "https://www.forkranger.com/recipe/cucumber-radish/?share",
+      "title": "Cucumber Radish",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "A fresh spring sandwich where the slightly spicy radish compliments the creamy spread and cucumber.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010064-819x1024-square-c499760b7fe63774271cadb2b2f9dead-yvu6c250wibk.jpg",
+      "duration": 2,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Dairy (or plant-based) spread",
+          "type": "fresh",
+          "quantity": 160,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cucumber",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Radishes",
+          "type": "taste",
+          "quantity": 8,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Make a sandwich with dairy spread",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Slice cucumber and radishes and add on top",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 109,
+      "url": "https://www.forkranger.com/recipe/grilled-aubergine/?share",
+      "title": "Grilled Aubergine",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "When you grill aubergine it gets a hearty and fleshy texture. It’s a delicious combination with the fresh and creamy dairy spread. You can also try this with mushrooms instead of aubergine.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010059-819x1024-square-fad4794237d4994b6bd4f0d13603278b-yvu6c250wibk.jpg",
+      "duration": 5,
+      "variationHeader": "Variations",
+      "variationBody": "Replace aubergine with mushrooms!",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Dairy (or plant-based) spread",
+          "type": "fresh",
+          "quantity": 160,
+          "quantityType": "g"
+        },
+        {
+          "name": "Aubergine",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "Cut aubergine into 0,5 cm thin slices",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Grill aubergine in a panini grill or sandwich maker",
+          "detail": "",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Make sandwich with dairy spread and add grilled auberine on top",
+          "detail": "season with salt and pepper",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 110,
+      "url": "https://www.forkranger.com/recipe/carrot-cake-sandwich/?share",
+      "title": "Carrot Cake Sandwich",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "The base consists of ‘appelstroop’, a typically Dutch ingredient. It’s a highly concentrated form of apple sauce and if you can’t find it, the closest thing might be maple syrup or honey. Something unexpected and magical happens when you combine with the grated carrots and walnuts. While it contains a lot of sugar we dare say it’s still a healthier option than a Nutella sandwich.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010050-819x1024-square-562223c9e28c1263bf90005e9176bcd4-yvu6c250wibk.jpg",
+      "duration": 5,
+      "variationHeader": "Tip",
+      "variationBody": "If you want to be faster, buy grated/julienne carrots, but you might loose some of the juiciness of the freshly grated carrots.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Apple syrup",
+          "type": "taste",
+          "quantity": 16,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "Grate carrots and chop walnuts",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Make a sandwich: apple syrup, grated carrots and add chopped walnuts on top",
           "detail": "",
           "emoji": ""
         }

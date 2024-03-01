@@ -15037,6 +15037,417 @@
       ]
     },
     {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/zelfgemaakte-hummus/?share",
+      "id": 111,
+      "title": "Zelfgemaakte Hummus",
+      "description": "Hummus uit de supermarkt bevat vaak veel olie en andere toevoegingen. Het zelf maken is niet alleen gezonder, maar ook lekkerder. Het enige nadeel is dat het minder lang houdbaar is. Vertrouw op je neus, wij hebben ontdekt dat je het maximaal 5 dagen in de koelkast kunt bewaren.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010022-819x1024-square-ca680280ee1ed76b23207bf9de07cd54-yvu6c250wibk.jpg",
+      "duration": 5,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Canned chickpeas",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tahin",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Olijfolie",
+          "type": "fresh",
+          "quantity": 3,
+          "quantityType": "el"
+        },
+        {
+          "name": "Citroen",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Zeezout",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflookteen",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Water (koud)",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": "el"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "In een blender, meng tahini en citroensap",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg kikkererwten, olijfolie, knoflook, paprikapoeder, komijn, zeezout toe en meng",
+          "detail": "giet de kikkererwten af voordat je ze toevoegt en pel de knoflook",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg de helft van het water toe en meng",
+          "detail": "dit maakt het romig, proef en voeg naar smaak meer water en/of specerijen toe",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/zoete-pompoenspread/?share",
+      "id": 112,
+      "title": "Zoete Pompoenspread",
+      "description": "Denk aan een mix tussen pumpkin spice latte en worteltjestaart. De gekarameliseerde pompoen en kaneel zorgen voor een zoete smaak zonder de toevoeging van extra suiker.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010810-819x1024-square-0419230d66beea644d76eeb2b0176222-yvu6c250wibk.jpg",
+      "duration": 50,
+      "variationHeader": "Tip",
+      "variationBody": "Maak de spread als je de oven toch al gebruikt.\n\nGebruik de overgebleven pompoen voor het avondeten in bijvoorbeeld de Curry met Biet en Pompoen.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Flespompoen",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Kaneel",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Gemberpoeder",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Nootmuskaat",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Verwarm de oven voor op 190°C",
+        "Schil de pompoen en snij in 2 cm blokjes"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "Rooster de pompoen in de oven",
+          "detail": "op 190°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 45
+        },
+        {
+          "title": "Rooster ondertussen de walnoten",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In een blender, mix geroosterde pompoen, geroosterde walnoten, kaneel, gemberpoeder en nootmuskaat",
+          "detail": "tot een smeuïge spread, proef en voeg naar smaak meer specerijen toe",
+          "emoji": "",
+          "time": 2
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/bietenspread/?share",
+      "id": 113,
+      "title": "Bietenspread",
+      "description": "Het roosteren van de bieten geeft een lekkere smaak aan deze opvallende spread. Als je voorgekookte bieten gebruikt, is de oventijd veel korter, maar krijg je ook iets minder smaak.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010794-819x1024-square-4d0c7aba16cc1cfebfd260ac423f1e5c-yvu6c250wibk.jpg",
+      "duration": 50,
+      "variationHeader": "Tip",
+      "variationBody": "Maak de spread als je de oven toch al gebruikt.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 6,
+      "ingredients": [
+        {
+          "name": "Bieten (vers)",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Olijfolie",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Knoflooktenen",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Verwarm de oven voor op 190°C",
+        "Snij de bieten in partjes (je hoeft de bieten niet te schillen, was ze kort als het nodig is)"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Rooster de bieten in de oven",
+          "detail": "op 190°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 40
+        },
+        {
+          "title": "In een blender, voeg geroosterde bieten, walnoten, olijfolie, citroensap, komijn en knoflook samen en meng",
+          "detail": "tot een smeuïge spread, proef en voeg naar smaak meer specerijen toe",
+          "emoji": "",
+          "time": 2
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/gegrilde-groente-spread/?share",
+      "id": 114,
+      "title": "Gegrilde Groente Spread",
+      "description": "Een makkelijke manier om meer groenten te eten of om restjes in je lunch te verwerken. Je kunt ook een chunky versie maken door een deel van de groenten apart te leggen voordat je het mengt.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010884-819x1024-square-0be3ba3d2dfe8ac2920d7c42ecff36c8-pkaesvxg0zbt.jpg",
+      "duration": 50,
+      "variationHeader": "Tip",
+      "variationBody": "Maak deze spread als je de oven sowieso aan hebt voor een ander recept. Dat bespaart je een hoop tijd!",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 12,
+      "ingredients": [
+        {
+          "name": "Aubergine",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Paprika (rood)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Wortel",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Kikkererwten uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zongedroogde tomaten",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Knoflook bol",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Verwarm de oven voor op 190°C",
+        "Snij de aubergine in 2 cm blokjes",
+        "Snij de paprika’s in stukjes",
+        "Snij de wortel in dunne schijfjes",
+        "Snijd een kleine beetje van de bovenkant van de bol knoflook, zodat de binnenkant van elk teentje zichtbaar is. Besprenkel met een kleine hoeveelheid olijfolie, breng op smaak met peper en zout en wikkel in aluminiumfolie."
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "Rooster de aubergine, paprika, wortel en ingepakte knoflookbol op een bakplaat in de oven",
+          "detail": "besprenkel met olijfolie en zout en peper naar smaak, op 190°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        },
+        {
+          "title": "Pureer de gegrilde groente tot een smeuïge spread",
+          "detail": "gebruik een keukenmachine of een staafmixer en een hoge kom",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/kerrie-bloemkool-spread/?share",
+      "id": 115,
+      "title": "Kerrie Bloemkool Spread",
+      "description": "Dit is het ultieme vegetarische alternatief voor ‘kip kerrie’ salade. Geroosterde bloemkool, ananas en mayonnaise zijn een dream team. Waar je vooral op moet letten is de bloemkoolroosjes klein genoeg snijden.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011202-819x1024-square-9442af8cb528f1a98baeb44013aaf1c8-3reg5q8xvaw9.jpg",
+      "duration": 25,
+      "variationHeader": "Tip",
+      "variationBody": "Gebruik kerriepoeder in plaats van currypoeder. Het is makkelijker te eten als spread op een broodje als je de bloemkoolroosjes of ananasstukjes klein snijdt. Als je grotere stukken laat, zal de spread meer chunky blijven.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bloemkool",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Ananas (uit blik)",
+          "type": "fresh",
+          "quantity": 230,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mayonnaise",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Currypoeder (kerrie)",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Verwarm de oven voor op 200°C",
+        "Snij de bloemkool in kleine roosjes",
+        "Snij de ananas in stukjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Verdeel bloemkoolroosjes over een bakplaat",
+          "detail": "besprenkel met olijfolie, de helft van het kerriepoeder, zout en peper",
+          "emoji": ""
+        },
+        {
+          "title": "Rooster bloemkoolroosjes",
+          "detail": "op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "In een grote kom, meng de mayonnaise met de overgebleven kerriepoeder, paprikapoeder en kurkuma",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg geroosterde bloemkool en ananas toe",
+          "detail": "meng, proef en voeg zo nodig zout en peper toe",
+          "emoji": ""
+        }
+      ]
+    },
+    {
       "filter": [],
       "id": 220,
       "url": "",

@@ -14491,7 +14491,7 @@
         },
         {
           "name": "Bouillon (vegetable)",
-          "type": "fresh",
+          "type": "taste",
           "quantity": 500,
           "quantityType": "ml"
         },
@@ -14577,6 +14577,73 @@
         },
         {
           "title": "Serve with naan bread",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "seasonalInfo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "id": 103,
+      "url": "https://www.forkranger.com/recipe/peanut-butter-love/?share",
+      "title": "Peanut Butter Love",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "Peanut butter is part of a healthy diet and there are lots of combinations you can make. An easy option is banana. Our favorite is with pomegranate seeds (or also red currants). The juicy seeds make it less dry and adding acidity is always a good idea whenever you have something fatty because it brings out more flavor (this is why lime and lemon juice can bring a dish to another level).",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011089-819x1024-square-b6556ddeb32e5eeae7fa63436705fde9-yvu6c250wibk.jpg",
+      "duration": 2,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bread slices",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Bananas",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Peanut butter",
+          "type": "taste",
+          "quantity": 160,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Make a sandwich with peanut butter",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Cut banana slices and add on top",
           "detail": "",
           "emoji": ""
         }

@@ -15058,6 +15058,427 @@
       "filter": [
         "plants"
       ],
+      "id": 111,
+      "url": "https://www.forkranger.com/recipe/homemade-hummus/?share",
+      "title": "Homemade Hummus",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "Hummus from the supermarket often contains a lot of oil and other additives. Making it yourself is not only healthier but also more delicious. The only downside is that it doesn’t last as long. Trust your nose on this, we’ve found that you can store it in the fridge for a maximum of 5 days.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010022-819x1024-square-ca680280ee1ed76b23207bf9de07cd54-yvu6c250wibk.jpg",
+      "duration": 5,
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 10,
+      "ingredients": [
+        {
+          "name": "Canned chickpeas",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tahini",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Olive oil",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Paprika powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Sea salt",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Garlic clove",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Water (cold)",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "In a blender, mix tahini and lemon juice",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add chickpeas, olive oil, garlic, paprika powder, cumin, sea salt and blend",
+          "detail": "drain chickpeas before adding and peel garlic",
+          "emoji": ""
+        },
+        {
+          "title": "Add half of the water and mix",
+          "detail": "this makes it creamy, taste and add more water and/or spices to your preference",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 112,
+      "url": "https://www.forkranger.com/recipe/sweet-squash-spread/?share",
+      "title": "Sweet Squash Spread",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "Think of a mix between pumpkin spice latte and carrot cake. The caramelized pumpkin and cinnamon create a sweet flavor without the addition of extra sugar.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010810-819x1024-square-0419230d66beea644d76eeb2b0176222-yvu6c250wibk.jpg",
+      "duration": 50,
+      "variationHeader": "Tip",
+      "variationBody": "Make the spread when you are using the oven anyway.\n\nUse the remaining butternut squash for dinner in for example the Beetroot and Pumpkin Curry.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Butternut squash",
+          "type": "fresh",
+          "quantity": 300,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 90,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cinnamon",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Ginger powder",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Nutmeg",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Preheat oven to 190°C",
+        "Peel butternut squash and cut into 2 cm blocks"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Roast butternut squash in the oven",
+          "detail": "at 190°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 45
+        },
+        {
+          "title": "In the meantime, toast the walnuts",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Blend roasted butternut squash, toasted walnuts, cinnamon, ginger powder and nutmeg",
+          "detail": "until smooth, taste and add more spices to your taste",
+          "emoji": "",
+          "time": 2
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 113,
+      "url": "https://www.forkranger.com/recipe/beetroot-spread/?share",
+      "title": "Beetroot Spread",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "Roasting the beetroot gives a nice flavor to this eye-catching spread. If you use pre-cooked beetroot the oven time is much shorter but also get a bit less taste.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010794-819x1024-square-4d0c7aba16cc1cfebfd260ac423f1e5c-yvu6c250wibk.jpg",
+      "duration": 50,
+      "variationHeader": "Tip",
+      "variationBody": "Make the spread when you are using the oven anyway.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 6,
+      "ingredients": [
+        {
+          "name": "Beetroot (fresh)",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Olive oil",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Garlic cloves",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Preheat oven to 190°C",
+        "Cut beetroot into wedges (no need to peel the beetroot, just wash them quickly if needed)"
+      ],
+      "cookTime": 45,
+      "cookSteps": [
+        {
+          "title": "Roast beetroot in the oven",
+          "detail": "at 190°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 40
+        },
+        {
+          "title": "In a blender, add roasted beetroot, walnuts, olive oil, lemon, cumin and garlic and mix",
+          "detail": "until smooth, taste and add more spices to your taste",
+          "emoji": "",
+          "time": 2
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 114,
+      "url": "https://www.forkranger.com/recipe/grilled-vegetable-spread/?share",
+      "title": "Grilled Vegetable Spread",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "An easy way to eat more vegetables or turn leftovers into your lunch spread. You could also make a chunky version by taking some of the vegetables aside before blending.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010884-819x1024-square-0be3ba3d2dfe8ac2920d7c42ecff36c8-pkaesvxg0zbt.jpg",
+      "duration": 45,
+      "variationHeader": "Tip",
+      "variationBody": "Make this spread when you're using the oven anyways for another recipe. That will save a lot of time!",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 12,
+      "ingredients": [
+        {
+          "name": "Aubergine",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Bell pepper (red)",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Carrot",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned chickpeas",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Walnuts",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sun-dried tomatoes",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Garlic head",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 10,
+      "prepSteps": [
+        "Preheat oven to 190°C",
+        "Cut aubergine into 2 cm cubes",
+        "Cut bell pepper into short strips",
+        "Cut carrot into thin slices",
+        "Slice a small amount off the top of the garlic head, so that the inside of each clove is exposed. Drizzle with a small amount of olive oil, season with salt and pepper and wrap in aluminium foil."
+      ],
+      "cookTime": 35,
+      "cookSteps": [
+        {
+          "title": "Bake aubergine, bell pepper, carrot and packaged garlic head on a tray in the oven",
+          "detail": "sprinkle with olive oil and season with salt and pepper, roast at 190°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 30
+        },
+        {
+          "title": "Blend the grilled vegetables until smooth",
+          "detail": "use a bowl and hand blender or a food processor",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "id": 115,
+      "url": "https://www.forkranger.com/recipe/curry-cauliflower-spread/?share",
+      "title": "Curry Cauliflower Spread",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "This is the ultimate vegetarian alternative to the popular Dutch ‘chicken curry’ salad. Roasted cauliflower, pineapple and mayonnaise are a dream team. The thing to pay attention to is cutting the cauliflower very small.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011202-819x1024-square-9442af8cb528f1a98baeb44013aaf1c8-3reg5q8xvaw9.jpg",
+      "duration": 25,
+      "variationHeader": "Tip",
+      "variationBody": "As it's a sandwich spread, it's easier to eat the smaller you cut the cauliflower and pineapple. If you prefer larger parts the spread will remain more chunky.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Cauliflower",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Pineapple (canned)",
+          "type": "fresh",
+          "quantity": 230,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mayonnaise",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Curry powder",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Paprika powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Preheat oven to 200°C",
+        "Cut cauliflower into small florets",
+        "Cut pineapple into small cubes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Spread cauliflower over an baking tray",
+          "detail": "sprinkle with olive oil, half of the curry powder, salt and pepper",
+          "emoji": ""
+        },
+        {
+          "title": "Roast cauliflower",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "In a large bowl, mix the mayonnaise with the remaining curry powder, paprika powder and turmeric",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add roasted cauliflower and pineapple",
+          "detail": "mix, taste and add salt and pepper if needed",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
       "id": 200,
       "url": "",
       "title": "Sunny Soup",

@@ -15448,6 +15448,616 @@
       ]
     },
     {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/kerrie-bloemkool-spread/?share",
+      "id": 116,
+      "title": "Tuinerwtenspread",
+      "description": "Dit is het ultieme vegetarische alternatief voor ‘kip kerrie’ salade. Geroosterde bloemkool, ananas en mayonnaise zijn een dream team. Waar je vooral op moet letten is de bloemkoolroosjes klein genoeg snijden.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011202-819x1024-square-9442af8cb528f1a98baeb44013aaf1c8-3reg5q8xvaw9.jpg",
+      "duration": 25,
+      "variationHeader": "Tip",
+      "variationBody": "Gebruik kerriepoeder in plaats van currypoeder. Het is makkelijker te eten als spread op een broodje als je de bloemkoolroosjes of ananasstukjes klein snijdt. Als je grotere stukken laat, zal de spread meer chunky blijven.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Bloemkool",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Ananas (uit blik)",
+          "type": "fresh",
+          "quantity": 230,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mayonnaise",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Currypoeder (kerrie)",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Kurkuma",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Verwarm de oven voor op 200°C",
+        "Snij de bloemkool in kleine roosjes",
+        "Snij de ananas in stukjes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Verdeel bloemkoolroosjes over een bakplaat",
+          "detail": "besprenkel met olijfolie, de helft van het kerriepoeder, zout en peper",
+          "emoji": ""
+        },
+        {
+          "title": "Rooster bloemkoolroosjes",
+          "detail": "op 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "In een grote kom, meng de mayonnaise met de overgebleven kerriepoeder, paprikapoeder en kurkuma",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg geroosterde bloemkool en ananas toe",
+          "detail": "meng, proef en voeg zo nodig zout en peper toe",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "spicy",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/pittige-groentes/?share",
+      "id": 117,
+      "title": "Pittige Groentes",
+      "description": "Dit is een lunchversie van een van onze nieuwe favoriete recepten: super simpel, boordevol groente, en zo lekker! Als je onzeker bent over de pittigheid, begin dan eerst met de helft van de sambal. Hoewel het echt het lekkerst is met alle sambal!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010087-819x1024-square-9eb43f69ecdb2a53a9df8c6674e9c0b4-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Tip",
+      "variationBody": "Maak het met broccoli uit de diepvries (350 g) in plaats van 1 verse, als je altijd de ingrediënten voor dit recept in huis wilt hebben.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Sperziebonen (diepvries)",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Tuinerwten uit de diepvries",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Pinda's",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Sambal oelek",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Suiker",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "el"
+        },
+        {
+          "name": "Rijstazijn (of witte wijn azijn)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 2,
+      "prepSteps": [
+        "Snij de broccoli in kleine roosjes"
+      ],
+      "cookTime": 13,
+      "cookSteps": [
+        {
+          "title": "Kook de sperziebonen",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Voeg de broccoli en tuinerwten toe",
+          "detail": "de exacte kooktijden hangen af van de hoeveelheid water en of de broccoli uit de diepvries komt of niet, dus proef regelmatig en zorg ervoor dat de broccoli een bite houdt",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "In een kom, meng sambal, suiker, komijn, pindakaas en rijstazijn",
+          "detail": "het is meer een pasta dan een saus, maar als je het later met de gekookte groente mengt zal het meer een saus vormen",
+          "emoji": ""
+        },
+        {
+          "title": "Giet de groentes af en voeg de pittige pindasaus toe",
+          "detail": "zet het vuur uit en meng",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serveer met verse koriander en pinda's",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/marokkaanse-salade-met-wortel/?share",
+      "id": 118,
+      "title": "Marokkaanse Salade met Wortel",
+      "description": "Bulgur lijkt een beetje op rijst of couscous, maar heeft een meer nootachtige smaak. Het is gemakkelijk te koken en samen met wat kruiden, wortels en linzen creëer je een makkelijke salade die je doet denken aan Marokko. Kies voor platte peterselie voor meer smaak.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010062-Edit-819x1024-square-6f38206403274afedf9f318d82b018e3-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Variaties",
+      "variationBody": "Je kunt ook amandelen of pijnboompitjes in plaats van hazelnoten gebruiken.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Bulgur",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Linzen uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hazelnoten",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Olijfolie",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Komijn",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Paprikapoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Chili(vlokken)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Verse peterselie",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Rasp wortels",
+        "Hak hazelnoten grof"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Kook de bulgur in bouillon",
+          "detail": "volgens de aanwijzingen op de verpakking",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "Meng in een kleine kom olijfolie, citroensap, komijn, paprikapoeder en chilivlokken",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "In een grote kom, meng de bulgur, linzen, wortels, peterselie en dressing",
+          "detail": "laat de linzen uitlekken voordat je ze toevoegt",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/couscous-salade-met-pesto/?share",
+      "id": 119,
+      "title": "Couscous Salade met Pesto",
+      "description": "Een lichte en smaakvolle salade die smaakt naar de zomer door de combinatie van pesto, citroensap en munt. De sappige cherrytomaatjes en komkommer zorgen ook voor een heerlijke textuur met de crunch van de hazelnoten.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011168-819x1024-square-d061b6c233dc00dc3f81f7112796e5e6-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Variaties",
+      "variationBody": "Als je extra eiwit wilt toevoegen kun je couscous door erwtencouscous vervangen.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Couscous",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cherrytomaten",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Linzen uit blik",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Komkommer",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Hazelnoten",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Groene pesto",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Citroen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse munt",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Halveer de komkommer en snij in stukjes",
+        "Halveer de cherrytomaten",
+        "Hak hazelnoten grof"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Kook de couscous in bouillon",
+          "detail": "volgens de aanwijzingen op de verpakking",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In een grote kom, meng couscous, linzen, komkommer, cherrytomaten, groene pesto, citroensap en munt",
+          "detail": "laat de linzen uitlekken voordat je ze toevoegt",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/quinoa-noten-bowl/?share",
+      "id": 120,
+      "title": "Quinoa Noten Bowl",
+      "description": "Een eenvoudige versie van een pokébowl. Je hoeft alleen de quinoa te koken en dan de andere ingrediënten met een dressing toe te voegen. Je kunt een dressing uit de winkel gebruiken (zoals Terriyaki, soja sesam of pokébowl) of je eigen dressing maken.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010073-Edit-819x1024-square-6d5c4275d0dfaf975656bcc1e5fa05e8-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Tip",
+      "variationBody": "Je kunt ook kant-en-klare dressing kopen (Terriyaki, soja-sesam of pokébowl), als je nog sneller klaar wilt zijn.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Quinoa",
+          "type": "base",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Edamame bonen uit de diepvries",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Amandelen",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (groente)",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Sojasaus",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Tahin",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Gemberpoeder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Limoen",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Suiker",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Rasp wortels",
+        "Hak de amandelen in stukjes"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Kook de quinoa in bouillon",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Voeg de edamame bonen aan de quinoa toe",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 6
+        },
+        {
+          "title": "In een kom, meng sojasaus, tahin, gemberpoeder, limoensap en suiker",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Meng quinoa, edamame bonen, wortels, amandelen en dressing",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/wrap-met-falafel/?share",
+      "id": 121,
+      "title": "Wrap met Falafel",
+      "description": "Alles wat je nodig hebt voor deze heerlijke wrap is een pan om de falafel in te bakken. Het is een heerlijke combinatie met romige hummus en wat knapperige slablaadjes en komkommer. Maar het ingrediënt dat alles samenbrengt is de Sriracha saus.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010012-819x1024-square-cd6edaff1455f7a81ca9fd8989af01fd-5e6b7a5528d2a.jpg",
+      "duration": 15,
+      "variationHeader": "Tip",
+      "variationBody": "Je kunt ook andere sla gebruiken als je nog wat over hebt.\nJe kunt ook geraspte wortel of fijn gesneden rode kool toevoegen.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Wraps (volkoren)",
+          "type": "base",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Falafel",
+          "type": "fresh",
+          "quantity": 12,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": "el"
+        },
+        {
+          "name": "Komkommer",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Slabladeren",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Sriracha (of andere hete saus)",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tl"
+        },
+        {
+          "name": "Rode ui",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Verse munt",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Snipper de ui",
+        "Halveer de komkommer en snij in stukjes",
+        "Snij de verse munt fijn"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Bak de falafels en de ui",
+          "detail": "op middelhoog vuur",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Neem een wrap en smeer er ongeveer een eetlepel hummus op in het midden",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Leg de sla, ui, komkommer, drie falafels, verse munt en srirachasaus (naar smaak) erop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
       "filter": [],
       "id": 220,
       "url": "",

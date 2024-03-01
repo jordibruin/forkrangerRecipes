@@ -14579,6 +14579,464 @@
       ]
     },
     {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/pindakaas-banaan/?share",
+      "id": 103,
+      "title": "Pindakaas Banaan",
+      "description": "Pindakaas maakt deel uit van een gezond dieet en er zijn veel combinaties die je kunt maken. Een makkelijke optie is banaan. Onze favoriet is met granaatappelpitjes (of ook rode bessen). De sappige pitjes maken het minder droog en het toevoegen van een zuurtje is altijd een goed idee als je iets vets hebt, omdat het meer smaak naar boven brengt (dit is waarom limoen- en citroensap een gerecht naar een ander niveau kunnen brengen).",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011089-819x1024-square-b6556ddeb32e5eeae7fa63436705fde9-yvu6c250wibk.jpg",
+      "duration": 2,
+      "variationHeader": "Maak er een feestje van 🎉",
+      "variationBody": "Probeer eens granaatappelpitjes in plaats van banaan! Of als je van zoet houdt, voeg een beetje extra kaneel toe.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Pindakaas",
+          "type": "fresh",
+          "quantity": 160,
+          "quantityType": "g"
+        },
+        {
+          "name": "Banaan",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Maak een broodje pindakaas",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Snij de banaan in plakjes en leg erbovenop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/hummus-courgette-zongedroogde-tomaat/?share",
+      "id": 104,
+      "title": "Hummus Courgette Zongedroogde Tomaat",
+      "description": "Deze eenvoudige combinatie is onze favoriete lunchoptie geworden! Het schaven van rauwe courgette lijkt misschien raar, maar het creëert een textuur die lijkt op een plak kaas. De hummus maakt het romig en de tapenade van zongedroogde tomaten voegt smaak toe (zonder dat is de courgette een beetje saai).",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010948-819x1024-square-77f4fbeb057d4423c43c5494569940b4-yvu6c250wibk.jpg",
+      "duration": 2,
+      "variationHeader": "Tip",
+      "variationBody": "Probeer eens een andere soort hummus, bijvoorbeeld een pittige!",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Rucola",
+          "type": "fresh",
+          "quantity": 85,
+          "quantityType": "g"
+        },
+        {
+          "name": "Tomaten",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Maak een broodje met hummus en rucola",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Snij de tomaten in plakjes en leg erbovenop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/hummus-augurk-gebakken-uitjes/?share",
+      "id": 106,
+      "title": "Hummus Augurk Gebakken Uitjes",
+      "description": "De zure en sappige augurk en de umami-smaak en knapperigheid van de gebakken uien. Kortom, dit is comfort food op een broodje.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010958-819x1024-square-a98337d29226a0251c9fdab4f67431e6-c5uf0sdwir3e.jpg",
+      "duration": 2,
+      "variationHeader": "Tip",
+      "variationBody": "Koop schijven augurk als ze beschikbaar zijn en probeer eens een andere soort hummus voor wat variatie.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Augurk (schijven)",
+          "type": "fresh",
+          "quantity": 120,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Gebakken uitjes",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Maak een broodje: hummus, augurk met wat gebakken uitjes",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/hummus-rucola-tomaat/?share",
+      "id": 105,
+      "title": "Hummus Rucola Tomaat",
+      "description": "De romige hummus en sappige tomaat zijn een geweldige combinatie. Hier maakt de kwaliteit van de tomaat echt een groot verschil. De rucola voegt een pittige crunch toe en natuurlijk veel kleur!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010041-819x1024-square-03e5b6988572241869385a4c16d267f4-yvu6c250wibk.jpg",
+      "duration": 2,
+      "variationHeader": "Tip",
+      "variationBody": "Probeer eens een andere soort hummus, bijvoorbeeld een pittige!",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Courgette",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Zongedroogde tomatentapenade",
+          "type": "taste",
+          "quantity": 100,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Met een kaasschaaf, schaaf plakjes van de courgette",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Maak een broodje: hummus, zongedroogde tomaten tapenade met de plakjes courgette bovenop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "spicy"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/hummus-sambal-komkommer/?share",
+      "id": 107,
+      "title": "Hummus Sambal Komkommer",
+      "description": "Het is eenvoudig maar het werkt: hummus als romige basis, komkommer voor de knapperigheid en de sambal om je lunch wat pit te geven.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010053-819x1024-square-13696364548a77d9d28c084af7e4dbd8-yvu6c250wibk.jpg",
+      "duration": 2,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Komkommer",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "taste",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Sambal",
+          "type": "taste",
+          "quantity": 8,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Maak een broodje met hummus en sambal",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Snij de komkommer in plakjes en leg erbovenop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/komkommer-radijs/?share",
+      "id": 108,
+      "title": "Komkommer Radijs",
+      "description": "Een frisse lentesandwich waar de licht pittige radijs de romige spread en komkommer complementeert.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010064-819x1024-square-c499760b7fe63774271cadb2b2f9dead-yvu6c250wibk.jpg",
+      "duration": 2,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Zuivel (of plantaardige) spread",
+          "type": "fresh",
+          "quantity": 160,
+          "quantityType": "g"
+        },
+        {
+          "name": "Komkommer",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Radijsjes",
+          "type": "fresh",
+          "quantity": 8,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 2,
+      "cookSteps": [
+        {
+          "title": "Maak een broodje met zuivelspread",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Snij de komkommer en radijs in plakjes en leg erbovenop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/gegrilde-aubergine/?share",
+      "id": 109,
+      "title": "Gegrilde Aubergine",
+      "description": "Wanneer je aubergine grilt, krijgt het een stevige en vlezige textuur. Het is een heerlijke combinatie met de frisse en romige zuivelspread. Je kunt dit ook proberen met champignons in plaats van aubergine.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010059-819x1024-square-fad4794237d4994b6bd4f0d13603278b-yvu6c250wibk.jpg",
+      "duration": 5,
+      "variationHeader": "Variaties",
+      "variationBody": "Probeer eens champignons in plaats van aubergine!",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Zuivel (of plantaardige) spread",
+          "type": "fresh",
+          "quantity": 160,
+          "quantityType": "g"
+        },
+        {
+          "name": "Aubergine",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "Snij aubergine in 0,5 cm dunne plakken",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Grill aubergine in een panini-grill of tosti-ijzer",
+          "detail": "",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Maak een broodje met zuivelspread en leg de gegrilde aubergine erbovenop",
+          "detail": "breng op smaak met zout en peper",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/appelstroop-met-wortel-en-walnoten/?share",
+      "id": 110,
+      "title": "Appelstroop met Wortel en Walnoten",
+      "description": "De basis voor dit heerlijke broodje is het oerhollandse ingredient appelstroop. Als je er geraspte wortel en walnoten op doet gebeurt er iets onverwachts magisch. Natuurlijk zit hier heel wat suiker in maar we durven te wedden dat het gezonder is dan een broodje Nutella.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010050-819x1024-square-562223c9e28c1263bf90005e9176bcd4-yvu6c250wibk.jpg",
+      "duration": 5,
+      "variationHeader": "Tip",
+      "variationBody": "Als je sneller wilt zijn, koop dan geraspte/julienne wortel, maar je verliest wellicht het sappige van de vers geraspte wortel.",
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Sneetjes brood",
+          "type": "base",
+          "quantity": 8,
+          "quantityType": ""
+        },
+        {
+          "name": "Wortels",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Walnoten",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Appelstroop",
+          "type": "fresh",
+          "quantity": 16,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "Rasp wortel en hak walnoten",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Maak een broodje: appelstroop, geraspte wortel en gehakte walnoten erbovenop",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
       "filter": [],
       "id": 220,
       "url": "",

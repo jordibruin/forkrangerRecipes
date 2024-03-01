@@ -15479,6 +15479,634 @@
       "filter": [
         "plants"
       ],
+      "id": 116,
+      "url": "https://www.forkranger.com/recipe/curry-cauliflower-spread/?share",
+      "title": "Green Pea Spread",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "This is the ultimate vegetarian alternative to the popular Dutch ‘chicken curry’ salad. Roasted cauliflower, pineapple and mayonnaise are a dream team. The thing to pay attention to is cutting the cauliflower very small.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011202-819x1024-square-9442af8cb528f1a98baeb44013aaf1c8-3reg5q8xvaw9.jpg",
+      "duration": 25,
+      "variationHeader": "Tip",
+      "variationBody": "As it's a sandwich spread, it's easier to eat the smaller you cut the cauliflower and pineapple. If you prefer larger parts the spread will remain more chunky.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "Cauliflower",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Pineapple (canned)",
+          "type": "fresh",
+          "quantity": 230,
+          "quantityType": "g"
+        },
+        {
+          "name": "Mayonnaise",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Curry powder",
+          "type": "taste",
+          "quantity": 3,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Paprika powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Turmeric",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Preheat oven to 200°C",
+        "Cut cauliflower into small florets",
+        "Cut pineapple into small cubes"
+      ],
+      "cookTime": 20,
+      "cookSteps": [
+        {
+          "title": "Spread cauliflower over an baking tray",
+          "detail": "sprinkle with olive oil, half of the curry powder, salt and pepper",
+          "emoji": ""
+        },
+        {
+          "title": "Roast cauliflower",
+          "detail": "at 200°C",
+          "panType": "oven",
+          "emoji": "",
+          "time": 20
+        },
+        {
+          "title": "In a large bowl, mix the mayonnaise with the remaining curry powder, paprika powder and turmeric",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add roasted cauliflower and pineapple",
+          "detail": "mix, taste and add salt and pepper if needed",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "spicy",
+        "quick"
+      ],
+      "id": 117,
+      "url": "https://www.forkranger.com/recipe/spicy-greens/?share",
+      "title": "Spicy Greens",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "This is a lunch version of one of our new favorite recipes: super simple, full of veggies, and so delicious. If you are not sure about the spiciness, just start with half of the sambal first. Although it really tastes best with all of it!",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010087-819x1024-square-9eb43f69ecdb2a53a9df8c6674e9c0b4-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Tip",
+      "variationBody": "To always have the ingredients for this recipe at your home, use frozen broccoli (350 g) instead of 1 fresh broccoli.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Broccoli",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Green beans (frozen)",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Peas (frozen)",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Peanuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Sambal oelek",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Sugar",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Peanut butter",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Rice vinegar (or white whine vinegar)",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Fresh coriander",
+          "type": "taste",
+          "quantity": 10,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 2,
+      "prepSteps": [
+        "Cut broccoli into small florets"
+      ],
+      "cookTime": 13,
+      "cookSteps": [
+        {
+          "title": "Cook green beans",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 4
+        },
+        {
+          "title": "Add broccoli and peas",
+          "detail": "the exact cooking time will depend on the amount of water and whether you use frozen broccoli, so taste regularly to make sure the broccoli keeps its bite",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "In a bowl, mix sambal oelek, sugar, cumin, peanut butter and rice vinegar",
+          "detail": "it will be more a paste than a sauce, but when later mixed with the cooked vegetables it will become more liquid",
+          "emoji": ""
+        },
+        {
+          "title": "Drain vegetables and add spicy peanut sauce",
+          "detail": "turn off heat and mix",
+          "panType": "cookingPan1",
+          "emoji": ""
+        },
+        {
+          "title": "Serve with peanuts and fresh coriander",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "id": 118,
+      "url": "https://www.forkranger.com/recipe/morrocan-carrot-salad/?share",
+      "title": "Morrocan Carrot Salad",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "Bulgur is a bit like rice or couscous, but has a more nutty flavor. It’s easy to cook and together with some spices, carrots and lentils creates an easy salad with hints of Morocco. Make sure to get the flat-leaf parsley to get more flavor.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010062-Edit-819x1024-square-6f38206403274afedf9f318d82b018e3-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Variations",
+      "variationBody": "You can also use almonds or pine nuts instead of hazelnuts.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Bulgur",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Canned lentils",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Hazelnuts",
+          "type": "fresh",
+          "quantity": 80,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Olive oil",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Cumin",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Paprika powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Chilli flakes",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Fresh parsley",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Grate carrots",
+        "Chop hazelnuts coarsely"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Cook bulgur in bouillon",
+          "detail": "according to instructions on the package",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 7
+        },
+        {
+          "title": "In a small bowl, mix olive oil, lemon juice, cumin, paprika powder, and chilli flakes",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "In a large bowl, mix bulgur, lentils, carrots, parsley and dressing",
+          "detail": "drain lentils before adding",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "id": 119,
+      "url": "https://www.forkranger.com/recipe/couscous-salad-with-pesto/?share",
+      "title": "Couscous Salad with Pesto",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "A light and flavorful salad that tastes like summer with the combination of pesto, lemon juice, and mint. The juicy cherry tomatoes and cucumber also provide a delicious texture with the crunch of the hazelnuts.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011168-819x1024-square-d061b6c233dc00dc3f81f7112796e5e6-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Variations",
+      "variationBody": "If you want to add extra protein, swap couscous for couscous made from peas (erwtencouscous).",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "Couscous",
+          "type": "base",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "g"
+        },
+        {
+          "name": "Canned lentils",
+          "type": "fresh",
+          "quantity": 400,
+          "quantityType": "g"
+        },
+        {
+          "name": "Cucumber",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Hazelnuts",
+          "type": "fresh",
+          "quantity": 100,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Green pesto",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Lemon",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh mint",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Cut cucumber into quartered slices",
+        "Halve cherry tomatoes",
+        "Chop hazelnuts coarsely"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Cook couscous in bouillon",
+          "detail": "according to instructions on the package",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "In a large bowl, mix couscous, lentils, cucumber, cherry tomatoes, green pesto, lemon juice and mint",
+          "detail": "drain lentils before adding",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "id": 120,
+      "url": "https://www.forkranger.com/recipe/quinoa-nut-bowl/?share",
+      "title": "Quinoa Nut Bowl",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "A simple version of a pokébowl. You only need to cook the quinoa and then add the other ingredients with a dressing. You can use a store-bought dressing (something like Terriyaki, soy sesame or pokébowl) or create your own dressing.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010073-Edit-819x1024-square-6d5c4275d0dfaf975656bcc1e5fa05e8-5ocrx10tkbsy.jpg",
+      "duration": 15,
+      "variationHeader": "Tip",
+      "variationBody": "You can also buy ready-made dressing (Terriyaki, soy sesame or pokébowl), if you want to make it even faster.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Quinoa",
+          "type": "base",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Edamame beans (frozen)",
+          "type": "fresh",
+          "quantity": 150,
+          "quantityType": "g"
+        },
+        {
+          "name": "Carrots",
+          "type": "fresh",
+          "quantity": 2,
+          "quantityType": ""
+        },
+        {
+          "name": "Almonds",
+          "type": "fresh",
+          "quantity": 50,
+          "quantityType": "g"
+        },
+        {
+          "name": "Bouillon (vegetable)",
+          "type": "taste",
+          "quantity": 300,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Soy sauce",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Tahini",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Ginger powder",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Lime",
+          "type": "taste",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Sugar",
+          "type": "taste",
+          "quantity": 2,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Grate carrots",
+        "Chop almonds"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Cook quinoa in bouillon",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Add the edamame beans to the quinoa",
+          "detail": "",
+          "panType": "cookingPan1",
+          "emoji": "",
+          "time": 6
+        },
+        {
+          "title": "In a bowl, mix soy sauce, tahini, ginger powder, lime juice and sugar",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Mix quinoa, edamame beans, carrots, almonds and dressing",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "id": 121,
+      "url": "https://www.forkranger.com/recipe/easy-falafel-wrap/?share",
+      "title": "Easy Falafel Wrap",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "All you need for this delicious wrap is a pan to fry the falafel. It’s a delicious combination with creamy hummus and some crunchy salad leaves and cucumber. But the ingredient that brings it all together is the Sriracha sauce.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010012-819x1024-square-cd6edaff1455f7a81ca9fd8989af01fd-5e6b7a5528d2a.jpg",
+      "duration": 15,
+      "variationHeader": "Tip",
+      "variationBody": "You can use other lettuce types if you have leftovers.\nYou can also add grated carrot or sliced red cabbage.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Wraps (whole wheat)",
+          "type": "base",
+          "quantity": 4,
+          "quantityType": "g"
+        },
+        {
+          "name": "Falafel",
+          "type": "fresh",
+          "quantity": 12,
+          "quantityType": ""
+        },
+        {
+          "name": "Hummus",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Cucumber",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Lettuce leaves",
+          "type": "fresh",
+          "quantity": 4,
+          "quantityType": ""
+        },
+        {
+          "name": "Sriracha sauce (or other hot sauce)",
+          "type": "taste",
+          "quantity": 4,
+          "quantityType": "tea sp"
+        },
+        {
+          "name": "Red onion",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Fresh mint",
+          "type": "taste",
+          "quantity": 15,
+          "quantityType": "g"
+        }
+      ],
+      "prepTime": 5,
+      "prepSteps": [
+        "Dice onion",
+        "Cut cucumber into quartered slices",
+        "Cut fresh mint finely"
+      ],
+      "cookTime": 10,
+      "cookSteps": [
+        {
+          "title": "Sauté falafels and onion",
+          "detail": "medium heat",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 5
+        },
+        {
+          "title": "Take a wrap and spread about a tablespoon of hummus in the middle of it",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Layer the lettuce, onions, cucumber, three falafels, fresh mint and sriracha sauce (to taste)",
+          "detail": "",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
+        "plants"
+      ],
       "id": 200,
       "url": "",
       "title": "Sunny Soup",

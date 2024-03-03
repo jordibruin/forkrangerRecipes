@@ -16105,6 +16105,90 @@
     },
     {
       "filter": [
+        "plants",
+        "quick"
+      ],
+      "id": 122,
+      "url": "https://www.forkranger.com/recipe/banana-oatmeal/?share",
+      "title": "Banana Oatmeal",
+      "isPartOfText": "Lunch Box Collection 🥪",
+      "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
+      "description": "The mashed banana makes it creamy so you don’t need any milk to create oatmeal. It’s an easy, cheap and delicious breakfast. The peanut butter is not necessary but gives more flavor, healthy fats, and protein. I usually mix plain oats with a fruit muesli so there are plenty of raisins, some nuts, and other dried fruits.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010012-819x1024-square-cd6edaff1455f7a81ca9fd8989af01fd-5e6b7a5528d2a.jpg",
+      "duration": 5,
+      "variationHeader": "Tip",
+      "variationBody": "You can use other lettuce types if you have leftovers.\nYou can also add grated carrot or sliced red cabbage.",
+      "rewardTitle": "Great job!",
+      "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
+      "servings": 1,
+      "ingredients": [
+        {
+          "name": "Muesli/oats",
+          "type": "base",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Banana",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Apple",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Peanut butter",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "TBL sp"
+        },
+        {
+          "name": "Water",
+          "type": "fresh",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Cinnamon",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tea sp"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "No prep"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "In a bowl, mash the banana with a fork",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add muesli and sliced apple",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Add peanut butter and cinnamon",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Pour boiling water over the peanut butter",
+          "detail": "until all the muesli is covered with water, mix well",
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "filter": [
         "plants"
       ],
       "id": 200,

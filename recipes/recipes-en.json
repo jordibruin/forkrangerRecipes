@@ -15480,84 +15480,74 @@
         "plants"
       ],
       "id": 116,
-      "url": "https://www.forkranger.com/recipe/curry-cauliflower-spread/?share",
+      "url": "https://www.forkranger.com/recipe/green-pea-spread/?share",
       "title": "Green Pea Spread",
       "isPartOfText": "Lunch Box Collection 🥪",
       "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
-      "description": "This is the ultimate vegetarian alternative to the popular Dutch ‘chicken curry’ salad. Roasted cauliflower, pineapple and mayonnaise are a dream team. The thing to pay attention to is cutting the cauliflower very small.",
-      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1011202-819x1024-square-9442af8cb528f1a98baeb44013aaf1c8-3reg5q8xvaw9.jpg",
-      "duration": 25,
-      "variationHeader": "Tip",
-      "variationBody": "As it's a sandwich spread, it's easier to eat the smaller you cut the cauliflower and pineapple. If you prefer larger parts the spread will remain more chunky.",
+      "description": "A more sustainable version to guacamole. Extra green and also extra protein! Add some chilli flakes for extra color and spice.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010795-819x1024-square-6d26240b05ccfd6722fef6541f4e92c0-yvu6c250wibk.jpg",
+      "duration": 10,
       "rewardTitle": "Great job!",
       "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
-      "servings": 8,
+      "servings": 10,
       "ingredients": [
         {
-          "name": "Cauliflower",
+          "name": "Peas (frozen)",
           "type": "fresh",
-          "quantity": 0.5,
-          "quantityType": ""
-        },
-        {
-          "name": "Pineapple (canned)",
-          "type": "fresh",
-          "quantity": 230,
+          "quantity": 250,
           "quantityType": "g"
         },
         {
-          "name": "Mayonnaise",
+          "name": "Canned lima beans",
+          "type": "fresh",
+          "quantity": 200,
+          "quantityType": "g"
+        },
+        {
+          "name": "Olive oil",
           "type": "taste",
           "quantity": 4,
           "quantityType": "TBL sp"
         },
         {
-          "name": "Curry powder",
-          "type": "taste",
-          "quantity": 3,
-          "quantityType": "tea sp"
-        },
-        {
-          "name": "Paprika powder",
+          "name": "Lime",
           "type": "taste",
           "quantity": 1,
-          "quantityType": "tea sp"
+          "quantityType": ""
         },
         {
-          "name": "Turmeric",
+          "name": "Fresh coriander",
           "type": "taste",
-          "quantity": 1,
-          "quantityType": "tea sp"
+          "quantity": 40,
+          "quantityType": "g"
         }
       ],
-      "prepTime": 5,
+      "prepTime": 0,
       "prepSteps": [
-        "Preheat oven to 200°C",
-        "Cut cauliflower into small florets",
-        "Cut pineapple into small cubes"
+        "No prep"
       ],
-      "cookTime": 20,
+      "cookTime": 10,
       "cookSteps": [
         {
-          "title": "Spread cauliflower over an baking tray",
-          "detail": "sprinkle with olive oil, half of the curry powder, salt and pepper",
-          "emoji": ""
-        },
-        {
-          "title": "Roast cauliflower",
-          "detail": "at 200°C",
-          "panType": "oven",
+          "title": "Cook peas",
+          "detail": "",
+          "panType": "cookingPan1",
           "emoji": "",
-          "time": 20
+          "time": 3
         },
         {
-          "title": "In a large bowl, mix the mayonnaise with the remaining curry powder, paprika powder and turmeric",
+          "title": "Cut coriander",
           "detail": "",
           "emoji": ""
         },
         {
-          "title": "Add roasted cauliflower and pineapple",
-          "detail": "mix, taste and add salt and pepper if needed",
+          "title": "In a blender, add peas, beans, olive oil and coriander and mix",
+          "detail": "drain beans before adding",
+          "emoji": ""
+        },
+        {
+          "title": "Add lime juice, season with salt and pepper",
+          "detail": "don't blend too long if you'd like to keep some texture\n\nadd some chili(flakes) to taste",
           "emoji": ""
         }
       ]
@@ -15577,7 +15567,7 @@
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010087-819x1024-square-9eb43f69ecdb2a53a9df8c6674e9c0b4-5ocrx10tkbsy.jpg",
       "duration": 15,
       "variationHeader": "Tip",
-      "variationBody": "To always have the ingredients for this recipe at your home, use frozen broccoli (350 g) instead of 1 fresh broccoli.",
+      "variationBody": "To always have the ingredients for this recipe at your home, use frozen broccoli (350 g) instead of 1 fresh broccoli.\n\nAdding bulgur creates a delicious combination if you want to add grains.",
       "rewardTitle": "Great job!",
       "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",
       "servings": 2,
@@ -16114,7 +16104,7 @@
       "isPartOfText": "Lunch Box Collection 🥪",
       "isPartOfUrl": "https://www.forkranger.com/product/lunch-box-collection/",
       "description": "The mashed banana makes it creamy so you don’t need any milk to create oatmeal. It’s an easy, cheap and delicious breakfast. The peanut butter is not necessary but gives more flavor, healthy fats, and protein. I usually mix plain oats with a fruit muesli so there are plenty of raisins, some nuts, and other dried fruits.",
-      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010012-819x1024-square-cd6edaff1455f7a81ca9fd8989af01fd-5e6b7a5528d2a.jpg",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/banana-oatmeal-819x1024-square-9bd997478ee31ab63977199167b0d995-yvu6c250wibk.jpg",
       "duration": 5,
       "rewardTitle": "Great job!",
       "rewardText": "Wow look at you, you've enjoyed an amazing combination of veggies.",

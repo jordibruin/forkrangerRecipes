@@ -16058,6 +16058,86 @@
       ]
     },
     {
+      "filter": [
+        "plants",
+        "quick"
+      ],
+      "url": "https://www.forkranger.com/nl/recipe/havermout-banaan/?share",
+      "id": 122,
+      "title": "Havermout Banaan",
+      "description": "De geprakte banaan maakt het romig, zodat je geen melk nodig hebt om havermout te maken. Het is een makkelijk, goedkoop en heerlijk ontbijt. De pindakaas is niet nodig, maar het geeft meer smaak, gezonde vetten en eiwitten. Normaalgesproken meng ik gewone havervlokken met een fruit muesli zodat het ook een paar rozijnen, noten en ander gedroogd fruit bevat.",
+      "imageUrl": "https://www.forkranger.com/wp-content/uploads/bb-plugin/cache/P1010012-819x1024-square-cd6edaff1455f7a81ca9fd8989af01fd-5e6b7a5528d2a.jpg",
+      "duration": 5,
+      "rewardTitle": "You're a chef!",
+      "rewardText": "Well done!",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "Muesli/havervlokken",
+          "type": "base",
+          "quantity": 70,
+          "quantityType": "g"
+        },
+        {
+          "name": "Banaan",
+          "type": "fresh",
+          "quantity": 0.5,
+          "quantityType": ""
+        },
+        {
+          "name": "Appel",
+          "type": "fresh",
+          "quantity": 1,
+          "quantityType": ""
+        },
+        {
+          "name": "Pindakaas",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "el"
+        },
+        {
+          "name": "Water",
+          "type": "taste",
+          "quantity": 250,
+          "quantityType": "ml"
+        },
+        {
+          "name": "Kaneel",
+          "type": "taste",
+          "quantity": 1,
+          "quantityType": "tl"
+        }
+      ],
+      "prepTime": 0,
+      "prepSteps": [
+        "Geen voorbereiding"
+      ],
+      "cookTime": 5,
+      "cookSteps": [
+        {
+          "title": "Prak de banaan met een vork in een kommetje",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg muesli en appelschijfjes toe",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Voeg pindakaas en kaneel toe",
+          "detail": "",
+          "emoji": ""
+        },
+        {
+          "title": "Giet kokend water over de pindakaas",
+          "detail": "totdat alle muesli ‘onder water’ staat, meng goed",
+          "emoji": ""
+        }
+      ]
+    },
+    {
       "filter": [],
       "id": 220,
       "url": "",

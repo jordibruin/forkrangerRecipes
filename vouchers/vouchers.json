@@ -878,6 +878,16 @@
     ]
   },
   {
+    "code": "greendish",
+    "expiresAfter": "30-04-2024",
+    "recipeIDs": [
+      77,
+      3,
+      18,
+      4
+    ]
+  },
+  {
     "code": "verlopencode",
     "recipeIDs": [
       9

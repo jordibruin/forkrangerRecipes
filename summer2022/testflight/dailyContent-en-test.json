@@ -2090,21 +2090,16 @@
             {
               "id": 0,
               "title": "Lower climate impact",
-              "correct": false
+              "correct": true
             },
             {
               "id": 1,
               "title": "Requires less land ",
-              "correct": false
+              "correct": true
             },
             {
               "id": 2,
               "title": "Requires less water",
-              "correct": false
-            },
-            {
-              "id": 3,
-              "title": "All of the above",
               "correct": true
             }
           ],

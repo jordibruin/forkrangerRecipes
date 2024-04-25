@@ -1,5 +1,4 @@
-{
-  "videos": [
+[
     {
       "title":"All cows are heavier than all humans",
       "url": "https://www.forkranger.com/infographic-video/all-cows-are-heavier-than-all-humans/",
@@ -8,5 +7,4 @@
       "linkedin": "",
       "tiktok": "",
     }
-  ]
-}
+]

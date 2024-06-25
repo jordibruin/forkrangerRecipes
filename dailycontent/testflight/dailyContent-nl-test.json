@@ -49,7 +49,36 @@
         {
           "id": 4,
           "type": "text",
-          "title": "Kom morgen terug om te ontdekken wat de impact van noten is! 🥜"
+          "title": "Het vervangen van rundvlees door ander vlees verkleint je footprint met 21%"
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "title": "(extra text om te checken of dit werkt)"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel meer zou het verminderen als we ook zuivel weglaten?",
+          "subtitle": "vermindering in CO2 in het gemiddelde Europese of Noord-Amerikaanse voedingspatroon",
+          "answerOptions": [
+            {
+              "id": 1,
+              "title": "-4%",
+              "correct": false
+            },
+            {
+              "id": 0,
+              "title": "-12%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Omdat melk ook van koeien komt, heeft het een relatief hoge klimaatimpact. Rundvlees vervangen door ander vlees en zuivel vermijden (-33%) maakt ongeveer hetzelfde verschil als volledig vegetarisch eten (-31%).",
+            "title": "🐄",
+            "imageURL": ""
+          }
         }
       ]
     },

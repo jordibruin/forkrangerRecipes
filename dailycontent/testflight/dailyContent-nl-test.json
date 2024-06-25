@@ -105,29 +105,34 @@
           "id": 4,
           "supporterOnly": true,
           "type": "text",
-          "title": "introtext bonusvraag"
+          "title": "Noten hebben niet alleen een lage klimaatimpact, maar ze kunnen zelfs CO2 opslaan waardoor ze carbon negative zijn"
         },
         {
           "id": 5,
           "supporterOnly": true,
           "type": "question",
-          "title": "Test bonusvraag title",
-          "subtitle": "subtitle...",
+          "title": "Hoe kunnen noten carbon negative zijn?",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Answer 1",
-              "correct": false
+              "title": "Ze vervangen grasland door bomen 🌳",
+              "correct": true
             },
             {
               "id": 1,
-              "title": "Answer 2",
-              "correct": true
+              "title": "Ze verbeteren the bodem 🪱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Ze voorkomen ontbossing 🪓",
+              "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Answertext blablabla...",
-            "title": "EMOJI",
+            "text": "De meeste noten groeien aan bomen, en net als alle bomen, betekent het dat ze CO2 opslaan. En veel meer noten plantages zijn aangeplant op grasland. Deze verandering van het landschap slaat meer CO2 op dan er vrijkomt wanneer de noten worden geteeld.\n\nPinda's groeien trouwens niet aan bomen, maar ze zijn de enige noten emoji (en hebben trouwens ook een lage klimaatimpact).",
+            "title": "🌳",
             "imageURL": "",
             "blogURL": ""
           }
@@ -180,6 +185,36 @@
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "Dit recept heeft heel wat minder land nodig dan een wrap met gehakt."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Van al het land dat we gebruiken voor voedsel, hoeveel daarvan wordt gebruikt voor vlees & zuivel? 🐄",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "33%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "55%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "77%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vlees- en zuivelproductie neemt 77% van het land gebruikt voor voedselproductie (inclusief graslanden) in, maar levert slechts 18% van alle calorieën wereldwijd. In latere stories ontdekken we waarom graslanden ook meetellen in het totale land gebruikt voor voedselproductie.\n\nIn andere woorden: als we minder vlees en zuivel consumeren, kunnen we een groot deel van het land teruggeven aan de natuur.",
+            "title": "🐄",
+            "imageURL": "",
+            "blogURL": "https://ourworldindata.org/land-use\n"
+          }
         }
       ]
     },
@@ -235,6 +270,42 @@
           "type": "recipe",
           "recipeID": 2,
           "subtitle": "Een groene maaltijd om de groene bossen van de wereld te redden."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "De meeste ontbossing vindt plaats in tropische landen. "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoe is de situatie in de gematigde bossen in het noorden?",
+          "subtitle": "als je kijkt naar welk gebied ze beslaan sinds 1990",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Is toegenomen ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Is hetzelfde gebleven",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Is afgenomen ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het goede nieuws is dat de gematigde bossen zijn toegenomen! Maar het is niet genoeg om de ontbossing in tropische regio's te balanceren. In het laatste tien jaar (2010-2020) hebben we 10x zoveel tropische regenwoud verloren als er gematigd bos is bijgekomen.",
+            "title": "🌲",
+            "imageURL": "",
+            "blogURL": "https://ourworldindata.org/deforestation"
+          }
         }
       ]
     },

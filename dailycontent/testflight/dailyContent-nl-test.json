@@ -49,11 +49,13 @@
         {
           "id": 4,
           "type": "text",
+          "supporterOnly": true,
           "title": "Het vervangen van rundvlees door ander vlees verkleint je footprint met 21%"
         },
         {
           "id": 5,
           "type": "text",
+          "supporterOnly": true,
           "title": "(extra text om te checken of dit werkt)"
         },
         {
@@ -61,6 +63,7 @@
           "supporterOnly": true,
           "type": "question",
           "title": "Hoeveel meer zou het verminderen als we ook zuivel weglaten?",
+          "hometitle": "Hoeveel daalt je CO2 impact als je rundvlees + zuivel vervangt?",
           "subtitle": "vermindering in CO2 in het gemiddelde Europese of Noord-Amerikaanse voedingspatroon",
           "answerOptions": [
             {

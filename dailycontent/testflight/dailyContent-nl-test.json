@@ -5303,6 +5303,44 @@
           "type": "recipe",
           "recipeID": 42,
           "subtitle": "Een heerlijke curry met linzen om de bodem te verbeteren!"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Hoe kunnen we het potentieel van peulvruchten nog verder vergroten? ",
+          "type": "text",
+          "title": "Als een boer bonen in het veld gebruikt, heeft hij minder kunstmest nodig om tarwe te verbouwen 🫘"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Er bestaat een bijzondere methode die de bijzondere kracht van peulvruchten nog meer vergroot 🧑🏼‍🌾"
+        },
+        {
+          "id": 5,
+          "type": "question",
+          "title": "Hoe kunnen we het potentieel van peulvruchten vergroten? 🫘",
+          "subtitle": "om stikstof in de bodem vast te leggen",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Bonen verbouwen vóórdat tarwe gezaaid wordt",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Bonen en tarwe samen verbouwen op één veld",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Deze methode om tegelijkertijd verschillende planten op één veld te laten groeien, wordt intercropping genoemd. Het vergroot de kracht van peulvruchten, bespaart land en ziet er bovendien mooier uit dan een monocultuur.\n\nHet gebruik van intercropping voor alle peulvruchten zou de behoefte aan kunstmest met 26% kunnen verminderen. Dat scheelt behoorlijk want (zoals je een paar stories terug hebt ontdekt) kunstmest heeft een grote impact op het klimaat!",
+            "imageURL": "",
+            "title": "🫘",
+            "sourceURL": "https://link.springer.com/article/10.1007/s13593-020-0607-x",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -5357,6 +5395,38 @@
           "type": "recipe",
           "recipeID": 45,
           "subtitle": "Gerookt paprikapoeder is een uitstekende manier om de smaak van spek van ander vlees te vervangen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel van de Nederlandse kippen zien daglicht? ",
+          "type": "question",
+          "title": "Hoeveel vleeskuikens voor de Nederlandse supermarkten zien daglicht? 🐓",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "100%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Sinds 2023 heeft al het kippenvlees in Nederlandse supermarkten minimaal 1 ster. Kippen met 1-ster kunnen naar buiten (in tegenstelling tot 1-stervarkens). Ze zijn ook een ras dat langzamer groeit en zo ligt er dus geen plofkip meer in de winkels.\n\nEr moet nog veel gebeuren, zo bestaat er in Nederland nog steeds plofkip voor de export. Maar dit succes laat zien dat campagnes voor dierenwelzijn werken!\n\nAlle eer gaat naar Wakker Dier, dat in 2013 (!) campagne begon te voeren. Lees hun verhaal in de link.",
+            "imageURL": "",
+            "title": "🌟",
+            "blogURL": "https://www.wakkerdier.nl/persberichten/wereldwijde-primeur-alle-supermarktkip-krijgt-beter-leven/",
+            "urlButtonText": "Leestip 🤓"
+          }
         }
       ]
     },
@@ -5411,6 +5481,49 @@
           "type": "recipe",
           "recipeID": 86,
           "subtitle": "Een recept met appels, één van de producten die je gemakkelijk biologisch kunt kopen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoe groot is biologische landbouw in de EU?",
+          "type": "text",
+          "title": "10% van de landbouwgrond in de EU is biologisch 👨🏻‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is het EU-doel voor 2030? 🇪🇺",
+          "subtitle": "voor het aandeel biologische landbouw",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "25%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "There is no goal",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het goede nieuws is dat de biologische landbouw in de EU en de VS in opkomst is.\n\nHet slechte nieuws: met de huidige groei zal de EU haar doel niet bereiken. Oostenrijk is momenteel het enige land dat dit al heeft bereikt. In de VS maakt biologische landbouw minder dan 1% van alle landbouwgrond uit.\n\nVaker biologisch kopen helpt de transitie te versnellen. Begin met één of twee producten die je altijd biologisch koopt. Lees meer over onze aanpak in onze blog.",
+            "imageURL": "",
+            "title": "🇪🇺",
+            "sourceURL": "https://www.eea.europa.eu/en/analysis/indicators/agricultural-area-used-for-organic",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -5470,6 +5583,49 @@
           "type": "recipe",
           "recipeID": 58,
           "subtitle": "Dit recept bevat walnoten. En aangezien die van bomen komen, kunnen ze ook afkomstig zijn van agroforestry-systemen."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Het koffievoorbeeld staat bekend als ‘multistrata agroforestry’ 🌳 Het is een belangrijke klimaatoplossing in Project Drawdown"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Er zijn ook andere vormen van agroforestry die veel CO2 kunnen besparen ⬇️"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welk type agroforestry komt het meest voor in Europa?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Bomen combineerd met grazende dieren 🐄",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Fruitbomen gecombineerd met groenten 🥦",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Voedselproductie gecombineerd met hout 🪵",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "‘Silvopasture’ is een eeuwenoude landbouwmethode waarbij dieren tussen de bomen grazen. De meest voorkomende vorm is de Spaanse dehesa, waar dieren tussen eikenbomen leven. Het is ook mogelijk om de productie van dieren of zelfs groenten te combineren met noten-, fruit- of olijfbomen.\n\nAls bosland de intensieve graslanden vervangt, is het een andere belangrijke klimaatoplossing met veel voordelen: gezondere bodems, schaduw voor de dieren en mooiere landschappen!",
+            "imageURL": "",
+            "title": "🐄",
+            "sourceURL": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/651982/EPRS_BRI(2020)651982_EN.pdf",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -5524,6 +5680,48 @@
           "type": "recipe",
           "recipeID": 88,
           "subtitle": "De pompoenpitten in dit recept zorgen voor wat extra eiwit en crunch."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Noten bevatten veel vetten. Hoe gezond is dat?",
+          "type": "text",
+          "title": "Noten bevatten misschien veel eiwitten, maar ze bevatten ook veel vet 🥜"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Vetten zijn er in twee vormen: verzadigd (slecht) en onverzadigd (goed) 🤓"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat bevat de minste hoeveelheid verzadigd (slecht) vet?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 hamburger (100g) 🥩",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 plakje kaas (30g) 🧀",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Drie lepels pindakaas (50g) 🥜",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een typische portie noten bevat minder verzadigd vet dan een typische portie vlees of zuivel.\n\nNoten bevatten veel vet, maar deze zijn grotendeels onverzadigd. Dit betekent dat noten veel gezondheidsvoordelen hebben. Ze verlagen het cholesterolgehalte en het risico op diabetes type 2 en hartziekten. Studies hebben ook geen verband gevonden met gewichtstoename. En natuurlijk zijn ze heerlijk 🤤\n\nHet EAT Lancet-rapport beveelt 50 g per dag aan!",
+            "imageURL": "",
+            "title": "🥜"
+          }
         }
       ]
     },
@@ -5578,6 +5776,33 @@
           "type": "recipe",
           "recipeID": 64,
           "subtitle": "Gekweekte vis wordt gevoerd met soja. Het is beter om het zelf te eten zoals in dit recept, waar we tofu gebruiken."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is de meeste vis gekweekt of wild gevangen?",
+          "type": "question",
+          "title": "Wat levert meer vis op? 🍣",
+          "subtitle": "voor menselijke consumptie",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Wild gevangen vis",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Gekweekte vis",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "53% van de vis die we eten is gekweekt. In 1960 was dat maar 6%. Hierdoor wordt nu meer soja gebruikt om vissen te voeden dan om tofu te maken!\n\nHet vangen van vissen in het wild en kweekvis veroorzaken verschillende issues. Voor allebei geldt dat we moeten overstappen op producten met een lagere impact: kleine vissen uit het wild en mosselen en zeewier van 'boerderijen'.",
+            "imageURL": "",
+            "title": "🐟",
+            "sourceURL": "https://ourworldindata.org/fish-and-overfishing#global-fish-production",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -5627,6 +5852,38 @@
           "type": "recipe",
           "recipeID": 36,
           "subtitle": "Voor tarweproducten wordt meestal veel kunstmest gebruikt, dus het kopen van biologische pasta is een goede keuze."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is biologisch vlees beter voor het klimaat?",
+          "type": "question",
+          "title": "De CO2-impact van biologisch vlees is… 🥩",
+          "subtitle": "gemiddeld vergeleken met gangbaar vlees",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Veel hoger ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Ongeveer hetzelfde 🟰",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Iets lager ↘️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vlees van biologische boerderijen kan voordelen hebben; het is bijvoorbeeld meestal veel beter voor de dieren. Maar één ding is duidelijk uit onderzoeken: het heeft niet per se een lagere CO2-impact.\n\nOpnieuw kunnen we concluderen dat WAT je eet veel belangrijker is dan HOE het geproduceerd wordt.",
+            "imageURL": "",
+            "title": "🥩",
+            "sourceURL": "https://ourworldindata.org/is-organic-agriculture-better-for-the-environment",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -5681,6 +5938,37 @@
           "type": "recipe",
           "recipeID": 40,
           "subtitle": "Je kunt ook andere plantaardige kookroom gebruiken, maar wij vinden sojaroom het lekkerst."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Hoe gezond is sojaroom?",
+          "type": "text",
+          "title": "We kwamen er onlangs achter dat sojaroom gemaakt wordt met zonnebloemolie… 🌻 Maakt dat het dan meteen ongezond?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welk type room bevat minder verzadigd vet?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Zuivel 🐄",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Soja 🌻",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Room gebruik je om vet, smaak en romigheid toe te voegen. Het is meestal niet het gezondste product.\n\nMaar sojaroom, ook al is het gemaakt met zonnebloemolie, is een gezondere optie dan de meeste zuivelroom. Het bevat een VEEL lagere hoeveelheid verzadigd vet (2 gram vergeleken met 12-19 gram). En het bevat ook minder calorieën.",
+            "imageURL": "",
+            "title": "🥛"
+          }
         }
       ]
     },
@@ -5735,6 +6023,48 @@
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "Een eerbetoon aan Indonesië, waar de meeste palmolie vandaan komt."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Bestaat er een duurzame versie van biobrandstof?",
+          "type": "text",
+          "title": "Het kappen van regenwoud om palmolie te verbouwen als brandstof voor auto’s of vliegtuigen is echt een slecht idee 🪓"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Maar er bestaat ook een duurzame vorm van biobrandstof: gebruikte frituurolie 🍟"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is het grootste probleem met gebruikte frituurolie als brandstof? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het creëert minder CO2 maar meer luchtvervuiling",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Het maakt de motor minder efficiënt",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Er is niet genoeg van",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vliegen van Londen naar New York kost ongeveer 1 badkuip brandstof per passagier! Als je een heel jaar lang alle olie van elke McDonald’s in Londen zou gebruiken, dekt dat nog niet eens 0,1% van de jaarlijkse vluchten van Londen naar New York.\n\nEr is dus lang niet genoeg gebruikte frituurolie. Helaas is duurzaam vliegen gewoon niet mogelijk. Misschien kunnen we in de toekomst elektrische vliegtuigen hebben, maar dat is nog heel erg ver weg…",
+            "imageURL": "",
+            "title": "🛁"
+          }
         }
       ]
     },
@@ -5794,6 +6124,44 @@
           "type": "recipe",
           "recipeID": 41,
           "subtitle": "De beste manier om deze watervervuiling te verminderen is plantaardiger eten. Daarvoor zijn curries altijd handig!\n"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Wat is er gebeurd met grootste dead zone in de wereld?",
+          "type": "text",
+          "title": "Een van de grootste dead zones ter wereld ontstond in de jaren negentig in de Zwarte Zee ☠️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": "",
+          "type": "question",
+          "title": "Wat is er sindsdien gebeurd?",
+          "subtitle": "Het is...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "...nog erger geworden",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "...hetzelfde gebleven",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "..hersteld",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Eén rapport ïdentificeerde 415 gebieden met eutrofiëringsproblemen (en veel regio’s beschikken niet eens over voldoende gegevens). Van al deze gebieden zijn er slechts 13 in herstel. Tegenwoordig bevindt de grootste dead zone zich in de EU: de Baltische Zee.\n\nMaar het is hoopvol dat het herstel van een dead zone binnen 15 tot 20 jaar mogelijk is als we de juiste acties ondernemen.",
+            "imageURL": "",
+            "title": "💧",
+            "sourceURL": "https://www.wri.org/research/eutrophication-and-hypoxia-coastal-areas",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },

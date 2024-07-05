@@ -422,7 +422,8 @@
           "answerExplanation": {
             "text": "Peulvruchten worden geoogst nadat ze door de zon gedroogd zijn. Ze worden daarna verder verwerkt in producten zoals bonen uit blik. Het extra koken en de verpakking zorgt voor een iets hogere klimaatimpact van de bonen uit blik, ook al is dit minimaal vergeleken met de impact van vlees en zuivel.\n\nWij kiezen vaak voor blik omdat je er makkelijker mee kan koken. En dat is ook belangrijk, want als het te moeilijk is, laten we ze toch snel staan. Dat zou helemaal zonde zijn, want tot slot zijn peulvruchten één van de belangrijkste ingrediënten in een duurzaam voedingspatroon.",
             "title": "🫘",
-            "imageURL": ""
+            "imageURL": "",
+            "blogURL": "https://www.theguardian.com/environment/2008/mar/23/food.ethicalliving"
           }
         }
       ]
@@ -585,13 +586,13 @@
             },
             {
               "id": 2,
-              "title": "Op de boerderij en tijdens opslag 👨🏾‍🌾",
+              "title": "Op de boerderij en tijdens opslag 🌾",
               "correct": true
             }
           ],
           "answerExplanation": {
             "text": "In ontwikkelingslanden vindt de meeste voedselverspilling plaats op de boerderij en tijdens opslag (33%). Maar heel weinig wordt verspild bij consumptie (16% vergeleken met 58% in ontwikkelde landen). Interessant feitje: in steden is het bijna altijd meer, ongeacht welk werelddeel.",
-            "title": "👨🏾‍🌾",
+            "title": "🌾",
             "imageURL": "",
             "sourceURL": "https://www.wri.org/research/reducing-food-loss-and-waste",
             "urlButtonText": "Bekijk de bron"

@@ -50,20 +50,14 @@
           "id": 4,
           "type": "text",
           "supporterOnly": true,
+          "hometitle": "Wat is de impact als je niet alleen rundvlees vervangt maar ook zuivel?",
           "title": "Het vervangen van rundvlees door ander vlees verkleint je footprint met 21%"
-        },
-        {
-          "id": 5,
-          "type": "text",
-          "supporterOnly": true,
-          "title": "(extra text om te checken of dit werkt)"
         },
         {
           "id": 6,
           "supporterOnly": true,
           "type": "question",
           "title": "Hoeveel meer zou het verminderen als we ook zuivel weglaten?",
-          "hometitle": "Hoeveel daalt je CO2 impact als je rundvlees + zuivel vervangt?",
           "subtitle": "vermindering in CO2 in het gemiddelde Europese of Noord-Amerikaanse voedingspatroon",
           "answerOptions": [
             {
@@ -80,7 +74,9 @@
           "answerExplanation": {
             "text": "Omdat melk ook van koeien komt, heeft het een relatief hoge klimaatimpact. Rundvlees vervangen door ander vlees en zuivel vermijden (-33%) maakt ongeveer hetzelfde verschil als volledig vegetarisch eten (-31%).",
             "title": "🐄",
-            "imageURL": ""
+            "imageURL": "",
+            "sourceURL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797",
+            "urlButtonText": "Bekijk de bron"
           }
         }
       ]
@@ -91,7 +87,6 @@
       "notificationText": "Wat is de klimaatimpact van noten? 🥜 - Recept van de dag: Tagliatelle met Witte Wijn",
       "home": {
         "title": "Wat is de klimaatimpact van noten?",
-        "homeTitle": "Hier staat specifieke bonusvraag test",
         "category": 2
       },
       "pages": [
@@ -137,8 +132,9 @@
         {
           "id": 4,
           "supporterOnly": true,
+          "hometitle": "Noten kunnen zelfs 'carbon negative' zijn. Waarom?",
           "type": "text",
-          "title": "Noten hebben niet alleen een lage klimaatimpact, maar ze kunnen zelfs CO2 opslaan waardoor ze carbon negative zijn"
+          "title": "Noten hebben niet alleen een lage klimaatimpact, maar ze kunnen zelfs CO2 opslaan waardoor ze 'carbon negative' zijn"
         },
         {
           "id": 5,
@@ -167,7 +163,9 @@
             "text": "De meeste noten groeien aan bomen, en net als alle bomen, betekent het dat ze CO2 opslaan. En veel meer noten plantages zijn aangeplant op grasland. Deze verandering van het landschap slaat meer CO2 op dan er vrijkomt wanneer de noten worden geteeld.\n\nPinda's groeien trouwens niet aan bomen, maar ze zijn de enige noten emoji (en hebben trouwens ook een lage klimaatimpact).",
             "title": "🌳",
             "imageURL": "",
-            "blogURL": ""
+            "blogURL": "",
+            "sourceURL": "https://ourworldindata.org/faqs-environmental-impacts-food",
+            "urlButtonText": "Bekijk de bron"
           }
         }
       ]
@@ -246,7 +244,8 @@
             "text": "Vlees- en zuivelproductie neemt 77% van het land gebruikt voor voedselproductie (inclusief graslanden) in, maar levert slechts 18% van alle calorieën wereldwijd. In latere stories ontdekken we waarom graslanden ook meetellen in het totale land gebruikt voor voedselproductie.\n\nIn andere woorden: als we minder vlees en zuivel consumeren, kunnen we een groot deel van het land teruggeven aan de natuur.",
             "title": "🐄",
             "imageURL": "",
-            "blogURL": "https://ourworldindata.org/land-use\n"
+            "sourceURL": "https://ourworldindata.org/land-use\n",
+            "urlButtonText": "Bekijk de bron"
           }
         }
       ]
@@ -307,6 +306,7 @@
         {
           "id": 4,
           "supporterOnly": true,
+          "hometitle": "De meeste ontbossing vindt plaats in tropische landen, hoe zit het met gemaatigd bos?",
           "type": "text",
           "title": "De meeste ontbossing vindt plaats in tropische landen. "
         },
@@ -337,7 +337,8 @@
             "text": "Het goede nieuws is dat de gematigde bossen zijn toegenomen! Maar het is niet genoeg om de ontbossing in tropische regio's te balanceren. In het laatste tien jaar (2010-2020) hebben we 10x zoveel tropische regenwoud verloren als er gematigd bos is bijgekomen.",
             "title": "🌲",
             "imageURL": "",
-            "blogURL": "https://ourworldindata.org/deforestation"
+            "sourceURL": "https://ourworldindata.org/deforestation",
+            "urlButtonText": "Bekijk de bron"
           }
         }
       ]
@@ -398,6 +399,31 @@
           "type": "recipe",
           "recipeID": 55,
           "subtitle": "De basis van dit gerecht zijn rode linzen, een van de makkelijkste en lekkerste manieren om met peulvruchten te koken."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hebben bonen uit blik een lagere impact dan gedroogde bonen?",
+          "type": "question",
+          "title": "Welk type peulvruchten hebben een lagere klimaatimpact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Uit blik 🥫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Gedroogd 🫘",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Peulvruchten worden geoogst nadat ze door de zon gedroogd zijn. Ze worden daarna verder verwerkt in producten zoals bonen uit blik. Het extra koken en de verpakking zorgt voor een iets hogere klimaatimpact van de bonen uit blik, ook al is dit minimaal vergeleken met de impact van vlees en zuivel.\n\nWij kiezen vaak voor blik omdat je er makkelijker mee kan koken. En dat is ook belangrijk, want als het te moeilijk is, laten we ze toch snel staan. Dat zou helemaal zonde zijn, want tot slot zijn peulvruchten één van de belangrijkste ingrediënten in een duurzaam voedingspatroon.",
+            "title": "🫘",
+            "imageURL": ""
+          }
         }
       ]
     },
@@ -453,6 +479,42 @@
           "type": "recipe",
           "recipeID": 30,
           "subtitle": "Dit recept is een groente feestje!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat vermindert de kans om een 'overtuigde vleeseter' te zijn het meeste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Een HBO/WO-opleiding gedaan hebben",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Een vegetarische huisgenoot hebben",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Een lage leeftijd hebben",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Een vrouw zijn",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een vegetarische huisgenoot hebben vermindert de kans dat je een 'overtuigde vleeseter' bent met 89%. En terwijl je niet iemand's leeftijd, gender, of opleiding kan aanpassen, kan je wel een veranderende factor zijn in hun omgeving. In andere woorden: je voedselkeuzes hebben meer impact dan je denkt!\n\nHet effect is wat kleiner maar nog steeds aanwezig als je een vegetarische vriend(in) (-43%) of familielid (-55%) hebt die niet bij je inwoont.",
+            "title": "🏠",
+            "imageURL": "",
+            "sourceURL": "https://www.mdpi.com/2071-1050/11/14/3936",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -503,6 +565,37 @@
           "type": "recipe",
           "recipeID": 3,
           "subtitle": "Soep is een handige maaltijd om van je oud brood af te komen, je kunt het brood erin dippen."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Waar wordt het meeste voedsel verspild in ontwikkelingslanden?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Tijdens consumptie 🍽",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Bij het verwerken en distribueren 🚚",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Op de boerderij en tijdens opslag 👨🏾‍🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In ontwikkelingslanden vindt de meeste voedselverspilling plaats op de boerderij en tijdens opslag (33%). Maar heel weinig wordt verspild bij consumptie (16% vergeleken met 58% in ontwikkelde landen). Interessant feitje: in steden is het bijna altijd meer, ongeacht welk werelddeel.",
+            "title": "👨🏾‍🌾",
+            "imageURL": "",
+            "sourceURL": "https://www.wri.org/research/reducing-food-loss-and-waste",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -562,6 +655,43 @@
           "type": "recipe",
           "recipeID": 8,
           "subtitle": "Nog een recept waar groenten de hoofdrol pakken (ook al horen champignons officieel tot het rijk van de schimmels)."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "We houden veel dieren voor hun vlees. Maar we hebben ook veel huisdieren die vlees eten 🐶"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welk percentage van katten- en hondenvoer is vlees?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "20 tot 30%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "40 tot 50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "80 tot 90%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Katten- en hondenvooer is 40-50% vlees en dat telt behoorlijk op. In de VS is bijvoorbeeld 25-30% van de totale impact van de veeteelt toe te schrijven aan voer voor huisdieren.\n\nHoewel katten en honden beide gezond kunnen leven op plantaardige voeding, is het een stuk gemakkelijker voor honden omdat zij dezelfde soort maag hebben als wij (ze zijn ook omnivoren). Voor katten moet je beter opletten dat ze alle voedingsstoffen binnenkrijgen.",
+            "title": "🐶",
+            "imageURL": "",
+            "sourceURL": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0181301&type=printable",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -616,6 +746,42 @@
           "type": "recipe",
           "recipeID": 5,
           "subtitle": "Met dit recept heb je al de helft van de aanbevolen hoeveelheid peulvruchten en noten binnen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat maakt pinda’s anders vergeleken met andere noten?",
+          "type": "text",
+          "title": "Pinda's zijn de meest gegeten noot in de wereld."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat maakt ze anders vergeleken met andere noten? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het is officieel een peulvrucht",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Ze bevatten meer eiwit",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Ze bevatten meer vet",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Pinda's zijn eigenlijk niet eens noten, maar peulvruchten (net als linzen) met een vergelijkbare hoeveelheid eiwit en gezonde vetten als noten. Hoewel ze niet 'carbon negative' kunnen zijn zoals noten die aan bomen groeien, zijn ze goed voor de bodem en hebben ze een veel lagere waterconsumptie. ",
+            "title": "🥜",
+            "imageURL": ""
+          }
         }
       ]
     },
@@ -671,6 +837,37 @@
           "type": "recipe",
           "recipeID": 65,
           "subtitle": "Een maaltijd met vier bronnen aan eiwit: pasta, bonen, erwten en hazelnoten."
+        },
+        {
+          "id": 2,
+          "supporterOnly": true,
+          "hometitle": "Wat bevat meer eiwitten, rijst of pasta?",
+          "type": "question",
+          "title": "Welke van deze granen bevat het meeste eiwit? 🌾",
+          "subtitle": "per 100 g",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Havervlokken",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rijst",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Brood & pasta (tarwe)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zowel havervlokken (14g) als tarwe (12g) bevatten veel eiwit en dat betekent dat brood meer eiwit bevat dan bonen (8g per 100g). Rijst heeft ongeveer dezelfde hoeveelheid als bonen.\n\nDus hoewel bonen een goede bron van eiwitten (en vezels) zijn, geven granen ons vaak het meeste eiwit van een maaltijd!",
+            "imageURL": "",
+            "title": "🌾",
+            "blogURL": ""
+          }
         }
       ]
     },

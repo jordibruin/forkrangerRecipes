@@ -3536,6 +3536,31 @@
           "type": "recipe",
           "recipeID": 22,
           "subtitle": "Een deel van de rokerige smaak van de deze heerlijke chili komt door een kopje koffie toe te voegen!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is de meest effectieve manier om de klimaatimpact van een cappuccino te verminderen?",
+          "type": "question",
+          "title": "Wat helpt meer om de klimaatimpact van een cappuccino te verminderen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 espresso in plaats van 2 ☕️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "melk vervangen door havermelk 🥛",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De klimaatimpact van koemelk is ongeveer drie keer hoger dan van havermelk. En omdat melk de meeste emissies van een cappuccino veroorzaakt, is het overstappen naar havermelk (of een andere plantaardige melk) de beste optie.",
+            "imageURL": "",
+            "title": "🥛"
+          }
         }
       ]
     },
@@ -3590,6 +3615,56 @@
           "type": "recipe",
           "recipeID": 34,
           "subtitle": "Peulvruchten zoals kikkererwten helpen ook met stikstofproblemen: hun wortels voeden de bodem met stikstof zodat boeren minder kunstmest nodig hebben."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Als mosselen het water schoonmaken, is het dan wel veilig om ze te eten?",
+          "type": "text",
+          "title": "Als mosselen het water filteren en het water plastic bevat… zouden mosselen dan niet extra veel microplastics bevatten? 🤔"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Eerst het trieste deel 😩 Microplastics zijn bijna overal gevonden, zelfs in zout of honing (het is nog steeds niet duidelijk of dit gevolgen voor de gezondheid heeft)."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Het ‘goede nieuws’ is dat mosselen geen hogere concentraties microplastics bevatten 😅 Dus hoe gaan ze om met vervuiling?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat doen mosselen met vervuilende deeltjes?",
+          "subtitle": "Ze...",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "...eten en poepen ze uit 💩",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "...eten en gebruiken het om hun schelpen te bouwen 🦪",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "...scheiden voedsel en vervuiling voordat ze eten 🔀",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De mosselen pompen water door hun kieuwen (ja, die hebben ze echt!), die lijken op kleine visnetten. Ze zijn bedekt met plakkerig slijm om alle deeltjes in het water op te vangen. Vervolgens gaat het allemaal via een 'transportband' naar de mond van de mossel. Hier wordt het gesorteerd: klein plankton gaat de mond in, andere deeltjes worden eruit gegooid, gewikkeld in plakkerig slijm.\n\nDe mosselen eten dus het plankton en verpakken de overige vervuilende deeltjes in kleine balletjes die op de zeebodem achterblijven. Zo maken ze het water schoon, maar zijn ze toch gezond om te eten.",
+            "imageURL": "",
+            "blogURL": "https://www.youtube.com/watch?v=DxEpyjWDB6I",
+            "urlButtonText": "Kijktip 🎬",
+            "title": "🔀"
+          }
         }
       ]
     },
@@ -3644,6 +3719,49 @@
           "type": "recipe",
           "recipeID": 33,
           "subtitle": "Een zomerrecept om van te genieten als rucola, sperziebonen, en paprika’s in het seizoen zijn."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Welk percentage dragen groenten en fruit bij aan de klimaatimpact van duurzaam eten?",
+          "type": "text",
+          "title": "Het advies voor een duurzaam en gezond voedingspatroon is om minder vlees en zuivel te eten. En veel meer groenten 🥕"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Dus als fruit en groenten nu 4% van de CO2-impact uitmaken... hoeveel zou dat dan zijn in een duurzaam voedingspatroon? 🥗"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welk percentage dragen groenten en fruit bij aan de klimaatimpact van het EAT Lancet-voedingspatroon? 🥦",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "12%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "48%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De klimaatimpact van het aandeel groenten en fruit wordt 3 keer groter dan nu. Maar het is nog steeds maar een klein deel van het totaal, omdat ze een heel lage impact hebben. De totale voetafdruk van het gemiddelde Europese voedingspatroon zou met ruim 50% afnemen als je overstapt op meer groenten en minder vlees.\n\nSeizoensgebonden eten wordt dus iets belangrijker als je minder vlees en zuivel en meer groenten eet. Maar wij denken dat het belangrijkste voordeel van seizoensgroente eten niet de klimaatimpact is. Lees meer in onze blog.",
+            "imageURL": "",
+            "title": "🥦\n",
+            "blogURL": "https://www.forkranger.com/nl/blog/waarom-je-de-voordelen-van-seizoensgroente-niet-in-co2-kan-meten/"
+          }
         }
       ]
     },
@@ -3698,6 +3816,36 @@
           "type": "recipe",
           "recipeID": 27,
           "subtitle": "Zalm heeft een unieke smaak die moeilijk te imiteren is. We hebben geen recepten met vis, maar hiermee maak je kennis met saffraan, en dat heeft een misschien nog wel uniekere smaak."
+        },
+        {
+          "id": 4,
+          "type": "question",
+          "title": "Sinds 1990 is de totale hoeveelheid van in het wild gevangen vis…🎣",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Toegenomen",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Hetzelfde gebleven",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Afgenomen",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Sinds 1990 vangen we ongeveer dezelfde hoeveelheid vis elk jaar. De totale visconsumptie is wel toegenomen, maar de extra groei kwam door gekweekte vis. Gekweekte vis heeft andere problemen waar we later naar kijken. Maar het goede nieuws is dat de claim die je nogal eens hoort dat de oceanen leeg zullen zijn in 2048 is complete onzin.",
+            "imageURL": "",
+            "title": "🎣",
+            "blogURL": "https://ourworldindata.org/fish-and-overfishing#will-the-oceans-be-empty-by-2048",
+            "urlButtonText": "Leestip 🤓"
+          }
         }
       ]
     },
@@ -3752,6 +3900,37 @@
           "type": "recipe",
           "recipeID": 50,
           "subtitle": "Hier is jouw kans om iets met gefermenteerde witte kool te maken, ook wel bekend als zuurkool."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wanneer zijn groenten het goedkoopste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Zomer ☀️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Herfst 🍁",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Winter ❄️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We maakten wat berekeningen voor Nederland. Groenten zijn gemiddeld 13,1% goedkoper aan het einde van de zomer - als de meeste groenten geoogst worden - vergeleken met de prijzen aan het einde van de eropvolgende winter. ",
+            "imageURL": "",
+            "title": "☀️",
+            "sourceURL": "https://agrimatie.nl/ThemaResultaat.aspx?subpubID=2232&themaID=3596&indicatorID=2414&sectorID=2539",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -3801,6 +3980,38 @@
           "type": "recipe",
           "recipeID": 32,
           "subtitle": "Nasi Goreng is heerlijk als je het serveert met een gebakken ei."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is een duurzame hoeveelheid eieren per week?",
+          "type": "question",
+          "title": "Wat is een duurzame hoeveelheid eieren per week? 🥚",
+          "subtitle": "per persoon, gebaseerd op het EAT-Lancet voedingspatroon",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1-2",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "\"4\"",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "\"8\"",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Van de meest voorkomende dierlijke producten, hebben eieren de laagste klimaatimpact. De aanbeveling is om er 1-2 per week te eten. Maar we zagen al dat ze een veel lagere klimaatimpact dan kaas hebben. Dus als meer dan 1-2 eieren eten je helpt om minder kaas te eten, is dat alsnog een winst voor het klimaat.",
+            "imageURL": "",
+            "title": "🍳",
+            "sourceURL": "https://eatforum.org/learn-and-discover/can-healthy-food-save-the-planet-animation/",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -3855,6 +4066,38 @@
           "type": "recipe",
           "recipeID": 44,
           "subtitle": "Wat voor melk geldt, geldt ook voor room. Omdat sojaroom het meest verkrijgbaar is en een neutrale smaak heeft suggereren we die in onze recepten, maar voel je vrij om het voor haverroom te vervangen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel mensen gebruiken plantaardige zuivelproducten?",
+          "type": "question",
+          "title": "Welk percentage van de mensen gebruikt wekelijks plantaardige zuivelproducten? 🥛",
+          "subtitle": "in Europa",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "4%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "34%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het goede nieuws is dat niet alleen veganisten plantaardige zuivel kopen. De groep mensen die wekelijks plantaardige zuivelalternatieven gebruikt is groter (34%) dan de groep die deze nooit gebruikt (28%).\n\nOndanks dat sommige mensen erg kritisch zijn over plantaardige zuivel, staan de meeste mensen ervoor open! Nogmaals, meer mensen spannen zich in dan je misschien zou denken.",
+            "imageURL": "",
+            "title": "🥛",
+            "sourceURL": "https://www.euromonitor.com/article/eating-plant-based-alternatives-limiters-vs-vegans",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -3904,6 +4147,55 @@
           "type": "recipe",
           "recipeID": 5,
           "subtitle": "Het schillen van groente of fruit is vaak niet nodig en levert afval op. Dit hoeft dus ook niet voor de wortelen en appels die je nodig hebt voor dit recept."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Er zijn veel manieren om een ‘circle of life’ te creëren ♻️ En sommige zijn efficiënter dan andere."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Bijvoorbeeld: soms passeert brood de houdbaarheidsdatum voordat het verkocht is 📆"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Het eerste doel zou het verminderen van deze verspilling moeten zijn. 🗑 Maar als dit niet mogelijk is, wat is dan de beste optie?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is - na het voorkomen - de meest efficiënte manier om voedselverspilling aan te pakken?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Composteren 🌱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Aan dieren voeren 🐷",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Verbranden voor energie ⚡️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Overgebleven brood had energie, land en water nodig. Het is dus efficiënter om de calorieën in dat brood te gebruiken voor het voeren van dieren (die vervolgens voedsel worden) dan het composteren of recyclen van de voedingsstoffen in de bodem.\n\nMaar het is altijd veel beter om het brood zelf te eten. Al het andere is een grote verspilling.",
+            "imageURL": "",
+            "title": "🐷",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -3953,6 +4245,35 @@
           "type": "recipe",
           "recipeID": 1,
           "subtitle": "De impact van rijst is misschien hoger dan die van pasta, maar hij is nog steeds relatief laag. Dus zet rijst alsjeblieft niet op het lijstje van dingen je niet meer mag eten en geniet van deze curry 😉"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat gebeurt er als we de uitstoot van methaangas stoppen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Niet veel 🤷",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Het blijft 1000 jaar in de atmosfeer ☁️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Vertraagt de opwarming van de aarde onmiddellijk ❄️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Methaan heeft een korte levensduur van slechts 12 jaar, terwijl CO2 300 tot 1000 jaar in de atmosfeer blijft. Maar in die korte tijd verwarmt methaan de planeet veel meer dan CO2.\n\nDus zelfs als we methaan verminderen, moeten we ons nog steeds zorgen maken over CO2. Maar het goede nieuws is dat het een onmiddellijk effect zou hebben en de stijging van de mondiale temperatuur zou vertragen.",
+            "imageURL": "",
+            "title": "❄️"
+          }
         }
       ]
     },
@@ -4007,6 +4328,42 @@
           "type": "recipe",
           "recipeID": 7,
           "subtitle": "Mosterd is een goede bodembedekker: boeren kunnen het gebruiken om de bodem te beschermen en te verbeteren."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel koolstof slaat de oceaan op?",
+          "type": "text",
+          "title": "Veel koolstof wordt opgeslagen in de bodem, maar het grootste deel van de aarde is water! 💦 Kan water ook koolstof opslaan?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat slaat de meeste koolstof op?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "De bodem en bossen 🌳",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "De oceaan 🌊",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "De gletsjers ❄️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De oceaan is verreweg de grootste opslag van koolstof, zelfs tien keer meer dan wat er in de bodem en alle planten aanwezig is.\n\nDe oceaan is ook de reden waarom we niet nu al in een hels klimaat leven: het heeft 90% van de opwarming van de aarde (veroorzaakt door onze uitstoot van broeikasgassen) geabsorbeerd.",
+            "imageURL": "",
+            "title": "🌊"
+          }
         }
       ]
     },

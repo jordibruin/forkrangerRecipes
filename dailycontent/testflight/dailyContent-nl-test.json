@@ -6221,6 +6221,47 @@
           "type": "recipe",
           "recipeID": 13,
           "subtitle": "Arborio rijst voor risotto komt trouwens niet uit Thailand, maar uit Italië."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Wat precies is het doel van ‘Fairtrade’?",
+          "type": "text",
+          "title": "Het doel van het Fairtrade-label is het aanpakken van oneerlijke prijsverschillen 💰 Hoe werkt het?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Fairtrade bepaalt...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Wat boeren betaald krijgen 👩‍🌾",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Wat supermarkten aan boeren betalen 🏪",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Wat consumenten betalen aan supermarkten 👨‍💼",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Alle bovenstaande",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Fairtrade zorgt er alleen voor dat boeren een eerlijke prijs krijgen. Het is aan retailers om de prijs te bepalen die consumenten voor een product betalen. Fairtrade is dus niet automatisch een goede deal voor consumenten, maar wel een betere deal voor boeren. Hoe Fairtrade precies werkt voor boeren, zullen we in een latere story onderzoeken.\n\nEn hoe verdient de Fairtrade-organisatie geld? Producten die het Fairtrade-logo hebben, betalen licentiekosten. Voor rijst in Nederland is dit 0,09€ per kg.",
+            "imageURL": "",
+            "title": "💸"
+          }
         }
       ]
     },
@@ -6275,6 +6316,50 @@
           "type": "recipe",
           "recipeID": 57,
           "subtitle": "Pompoen is een ander product dat niet zou bestaan zonder bestuivers."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is de meest effectieve manier om bestuivers in je tuin te helpen?",
+          "type": "text",
+          "title": "Wat kun je zelf doen om het aantal bestuivers in je eigen achtertuin te vergroten? 🦋"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "De resultaten van veel onderzoeken zijn gemengd 🧐 Maar er zijn een paar dingen die altijd helpen."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat helpt bestuivers het meest? 🌼\n",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het vermijden van chemicaliën",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Focus op inheemse planten",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Het vergroten van de diversiteit aan planten",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een grotere diversiteit aan plantensoorten zorgde altijd voor meer bestuivers. De resultaten waren niet zo duidelijk voor inheemse versus exotische planten.\n\nEr waren nog drie andere dingen die consequent positieve effecten vertoonden: het vergroten van de tuin, het plaatsen van meer struiken en bomen, en meer ruimte voor zonlicht.",
+            "imageURL": "",
+            "title": "🦋",
+            "sourceURL": "https://par.nsf.gov/servlets/purl/10098150",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -6329,6 +6414,50 @@
           "type": "recipe",
           "recipeID": 39,
           "subtitle": "Pinda's hebben de laagste watervoetafdruk van noten. Ze werken meestal goed in rijstrecepten, maar hier passen ze uitstekend bij deze pasta."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is de meest duurzame noot als we naar alle aspecten kijken?",
+          "type": "text",
+          "title": "Een onderzoek wilde uitzoeken: hoe kunnen we dan verantwoord noten kopen? 🥜"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Ze scoorden noten en zaden op duurzaamheid, maar ook op voedingswaarde en sociale aspecten zoals arbeidsveiligheid 👷🏽"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke factor is het meest belangrijk voor de duurzaamheid van noten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "De soort noot 🥜",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Het land van herkomst 📍",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "De hoeveelheid eiwit in de noot 💪",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De grootste invloed op alle factoren was het soort noot. Ze verdeelden de noten in 3 categorieën. Walnoten en zonnebloempitten scoorden op alle onderdelen het beste. Nadat we dit hadden vernomen, hebben we snel onze eigen recepten geanalyseerd en goed nieuws: we gebruiken het vaakst walnoten!\n\nPinda's en hazelnoten horen bij de tweede categorie. Cashewnoten, amandelen en kastanjes hebben de meeste problemen. We hebben nogal wat recepten met cashewnoten, dus we zullen hier bij het maken van nieuwe recepten op letten.\n\nHet vervangen van vlees door noten is een belangrijk onderdeel van een duurzaam voedingspatroon en wij vinden dat je je niet schuldig hoeft te voelen over het eten van cashewnoten of amandelen. Maar laten we vooral proberen om meer walnoten te eten.",
+            "imageURL": "",
+            "title": "🥜",
+            "sourceURL": "https://link.springer.com/article/10.1007/s11625-022-01146-7",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -6378,6 +6507,44 @@
           "type": "recipe",
           "recipeID": 47,
           "subtitle": "Hoewel voedselkilometers geen bruikbare maatstaf zijn, is het kopen van lokaal voedsel om andere redenen nog steeds belangrijk. In dit recept zijn veel ingrediënten uit Nederland gebruikt."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Lokaal eten: wat is het grootste voordeel voor boeren?",
+          "type": "text",
+          "title": "We hebben een onderzoek gevonden dat veel onderzoek naar lokale voedselsystemen samenvat, zoals boerenmarkten 👩🏽‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is de belangrijkste reden voor boeren om deel te nemen aan lokale voedselinitiatieven?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer geld verdienen 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Duurzamer telen 🌱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Meer erkenning krijgen 😌",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vaak waren de sociale erkenning en het contact met de consument de belangrijkste reden voor boeren om betrokken te raken bij lokale voedselinitiatieven.\n\nEen andere interessante bevinding was dat consumenten gezonder zijn als ze voedsel lokaal kopen. Niet omdat lokaal eten gezonder is, maar waarschijnlijk omdat ze bewuster zijn van wat ze eten.\n\nOver het algemeen zou je kunnen zeggen dat het belangrijkste voordeel van lokaal voedsel is dat we bewuster omgaan met ons eten, dat we ons verbonden voelen met waar het vandaan komt en dat we waarderen wie het verbouwd heeft.",
+            "imageURL": "",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0308521X21001797#s0075",
+            "urlButtonText": "Bekijk de bron",
+            "title": "😌"
+          }
         }
       ]
     },
@@ -6437,6 +6604,47 @@
           "type": "recipe",
           "recipeID": 48,
           "subtitle": "Van alle zuivelproducten heeft yoghurt de laagste voetafdruk. En in dit recept is het een heerlijke toevoeging!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Waar komt vitamine B12 vandaan?",
+          "type": "text",
+          "title": "Laten we eens nader bekijken waar vitamine B12 vandaan komt ✨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Vitamine B12 wordt aangemaakt door…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Planten 🌱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Microben 🦠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Schimmels 🍄",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Dieren 🐖",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "B12 kan alleen worden aangemaakt door microben, zoals bacteriën. Soms bevatten planten of schimmels B12 omdat ze samenwerken met bacteriën, maar de hoeveelheden zijn erg laag. Het vlees van veel dieren (kippen, varkens, vis) bevat B12 omdat ze andere dingen eten waar B12 in zit.\n\nDe microben die B12 aanmaken, leven ook in de magen van herkauwers zoals koeien. Daarom bevatten hun vlees en zuivelproducten B12.",
+            "imageURL": "",
+            "title": "🦠"
+          }
         }
       ]
     },
@@ -6496,6 +6704,50 @@
           "type": "recipe",
           "recipeID": 52,
           "subtitle": "Dit is een recept met weinig verpakking omdat venkel, sinaasappels en courgettes meestal niet in plastic verpakt zijn."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Is plastic vervuiling in Europa meer onder controle dan in China?",
+          "type": "text",
+          "title": "Het meeste plastic afval dat in de oceaan terechtkomt, komt uit China 🇨🇳"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Het verloren plasticafval in China is bijna 10 keer hoger dan in Europa 🇪🇺 Maar hoe zit het met microplastics?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel microplastics komen vanuit Europa in de oceaan terecht, vergeleken met China?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "10 keer meer ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Hetzelfde",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "10 keer minder ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europa en de VS hebben we een behoorlijk geavanceerde afvalverwerking, die voorkomt dat de meeste plasticvervuiling in het milieu terechtkomt. Maar onze microplastics vervuiling is op hetzelfde niveau als die van China.\n\nAls we het hebben over plastic vervuiling denken we vaak aan verpakkingen, maar in Europa, komt bijna de helft van alle vervuiling door microplastics van andere bronnen, zoals het wassen van synthetische kleding en slijtage van autobanden.",
+            "imageURL": "",
+            "title": "🛞",
+            "sourceURL": "https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -6545,6 +6797,50 @@
           "type": "recipe",
           "recipeID": 32,
           "subtitle": "Serveer deze Nasi Goreng met een eitje voor een goede toevoeging van vitamine B12."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel vitamine B12 zit er in vleesvervangers?",
+          "type": "text",
+          "title": "Een Nederlands rapport vergeleek de voedingswaarde van vleesvervangers met vlees 🍔"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Vaak zijn vleesvervangers verrijkt met vitamines en mineralen zoals ijzer✨"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel vleesvervangers waren verrijkt met vitamine B12?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "5%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "55%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "95%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Die 55% die verrijkt was, had een relatief hoog B12-gehalte. Maar omdat niet alle producten verrijkt zijn, kan het lastig zijn om voldoende B12 binnen te krijgen als je alleen afhankelijk bent van vleesvervangers.\n\nProVeg – de non-profit die het onderzoek deed – adviseert om B12-supplementen te slikken als je (bijna) volledig plantaardig eet.",
+            "imageURL": "",
+            "title": "🍔",
+            "sourceURL": "https://proveg.com/nl/wp-content/uploads/sites/6/2023/08/PV_NL_Vleesvervangers-Rapport_final.pdf?__hstc=107755037.0e690f877d39947114ffa4b9bd7b433c.1715265168263.1715265168263.1715265168263.1&__hssc=107755037.1.1715265168263&__hsfp=3392768047",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -6590,7 +6886,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Er zijn veel bijproducten van de voedselverwerking. Bij het maken van bijvoorbeeld zonnebloemolie hou je een droge ‘koek’ over die we niet kunnen eten maar wel voedzaam is voor dieren.\n\nEen andere belangrijke rol die vooral varkens kunnen spelen is het eten van voedselverspilling (hoewel het altijd effectiever is om eerst zelf etensresten op te eten).\n",
+            "text": "Er zijn veel bijproducten van de voedselverwerking. Bij het maken van bijvoorbeeld zonnebloemolie hou je een droge ‘koek’ over die we niet kunnen eten maar wel voedzaam is voor dieren.\n\nEen andere belangrijke rol die vooral varkens kunnen spelen is het eten van voedselverspilling (hoewel het altijd effectiever is om eerst zelf etensresten op te eten).",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/sustainable-animal-feed-NL.png"
           }
         },
@@ -6599,6 +6895,38 @@
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Kies voor volkoren lasagne: er zijn veel bijproducten van het malen van wit meel die aan dieren worden gevoerd. Maar het is een stuk duurzamer om de hele tarwekorrel zelf te eten."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Waar komt het merendeel van de bijproducten vandaan die als veevoer worden gebruikt?",
+          "type": "question",
+          "title": "Het merendeel van het voer uit bijproducten komt van...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Granen 🍞",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Groenten🥦",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Aardappelen 🥔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De bijproducten die veevoer worden, zijn afkomstig uit veel verschillende bronnen, maar de grootste zijn granen.\n\nHet gebruik van bijproducten voor veevoer is zinvol als deze niet eetbaar zijn voor mensen. Maar dit is niet altijd het geval.\n\nHet grootste deel van deze graanbijproducten komt van het vermalen van volkoren graan tot geraffineerd graan. Dit wordt gezien als ‘bijproduct’ maar je zou het ook kunnen zien als voedselverspilling omdat volkorenproducten veel meer voedingsstoffen bevatten, die wij zouden kunnen eten.",
+            "imageURL": "",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0921344919302721?ref=pdf_download&fr=RR-2&rr=89e774ae5eddb51d",
+            "urlButtonText": "Bekijk de bron",
+            "title": "🍞"
+          }
         }
       ]
     },
@@ -6648,6 +6976,45 @@
           "type": "recipe",
           "recipeID": 26,
           "subtitle": "De supermarkt is super handig, maar laten we af en toe proberen onze groenten in een kleinere winkel of markt te kopen."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel winst maken boeren en supermarkten?",
+          "type": "text",
+          "title": "De vorige infographic laat zien waar het geld naartoe gaat, maar bevat geen kosten en winst 💰"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Een rapport in het Verenigd Koningkrijk ging hier dieper op in. Ze ontdekten bijvoorbeeld dat de winst die supermarkten maken op appels slechts 1% is 🍎"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is de winst van de boer? 🧑🏼‍🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "10%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De supermarkt, boer en distributeur maken allemaal een zeer lage winst op verse producten zoals appels. Maar hoewel supermarkten winst kunnen maken door andere artikelen te verkopen, lopen de boeren een veel groter risico. Nogmaals, het betalen van een eerlijke prijs aan boeren zou de eindprijs niet veel verhogen.\n\nWat kan je doen? Probeer af en toe te winkelen bij kleinere, biologische winkels. Het rapport concludeert dat biologische appels en wortelen, verkocht op alternatieve markten, boeren een veel hogere winst opleveren.",
+            "imageURL": "",
+            "title": "🍎",
+            "sourceURL": "https://www.sustainweb.org/news/nov22-unpicking-food-prices-new/",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -6702,6 +7069,50 @@
           "type": "recipe",
           "recipeID": 63,
           "subtitle": "Champignons zijn een prima manier om de smaak van vlees te vervangen, maar voor deze pitabroodjes zou je ook plantaardig shoarma kunnen gebruiken."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Welk bewerkt voedsel verhoogt het risico op kanker?",
+          "type": "text",
+          "title": "Uit een groot onderzoek is gebleken dat mensen die meer ultrabewerkt voedsel eten een grotere kans hebben op kanker en andere ziekten ☠️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Dit gold vooral voor verwerkt vlees 🥓"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welk ander verwerkt product verhoogde het risico op kanker?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Kunstmatig en met suiker gezoete dranken 🥤",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Ultra-bewerkt brood en ontbijtgranen 🥐",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Plantaardige alternatieven 🍔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Plantaardige alternatieven worden niet geassocieerd met kanker, bewerkt vlees wel. Een plantaardig alternatief is vrijwel zeker gezonder dan bewerkt vlees zoals een schnitzel, worst, spek, salami of fastfoodburger.\n\nDe meeste plantaardige alternatieven bevatten minder calorieën en verzadigd vet. Ze bevatten ook niet veel toegevoegde suikers. Als je voor een gezonde plantaardige optie wilt kiezen, kijk dan naar het zoutgehalte: dit moet 1,1 g of minder zijn (per 100 g).",
+            "imageURL": "",
+            "title": "🥓",
+            "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S2666-7762(23)00190-4",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },

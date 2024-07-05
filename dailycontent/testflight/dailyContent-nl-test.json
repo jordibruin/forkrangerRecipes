@@ -8109,15 +8109,51 @@
           "type": "recipe",
           "recipeID": 91,
           "subtitle": "Gebruik je nieuwe kennis over pasta koken bij dit eenvoudige en heerlijke recept."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat zijn effectieve manieren om je gasverbruik te verminderen?",
+          "type": "text",
+          "title": "Er zijn veel manieren om de hoeveelheid gas in huis te verminderen 🔥"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat maakt het KLEINSTE verschil?",
+          "subtitle": "om gas te besparen",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Verwarming 1°C lager zetten 🌡",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Half zo lang warm douchen 🚿",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Overstappen van gas naar elektrisch koken 🍳",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De verwarming lager zetten of korter douchen kan een groot verschil maken. Overstappen op inductie bespaart niet zoveel gas, maar helpt wel de luchtvervuiling in huis te verminderen.\n\nWat wij hier interessant aan vinden: gewoonteverandering maakt een groter verschil (voor het klimaat en je portemonnee) dan nieuwe spullen kopen!",
+            "imageURL": "",
+            "title": "🔥"
+          }
         }
       ]
     },
     {
       "id": 92,
       "notificationTitle": "Vandaag: Ocean",
-      "notificationText": "Onderwater voedselbossen 🌊 - Recept van de dag: Champignon Gember Noedelsoep",
+      "notificationText": "Groente uit de zee 🌊 - Recept van de dag: Champignon Gember Noedelsoep",
       "home": {
-        "title": "Voedselbossen onder water",
+        "title": "Groente uit de zee",
         "category": 11
       },
       "pages": [
@@ -8129,18 +8165,60 @@
         {
           "id": 1,
           "type": "text",
-          "title": "We zagen al dat het kweken van mosselen veel duurzamer is, maar je kan nog meer in oceanen kweken: zeewier! 🌊"
+          "title": "We hebben al gezien dat het kweken van mosselen veel duurzamer is, maar er is nog iets anders wat we kunnen kweken: zeewier! 🌊"
         },
         {
           "id": 2,
-          "type": "text",
-          "title": "Zeewier is als een onderwaterbos dat CO2 kan vastleggen en tegelijkertijd voor echt voedzaam voedsel zorgt. Maar kan het snel genoeg groeien?"
+          "type": "question",
+          "title": "Wat is een voordeel van zeewier?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Makkelijk te bewaren zonder voedselverspilling 📦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Heeft geen zonlicht nodig ☀️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Heeft geen kunstmest nodig ⚡️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het grootste voordeel van zeewier is dat we groenten kunnen verbouwen zonder land, kunstmest of irrigatie. Zeewier kweken is ook makkelijk en goedkoop en de meeste soorten zijn erg voedzaam.\n\nZeewier is misschien geen alledaags product, maar als je het kunt vinden, probeer dit supervoedsel dan eens!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/seaweed-NL.png"
+          }
         },
         {
           "id": 3,
+          "type": "recipe",
+          "recipeID": 64,
+          "subtitle": "Je zou wat vellen Nori-zeewier aan dit gerecht kunnen toevoegen (vaak gebruikt voor sushi)."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoe kan zeewier CO2 vastleggen zoals een bos?",
+          "type": "text",
+          "title": "Een uitdaging voor zeewier is om het populair genoeg te maken als voedsel 📣 Maar er zijn ook andere opties voor zeewier."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Een optie is om het te gebruiken als alternatief voor het planten van bomen om CO2 af te vangen. 🌳 Maar kan zeewier snel genoeg groeien?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
           "type": "question",
-          "title": "Hoe snel groeit zeewier?",
-          "subtitle": "",
+          "title": "Hoe snel kan zeewier groeien?",
+          "subtitle": "in het geval van kelp in ideale omstandigheden",
           "answerOptions": [
             {
               "id": 0,
@@ -8159,15 +8237,11 @@
             }
           ],
           "answerExplanation": {
-            "text": "Zeewier is een geweldige oplossing voor het klimaat: het groeit veel sneller dan bomen, is gemakkelijk en goedkoop te kweken en erg voedzaam.\n\nHet grootste voordeel van zeewier is dat we voedsel kunnen verbouwen zonder land nodig te hebben. Zeewier is misschien niet een veelvoorkomend product, maar als je het kunt vinden, probeer dan eens dit klimaat superfood!\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/seaweed-NL.png"
+            "text": "Het planten van zeewier is een geweldig alternatief voor het planten van bomen, omdat er – wederom – geen land en kunstmest voor nodig is. En het kan heel snel groeien!\n\nMeer zeewier planten is één van de klimaatoplossingen in Project Drawdown. Een ander voorbeeld is het beschermen van bestaande 'zeewierbossen', die momenteel krimpen als gevolg van menselijke activiteiten.",
+            "imageURL": "",
+            "title": "🌊",
+            "blogURL": "https://drawdown.org/solutions/seaweed-farming"
           }
-        },
-        {
-          "id": 4,
-          "type": "recipe",
-          "recipeID": 64,
-          "subtitle": "Je zou wat vellen Nori-zeewier aan dit gerecht kunnen toevoegen (vaak gebruikt voor sushi)."
         }
       ]
     },
@@ -8217,6 +8291,50 @@
           "type": "recipe",
           "recipeID": 95,
           "subtitle": "Biologische pasta is vaak niet eens zo heel veel duurder."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Wat is de goedkoopste manier om je klimaatimpact te verkleinen?",
+          "type": "text",
+          "title": "Sommige oplossingen zoals fairtrade en biologisch kosten geld 💶 En hoewel die de moeite waard zijn, is het goed om te onthouden dat er veel oplossingen zijn die niets extra's kosten."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Uit een onderzoek in Zweden is gebleken dat de gemiddelde persoon zijn voetafdruk met 40% kan verminderen zonder extra geld uit te geven! 🤑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke categorie heeft de meeste CO2 bespaard?",
+          "subtitle": "zowel absoluut als relatief",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Vakantie ✈️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Voeding 🍔",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Inrichting 🪑",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In het onderzoek vervingen ze vliegen en autorijden door een treinreis en een ‘staycation’ met activiteiten zoals concerten en een massage. Dat kostte financieel allemaal hetzelfde, maar verminderde de uitstoot met wel 90%.\n\nDoor meer plantaardig te eten werd de uitstoot ook met ongeveer 1/3 verminderd zonder extra uitgaven. Dus zelfs als je je geen Fairtrade en biologisch kunt veroorloven, maken je acties toch een groot verschil!",
+            "imageURL": "",
+            "title": "✈️",
+            "sourceURL": "https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13176",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -8271,6 +8389,44 @@
           "type": "recipe",
           "recipeID": 9,
           "subtitle": "Soms kan een klein beetje suiker een tomatensaus evenwichtiger maken. Probeer het eens met deze heerlijke Chili Spaghetti."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel suiker eten we per dag?",
+          "type": "text",
+          "title": "Gemiddeld denken mensen in Nederland dat ze 7 klontjes suiker per dag eten💭"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel suikerklontjes eten ze eigenlijk? 🍬",
+          "subtitle": "in Nederland per persoon per dag",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "\"5\"",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "\"9\"",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "\"14\"",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Nederlanders eten twee keer zoveel suiker als ze denken! Een belangrijke reden hiervoor is dat aan veel producten, zoals kruidenmixen, suiker wordt toegevoegd. Suiker heeft ook 50 verschillende namen, zoals dextrose, waardoor het moeilijker te herkennen is.",
+            "imageURL": "",
+            "title": "🍬",
+            "sourceURL": "https://www.diabetesfonds.nl/speciaal-voor/voor-de-pers/nederlanders-consumeren-meer-suiker-dan-ze-zelf-denken#:~:text=Nederlanders consumeren twee keer zoveel,is dit ruim 14 suikerklontjes.",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -8320,6 +8476,45 @@
           "type": "recipe",
           "recipeID": 38,
           "subtitle": "Probeer een aantal van deze vegetarische opties bij je volgende barbecue!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Zijn vleesvervangers een goede optie voor de BBQ?",
+          "type": "text",
+          "title": "Hoe acceptabel mensen vleesalternatieven vinden, kan afhankelijk zijn van de situatie 😶"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Uit een onderzoek is bijvoorbeeld gebleken dat vleesalternatieven acceptabeler voelen als mensen alleen eten dan wanneer mensen samen in een restaurant eten 👥"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "De acceptatie van vleesalternatieven op een BBQ-feest is… 🍔",
+          "subtitle": "vergeleken met andere dinersettings",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoger",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Lager",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zowel vleeseters als flexitariërs vinden vleesalternatieven minder acceptabel op een BBQ-feest dan in andere situaties zoals een etentje met vrienden. Nog een goede reden om veel groenten op de grill te leggen.\n\nAls vegetariërs en veganisten zijn uitgenodigd op een BBQ komt het vaak voor er vleesalternatieven zijn gekocht waar de gasten niet eens van genieten. Een effectieve suggestie uit een onderzoek over dit onderwerp: vraag de gasten om hun eigen favorieten mee te nemen. Op deze manier weet je zeker dat de vegetariërs blij zijn en kunnen vleeseters ook wat nieuwe dingen proberen!",
+            "imageURL": "",
+            "title": "🍔",
+            "blogURL": "https://www.nestle.co.uk/en-gb/media/pressreleases/allpressreleases/bbq-hosting-heat-no-need-flip-out-summer",
+            "urlButtonText": "Leestip 🤓"
+          }
         }
       ]
     },
@@ -8379,6 +8574,55 @@
           "type": "recipe",
           "recipeID": 92,
           "subtitle": "Een heerlijk bonen recept. En zoals je inmiddels weet: bonen verbeteren de bodem."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Wat is de belangrijkste activiteit van regeneratieve landbouw?",
+          "type": "text",
+          "title": "De grootste focus ligt op het verbeteren van de bodemgezondheid, maar hoe doen boeren dit? 🧑‍🌾"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "In hetzelfde onderzoek werd die vraag ook gesteld en werd geanalyseerd hoe vaak bepaalde activiteiten genoemd worden 🔍"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke activiteit wordt het vaakst genoemd?",
+          "subtitle": "om regeneratieve landbouw te definiëren",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Gewasrotatie ♻️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Gebruik van mest en compost 💩",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Minimaliseren van kunstmest en pesticiden 🧪",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "Minimaliseren van ploegen 🚜",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Regeneratieve boerderijen maken gebruik van alle genoemde activiteiten, maar de meest genoemde activiteit is het minimaliseren van ‘externe inputs’ zoals kunstmest en pesticiden.\n\nDe tweede meest genoemde activiteit was het combineren van gewassen en dieren op hetzelfde bedrijf. Dit staat in contrast met de 80% van de landbouwbedrijven in de EU die gespecialiseerd zijn in gewassen of vee.",
+            "imageURL": "",
+            "title": "🧪",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2211912420300584",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -8433,6 +8677,44 @@
           "type": "recipe",
           "recipeID": 94,
           "subtitle": "Gebruik deze lasagne om vrienden uit te nodigen voor een etentje en een gesprek over klimaatverandering."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel mensen zijn het er wereldwijd over eens dat klimaatverandering een ernstige bedreiging vormt?",
+          "type": "text",
+          "title": "In een ander onderzoek werden 59.000 mensen in 63 landen gevraagd: ‘Geloof je in klimaatverandering als een ernstige bedreiging voor de mensheid’? ⚠️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel mensen in het land met de laagste score waren het erover eens dat klimaatverandering een ernstige bedreiging vormt? ⬇️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "53%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "73%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zelfs in landen waar de minste mensen het hiermee eens zijn, vindt nog steeds 73% dat klimaatverandering een serieus probleem is.\n\nDe meerderheid in elk land steunde ook beleid als een CO2-belasting, uitbreiding van het openbaar vervoer, meer hernieuwbare energie, meer opladers voor elektrische auto's, belasting op vliegen en de bescherming van bossen.",
+            "imageURL": "",
+            "title": "💪",
+            "sourceURL": "https://ourworldindata.org/climate-change-support",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -8492,6 +8774,50 @@
           "type": "recipe",
           "recipeID": 96,
           "subtitle": "Je kunt beginnen door de keuze te maken om altijd de Fairtrade versie van één product te kopen, zoals bananen, koffie of in dit geval: rijst."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel zou de prijs van vlees stijgen met ‘true pricing’?",
+          "type": "text",
+          "title": "Een ‘true price’ van een product omvat niet alleen de financiële kosten, maar ook de maatschappelijke kosten die worden veroorzaakt door milieuschade 💰"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Uit een Duits onderzoek is gebleken dat de true price van niet-biologische voedselproducten gemiddeld € 0,79 per kg duurder zou worden 🌾"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel zou de prijs van vlees stijgen? 🍗",
+          "subtitle": "gemiddeld per kg, voor rundvlees, varkensvlees en kip",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "€ 0,95",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "€ 2,24",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "€ 4,42",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Alle producten, of ze nu biologisch zijn of niet, worden duurder als je de milieuschade (waaronder klimaatimpact) meetelt. Maar de prijs van biologische producten ligt dichter bij de 'true price'.\n\nVoor groenten stijgt de prijs niet zoveel, maar bij een true price zou vlees twee keer zo duur zijn! De grootste prijsstijging vindt plaats bij rundvlees, dat 3x zou duur zou zijn als nu.",
+            "imageURL": "",
+            "title": "💰",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0959652623012921",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -8546,6 +8872,42 @@
           "type": "recipe",
           "recipeID": 100,
           "subtitle": "We kunnen zelf ook gras eten, of in ieder geval de zaden. Tarwe is een grassoort en dit recept bevat tarwe in de vorm van bulgur."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel krachtvoer en maïs eten biologische koeien?",
+          "type": "text",
+          "title": "Melkkoeien eten niet alleen gras, maar ook maïs en krachtvoer zoals soja 🌽 Een Spaans onderzoek vergeleek het voer bij verschillende landbouwmethoden."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel krachtvoer en maïs eten biologische koeien? 🐄",
+          "subtitle": "vergeleken met niet-biologische koeien",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Minder",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Geen",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Biologische koeien eten ook maïs en krachtvoer, maar in lagere hoeveelheden. De ironie is dat het Spaanse onderzoek dit als een probleem ziet omdat de biologische koeien minder melk geven.\n\nDit laat zien dat alleen overstappen op biologisch vlees & zuivel niet de oplossing is. Als we overstappen op biologisch, hebben we meer koeien en meer land nodig.\n\nDaarom moeten we minder van deze producten eten. Maar voor de kleine hoeveelheden die we wel eten, is het logisch om voor biologisch te kiezen.",
+            "imageURL": "",
+            "title": "🌽"
+          }
         }
       ]
     },
@@ -8600,6 +8962,42 @@
           "type": "recipe",
           "recipeID": 101,
           "subtitle": "Groenten roosteren in de oven is een van de gemakkelijkste manieren om veel smaak te creëren."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is de meest effectieve manier om het energieverbruik van de oven te verminderen?",
+          "type": "text",
+          "title": "De oven gebruikt veel energie, maar hoe kunnen we dit verminderen? ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke van deze is de beste strategie om energie te besparen? ⚡️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Eten erin doen tijdens het voorverwarmen",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Lagere oventemperatuur instellen",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "De oven 5-10 minuten voor het einde uitdoen",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Je kunt de oven 5-10 minuten voor het einde van de bereidingstijd uitschakelen en het eten in de oven laten garen. Dit werkt goed voor onze recepten, maar gebruik het niet als je gaat bakken omdat dat meer precisie vereist.\n\nHet voorverwarmen van de oven kan belangrijk zijn voor de smaak, omdat de onmiddellijke hitte een ander effect creëert dan geleidelijk opwarmen. Het voorverwarmen is bijvoorbeeld belangrijk voor gebakken aardappeltjes.",
+            "imageURL": "",
+            "title": "⚡️"
+          }
         }
       ]
     },
@@ -8651,7 +9049,8 @@
           ],
           "answerExplanation": {
             "text": "Veel van onze natuur is uit balans: er zijn geen roofdieren en door straten en steden kunnen herten niet naar andere gebieden migreren. Dan verdringen ze andere dieren en planten.\n\nZe bejagen is een oplossing, en de meeste jacht in Nederland gebeurt om deze reden. Dit kan dus een vorm van duurzaam vlees zijn, maar er is niet genoeg om onze huidige vleesconsumptie te vervangen.\n\nHoud er ook bij wildvlees rekening mee dat de situatie (en dus de duurzaamheid) erg verschilt per regio en per diersoort. Dit is slechts één voorbeeld.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/hunting-for-biodiversity-NL.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/hunting-for-biodiversity-NL.png",
+            "blogURL": "https://www.forkranger.com/nl/blog/is-wild-vlees-duurzaam/"
           }
         },
         {
@@ -8659,6 +9058,43 @@
           "type": "recipe",
           "recipeID": 102,
           "subtitle": "Eerlijk gezegd heeft deze curry niets met jagen te maken. Maar het is makkelijk en lekker."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Is wild vlees wel echt wild?",
+          "type": "text",
+          "title": "Een deel van het vlees dat wij als ‘wild’ beschouwen, wordt eigenlijk gehouden 🚜"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke van deze is altijd wild?",
+          "subtitle": "in Nederland",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ree 🦌",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Eend 🦆",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Konijn 🐇",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Nederland wordt vlees van eend en konijn vaak gekweekt. Als het om herten gaat, hangt het af van de soort.\n\nDamherten hebben witte vlekken en komen vaak van een boerderij (je ziet ze ook in stadsparken). Reeën daarentegen zijn kleiner en bruiner. Ze eten geen gras en worden als nerveuzer en eenzamer beschouwd. Dat is ook de reden dat je ze niet kunt houden, en dus is het altijd wild vlees als je het ergens ziet.",
+            "imageURL": "",
+            "title": "🦌",
+            "blogURL": "https://www.forkranger.com/nl/blog/is-wild-vlees-duurzaam/"
+          }
         }
       ]
     },
@@ -8718,6 +9154,45 @@
           "type": "recipe",
           "recipeID": 99,
           "subtitle": "Dit recept bevat tofu, dat ongeveer dezelfde impact heeft als het beste scenario voor kweekvlees."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Smaakt kweekvlees precies hetzelfde?",
+          "type": "text",
+          "title": "In 2022 serveerde een Israëlische startup een stukje gekweekte kip aan professionele proever Michal Ansky 🍗"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Ze deden een blinde proeverij met echte kip en vermaalden beide versies, zodat er geen verschil in textuur zou zijn."
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Proefde ze een verschil? 👅",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ja",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Nee",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het was een blinde proeverij en ze was ervan overtuigd dat de gekweekte kip de echte was. Dit verhaal laat de potentie van de oplossing zien. Maar voorlopig blijven er nog veel uitdagingen rond de kosten en het opschalen van de productie.",
+            "imageURL": "",
+            "title": "🍗",
+            "sourceURL": "https://www.youtube.com/watch?v=jq9UxDJbv1A&feature=youtu.be",
+            "urlButtonText": "Bekijk de proeverij"
+          }
         }
       ]
     },
@@ -8772,6 +9247,50 @@
           "type": "recipe",
           "recipeID": 97,
           "subtitle": "Agroforestry gaat over het mengen van landbouw met bomen. Dit recept bevat walnoten, die natuurlijk van bomen komen en ook in agroforestry-systemen kunnen worden gekweekt."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is een herbruikbare beker duurzamer dan papieren bekertjes?",
+          "type": "text",
+          "title": "Koffie-to-go krijg je in papieren bekertjes. Maar het is niet echt papier want de binnenkant is bekleed met plastic 🥤"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Stel dat je elke dag één koffie to-go koopt en overstapt op een herbruikbare beker ☕️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoe lang zou het duren om CO2 emissies te besparen? ⏱",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "3 weken",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "2 maanden",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "1 jaar",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Na ongeveer 20-40 keer gebruik bespaart een herbruikbare beker meer CO2 dan papieren bekers. Dus als je iemand bent die vaak koffie onderweg haalt, is dit een goede investering.\n\nMaar als je maar een paar keer per jaar een koffie-to-go koopt, hoef je je daar niet al te veel zorgen over te maken.",
+            "imageURL": "",
+            "sourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0959652620303413",
+            "urlButtonText": "Bekijk de bron",
+            "title": "☕️"
+          }
         }
       ]
     },

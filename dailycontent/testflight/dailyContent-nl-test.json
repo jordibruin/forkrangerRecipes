@@ -2674,6 +2674,35 @@
           "type": "recipe",
           "recipeID": 39,
           "subtitle": "Deze pasta is heerlijk met volkoren spaghetti. Hoewel niet alle soorten pasta in hun volkoren variant beschikbaar zijn, is volkoren spaghetti wel vaak beschikbaar in de supermarkt."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat gebeurt er met de zemelen en kiem van tarwe nadat het verwijderd is?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Wordt verbrand 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Wordt aan dieren gevoerd 🐷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Wordt gebruikt voor vitamine supplementen 💊",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een voordeel van dieren in het voedselsysteem is dat ze restproducten kunnen eten, zoals de zemelen en kiemen van geraffineerde granen. Maar dat heeft alleen zin als het restjes zijn die wij niet kunnen eten. In dit geval zou het gezonder en duurzamer zijn als we die delen van het graan zelf zouden eten!",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -2729,6 +2758,32 @@
           "type": "recipe",
           "recipeID": 49,
           "subtitle": "Om avocado’s bijzonder te houden hebben wij besloten om ze alleen voor traditioneel Mexicaanse gerechten te gebruiken. Zoals bij deze fajitas."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Eet de gemiddelde Europeaan meer boter of meer avocado’s?",
+          "type": "question",
+          "title": "Waarvan eet de gemiddelde Europeaan meer?",
+          "subtitle": "in kg",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Boter 🧈",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Avocado's 🥑",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De gemiddelde Europeaan eet drie keer meer boter dan avocado's (en elf keer meer rundvlees). Dus ook al hebben avocado's enkele problemen, dit laat zien dat het verminderen van de avocadoconsumptie een VEEL lagere prioriteit heeft dan het verminderen van vlees en zuivel.\n\nDe gemiddelde Europeaan eet zo’n 8 avocado’s per jaar. Voor ons avocadobudget hebben we dit aantal afgerond naar 1 per maand. Als we vasthouden aan dit avocadobudget betekent dit dat de avocadoconsumptie niet zal groeien (en waarschijnlijk zal afnemen).",
+            "imageURL": "",
+            "title": "🥑",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -2783,6 +2838,36 @@
           "type": "recipe",
           "recipeID": 62,
           "subtitle": "Met deze wraps kan je gemakkelijk de volkoren optie kiezen."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Hoe herken je volkoren producten?",
+          "type": "question",
+          "title": "Hoe herken je volkoren producten? 🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Kijk of de kleur donkerder is",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Kijk of het product een 'volkoren' label heeft",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Kijk naar de ingredienten",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De enige manier om zeker te weten dat een product volkoren is, is door op de ingrediëntenlijst het woord ‘volkoren’ te vinden. De ingrediënten zijn gerangschikt naar hoeveelheid. Voor een product als brood zou volkoren dus het eerste woord moeten zijn.\n\nJe kunt ook volkorenkoekjes vinden, maar dan is het eerste ingrediënt meestal suiker. Dus hoewel het een volkorenversie van een koekje is, is het nog steeds een koekje vol suiker en niet het soort volkorenproduct dat gezond is.",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -2832,6 +2917,44 @@
           "type": "recipe",
           "recipeID": 35,
           "subtitle": "In de meeste soorten tortellini zit al kaas verstopt. Daarom hoef je er niet nog meer bovenop te doen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Met hoeveel zouden we onze zuivelconsumptie moeten verminderen voor een duurzaam niveau?",
+          "type": "text",
+          "title": "Het EAT-Lancet rapport heeft een gezonde & duurzaame hoeveelheid zuivel berekend 🥛"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Met hoeveel zouden we onze zuivelconsumptie moeten verminderen dit te bereiken?",
+          "subtitle": "voor een gemiddeld Noord-Amerikaans/Europees voedingspatroon",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "20%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "80%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Om een duurzaam voedingspatroon te bereiken, moeten we onze zuivelconsumptie ongeveer halveren (voor een gemiddeld Noord-Amerikaans/Europees voedingspatroon). Over het algemeen komt dat neer op 1 portie zuivel per dag. Bijvoorbeeld, of een schaaltje yoghurt of een broodje kaas.",
+            "imageURL": "",
+            "title": "🥛",
+            "sourceURL": "https://www.fao.org/gift-individual-food-consumption/data/en",
+            "urlButtonText": "Bekijk de huidige consumptie"
+          }
         }
       ]
     },
@@ -2877,6 +3000,43 @@
           "type": "recipe",
           "recipeID": 42,
           "subtitle": "Een eenpanscurry met spinazie. Je kunt spinazie uit de diepvries kopen als het niet in het seizoen is."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is het mogelijk om verwarmde kassen duurzaam te maken?",
+          "type": "text",
+          "title": "Is het mogelijk om verwarmde kassen duurzaam te maken?"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Stel we stoken de kassen niet met gas maar met aardwarmte, zou dat het probleem oplossen?"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "De impact van spinazie uit de kas zou lager zijn dan getransporteerd uit Spanje",
+          "subtitle": "voor een kas verwarmt met aardwarmte in Nederland",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ja ✅",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Nee ❌",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Als we gas kunnen vervangen door aardwarmte en andere hernieuwbare energiebronnen, is het duurzamer om verwarmde kassen te hebben dan groenten van Spanje naar Nederland te transporteren. Daarom promootte David Attenborough dit in zijn documentaire ‘A life on our planet’.\n\nMaar hoe staan we ervoor? Van 2010 tot 2022 is het aandeel duurzame energie voor de Nederlandse kassen gestegen van 2% naar 15%. De zaken gaan dus vooruit, maar we hebben nog een lange weg te gaan.",
+            "imageURL": "",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -2931,6 +3091,43 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Wist je dat veel chili’s ook cacao bevatten? Deze bevat een ander product uit het regenwoud - kaneel."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is pure chocolade beter voor het klimaat dan melkchocolade?",
+          "type": "text",
+          "title": "Laten we zeggen dat we een reep melk- en pure chocolade hebben, beide zonder ontbossing 🪓"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Melkchocolade bevat melk, maar pure chocolade bevat twee keer zoveel cacao… 🍫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke heeft een lagere CO2-impact? 🍫",
+          "subtitle": "als er geen ontbossing is",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Puur",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Melk",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het antwoord hangt allemaal af van de cacao: als deze afkomstig is uit ontbossingsgebieden, is pure chocolade slechter omdat er 2x zoveel cacao in zit. Maar als het duurzaam wordt verbouwd, heeft pure chocolade een kleinere voetafdruk omdat het geen melk bevat.\n\nEen belangrijk voordeel van pure chocolade is dat je er minder van eet omdat de smaak intenser is. Wij zijn dus fan van puur!",
+            "imageURL": "",
+            "title": "🍫"
+          }
         }
       ]
     },
@@ -2985,6 +3182,42 @@
           "type": "recipe",
           "recipeID": 9,
           "subtitle": "Deze Chili Spaghetti is geweldig, zelfs zonder kaas. Probeer het zelf eens!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel melk is er nodig om yoghurt te maken?",
+          "type": "text",
+          "title": "Terwijl je voor boter en kaas veel melk nodig hebt, heb je voor 1 kg yoghurt slechts 1 liter melk nodig 🥣 Maar niet alle yoghurts zijn hetzelfde."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke soort yoghurt heeft meer melk nodig?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Fruityoghurt 🍑",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Griekse yoghurt 🇬🇷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Lactosevrije yoghurt🐮",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Griekse yoghurt heeft ongeveer drie keer zoveel vet als gewone yoghurt en heeft daarom ook ongeveer drie keer meer melk nodig. Dat betekent dat het een grotere klimaatimpact heeft.",
+            "imageURL": "",
+            "title": "🇬🇷"
+          }
         }
       ]
     },
@@ -3034,6 +3267,32 @@
           "type": "recipe",
           "recipeID": 52,
           "subtitle": "Wist je dat couscous ook van tarwe wordt gemaakt? Probeer eens deze heerlijke Couscous met Venkel en Sinaasappel."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Welk gezondheidsaspect is het meest belangrijk bij koolhydraten?",
+          "type": "question",
+          "title": "Wat is belangrijker voor je gezondheid?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Niet te veel koolhydraten eten",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Een hogere kwaliteit koolhydraten eten",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Veel belangrijker dan de hoeveelheid koolhydraten is het type koolhydraten. Het is moeilijk om voldoende te benadrukken hoeveel gezonder de volkoren optie is.\n\nKoolhydraten uit ongeraffineerde en volkoren granen maken een belangrijk deel uit van een gezond voedingspatroon. Dus minder cornflakes, basmat rijst, wit brood en traditionele pasta. En meer havervlokken, volkoren brood en volkoren pasta.",
+            "imageURL": "",
+            "sourceURL": "https://www.hsph.harvard.edu/nutritionsource/carbohydrates/",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -3088,6 +3347,44 @@
           "type": "recipe",
           "recipeID": 1,
           "subtitle": "De aubergine in deze curry geeft het een vlezige textuur. De kikkererwten voegen wat eiwit toe."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel kippen heb je nodig om één koe te vervangen?",
+          "type": "text",
+          "title": "Eén koe is veel zwaarder dan één kip, en levert veel meer vlees🐄"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel kippen heb je nodig om één koe te vervangen? 🐓",
+          "subtitle": "om dezelfde hoeveelheid vlees te produceren",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "\"37\"",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "\"222\"",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "\"2390\"",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het vervangen van rundvlees door kip scheelt veel CO2 uitstoot, maar is controversieel omdat er meer dieren voor nodig zijn en veel van hen slecht worden behandeld.\n\nWij zien het vervangen van rundvlees door kip als een eerste stap om de echte vleesliefhebbers in actie te krijgen. Maar uiteindelijk moeten we alle soorten vlees verminderen, inclusief kip, om tot een duurzaam voedingspatroon te komen (zie ons ‘kompas’ met alle stappen). Als je kip koopt, kies dan voor biologisch, daar hebben de kippen een betere levenskwaliteit. Het is duurder, maar dat helpt ook om er minder van te eten.",
+            "imageURL": "",
+            "title": "🐓",
+            "blogURL": "https://www.forkranger.com/nl/over/kompas/",
+            "urlButtonText": "Bekijk ons Kompas 🧭"
+          }
         }
       ]
     },
@@ -3147,6 +3444,44 @@
           "type": "recipe",
           "recipeID": 13,
           "subtitle": "Voor een heerlijke risotto, voeg aan het einde een beetje boter (bij speciale gelegenheden 😉) of margarine toe."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is margarine gezonder dan boter?",
+          "type": "text",
+          "title": "Veel mensen denken dat margarine slecht is voor je gezondheid vanwege de transvetten."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Maar sinds 2021 zijn transvetten verboden in zowel de EU als de VS! En hoe zit het met andere gezondheidsaspecten?"
+        },
+        {
+          "id": 6,
+          "type": "question",
+          "title": "Wat is gezonder als je een hoog cholesterolgehalte hebt?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Boter",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Margarine",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Margarine of plantaardige boter bevat minder verzadigde vetten dan boter, waardoor het een gezondere keuze is voor mensen met een hoog cholesterolgehalte.\n\nMargarine valt echter wel onder de categorie ultra-processed voedingsmiddelen. We kennen de gezondheidseffecten op de lange termijn van margarine (zonder transvetten) nog niet.\n\nMoeten we ons zorgen maken dat margarine ultra-processed is? Wat we kunnen zeggen: de gemiddelde mens eet veel meer ander voedsel wat ultra-processed is. Als je dus regelmatig een hotdog, chocolade, een zak chips of koekjes eet, maakt het voor je gezondheid niet zoveel uit of je boter of margarine gebruikt.",
+            "imageURL": "",
+            "title": "🧈",
+            "blogURL": "https://www.youtube.com/watch?v=wsd6D39EoTc",
+            "urlButtonText": "Kijktip 🎬"
+          }
         }
       ]
     },

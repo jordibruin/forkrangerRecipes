@@ -7172,6 +7172,56 @@
           "type": "recipe",
           "recipeID": 90,
           "subtitle": "De cashewnoten die we in dit recept gebruiken, zouden niet meer bestaan als we alle bestuivende insecten zouden verliezen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Kan het verbeteren van een klein stukje groen een verschil maken voor insects?",
+          "type": "text",
+          "title": "In 2016 telden wetenschappers in Melbourne insecten op een klein stukje groen omgeven door wegen en hoge gebouwen 🌆"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Het was niet groter dan een tennisbaan en had wat gras en twee bomen 🌳"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Vervolgens hebben ze het getransformeerd: nieuwe aarde en 12 inheemse plantensoorten werden toegevoegd 🌿"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat gebeurde er na een jaar?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "70% van de planten stierf 🍂",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "2x meer insecten 🪰",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "5x meer insecten 🐞",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Na slechts één jaar waren er al vijf keer zoveel insecten. Na drie jaar waren drie plantensoorten gestorven, maar toch waren de aantallen insecten zeven keer hoger.\n\nAls je een klein stuk grond kunt beïnvloeden – in je eigen tuin of samen met anderen – kan het een groot verschil maken voor insecten.",
+            "imageURL": "",
+            "title": "🐞",
+            "blogURL": "https://www.theguardian.com/science/2023/aug/22/melbourne-urban-greening-benefits-insect-species",
+            "urlButtonText": "Leestip 🤓"
+          }
         }
       ]
     },
@@ -7226,6 +7276,50 @@
           "type": "recipe",
           "recipeID": 50,
           "subtitle": "Zuurkool past erg goed met worstjes… maar dit zuurkoolrecept is ook lekker zonder vlees!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Zijn traditionele koeienrassen duurzamer?",
+          "type": "text",
+          "title": "Tegenwoordig zijn de meeste koeien gespecialiseerd: ze zijn bestemd voor de melk- OF rundvleesproductie 🐄"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Maar er zijn ook traditionele allround koeienrassen die gespecialiseerd zijn voor een specifiek ecosysteem 🌿"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is waar over deze allround koeien vergeleken met speciale melkkoeien…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ze moeten soja eten om voldoende melk te produceren 🥛",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Ze hebben alleen gras nodig 🍀",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Ze zijn agressiever 😤",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Er zijn veel traditionele koeienrassen die minder melk produceren maar andere voordelen hebben: ze hebben alleen gras nodig (in plaats van ook soja) en kunnen de hele winter buiten overleven.\n\nVaak helpen deze koeien ook bij het bevorderen van de biodiversiteit. Zo is er een specifiek type koe dat uitstekend geschikt is voor het onderhoud van heidevelden. Ze eten precies de juiste soort planten en verspreiden ook zaden in hun vacht.",
+            "imageURL": "",
+            "title": "🍀",
+            "blogURL": "https://www.landschapoverijssel.nl/heidekoe",
+            "urlButtonText": "Leestip 🤓"
+          }
         }
       ]
     },
@@ -7270,6 +7364,44 @@
           "type": "recipe",
           "recipeID": 62,
           "subtitle": "Wij houden van koken op inductie, maar als je een gasfornuis hebt: leg wraps 20-30 seconden direct op het vuur en maak ze echt heerlijk."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Wat is nog een ander voordeel van koken op inductie?",
+          "type": "text",
+          "title": "Terwijl we dit onderwerp aan het onderzoeken waren, ontdekten we nog een interessant voordeel van inductie 👀"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is minder waarschijnlijk bij koken op inductie?",
+          "subtitle": "vergeleken met gas",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Jezelf verbranden 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Astma krijgen 🫁",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Overgewicht hebben ⚖️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Koken op gas veroorzaakt luchtvervuiling. Uit een onderzoek is gebleken dat kinderen die in huishoudens wonen waar op gasfornuizen wordt gekookt, 42% meer kans hebben op astma. Ventilatie en luchtreinigers kunnen helpen, maar de beste optie is elektrisch koken.\n\nHoewel gas niet de schoonste optie is, zou het toch een enorme verbetering zijn (voor de gezondheid en het klimaat) voor de miljoenen mensen die momenteel op hout of zelfs poep van dieren koken. Daarom staat 'Clean Cooking' ook op de lijst van Project Drawdown, één van onze favoriete bronnen over klimaatoplossingen.",
+            "imageURL": "",
+            "title": "🫁",
+            "sourceURL": "https://www.tno.nl/publish/pages/3848/tno-2022-r12249.pdf",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -7329,6 +7461,39 @@
           "type": "recipe",
           "recipeID": 72,
           "subtitle": "Een rijstrecept met (soja)room!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Wie zou er meer kaas moeten eten, mannen of vrouwen?",
+          "type": "text",
+          "title": "Het WWF hanteerde een vergelijkbare aanpak om een duurzame hoeveelheid zuivel te bepalen. In hun versie is er een interessant verschil tussen mannen en vrouwen 👫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Vergeleken met mannen zouden vrouwen… 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer kaas moeten eten ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Minder kaas moeten eten ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Volgens de WWF-berekeningen zouden vrouwen meer kaas (en rood vlees) moeten eten dan mannen. De aanbevolen hoeveelheid voor vrouwen is 147 gram kaas per week en mannen slechts 21 gram! Dat komt omdat ze een hogere behoefte aan ijzer hebben als gevolg van bloedverlies tijdens de menstruatie.\n\nOp de poster die we hebben gemaakt (zie Supporterspagina) staan alle hoeveelheden vermeld, maar we hebben het gemiddelde voor mannen en vrouwen gebruikt.",
+            "imageURL": "",
+            "title": "🧀",
+            "blogURL": "https://www.forkranger.com/nl/product/poster-gezond-eten-binnen-de-grenzen-van-een-aarde/",
+            "urlButtonText": "Bekijk de poster 🏞"
+          }
         }
       ]
     },
@@ -7388,6 +7553,44 @@
           "type": "recipe",
           "recipeID": 56,
           "subtitle": "In dit recept neemt de broccoli de smaken van het sinaasappelsap op. Verrukkelijk!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Wat typeert de klimaatimpact van wijn en bier?",
+          "type": "text",
+          "title": "De CO2-impact van voedsel komt meestal voort uit het verbouwen van voedsel 🌾 Maar voor bier en wijn is dat anders"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welk deel van de CO2-impact speelt een relatief grote rol?",
+          "subtitle": "voor wijn en bier",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Voedselverspilling 🗑",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Opslag ❄️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Transport & verpakking 🚚",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wijn en bier worden meestal in glas geleverd, wat voor een hogere verpakkingsemissies zorgt. En de transportemissies zijn hoog omdat zowel het glas als al het water veel weegt.\n\nMaar zelfs dan is het niet iets om je al te veel zorgen over te maken: het vervoeren van een fles wijn van Australië naar Groot-Brittannië heeft nog steeds een kleinere klimaatimpact dan zelf met de auto naar een lokale wijngaard 5 km verderop te rijden.",
+            "imageURL": "",
+            "title": "🚚",
+            "sourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0959652620319843",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -7442,6 +7645,48 @@
           "type": "recipe",
           "recipeID": 12,
           "subtitle": "Dit pastarecept is een geweldig alternatief voor de traditionele bolognese (waar rundergehakt voor nodig is)"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoe zwaar zijn alle koeien vergeleken met de bizons van vroeger?",
+          "type": "text",
+          "title": "Soms zeggen mensen dat koeien net bizons zijn die vroeger over de prairie zwierven 🦬"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "We waren dus benieuwd: hoeveel wogen alle wilde zoogdieren voordat de mens de planeet overnam? 🦣"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Vergeleken met alle hedendaagse koeien wogen alle wilde zoogdieren… 🦣",
+          "subtitle": "100.000 jaar geleden",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "3 keer meer",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Ongeveer hetzelfde",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "3 keer minder",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Alle mammoeten, neushoorns, bizons, enz. bij elkaar wogen nog steeds drie keer minder dan de koeien van vandaag. Nog een herinnering dat we veel minder rundvlees en zuivel moeten eten.",
+            "imageURL": "",
+            "title": "🦣"
+          }
         }
       ]
     },
@@ -7496,6 +7741,44 @@
           "type": "recipe",
           "recipeID": 55,
           "subtitle": "De Fairtrade-versies van producten zoals kokosmelk zijn een voorbeeld van waar het extra geld de moeite waard is."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Kost een duurzaam voedingspatroon meer of minder?",
+          "type": "text",
+          "title": "Wetenschappers berekenden hoeveel het zou kosten om over te stappen op een duurzaam en gezond voedingspatroon 💰"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Een gezond en duurzaam voedingspatroon is…",
+          "subtitle": "in landen met hoge inkomens",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Duurder ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Even duur",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Goedkoper ⬇️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In landen met hoge inkomens is een gezond en duurzaam voedingspatroon, veel groenten en peulvruchten en lage hoeveelheden vlees en zuivel, goedkoper dan het huidige voedingspatroon. Het model laat zien dat plantaardig eten de kosten zelfs met een derde kan verlagen!\n\nDeze voedingspatronen zouden in lage-inkomenslanden duurder zijn, maar het typische westerse voedingspatroon is zelfs nog duurder.",
+            "imageURL": "",
+            "title": "⬇️",
+            "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S2542-5196%2821%2900251-5",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -7545,6 +7828,50 @@
           "type": "recipe",
           "recipeID": 88,
           "subtitle": "Dit recept bevat appels, een product dat gemakkelijk biologisch te kopen is en meer biodiversiteit ondersteunt."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Kunnen bijenhotels helpen het aantal wilde bijen te vergroten?",
+          "type": "text",
+          "title": "Er zijn veel verschillende soorten bestuivers, maar bijen vormen de belangrijkste groep 🐝"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Kunnen bijenhotels helpen het aantal wilde bijen te vergroten? 🏨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "De meeste bijensoorten leven…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "In oud hout 🪵",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "In een bijenkorf 🍯",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Ondergronds 🪱",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Driekwart van alle bijensoorten leeft ondergronds, wat betekent dat bijenhotels niet het perfecte onderkomen zijn voor de meeste bijen.\n\nToch blijkt uit onderzoek dat ze kunnen helpen, vooral naarmate de bijenhotels ouder worden. Ze vonden meer bestuivers in bijenhotels die ouder waren en meer bloemen in de buurt hadden.\n\nMaar in een ‘onderhoudsarme tuin’ met alleen maar tegels een paar bijenhotels plaatsen zal niet veel opleveren.",
+            "imageURL": "",
+            "title": "🐝",
+            "sourceURL": "https://resjournals.onlinelibrary.wiley.com/doi/full/10.1111/een.12986",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -7604,6 +7931,45 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Één van de gemakkelijkste manieren om divers voedsel te eten, is door het kleurrijker te maken!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Kun je voldoende eiwitten uit planten halen als je VEEL sport?",
+          "type": "text",
+          "title": "Oké, je kunt dus ‘compleet’ eiwit halen uit alleen planten. Maar kun je ook voldoende eiwitten uit planten halen als je VEEL sport? 🏋️‍♂️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "De algemeen aanbevolen hoeveelheid eiwit is 0,83 gram per kg lichaamsgewicht ⚖️"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Voor welk deel van de bevolking van gezonde volwassenen zou dit voldoende moeten zijn? 💪",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "32,5%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "97,5%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De Europese Autoriteit voor voedselveiligheid (EFSA) concludeert dat 0,83 g eiwit per kg lichaamsgewicht voldoende is voor vrijwel iedereen (97,5% van de gezonde volwassenen). Veel mensen denken dat het hoger zou moeten zijn, maar de EFSA adviseert dat de extra verbrande calorieën eenvoudigweg meer voedsel vereisen, en niet de nadruk op extra eiwitten. Het enige probleem als je ECHT VEEL sport, zoals topsporters, is dat je niet zoveel kunt eten, dus dan komen speciale oplossingen erbij kijken. Ook goed om te weten: ze vonden geen extra voordeel voor de spiermassa of de prestaties bij het verhogen van de eiwitinname.",
+            "imageURL": "",
+            "title": "💪",
+            "sourceURL": "https://www.efsa.europa.eu/en/supporting/pub/en-871",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -7653,6 +8019,42 @@
           "type": "recipe",
           "recipeID": 21,
           "subtitle": "Bananen kun je makkelijk Fairtrade kopen."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Ontvangen Fairtrade boeren en arbeiders een ‘leefbaar loon’?",
+          "type": "text",
+          "title": "Iedereen zou een ‘leefbaar loon’ moeten ontvangen: een geldbedrag dat genoeg is om in zijn land een fatsoenlijke levensstandaard te hebben 💸"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Fairtrade boeren en arbeiders ontvangen een ‘leefbaar loon’ 👨🏽‍🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ja",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Bijna",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Nee",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Zelfs met Fairtrade ontvangen boeren en arbeiders niet vanzelfsprekend een leefbaar loon. Dit is een citaat van Fairtrade zelf: “De huidige lonen liggen zo ver onder de leefbare lonen, dat individuele plantages en boeren geen manier hebben om een leefbaar loon voor werknemers te bereiken en concurrerend te blijven op de markt.”\n\nWij zouden dus zeggen dat Fairtrade meer op ‘minimum trade’ lijkt. Het is beter dan niets, maar het schiet nog steeds tekort. Laten we onszelf niet voor de gek houden: veel van onze producten komen uit de moderne slavernij en meer verantwoorde voedselkeuzes zullen dit niet oplossen. We hebben betere wetten en een ander voedselsysteem nodig.",
+            "imageURL": "",
+            "title": "💸"
+          }
         }
       ]
     },

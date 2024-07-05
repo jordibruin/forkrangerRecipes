@@ -918,6 +918,44 @@
           "type": "recipe",
           "recipeID": 24,
           "subtitle": "De meeste soja komt uit Brazilië, dus hier is een vegetarische versie van een Braziliaans recept."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "De meeste vleesvervangers worden van soja gemaakt "
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat maakt soja speciaal vergeleken met andere bonen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Meer eiwit",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Makkelijker te verteren",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Smaakt beter",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Sojabonen hebben ongeveer 50% meer eiwit dan kidneybonen. Dit is één van de redenen waarom ze een goed alternatief voor vlees zijn. Trouwens, het verschil tussen sojabonen en edamame is alleen het moment wanneer de bonen worden geoogst.\n\nEn er is een andere boon die een vergelijkbare hoeveelheid eiwit heeft en beter in Europa groeit dan soja: de lupine boon.",
+            "title": "🫘",
+            "imageURL": "",
+            "blogURL": "",
+            "sourceURL": "https://tabledebates.org/sites/default/files/2021-12/FCRN%20Building%20Block%20-%20Soy_food,%20feed,%20and%20land%20use%20change%20(1).pdf",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -977,6 +1015,37 @@
           "type": "recipe",
           "recipeID": 28,
           "subtitle": "Vlees heeft een sterke umami smaak, dit recept zit ook bomvol umami door de champignons, sojasaus en gefrituurde uitjes."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel van de klimaatimpact van rundvlees wordt door methaan veroorzaakt?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "85%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "50% van de klimaatimpact van rundvlees komt door de methaanuitstoot. Dat is veel, maar zelfs als we de methaanuitstoot zouden negeren, zou rundvlees nog steeds een hogere klimaatimpact hebben dan varken of kip.\n\nVoor geiten- en schapenvlees speelt methaan een nog grotere rol: het heeft een aandeel van 65% in het geheel.",
+            "title": "🐄",
+            "imageURL": "",
+            "sourceURL": "https://ourworldindata.org/carbon-footprint-food-methane",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -1031,6 +1100,43 @@
           "type": "recipe",
           "recipeID": 37,
           "subtitle": "Dit is goed recept om overgebleven groente doorheen te doen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Aan het begin bij 'Base camp' lieten we je een infographic zien over Project Drawdown. De conclusie: voedselverspilling verminderen is de nummer 1 oplossing voor het klimaat."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Met hoeveel moeten we voedselverspilling verminderen om het Drawdown doel te halen?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "70%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "90%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Er zal altijd wat voedselverspilling blijven, maar het doel in Project Drawdown (voor scenario 1) is om dit te verminderen met 50%. Dat moet ons lukken!\n\nHet zou 10x meer CO2 besparen dan 1/3 van alle auto's omzetten naar elektrisch.",
+            "title": "🗑",
+            "imageURL": "",
+            "sourceURL": "https://drawdown.org/solutions/reduced-food-waste",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -1085,6 +1191,38 @@
           "type": "recipe",
           "recipeID": 19,
           "subtitle": "Kaas is lekker door de umami smaak, maar je kunt die smaak ook uit andere ingrediënten krijgen. In dit geval: sojasaus."
+        },
+        {
+          "id": 4,
+          "supportersOnly": true,
+          "hometitle": "Hoeveel kaas eten vegetariërs vergeleken met vleeseters?",
+          "type": "question",
+          "title": "Hoeveel kaas eten vegetariërs vergeleken met vleeseters?🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25% meer",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50% meer",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "75% meer",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vegetariërs eten dus bijna twee keer zoveel kaas als vleeseters. Onder aan de streep is dat nog steeds duurzamer dan een voedingspatroon met veel vlees. Maar zoals één van onze volgers concludeerde: het is beter om sommige dagen salami te eten dan elke dag kaas.",
+            "imageURL": "",
+            "title": "🧀",
+            "sourceURL": "https://www.mdpi.com/2072-6643/9/12/1317",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -1134,6 +1272,52 @@
           "type": "recipe",
           "recipeID": 16,
           "subtitle": "Een heerlijk recept zonder dierlijke producten en waar dus ook geen veevoer aan te pas is gekomen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "8% van de granen wordt gebruikt voor de industrie. Wat betekent dat?",
+          "type": "text",
+          "title": "De infographic liet zien dat 8% van alle granen gebruikt worden voor de industrie 🏭"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Bijvoorbeeld één van de producten is tarwe zetmeel poeder dat wordt gebruik voor heel veel verschillende dingen 🌾"
+        },
+        {
+          "id": 5,
+          "type": "question",
+          "title": "Waar wordt tarwe zetmeel NIET voor gebruikt?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Lijm voor kartonnen dozen 📦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "De buitenkant van pillen 💊",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Motorolie 🛢",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "Voedselproducten langer houdbaar maken 🍿",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Okay, dit is misschien niet het meest belangrijke om te onthouden, maar we waren gewoon nieuwgierig waar dat industrie gedeelte over ging.\n\nAan de ene kant is het fijn dat we natuurlijke materialen in al deze producten kunnen gebruiken. Maar het is ook lastig als het in competitie is land voor voedselproductie.\n\nWe realiseerden ons opnieuw dat onze aarde gelimiteerd is en we goed moet kijken hoe we de ruimte gebruiken.",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -1189,6 +1373,43 @@
           "type": "recipe",
           "recipeID": 67,
           "subtitle": "Een pastarecept, waarbij je meteen in de praktijk kunt oefenen met de juiste hoeveelheid pasta koken en niets te verspillen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is de beste tactiek om minder pasta te verspillen?",
+          "type": "text",
+          "title": "Een Duitse studie vond dat pasta meestal verspild wordt omdat er te veel van wordt gekookt 🍝"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Dus wat als je altijd de juiste hoeveelheid pasta kookt en als iemand nog steeds trek heeft, je een beetje extra kookt 🔥 Is dat dan beter?"
+        },
+        {
+          "id": 6,
+          "type": "question",
+          "title": "Wat heeft een lagere klimaatimpact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "100g overgebleven pasta weggooien",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "2e keer water koken om extra pasta te koken",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Laten we naar twee scenario's kijken: in het eerste kook je 400 g pasta en blijkt het te veel te zijn, waardoor je 100 g pasta weggooit. In het tweede scenario, kook je 300 g pasta maar blijkt het niet genoeg te zijn, waardoor je 100 g extra kookt.\n\nDe klimaatimpact van een tweede keer water koken is vijf keer lager dan de klimaatimpact van de pasta die je weggooit. Dus je kan beter precies koken wat je verwacht te eten, en zo nodig kook je gewoon wat extra.",
+            "imageURL": "",
+            "title": "🍝",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -1239,6 +1460,37 @@
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "Een eerbetoon aan Indonesië, waar heel veel regenwoud is gekapt om ruimte te maken voor palmolie."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Heeft Nutella met palmolie een hogere klimaatimpact dan rundvlees?",
+          "type": "text",
+          "title": "Nutella kennen we als chocospread maar 1/3 van de ingrediënten is palmolie"
+        },
+        {
+          "id": 5,
+          "type": "question",
+          "title": "Wat heeft een hogere klimaatimpact?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 pot Nutella 🍫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 rundvlees hamburger 🍔",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Ondanks dat palmolie veel problemen veroorzaakt, is de klimaatimpact van voedingsproducten die palmolie bevatten nog steeds veel lager dan die van vlees en zuivel. En dat is inclusief de impact van ontbossing.\n\nEén hamburger heeft ongeveer dezelfde klimaatimpact als 3 potten Nutella.",
+            "imageURL": "",
+            "title": "🍔",
+            "blogURL": "https://www.forkranger.com/nl/waarom-palmolie-niet-zo-slecht-is-als-zijn-reputatie/"
+          }
         }
       ]
     },
@@ -1293,6 +1545,44 @@
           "type": "recipe",
           "recipeID": 7,
           "subtitle": "Omdat je waarschijnlijk al genoeg recepten kent met spekjes is hier nog een lekker recept met aardappel waarbij je geen vlees mist."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is voor mensen de grootste barriere om minder vlees te eten?",
+          "type": "text",
+          "title": "Een studie in Nederland keek naar hoe jonge mensen denken over minder vlees eten."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat was de grootste barriere om minder vlees te eten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Hoge prijzen van vleesvervangers 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Gewoonte 🕐",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Smaak 👅",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het was overduidelijk. Smaak was de grootste barriere om minder vlees te eten. Om deze reden is vlees porties verkleinen een goede oplossing. Je behoudt een gedeelte van de smaak, maar je vermindert ook de klimaatimpact. Uit dezelfde studie bleek ook dat mensen het makkelijker vonden kleinere porties te eten dan plantaardige vleesvervangers te kiezen.\n\nHet is interessant dat de hoge prijzen van vleesvervangers ook werden genoemd als grote barriere, terwijl ze vaak goedkoper zijn dan vlees.",
+            "imageURL": "",
+            "title": "👅",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0950329322000982",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -1319,7 +1609,7 @@
           "id": 2,
           "type": "question",
           "title": "Welke vorm van transport heeft de laagste footprint?",
-          "subtitle": "per tonne of food",
+          "subtitle": "per ton voedsel",
           "answerOptions": [
             {
               "id": 0,
@@ -1345,7 +1635,7 @@
           "answerExplanation": {
             "text": "Grote vrachtschepen zijn ook vervuilend, maar er past ongelofelijk veel op. Daardoor is de uitstoot per product enorm laag. \n\nDit betekent dat de CO2-uitstoot van transport veel kleiner is dan veel mensen denken.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/emissions-of-transport-methods-NL.png",
-            "imageURL (copy)": "https://www.forkranger.com/nl/de-verrassende-impact-van-het-eten-dat-per-vliegtuig-komt/"
+            "blogURL": "https://www.forkranger.com/nl/de-verrassende-impact-van-het-eten-dat-per-vliegtuig-komt/"
           }
         },
         {
@@ -1353,6 +1643,33 @@
           "type": "recipe",
           "recipeID": 21,
           "subtitle": "We kunnen in Europa bananen eten, dankzij het transport per schip vanuit tropische gebieden. Laten we ervan genieten in deze lekkere curry."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Welk type vluchten veroorzaakt meer CO2 emissies, passagiers of vracht?",
+          "type": "question",
+          "title": "Wat veroorzaakt het grootste deel van de uitstoot van de luchtvaart?",
+          "subtitle": "wereldwijd",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Passagiersvluchten 👯",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Vrachtvluchten 📦",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "81% van de emissies van vliegen komt van passagiersvluchten en 19% van vrachtvluchten. De meeste van de passagiersemissies komen van landen met een hoog inkomen.\n\nLangeafstandsvluchten hebben een veel grotere CO2-impact dan korte vluchten, maar er zijn veel meer korte vluchten. Dus ALLE korte vluchten samen dragen ongeveer evenveel CO2 bij als alle langeafstandsvluchten.",
+            "imageURL": "",
+            "title": "✈️",
+            "sourceURL": "https://theicct.org/sites/default/files/publications/ICCT_CO2-commercl-aviation-2018_20190918.pdf",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -1402,6 +1719,33 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Rijst en bonen zijn een gouden combinatie, omdat ze bij elkaar een complete bron van eiwit zijn (ze bevatten samen alle essentiële aminozuren)."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wie moet er meer letten op hun eiwitten, fitgirls of oma's?",
+          "type": "question",
+          "title": "Welke groep mensen heeft een hogere kans dat ze niet genoeg eiwit eten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Oude mensen 👵🏼",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Jonge sportschoolgangers 🏋️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Oudere mensen hebben veel meer kans om een tekort aan eiwit te hebben. Voornamelijk om twee redenen: 1) Oudere mensen eten over het algemeen minder eten 2) Onze behoefte aan eiwit neemt toe als we ouder worden.\n\nHet zijn dus niet de jonge sportschoolgangers die op eiwit moeten letten maar eerder oude mensen.",
+            "imageURL": "",
+            "title": "👵🏼",
+            "sourceURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6507527/",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },

@@ -3365,17 +3365,17 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "\"37\"",
+              "title": "37",
               "correct": false
             },
             {
               "id": 1,
-              "title": "\"222\"",
+              "title": "222",
               "correct": true
             },
             {
               "id": 2,
-              "title": "\"2390\"",
+              "title": "2390",
               "correct": false
             }
           ],
@@ -3997,12 +3997,12 @@
             },
             {
               "id": 1,
-              "title": "\"4\"",
+              "title": "4",
               "correct": false
             },
             {
               "id": 1,
-              "title": "\"8\"",
+              "title": "8",
               "correct": false
             }
           ],
@@ -8407,17 +8407,17 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "\"5\"",
+              "title": "5",
               "correct": false
             },
             {
               "id": 1,
-              "title": "\"9\"",
+              "title": "9",
               "correct": false
             },
             {
               "id": 2,
-              "title": "\"14\"",
+              "title": "14",
               "correct": true
             }
           ],

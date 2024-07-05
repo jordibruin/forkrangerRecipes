@@ -1796,6 +1796,49 @@
           "type": "recipe",
           "recipeID": 14,
           "subtitle": "Terwijl ananas altijd per boot komt, worden sugarsnaps en sperziebonen soms wel ingevlogen. Daarom is het van september tot april beter om ze uit de diepvries te kopen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "De infographic liet de verdeling zien van alle voedselkilometers. Maar wat als we naar de totale emissies kijken van voedseltransport?"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welk type transport zorgt voor de meeste transportemissies?",
+          "subtitle": "% van de totale emissies van voedseltransport",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Vrachtwagens 🚚",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Boten 🚢",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Treinen 🚅",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Vliegtuigen ✈️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "81% van de transportemissies van ons eten komen door lokale en regionale vrachtwagens!\n\nDe meeste kilometers worden door boten afgelegd, maar als het voedsel in de haven aankomt moet het nog naar de winkels gebracht worden. En zoals we in een vorige story zagen hebben vrachtwagens een relatief hoge klimaatimpact per ton voedsel dat ze transporteren. En al die emissies tellen op!",
+            "imageURL": "",
+            "title": "🚚",
+            "blogURL": "",
+            "sourceURL": "https://www.nature.com/articles/s43016-021-00225-9",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -1816,7 +1859,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Hoe krijgen we jouw vlees-liefhebbende vrienden en familie ook zo ver?"
+          "title": "Hoe krijgen we jouw vleesliefhebbende vrienden en familie ook zo ver?"
         },
         {
           "id": 2,
@@ -1851,6 +1894,44 @@
           "type": "recipe",
           "recipeID": 0,
           "subtitle": "Deze ongebruikelijke combinatie van smaken is een mooi voorbeeld van een alternatieve manier van koken zonder vlees."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel mensen zijn bereid weinig vlees te eten?",
+          "type": "text",
+          "title": "In Nederland eten 9% van de mensen daadwerkelijk weinig vlees"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel mensen *zijn bereid* weinig vlees te eten?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "42%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "86%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Natuurlijk zijn er nog steeds mensen die niet minder vlees willen eten. Maar bijna de helft van de mensen staat ervoor open! Maar niet iedereen lukt het om dit (al) daadwerlijk te doen. Zoals Gandhi zei: “Het verschil tussen wat we doen en wat we kunnen doen zou voldoende zijn om de meeste wereldproblemen op te lossen.\"\n\nMisschien heb je ook iemand in je omgeving die dit lastig vindt. Wie weet heeft diegene iets aan deze app of is het ontvangen van het Fork Ranger boek alles wat er nodig is om in actie te komen 😉",
+            "imageURL": "",
+            "title": "🫶",
+            "sourceURL": "https://www.pbl.nl/publicaties/hoe-circulair-zijn-nederlandse-consumenten",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -1905,6 +1986,35 @@
           "type": "recipe",
           "recipeID": 45,
           "subtitle": "Een mooi recept om met een minder bekende peulvrucht en tevens goede bron van eiwit te koken: Limabonen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke van deze maaltijden bevat het meeste eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Spaghetti met erwten 🍝",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rijst met kidneybonen 🫘",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Aardappel fritatta met ei 🍳",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Spaghetti met erwten bevat het meeste eiwit omdat tarweproducten veel eiwit bevatten. Een portie spaghetti (100 g) bevat 13 g eiwit. Dat is hetzelfde als twee kleine eieren en tweederde van een blik kidneybonen.\n\nDit betekent dat pasta en brood, maar ook andere tarweproducten zoals couscous en bulgur, veel meer eiwit bevatten dan de meeste mensen denken.",
+            "imageURL": "",
+            "title": "🍝"
+          }
         }
       ]
     },
@@ -1954,6 +2064,54 @@
           "type": "recipe",
           "recipeID": 66,
           "subtitle": "Bij dit recept gebruik je tomaten uit blik, dit betekent dat er geen tomaten worden verspild tijdens productie of in de winkel."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Tellen aardappelschillen als voedselverspilling?",
+          "type": "text",
+          "title": "De vorige infographic liet ons alleen de CO2 impact van 'vermijdbare' verspilling zien 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Dat omvat alle verspilling waarvan het duidelijk is dat het opgegeten had moeten worden, zoals een stuk brood 🍞"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Maar er is ook 'onvermijdbare' verspilling, zoals bananenschillen 🍌 En 'mogelijk vermijdbare' verspilling"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Aardappelschillen tellen als…🥔",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Vermijdbare voedselverspilling",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Mogelijk vermijdbare voedselverspilling",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Onvermijdbare voedselverspilling",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Aardappelschillen zijn de grootste categorie als je kijkt naar 'mogelijk vermijdbare' voedselverspilling op de Engelse lijst van huishoudafval. Weggegooide aardappelschillen hebben nog steeds een 3 keer hogere CO2 impact dan een heel seizoen Formule 1! Dus als je aardappels koopt hoef je ze niet te schillen. Een win-win voor het klimaat en voor jou, want het kost minder tijd.\n\nAndere verse groente dragen ook voor een groot deel bij aan 'mogelijk vermijdbare' voedselverspilling, zoals de stam van broccoli's.",
+            "imageURL": "",
+            "title": "🥔"
+          }
         }
       ]
     },
@@ -2004,6 +2162,34 @@
           "type": "recipe",
           "recipeID": 68,
           "subtitle": "De Midden-Oosterse invloeden van dit recept zorgen voor een rijke smaak waardoor je geen kaas zult missen."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is de CO2 impact van kaas lager als de kaas biologisch is?",
+          "type": "question",
+          "title": "Is de CO2 impact van kaas lager als de kaas biologisch is? 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Nee",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Ja",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een biologische boerderij heeft veel voordelen, zoals het verminderde gebruik van pesticiden, beter dierenwelzijn, en hogere biodiversiteit. Maar als het op vlees en zuivel aankomt, hebben de biologische varianten geen lagere CO2 impact.\n\nIn andere woorden: de biologisch variant kopen lost niet de grote klimaatimpact van dierlijke producten op. Daarom moeten we er ook minder van gaan eten.",
+            "imageURL": "",
+            "title": "🐄",
+            "blogURL": "",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2772427123000475",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -2059,6 +2245,35 @@
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Ovengerechten zijn handig om oud brood op te maken: Verkruimel het brood er bovenop voor een krokant laagje."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Voor welke categorie is 'verkeerd bewaard' de grootste oorzaak van voedselverspilling?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Fruit 🍌",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Groente 🍅",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Zuivel 🥛",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "De grootste reden om fruit weg te gooien - ongeveer de helft van alle verspilling - is omdat we het verkeerd bewaren. Dus laten we een paar dingen ophelderen:\n\n🍌 Als je wilt dat je bananen langer goed blijven, wikkel dan het topje van de bananen (dat ze bij elkaar houdt) in plastic folie. Hierdoor ontsnapt er minder ethyleen gas uit de stelen en worden ze minder snel rijp.\n\n🍋 Citrusvruchten: leg ze in de koelkast in een zakje of bakje als je ze niet binnenkort gaat gebruiken. Als je niet de hele vrucht gebruikt, knijp ze dan uit en bewaar het sap als ijsblokjes.",
+            "imageURL": "",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -2108,6 +2323,36 @@
           "type": "recipe",
           "recipeID": 59,
           "subtitle": "Nog een manier om de portiegrootte te verminderen is kleine hoeveelheden gebruiken van kazen met een sterke smaak, zoals feta."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat is een duurzame hoeveelheid kaas per week?",
+          "type": "question",
+          "title": "Wat is een duurzame hoeveelheid kaas per week? 🧀",
+          "subtitle": "per persoon als je geen andere zuivel eet, volgens het EAT-lancet rapport",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "50 g (twee grote plakken)",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "175 g (stuk Parmezaanse kaas)",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "350 g (twee pakjes Feta)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Een duurzame hoeveelheid zuivel is 250 ml melkequivalenten per dag. Als je dat allemaal voor kaas gebruikt is het ongeveer 175 g per week.\n\nToen Mareike haar kaas consumptie wilde verminderen gaf ze zichzelf een kaas budget: ze kocht precies die hoeveelheid per week en als het op was, dan was dat het.",
+            "imageURL": "",
+            "blogURL": "https://www.forkranger.com/nl/blog/hoe-eet-je-minder-zuivel-als-klimaatbewuste-kaasliefhebber/"
+          }
         }
       ]
     },
@@ -2142,7 +2387,7 @@
               "correct": false
             },
             {
-              "id": 2,
+              "id": 1,
               "title": "Laag",
               "correct": true
             }
@@ -2158,6 +2403,33 @@
           "type": "recipe",
           "recipeID": 54,
           "subtitle": "Een recept met veel ingrediënten uit blik. Maar nu weet je dit een veel lagere impact heeft dan chili con carne."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Welke tas heeft een lagere CO2 impact, papier of plastic?",
+          "type": "question",
+          "title": "Welke tas heeft een lagere CO2 impact? 🛍",
+          "subtitle": "het opnieuw gebruiken van de tas is niet meegenomen (maar is natuurlijk wel altijd een goed idee)",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Papier",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Plastic",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "De CO2 impact van een standaard papieren tas is ongeveer 8 keer hoger dan plastic. Als het van gerecycled papier is gemaakt, is het al wat beter, maar nog steeds iets hoger.\n\nNatuurlijk heeft plastic andere issues, maar het punt is dat alle single-use tassen een probleem zijn. Alleen overstappen op papier is dus niet de oplossing.",
+            "imageURL": "",
+            "blogURL": "",
+            "sourceURL": "https://howbadarebananas.com",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -2212,6 +2484,45 @@
           "type": "recipe",
           "recipeID": 63,
           "subtitle": "Een lekker alternatief voor een broodje shoarma!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wie 'mag' er meer rood vlees eten, vrouwen of mannen?",
+          "type": "text",
+          "title": "Het WNF heeft ook berekend hoe een gezond en duurzaam voedingspatroon eruit kan zien specifiek voor Nederland 🇳🇱"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Ze vonden een interessant verschil voor mannen en vrouwen 👫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wie 'mag' er meer rood vlees eten?",
+          "subtitle": "Voor gezondheidsredenen",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Mannen 👨🏽‍🦰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Vrouwen 👩🏽",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vrouwen 'mogen' meer rood vlees eten. Voor mannen kwamen ze uit op 91 g per week en voor vrouwen op 150 g. Dit is omdat ze meer ijzer nodig hebben van wegen het bloedverlies tijdens hun menstruatie.\n\nNatuurlijk kan je ook voldoende ijzer uit andere bronnen halen.",
+            "imageURL": "",
+            "title": "👩🏽",
+            "sourceURL": "https://www.wwf.nl/globalassets/pdf/rapporten/wwf-nl_2023_gezond_eten_binnen_de_grenzen_van_een_aarde_uitgebreid_v2.pdf",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -2267,6 +2578,48 @@
           "type": "recipe",
           "recipeID": 18,
           "subtitle": "Een van onze simpelste recepten, zo kun je ook op drukke dagen toch een stap zetten in de goede richting."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Nieuwe gewoonten zijn soms eng. Wat is hiervan het effect?"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "De meeste mensen voelen bij een nieuwe uitdaging ook wat angst 😨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat is het effect van angst?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Verminderde vorming van herinneringen",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Minder creatief en rationeel denken",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Kalmer en lagere hartslag",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Angst zorgt ervoor dat ons lichaam in overlevingsmodus gaat: meer adrenaline komt vrij en we gaan minder creatief en rationeel denken. Dat is nuttig als we moeten wegrennen van een tijger maar niet als we een gewoonte willen veranderen, wat ook eng kan zijn.\n\nDat is waarom kleine stapjes belangrijk zijn: als de eerste stap klein genoeg is, neemt angst niet de overhand. Bijvoorbeeld, in plaats van het doel te hebben een boek te lezen, gewoon 1 pagina per dag lezen. Of rundvlees vervangen in plaats van vegetariër te worden.",
+            "imageURL": "",
+            "title": "🏃",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -6295,5 +6648,6 @@
         }
       ]
     }
-  ]
+  ],
+  "t": ""
 }

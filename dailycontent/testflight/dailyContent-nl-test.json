@@ -4418,6 +4418,37 @@
           "type": "recipe",
           "recipeID": 11,
           "subtitle": "Wist je dat maïs ook tot de grasfamilie behoort? Polenta is een poeder gemaakt van maïs."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Voor welk doel is grasland beter dan bos?",
+          "subtitle": "in Europa",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Het voorkomen van overstromingen 🌊",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Erosie voorkomen 🪨",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Vergroten van de biodiversiteit 🌿",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Uit een studie waarin veel onderzoek naar graslanden in Europa werd geanalyseerd, bleek dat ze de biodiversiteit meer vergroten dan bossen (voor tropisch regenwoud is het waarschijnlijk een ander verhaal).\n\nMaar bossen hebben meer voordelen op het gebied van schoon water en klimaat en presteren beter op alle andere factoren, zoals het voorkomen van overstromingen en erosie.\n\nMet andere woorden: bossen zijn geweldig maar ook graslanden zijn een belangrijk ecosysteem en kunnen ook een rol spelen in het voeden van dieren, zolang het maar niet intensief is (zoals nu).",
+            "imageURL": "",
+            "title": "🌿",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0167880922000408",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -4467,6 +4498,45 @@
           "type": "recipe",
           "recipeID": 25,
           "subtitle": "Voor dit recept kun je elke soort lokale zoete appel gebruiken."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Wat zijn de voordelen van traditionele gewassoorten?",
+          "type": "text",
+          "title": "Veel van ons voedsel is afkomstig van moderne gewassoorten die zijn ontwikkeld voor hoge opbrengsten 🧑‍🔬"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Maar traditionele soorten smaken vaak beter 👩🏽‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Welke gewassoort is vaak beter bestand tegen veranderingen in de omgeving?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Moderne 🧑‍🔬",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Traditioneel 🧑‍🌾",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Moderne gewassen hebben hogere opbrengsten, maar alleen onder optimale omstandigheden. In veel gevallen doen traditionele rassen het veel beter als het lastig wordt. Ze zijn beter bestand tegen droogte en ongedierte en zijn beter aangepast aan de lokale klimaatomstandigheden.\n\nHelaas kan het lastig zijn om deze soorten te vinden: je zult vrijwel zeker verder moeten kijken dan de supermarkt.",
+            "imageURL": "",
+            "title": "🧑‍🌾",
+            "sourceURL": "https://www.mdpi.com/2071-1050/10/8/2834",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -4516,6 +4586,50 @@
           "type": "recipe",
           "recipeID": 30,
           "subtitle": "Dit recept is geïnspireerd op paella, die traditioneel wordt gemaakt met garnalen."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Hoe groot is het probleem van overbevissing?",
+          "type": "text",
+          "title": "Een van de belangrijkste problemen bij de visserij is niet de impact op het klimaat, maar overbevissing 🐟"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Dit gebeurt wanneer we meer vis vangen dan er geboren wordt, wat betekent dat de populatie niet duurzaam is 📉"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoeveel vispopulaties hebben een duurzaam niveau? 🐟",
+          "subtitle": "wat betekent dat ze niet overbevist zijn",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Bijna geen enkele",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Eén derde",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Tweederde",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Je hebt misschien gehoord dat de oceanen in 2048 leeg zouden kunnen zijn. Dit is niet waar. Het merendeel van de vispopulaties heeft nog steeds een duurzaam niveau en als we actie ondernemen is het mogelijk om ook het overige 1/3e te verbeteren.\n\nOver het geheel genomen kunnen we besluiten om duurzame hoeveelheden vis te eten en als we in het wild gevangen vis eten, om MSC-gecertificeerde vis te kopen. Het is de beste garantie (maar zeker niet perfect) dat je geen vis eet die overbevist wordt.\n\nEn hoe zit het met gekweekte vis? We zullen daar de volgende keer dat we het thema Ocean bezoeken naar kijken.",
+            "imageURL": "",
+            "title": "🐟",
+            "sourceURL": "https://www.fao.org/3/cc0461en/online/sofia/2022/status-of-fishery-resources.html",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -4565,6 +4679,39 @@
           "type": "recipe",
           "recipeID": 48,
           "subtitle": "Probeer dit recept uit India met yoghurt eens!"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Hoe wordt plantaardige yoghurt gemaakt?",
+          "type": "text",
+          "title": "De bacteriën in yoghurt kunnen veel gezondheidsvoordelen hebben "
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Bevat plantaardige yoghurt ook deze nuttige bacteriën? ",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Ja",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Nee",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Plantaardige yoghurt ontstaat ook door fermentatie met bacteriën. Dit maakt het ‘echte yoghurt’ en niet een of andere bewerkte vervanger.\n\nSojayoghurt is meestal de gezondste optie vergeleken met kokos of haver (je kunt de Nutri-score bekijken). Deze bevat veel eiwitten en wordt meestal gemaakt met zeer eenvoudige ingrediënten: water, sojabonen, calcium en bacteriën!",
+            "imageURL": "",
+            "title": "🥣",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2666833522000983#fig0001",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -4614,6 +4761,37 @@
           "type": "recipe",
           "recipeID": 85,
           "subtitle": "Een preitaart zonder vlees die elke vleesliefhebber zal overtuigen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat zou er gebeuren als iedereen op de wereld zo zou eten als een Amerikaan?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Er zou wereldvrede zijn 🇺🇸",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "We zouden alle bossen op aarde moeten kappen 🪓",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Het is niet mogelijk, de aarde is te klein 🌎",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Als iedereen zou eten als in de VS, dan zou de aarde letterlijk te klein zijn. Als iedereen zo zou eten als Nederlanders of Duitsers, dan zouden we ALLE bossen moeten kappen en elk beetje natuur voor voedselproductie moeten gebruiken.\n\nAan de andere kant, als iedereen zou eten als in India, zouden we maar de helft van het land nodig hebben dat we nu gebruiken!",
+            "imageURL": "",
+            "title": "🌎",
+            "sourceURL": "https://ourworldindata.org/agricultural-land-by-global-diets",
+            "urlButtonText": "Bekijk voor elk land"
+          }
         }
       ]
     },
@@ -4668,6 +4846,39 @@
           "type": "recipe",
           "recipeID": 80,
           "subtitle": "Aardappelen behoren tot de voedselproducten met de laagste watervoetafdruk."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoeveel van onze voedselproductie is afhankelijk van regen?",
+          "type": "text",
+          "title": "Ondanks dat we zoveel water gebruiken voor irrigatie, is veel van ons voedsel ook afhankelijk van regen 🌧 De vraag is: hoeveel?"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Wat levert meer voedsel op?",
+          "subtitle": "wereldwijd",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Irrigatie 🚰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Regen 🌧",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "60% van onze voedselproductie is afhankelijk van regen. Maar door het extremere weer als gevolg van de klimaatverandering wordt de voedselproductie minder voorspelbaar.\n\nHet voelt soms alsof mensen de wereld besturen, maar het is goed om te onthouden dat we volledig afhankelijk zijn van de natuur.",
+            "imageURL": "",
+            "title": "🌧",
+            "sourceURL": "https://doi.org/10.4060/cb7654en",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },
@@ -4722,6 +4933,40 @@
           "type": "recipe",
           "recipeID": 57,
           "subtitle": "Een simpele manier om diversiteit te ondersteunen is het koken van (plantaardige) maaltijden met veel verschillende kleuren!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Een lagere biodiversiteit kan het risico vergroten op...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Tsunami's 🌊",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Pandemieën 🦠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Vulkaanuitbarstingen 🌋",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Buitenaardse wezens 👽",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wanneer de diversiteit aan dieren en planten afneemt – door bijvoorbeeld bossen te vervangen door een monocultuur – wordt het moeilijker voor ‘specialisten’ (soorten die afhankelijk zijn van specifieke planten of ecosystemen) om te overleven en gedijen juist ‘generalistische’ dieren zoals ratten beter. Deze dieren dragen vaak gevaarlijke virussen bij zich, en omdat de eigen regulatie van ziekten door de natuur ‘gebroken’ is, wordt het gemakkelijker voor een virus om zich naar mensen te verspreiden.\n\nHet bedenken van verkeerde antwoorden op deze vraag was erg moeilijk omdat biodiversiteit bijna alles verbetert!",
+            "imageURL": "",
+            "title": "🦠"
+          }
         }
       ]
     },
@@ -4771,6 +5016,56 @@
           "type": "recipe",
           "recipeID": 81,
           "subtitle": "Zoals we eerder hebben gezien, zijn peulvruchten goed voor de bodem. Hier gebruiken we hummus als ‘bodem’ van deze heerlijke plaattaart."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Hoe kunnen we de klimaatimpact van kunstmest verkleinen?",
+          "type": "text",
+          "title": "Kunstmest is niet alleen maar slecht en iets minder dan de helft van alle mensen op aarde is ervan afhankelijk 🌍"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Het grootste probleem is dat we vaak te veel gebruiken. Maar er zijn oplossingen✨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "In een groot experiment van tien jaar konden Chinese boeren de opbrengst verhogen terwijl ze MINDER kunstmest gebruikten 🌾"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Hoe hebben ze dit bereikt?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Betere technologie om kunstmest toe te passen 🚜",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Betere bemesting ⚡️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Boeren trainen 👨🏼‍🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Door boeren op te leiden, verhoogden ze de opbrengst van maïs, rijst en tarwe, terwijl ze het gebruik van kunstmest verminderden. Dit verminderde de klimaatimpact met 14-22%!\n\nZe hebben bijvoorbeeld geholpen om de timing van het planten van gewassen te verbeteren en in plaats van de bemesting in één keer in twee kleinere batches uit te voeren.",
+            "sourceURL": "https://www.nature.com/articles/nature25785",
+            "urlButtonText": "Bekijk de bron",
+            "imageURL": "",
+            "title": "👨🏼‍🌾"
+          }
         }
       ]
     },
@@ -4825,6 +5120,42 @@
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "Avocado's zijn erg dorstige planten, dus wilden we heerlijke wraps maken zonder avocado's."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Waarom zou het ons iets kunnen schelen hoeveel regenwater een product nodig heeft?",
+          "type": "text",
+          "title": "Dus als groen water vooral uit regen bestaat, waarom zouden we ons er dan druk over maken? 🌧"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Producten met een lage groene watervoetafdruk zijn duurzamer omdat...",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "…de kans op droogtes kleiner is☀️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "…de bodemgezondheid hoger is 🪱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "…de watervervuiling vermindert ☠️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Het merendeel van ons voedsel wordt geproduceerd met regen. Maar de klimaatverandering maakt het weer extremer, waardoor het afhankelijker worden van regen onvoorspelbaarder wordt.\n\nEn als het niet regent, heb je nog steeds 2170 liter water nodig om het gras en de maïs voor een biefstuk te laten groeien. Dus tenzij je meer blauw water gebruikt, is er geen biefstuk. Dit is de reden waarom ‘groen water’ belangrijk is en waarom het eten van voedsel dat minder water nodig heeft duurzamer is.",
+            "imageURL": "",
+            "title": "🌧"
+          }
         }
       ]
     },
@@ -4879,6 +5210,50 @@
           "type": "recipe",
           "recipeID": 61,
           "subtitle": "Deze ingeblikte ingrediënten creëren een heerlijke maaltijd rond de knolselderij, een ‘vergeten’ groente voor de wintermaanden."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Wat zijn de voordelen van tomaten uit blik?",
+          "type": "text",
+          "title": "Blikjes kunnen eindeloos gerecycled worden maar dit proces kost veel energie ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Wat zijn de voordelen van tomaten uit blik?",
+          "type": "text",
+          "title": "Maar er zijn nog andere voordelen aan tomaten uit blik 🥫"
+        },
+        {
+          "id": 6,
+          "type": "question",
+          "title": "Wat is een voordeel van tomaten uit blik?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Betere prijs voor boeren💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Minder pesticiden ☠️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Minder verspilde tomaten🗑",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Tomaten uit blik worden minder verspild, omdat we in onze eigen keukens minder verspillen dan bij verse tomaten. In beide gevallen is er nog steeds best wat verspilling in de keten. In totaal worden 54% van de verse tomaten verspild en 41% van de tomaten uit blik.\n\nEn omdat tomaten uit blik direct na de oogst worden verwerkt, behouden ze ook meer voedingsstoffen dan getransporteerde verse tomaten.",
+            "imageURL": "",
+            "title": "🥫",
+            "sourceURL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfpe.13509",
+            "urlButtonText": "Bekijk de bron"
+          }
         }
       ]
     },

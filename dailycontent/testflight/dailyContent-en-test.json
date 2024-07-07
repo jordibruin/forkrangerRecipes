@@ -2677,6 +2677,35 @@
           "type": "recipe",
           "recipeID": 39,
           "subtitle": "A great dish for whole grain spaghetti. While not all types of pasta are available as whole grain variant, most supermarkets have whole grain spaghetti."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happens to the wheat bran and germ after being removed?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Burnt 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Fed to animals 🐷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Used for vitamin supplements 💊",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "A benefit of having animals in the food system is that they can eat leftover products, like the bran and germ of refined grains. But that only makes sense if they are leftovers that we cannot eat. In this case it would be healthier and more sustainable if we would eat those parts of the grain ourselves!",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -2732,6 +2761,32 @@
           "type": "recipe",
           "recipeID": 49,
           "subtitle": "To keep avocados more special, we’ve decided to only use them for authentic Mexican recipes, like these fajitas."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Does the average European eat more butter or more avocados?",
+          "type": "question",
+          "title": "What does the average European eat more of?",
+          "subtitle": "in kg",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Butter 🧈",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Avocados 🥑",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The average European eats three times more butter than avocados (and 11 times more beef). So even though avocados have some issues, it’s clear that reducing avocado consumption is a MUCH lower priority than reducing meat and dairy.\n\nThe average European eats about 8 avocados per year. So for our avocado budget we rounded this number up to 1 per month. So if we stick to this avocado budget, avocado consumption won’t grow (and probably decrease).",
+            "imageURL": "",
+            "title": "🥑",
+            "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
+          }
         }
       ]
     },
@@ -2786,6 +2841,36 @@
           "type": "recipe",
           "recipeID": 62,
           "subtitle": "With these wraps you can practice choosing the whole grain option."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How can you recognize whole grain products?",
+          "type": "question",
+          "title": "How can you recognize whole grain products? 🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Check for dark color",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Check for ‘whole grain’ label",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Check the ingredients",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The only way to make sure a product is whole grain is to check the ingredient list and find the word ‘whole grain’. Ingredients are listed according to the quantity. So for a product like bread, whole grain should be the first word.\n\nYou can also find whole grain cookies, but then the first ingredient is usually sugar. So while it’s a whole grain version of a cookie, it’s still a cookie full of sugar and not the kind of whole grain product that is healthy.",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -2835,6 +2920,44 @@
           "type": "recipe",
           "recipeID": 35,
           "subtitle": "In most tortellini types, a bit of cheese is already hidden inside. That’s why there’s no need to sprinkle more on top."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "By how much should we reduce our dairy consumption for a sustainable level?",
+          "type": "text",
+          "title": "The EAT-Lancet report calculated a healthy & sustainable amount of dairy 🥛"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much should we reduce dairy consumption to meet those goals? ⬇️",
+          "subtitle": "for average North American & European diet",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "20%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "80%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "To get to a sustainable diet, we need to cut dairy consumption roughly in half (for an average North American/European diet). Generally, we can say that a sustainable amount is about one portion per day. For example, either a bowl of yogurt or a cheese sandwich.",
+            "imageURL": "",
+            "title": "🥛",
+            "sourceURL": "https://www.fao.org/gift-individual-food-consumption/data/en",
+            "urlButtonText": "Check current consumption"
+          }
         }
       ]
     },
@@ -2880,6 +3003,44 @@
           "type": "recipe",
           "recipeID": 42,
           "subtitle": "A one-pot curry with spinach. You can buy frozen spinach if it’s not in season."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is it possible to have sustainable heated greenhouses?",
+          "type": "text",
+          "title": "Heated greenhouses also have benefits: they can produce more food with less land and fertilizer ⬇️"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "So what if we don’t heat them with fossil fuel but with geothermal energy? ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "The footprint of spinach from a greenhouse would be lower than transporting it from Spain ",
+          "subtitle": "for a greenhouse with geothermal energy in the Netherlands",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes ✅",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "No ❌",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "If we can replace gas with geothermal energy and other renewables it will be more sustainable to have heated greenhouses than to transport vegetables from Spain to the Netherlands. That’s why David Attenborough promoted them in his documentary ‘A life on our planet’.\n\nSo how are we doing? From 2010 to 2022 the share of sustainable energy for Dutch greenhouses increased from 2% to 15%. So things are improving, but we still have a long way to go.",
+            "imageURL": "",
+            "title": "⚡️",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -2934,6 +3095,43 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Did you know that many chilli’s contain cocoa, too? This one contains another rainforest product - cinnamon."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is dark chocolate better for the climate than milk chocolate?",
+          "type": "text",
+          "title": "Let’s compare two chocolate bars: one with milk and the other with dark chocolate (both without deforestation) 🪓"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Milk chocolate contains milk, but dark chocolate contains twice as much cacao… 🍫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which one has a lower carbon footprint? 🍫",
+          "subtitle": "if there’s no deforestation",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Dark",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Milk",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The answer all depends on the cacao: if it comes from deforestation areas, dark chocolate is worse because it uses double the amount of cacao. But if it’s farmed sustainably, dark chocolate avoids the milk and has a lower footprint.\n\nAn important benefit of dark chocolate is that you eat less of it because the taste is more intense. So we’re fans of dark!",
+            "imageURL": "",
+            "title": "🍫"
+          }
         }
       ]
     },
@@ -2988,6 +3186,42 @@
           "type": "recipe",
           "recipeID": 9,
           "subtitle": "This Chilli Spaghetti is a great pasta recipe where you won’t miss cheese. Try it yourself!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much milk is required to make yogurt?",
+          "type": "text",
+          "title": "While butter and cheese require a lot of milk, you only need 1 liter of milk for 1 kg of yogurt 🥣 But not all yogurts are the same."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which type of yogurt requires more milk?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Fruit yogurt 🍑",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Greek yogurt 🇬🇷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Lactose-free yogurt 🐮",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Greek yogurt has about three times the fat content of regular yogurt, so it requires roughly three times more milk. Which means it has a higher carbon footprint.",
+            "imageURL": "",
+            "title": "🇬🇷"
+          }
         }
       ]
     },
@@ -3037,6 +3271,33 @@
           "type": "recipe",
           "recipeID": 52,
           "subtitle": "Did you know that couscous is also made from wheat? Try this delicious Fennel and Orange Couscous."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Which health aspect is most important when it comes to carbs?",
+          "type": "question",
+          "title": "What is more important for your health? 🍞",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Not eating too many carbs",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Eating higher-quality carbs",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Much more important than how many carbs you eat is the type of carbs. It’s hard to understate how much healthier the whole-grain option is.\n\nUnrefined and whole-grain carbs are an essential part of a healthy diet. So less cornflakes, basmati rice, white bread, and traditional pasta. And more oats, whole-grain bread, and whole-grain pasta.",
+            "imageURL": "",
+            "title": "🍞",
+            "sourceURL": "https://www.hsph.harvard.edu/nutritionsource/carbohydrates/",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3091,6 +3352,44 @@
           "type": "recipe",
           "recipeID": 1,
           "subtitle": "The aubergine in this curry creates a meaty texture while the chickpeas add some protein."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many chickens do you need to replace one cow?",
+          "type": "text",
+          "title": "One cow is much heavier than one chicken, and provides a lot more meat 🐄"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many chickens do you need to replace one cow? 🐓",
+          "subtitle": "to produce an equal amount of meat",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "37 chickens",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "222 chickens",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "2390 chickens",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Replacing beef with chicken saves a lot of emissions, but it’s controversial because it requires more animals, and a lot of them are treated poorly.\n\nWe see replacing beef with chicken as a first step for activating real meat lovers. But in the end, we need to reduce all types of meat, including chicken, to reach a sustainable diet (see our ‘compass’ with all steps). If you buy chicken, choose organic, where the chickens have a better quality of life. It’s more expensive but that also helps to eat less of it.",
+            "imageURL": "",
+            "title": "🐓",
+            "blogURL": "https://www.forkranger.com/about/compass/",
+            "urlButtonText": "View our Compass 🧭"
+          }
         }
       ]
     },
@@ -3150,6 +3449,45 @@
           "type": "recipe",
           "recipeID": 13,
           "subtitle": "To make a delicious risotto, you need to add some butter (for special occasions 😉) or margarine at the end. "
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is margarine healthier than butter?",
+          "type": "text",
+          "title": "Many people think that margarine is bad for your health because of trans-fats 👎"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But since 2021, trans-fats have been banned in both the EU and the USA! 🎉 What about other health aspects?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is healthier if you have high cholesterol? 🧈",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Butter",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Margarine",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Margarine or plant-based butter contains fewer saturated fats than butter, making it a healthier choice for people with high cholesterol levels.\n\nHowever, margarine does fall under the category of ultra-processed foods. We don’t yet know the long-term health effects of margarine (without trans-fats).\n\nShould we worry about margarine being ultra-processed? What we can say: the typical person eats much more other ultra-processed foods. So if you regularly eat a hot dog, chocolate, a bag of chips, or cookies, it doesn’t really matter for your health whether you use butter or margarine.",
+            "imageURL": "",
+            "title": "🧈",
+            "blogURL": "https://www.youtube.com/watch?v=wsd6D39EoTc",
+            "urlButtonText": "Viewing tip 🎬"
+          }
         }
       ]
     },

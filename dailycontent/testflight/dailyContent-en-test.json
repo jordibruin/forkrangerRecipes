@@ -922,6 +922,42 @@
           "type": "recipe",
           "recipeID": 24,
           "subtitle": "Most of the world’s soy comes from Brazil, so here is meatless version of a Brazilian classic."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Most meat alternatives are made with soy beans 🍔"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What makes soy special compared to other beans? 🫘",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More protein",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Easier to digest",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Tastier",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Soybeans have around 50% more protein than kidney beans. This is one reason why they’re a good alternative to meat. By the way, the difference between soybeans and edamame is only the moment when the beans are harvested.\n\nThere is another bean with a similar amount of protein that also grows better in Europe than soy: lupin beans.",
+            "imageURL": "🫘",
+            "sourceURL": "https://www.tabledebates.org/sites/default/files/2021-12/FCRN Building Block - Soy_food%2C feed%2C and land use change (1).pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -981,6 +1017,37 @@
           "type": "recipe",
           "recipeID": 28,
           "subtitle": "Meat has a strong umami flavor, but this recipe is also full of umami from the mushrooms, soy sauce, and fried onions."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much of the footprint of beef is caused by methane? 🐄",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "85%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "50% of the climate impact of beef comes from methane. That’s a lot, but even if we take away the methane footprint, beef would have a higher carbon footprint than pork and chicken.\n\nFor goat and sheep meat methane plays an even bigger role at 65% of the total emissions.",
+            "imageURL": "",
+            "sourceURL": "https://ourworldindata.org/carbon-footprint-food-methane",
+            "urlButtonText": "View source",
+            "title": "🐄"
+          }
         }
       ]
     },
@@ -1035,6 +1102,43 @@
           "type": "recipe",
           "recipeID": 37,
           "subtitle": "This is a great recipe to add any leftover veggies you have."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "At ‘Base camp’ we showed you an infographic about Project Drawdown. The conclusion: reduced food waste is the number 1 solution for the climate 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "By how much do we need to reduce food waste to reach the Drawdown goal? ⬇️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "70%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "90%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "There will always be some food waste, but the goal in Project Drawdown (for Scenario 1) is to reduce food waste by 50%. We can do this!\n\nIt would save ten times more CO2 than switching 1/3 of all cars to electric.",
+            "imageURL": "",
+            "title": "🗑",
+            "sourceURL": "https://drawdown.org/solutions/reduced-food-waste",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1089,6 +1193,38 @@
           "type": "recipe",
           "recipeID": 19,
           "subtitle": "Cheese has a strong umami flavor but you can also get it from ingredients. In this case: soy sauce."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much cheese do vegetarians eat compared to meat eaters?",
+          "type": "question",
+          "title": "How much cheese do vegetarians eat compared to meat eaters? 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25% more ",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50% more",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "75% more",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vegetarians eat almost twice as much cheese as meat eaters. Overall, it’s still more sustainable than a high-meat diet. But as one of our followers concluded: it’s better to eat salami some days than cheese every day.",
+            "imageURL": "",
+            "title": "🧀",
+            "sourceURL": "https://www.mdpi.com/2072-6643/9/12/1317",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1138,6 +1274,53 @@
           "type": "recipe",
           "recipeID": 16,
           "subtitle": "A delicious recipe without animal products, so no need for feed!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "8% of cereals are used for industry. What does that mean?",
+          "type": "text",
+          "title": "The infographic showed that 8% of the cereals is used for Industry 🏭"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "For example one of the products is wheat starch powder, used for many different things 🌾"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is NOT something that wheat starch is used for?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Glue for cardboard 📦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The outer part of a pill 💊",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Motor oil 🛢",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "Extending shelf life of food products 🍿",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Okay this is probably not the most important to remember, we were curious what that industry part is about.\n\nOn the one hand, it’s nice that we can use natural materials in all these products. But it’s also complicated if this is in competition with land for growing food.\n\nIt made us realize once again that our Earth is limited and we should use the space responsibly.",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -1193,6 +1376,43 @@
           "type": "recipe",
           "recipeID": 67,
           "subtitle": "A pasta recipe to practice the right amount of pasta you need per person to avoid leftovers."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the best strategy to avoid wasting pasta?",
+          "type": "text",
+          "title": "What is the best strategy to avoid wasting pasta?"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "So what if you always cook the right amount of pasta and if someone is still hungry, then you cook a bit extra 🔥 Would that be better? "
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Wasting 100g leftover pasta",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Boiling water 2nd time to cook extra pasta",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Let’s imagine two scenarios: in the first you cook 400 g of pasta but it’s too much and you throw away 100 g. In the second, you cook 300 g of pasta but it turns out it’s not enough, so you cook an extra 100 g.\n\nThe carbon footprint for boiling the water again in the second scenario is five times lower than the footprint of wasting pasta. So it’s better to cook exactly what you expect to eat, and if necessary cook some extra.",
+            "imageURL": "",
+            "title": "🍝"
+          }
         }
       ]
     },
@@ -1243,6 +1463,38 @@
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "A tribute to Indonesia, where a lot of rainforest has been destroyed to make space for palm oil plantations."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Does Nutella with palm oil have a higher footprint than beef?",
+          "type": "text",
+          "title": "Nutella is known as a chocolate-hazelnut spread but 1/3 of the ingredients is palm oil 😳"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What has a higher carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 jar Nutella 🍫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 beef hamburger 🍔",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Even though palm oil is causing a lot of problems, the carbon footprint for food products that use palm oil is still much lower than for meat and dairy. And this includes the impact of deforestation.\n\nOne hamburger has the same footprint as three jars of Nutella.",
+            "imageURL": "",
+            "title": "🍔",
+            "blogURL": "https://www.forkranger.com/why-palm-oil-is-not-as-bad-as-its-reputation/"
+          }
         }
       ]
     },
@@ -1297,6 +1549,44 @@
           "type": "recipe",
           "recipeID": 7,
           "subtitle": "Since you probably know enough recipes with bacon, here is a nice potato recipe where you don’t need meat."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the biggest barrier for people to reduce meat?",
+          "type": "text",
+          "title": "A study in the Netherlands looked at how young adults think about eating less meat."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What was the biggest barrier for reducing meat?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "High prices of meat alternatives 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Habit 🕐",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Taste 👅",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "By far the biggest barrier to eating less meat was taste. This is why reducing portion sizes can be a good option. You keep part of the taste but also reduce the climate impact. In the same study, people also generally found it a little easier to reduce portion size than to replace meat with a plant-based alternative.\n\nIt’s interesting that the high prices of meat alternatives were also mentioned as a big barrier, even though they are generally cheaper than meat.",
+            "imageURL": "",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0950329322000982",
+            "urlButtonText": "View source",
+            "title": "👅"
+          }
         }
       ]
     },
@@ -1357,6 +1647,33 @@
           "type": "recipe",
           "recipeID": 21,
           "subtitle": "We can eat bananas in mainland Europe thanks to the transport by ship from banana-producing regions. Let’s enjoy them in this wonderful curry."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What type of flight causes more emissions, passengers or cargo?",
+          "type": "question",
+          "title": "Which causes most of the emissions from flying?",
+          "subtitle": "worldwide",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Passenger flights 👯",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Cargo flights 📦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "81% of the emissions of flying come from passenger flights, and 19% from cargo. Most of those passenger emissions come from high-income countries.\n\nLong-distance flights have a much higher carbon footprint than short flights, but there are many more short flights. So ALL short flights together contribute roughly the same amount of CO2 as all long-distance flights.",
+            "imageURL": "",
+            "title": "✈️",
+            "sourceURL": "https://theicct.org/sites/default/files/publications/ICCT_CO2-commercl-aviation-2018_20190918.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1382,7 +1699,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Somone with the average Western diets eats...",
+          "title": "Someone with the average Western diets eats...",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1406,6 +1723,33 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Rice and beans is a great combination because together they provide a complete source of protein (all essential amino acids)."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Who needs to pay more attention to protein, gym bros or grandmothers?",
+          "type": "question",
+          "title": "Which group has a higher chance of not eating enough protein?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Old people 👵🏼",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Young gymgoers 🏋️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Older people are more likely to have a shortage of protein. For two reasons: 1) Older people generally eat less food 2) Our need for protein increases with old age.\n\nSo it’s not young gymgoers but old people who should pay attention to protein.",
+            "imageURL": "",
+            "sourceURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6507527/",
+            "urlButtonText": "View source",
+            "title": "👵🏼"
+          }
         }
       ]
     },

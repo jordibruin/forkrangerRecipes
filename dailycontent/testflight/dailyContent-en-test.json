@@ -1800,6 +1800,48 @@
           "type": "recipe",
           "recipeID": 14,
           "subtitle": "While pineapple comes by boat, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s a good option to buy them frozen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The infographic showed the division of all food miles. But what if we look at total emissions of transporting food? ☁️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which mode of transport causes most of the transport emissions?",
+          "subtitle": "% of total food transport emissions",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Truck 🚚",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Boat 🚢",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Train 🚅",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Airplane ✈️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "81% of all food transport emissions come from local/regional truck transport!\n\nMost food miles are covered by boat but once food arrives in the harbor they still need to be transported to stores. As we saw in a previous story, trucks have a relatively high carbon footprint for every ton of food they transport. And all of those emissions add up!",
+            "imageURL": "",
+            "title": "🚚",
+            "sourceURL": "https://www.nature.com/articles/s43016-021-00225-9",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1855,6 +1897,44 @@
           "type": "recipe",
           "recipeID": 0,
           "subtitle": "This is a fantastic recipe to discover a completely new taste."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many people are willing to eat low amounts of meat?",
+          "type": "text",
+          "title": "In the Netherlands, 9% of people are eating low amounts of meat 👍"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many are *willing* to eat low amounts of meat? 🙋",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "42%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "86%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Of course there are still many people who don’t want to eat less meat. But almost half of the population is open to it! But they’re not doing it, yet. As Gandhi said: “The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.”\n\nYou probably also have someone like that in your environment. So maybe learning about this app or receiving a Fork Ranger book is all they need to take action 😉",
+            "imageURL": "",
+            "title": "🫶",
+            "sourceURL": "https://www.pbl.nl/publicaties/hoe-circulair-zijn-nederlandse-consumenten",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1909,6 +1989,35 @@
           "type": "recipe",
           "recipeID": 45,
           "subtitle": "A great recipe to cook with a less common type of legume and source of protein: lima beans."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which of these meals contains the most protein?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Spaghetti with peas 🍝",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rice with kidney beans 🫘",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Potato frittata with egg 🍳",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Spaghetti with peas has the most protein because wheat products contain a lot of protein. One portion of spaghetti (100 g) has 13 g of protein. That’s the same amount as two small eggs and two-thirds of a can of kidney beans.\n\nThat means that pasta and bread, but also other wheat products like couscous and bulgur, have a lot more protein than most people think.",
+            "imageURL": "",
+            "title": "🍝"
+          }
         }
       ]
     },
@@ -1958,6 +2067,54 @@
           "type": "recipe",
           "recipeID": 66,
           "subtitle": "This recipe uses canned tomatoes, which means no tomatoes were wasted in the process."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Do potato peels count as food waste?",
+          "type": "text",
+          "title": "The previous infographic only showed the carbon footprint of ‘avoidable’ food waste 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "That includes all waste where it’s obvious that it should have been eaten, like a piece of bread 🍞"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there is also ‘unavoidable’ food waste like banana peels 🍌 And ‘possibly avoidable’ food waste."
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Potato peels count as… 🥔",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Avoidable food waste",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Possibly avoidable food waste",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Unavoidable food waste",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Potato peels are the biggest category in the UK household list of ‘possibly avoided food waste’. Wasted potato peels still have a 3 times higher footprint than an entire season of Formula 1! So if you buy potatoes you don’t have to peel them. A win-win for the climate and you because it also saves time.\n\nOther fresh vegetables also contribute a lot to ‘possibly avoidable’ food waste, such as broccoli stems.",
+            "imageURL": "",
+            "title": "🥔"
+          }
         }
       ]
     },
@@ -2008,6 +2165,33 @@
           "type": "recipe",
           "recipeID": 68,
           "subtitle": "The Middle-Eastern flavors of this recipe create a rich meal where you won’t miss cheese.."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is the carbon footprint of cheese lower if it’s organic? ",
+          "type": "question",
+          "title": "Is the carbon footprint of cheese lower if it’s organic? 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "No",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Yes",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "An organic farm has many benefits, like the reduced use of pesticides, better animal welfare, and higher biodiversity. But when it comes to meat or dairy, the organic version doesn’t have a lower carbon footprint.\n\nIn other words: buying organic doesn’t solve the huge climate impact of animal products. We also have to eat less of them.",
+            "imageURL": "",
+            "title": "🐄",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2772427123000475",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2063,6 +2247,35 @@
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Oven recipes are a great way to use old bread: just crumble it on top for a crunchy layer."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "For which food does ‘wrong storage’ cause the most food waste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Fruit 🍌",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Vegetables 🍅",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Dairy 🥛",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The main reason for wasting fruit - almost half of the waste - happens due to wrong storage. So let’s clear some things up:\n\n🍌 If you want your bananas to last longer, you can wrap the little top of bananas (which holds them together) with plastic foil. This reduces ethylene gas escape from the stems and slows down the ripening.\n\n🍋 Citrus fruits: store in the fridge in a bag or container if you don’t plan to use them soon. If you have leftovers, squeeze them and keep the juice as ice cubes.",
+            "imageURL": "",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -2112,6 +2325,37 @@
           "type": "recipe",
           "recipeID": 59,
           "subtitle": "Another way to reduce portion sizes is using small amounts of strong-tasting cheese, such as feta."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is a sustainable amount of cheese per week?",
+          "type": "question",
+          "title": "What is a sustainable amount of cheese per week? 🧀",
+          "subtitle": "per person if you don’t eat other dairy, according to the EAT-Lancet report",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "50 g (two big slices)",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "175 g (Parmesan triangle)",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "350 g (two packs of feta)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "A sustainable amount of dairy is 250 ml of whole milk equivalents per day. If you use all of that for cheese, it translates to about 175 g per week.\n\nWhen Mareike wanted to reduce her cheese consumption she used this to give herself a cheese budget: she bought that amount per week and once it was gone, that was it.",
+            "imageURL": "",
+            "title": "🧀",
+            "blogURL": "https://www.forkranger.com/blog/how-to-eat-less-dairy-as-a-climate-concious-cheese-lover/"
+          }
         }
       ]
     },
@@ -2146,7 +2390,7 @@
               "correct": false
             },
             {
-              "id": 2,
+              "id": 1,
               "title": "Low",
               "correct": true
             }
@@ -2162,12 +2406,39 @@
           "type": "recipe",
           "recipeID": 54,
           "subtitle": "A recipe that uses a lot of cans. Now you know that it still has a much lower impact than a chilli con carne."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Which bag has a lower footprint, paper or plastic?",
+          "type": "question",
+          "title": "Which bag has a lower carbon footprint? 🛍",
+          "subtitle": "re-using the bag is not taken into account (but is of course always a good idea)",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Paper",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Plastic",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The carbon footprint of a standard paper bag is 8 times higher than plastic. If it’s recycled it’s much better, but still slightly higher.\n\nOf course plastic has other issues but the point is that all single-use bags are a problem. Only shifting to paper is not the solution.",
+            "imageURL": "",
+            "title": "🛍",
+            "sourceURL": "https://howbadarebananas.com",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
     {
       "id": 29,
-      "notificationTitle": "Today: The Big Ranch (the last one!)",
+      "notificationTitle": "Today: The Big Ranch",
       "notificationText": "Introducing a red meat budget 🍔 - Recipe of the day: Pita Bread with Mushrooms",
       "home": {
         "title": "Introducing a red meat budget",
@@ -2216,6 +2487,45 @@
           "type": "recipe",
           "recipeID": 63,
           "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Who should eat more red meat, men or women?",
+          "type": "text",
+          "title": "The WWF also calculated what a healthy and sustainable diet should look like in the Netherlands 🇳🇱"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "They found an interesting difference for men and women 👫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Who is ‘allowed’ to eat more red meat?",
+          "subtitle": "for health reasons",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Men 👨🏽‍🦰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Women 👩🏽",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Women are ‘allowed’ more red meat. For men it’s 91 g per week and for women 150 g. This is because they need more iron because of the blood loss during menstruation.\n\nOf course you can also get enough iron from other sources.",
+            "imageURL": "",
+            "title": "👩🏽",
+            "sourceURL": "https://www.wwf.nl/globalassets/pdf/rapporten/wwf-nl_2023_gezond_eten_binnen_de_grenzen_van_een_aarde_uitgebreid_v2.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2271,6 +2581,48 @@
           "type": "recipe",
           "recipeID": 18,
           "subtitle": "One of our most simple recipes. So it’s to also set a small step on busy days."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "New habits can be scary. What’s the effect of that?"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "For most people, a new challenge triggers some amount of fear 😨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What does fear do?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Weaker memory formation 🧠",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Less creative and rational thinking 🤔",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "More calm and lower heart rate 🫀",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Fear puts our body into survival mode: more adrenaline and less creative and rational thinking. That’s useful for running away from a tiger but not for changing a habit, which can also be scary.\n\nThis is why small steps are important: if the first step is small enough it doesn’t trigger fear. For example, instead of having the goal to read a book, set a goal to read 1 page per day. Or replace beef instead of becoming vegetarian.",
+            "imageURL": "",
+            "title": "🏃",
+            "blogURL": ""
+          }
         }
       ]
     },

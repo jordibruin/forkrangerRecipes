@@ -3542,6 +3542,31 @@
           "type": "recipe",
           "recipeID": 22,
           "subtitle": "A part of the smokey flavor of this delicious chilli comes from adding coffee!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the most effective way to reduce the footprint of a cappuccino?",
+          "type": "question",
+          "title": "What helps more to reduce the footprint of a cappuccino?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 espresso instead of 2 ☕️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Replace milk with oat milk 🥛",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The carbon footprint of cow’s milk is about three times higher than oat milk. Since milk is the biggest contributor to the impact of a cappuccino, switching to oat milk (or a different plant-based milk) is the best option.",
+            "imageURL": "",
+            "title": "🥛"
+          }
         }
       ]
     },
@@ -3587,7 +3612,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Mussels filter the extra nitrogen out of the water. They then poop it out and it becomes sediment. A reef full of mussels also creates habitat for more fish.\n\nSo eating mussels is great for nature!\n",
+            "text": "Mussels - but also oysters and clams - can filter out the nitrogen. But does that mean that they contain chemical pollution? No, because nitrogen is not a toxic substance. Nitrogen is a part of nature. The problem in many waters is that there is way too much of it because we used too much fertilizer. ",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/mussels.png"
           }
         },
@@ -3595,7 +3620,57 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 34,
-          "subtitle": "Legumes like chickpeas also help with nitrogen issues: their roots can feed nitrogen into the soil so a farmer needs less fertilizer.\n"
+          "subtitle": "Legumes like chickpeas also help with nitrogen issues: their roots can feed nitrogen into the soil so a farmer needs less fertilizer."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "If mussels filter the water, are they safe to eat?",
+          "type": "text",
+          "title": "If mussels filter the water and the water contains plastic… shouldn’t mussels have an extra high amount of microplastics? 🤔"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "First, the sad part 😩 Microplastics have been found almost everywhere, even in salt or honey (it’s still not clear if this has health effects)."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The ‘good news’ is that mussels don’t have higher levels of microplastics 😅 So how do they deal with pollution?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What do mussels do with polluting particles?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Eat and poop out 💩",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Eat and use to build their shells 🦪",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Separate food and pollution before eating 🔀",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The mussels pump water through their gills, which are like tiny fishing nets. They are covered with sticky slime to catch all the particles in the water. Then it all enters a 'conveyor belt' to the mussel’s mouth. Here it is sorted: tiny plankton goes into the mouth and other particles are thrown out, wrapped in sticky slime.\n\nSo the mussels eat the plankton and package the other polluting particles into small balls that are left on the seafloor. This is how they clean the water but are still healthy to eat.",
+            "imageURL": "",
+            "blogURL": "https://www.youtube.com/watch?v=DxEpyjWDB6I",
+            "urlButtonText": "Viewing tip 🎬",
+            "title": "🔀"
+          }
         }
       ]
     },
@@ -3650,6 +3725,49 @@
           "type": "recipe",
           "recipeID": 33,
           "subtitle": "A summer recipe to enjoy when rocket, green beans, and bell pepper are in season."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What percentage do fruits and vegetables contribute to the carbon footprint of the EAT Lancet diet?",
+          "type": "text",
+          "title": "The advice for a sustainable and healthy diet is to eat less meat and dairy. And way more vegetables 🥕"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What percentage do fruits and vegetables contribute to the carbon footprint of the EAT Lancet diet? 🥦",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "12%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "48%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The carbon footprint of fruits and vegetables becomes 3x bigger than right now. But it’s still only a small part of the total because they have a really low footprint. The total footprint of the average European diet would decrease by more than 50% if you switch to more vegetables and less meat.\n\nSo eating seasonally becomes a little more important when you eat less meat and dairy and more vegetables. But we think the main benefits of seasonal food are not the climate footprint. Read more in our blog.",
+            "imageURL": "",
+            "blogURL": "https://www.forkranger.com/blog/why-the-benefits-of-seasonal-food-cant-be-measured-in-co2/",
+            "title": "🥦"
+          }
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "So if fruits and veggies currently make up 4% of the CO2 footprint… how much would it be in a sustainable diet? 🥗"
         }
       ]
     },
@@ -3704,6 +3822,37 @@
           "type": "recipe",
           "recipeID": 27,
           "subtitle": "Salmon has a unique flavor that’s hard to imitate. We don’t have any fish recipes, but this creamy pasta recipe with saffron might have an even more unique flavor."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Since 1990, the total amount of wild-caught fish has… 🎣",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Increased",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Stayed the same",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Decreased",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Since 1990 we are catching the same amount of fish each year. Global fish consumption did increase but all of that extra growth came from farmed fish. Farmed fish has other issues that we will look at later. But the good news is that the often heard claim that the oceans will be empty by 2048 is complete nonsense.",
+            "imageURL": "",
+            "title": "🎣",
+            "blogURL": "https://ourworldindata.org/fish-and-overfishing#will-the-oceans-be-empty-by-2048",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -3758,6 +3907,37 @@
           "type": "recipe",
           "recipeID": 50,
           "subtitle": "Here is your chance to cook with fermented white cabbage, also known as sauerkraut."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "When are vegetables the cheapest?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Summer ☀️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Autumn 🍁",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Winter ❄️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We did some calculations for the Netherlands. Vegetables are on average 13,1% cheaper at the end of summer – when most things are harvested – compared to the prices at the following end of winter.",
+            "imageURL": "",
+            "sourceURL": "https://www.agrimatie.nl/ThemaResultaat.aspx?subpubID=2232&themaID=3596&indicatorID=2414&sectorID=2539",
+            "urlButtonText": "View source",
+            "title": "☀️"
+          }
         }
       ]
     },
@@ -3807,6 +3987,38 @@
           "type": "recipe",
           "recipeID": 32,
           "subtitle": "Nasi Goreng is delicious when you serve it with a fried egg."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is a sustainable amount of eggs per week?",
+          "type": "question",
+          "title": "What is a sustainable amount of eggs per week? 🥚",
+          "subtitle": "per person, based on the EAT-Lancet diet",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1-2",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": 4,
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": 8,
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Of the most common animal products, eggs have the lowest footprint. The recommendation is 1-2 per week. But we already saw they have a much lower footprint than cheese. So if eating more than 1 or 2 eggs helps you eat less cheese, that’s also a win for the climate.",
+            "imageURL": "",
+            "title": "🍳",
+            "sourceURL": "https://eatforum.org/learn-and-discover/can-healthy-food-save-the-planet-animation/",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3861,6 +4073,37 @@
           "type": "recipe",
           "recipeID": 44,
           "subtitle": "What counts for milk is also true for cream. Because soy cream is most widely available and has a neutral taste we suggest that in our recipes, but feel free to substitute for oat cream."
+        },
+        {
+          "id": 4,
+          "hometitle": "How many people use plant-based dairy products?",
+          "type": "question",
+          "title": "What percentage of people use plant-based dairy products every week? 🥛",
+          "subtitle": "in Europe",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "4%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "34%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The good news is that not only the vegans buy plant-based dairy. The group of people who use plant-based dairy alternatives every week is bigger (34%) than the group who never uses them (28%).\n\nDespite some people being very critical of plant-based dairy, most people are open to it! Again, more people care than you might think.",
+            "imageURL": "",
+            "title": "🥛",
+            "sourceURL": "https://www.euromonitor.com/article/eating-plant-based-alternatives-limiters-vs-vegans",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3910,6 +4153,55 @@
           "type": "recipe",
           "recipeID": 5,
           "subtitle": "Peeling vegetables or fruits is often unnecessary and creates waste. So it’s not needed in the case of carrots and apples you need for this recipe."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "There are many ways to create a ‘circle of life’ ♻️ And some are more efficient than others."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "For example: sometimes bread passes the expiration date before it's sold 📆"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The first goal should be reducing this waste 🗑 But if this isn't possible, what is the next best option?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is - after prevention - the most efficient way to use food waste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Composting 🌱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Feeding it to animals 🐷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Burning it for energy ⚡️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Leftover bread required energy, land, and water. So using the calories in that bread for feeding animals (which then become food) is more efficient than composting or recycling the nutrients into the soil.\n\nBut it’s always much better to eat the bread ourselves. Anything else is a big waste.",
+            "imageURL": "",
+            "title": "🐷",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3959,6 +4251,35 @@
           "type": "recipe",
           "recipeID": 1,
           "subtitle": "The footprint of rice might be higher than pasta, but it’s still relatively low. So please don’t add rice to the list of foods you’re trying to avoid and enjoy this curry 😉"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happens when we stop methane emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Not much 🤷",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "It stays in the atmosphere for 1000 years ☁️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Slows down global heating immediately ❄️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Methane has a short life of only 12 years, while CO2 stays in the atmosphere for 300-1000 years. But in that short time methane heats up the planet much more than CO2.\n\nSo even if we reduce methane, we still need to worry about CO2. But the good news is that it would have an immediate effect and slow down the increase in global temperature.",
+            "imageURL": "",
+            "title": "❄️"
+          }
         }
       ]
     },
@@ -4067,6 +4388,42 @@
           "type": "recipe",
           "recipeID": 11,
           "subtitle": "Did you know that corn also belongs to the grass family? Polenta is a powder made from corn."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much carbon is stored in the ocean?",
+          "type": "text",
+          "title": "A lot of carbon is stored in the soil, but most of our planet is water! 💦 Can water also store carbon? "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What stores more carbon?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "The world’s soil and forests 🌳",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The ocean 🌊",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "The world’s glaciers ❄️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The ocean is BY FAR the biggest storage of carbon, about ten times more than soils and plants.\n\nThe ocean is also the reason why we don’t live in a climate hell already: it has absorbed 90**%** of the warming that has occurred in recent decades caused by our emissions.",
+            "imageURL": "",
+            "title": "🌊"
+          }
         }
       ]
     },

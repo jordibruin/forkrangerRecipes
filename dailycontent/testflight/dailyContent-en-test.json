@@ -50,6 +50,39 @@
           "id": 4,
           "type": "text",
           "title": "Come back tomorrow to discover the climate impact of nuts"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What’s the impact of replacing not just beef, but also dairy?",
+          "type": "text",
+          "title": "Replacing beef with other meat reduces the footprint by 21% 🥩"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much more would it reduce if we also leave out dairy? 🥛",
+          "subtitle": "for reducing CO2 in average European or North American diet",
+          "answerOptions": [
+            {
+              "id": 1,
+              "title": "-4%",
+              "correct": false
+            },
+            {
+              "id": 0,
+              "title": "-12%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Since milk also comes from cows it has a relatively high footprint. Replacing beef with other meat and avoiding dairy (-33%) makes about the same difference as eating completely vegetarian (-31%).",
+            "imageURL": "",
+            "title": "🐄",
+            "sourceURL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -100,6 +133,44 @@
           "type": "recipe",
           "recipeID": 58,
           "subtitle": "The walnuts in this creamy pasta dish not only provide some extra protein but also a delicious crunch."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Nuts can even be carbon negative. How?",
+          "type": "text",
+          "title": "Nuts not only have a low footprint, they can even absorb CO2 so they become carbon negative ⬇️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How can nuts be carbon negative? ",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They replace grassland with trees 🌳",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "They improve the soil 🪱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "They prevent deforestation 🪓",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Most nuts grow on trees, and like all trees, that means they can absorb CO2. A lot of nut plantations have been planted on grasslands. This change in landscape stores more CO2 than is released when farming the nuts.",
+            "imageURL": "",
+            "title": "🌳",
+            "sourceURL": "https://ourworldindata.org/faqs-environmental-impacts-food",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -149,6 +220,37 @@
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "This recipe uses a lot less land than a tortilla with ground beef."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Of all the land we use for food, how much is used for meat & dairy? 🐄",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "33%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "55%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "77%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Meat and dairy production uses 77% of farmland (including grasslands) but only provides 18% of all the calories we produce worldwide. In later stories we’ll explore why grasslands should also be counted as food production.\n\nIn other words: if we reduce meat and dairy consumption we can give a lot of land back to nature.",
+            "imageURL": "",
+            "title": "🌍",
+            "sourceURL": "https://ourworldindata.org/land-use",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -204,6 +306,44 @@
           "type": "recipe",
           "recipeID": 2,
           "subtitle": "A green meal to save the green forests of the world."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Most deforestation happens in tropical countries, but what about temperate forests?",
+          "type": "text",
+          "title": "Most deforestation happens in tropical countries 🌴"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What has happened with temperate forests in the North? 🌲",
+          "subtitle": "in terms of area since 1990",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Increased ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Stayed the same",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Decreased ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The good news is that temperate forests have increased! But it’s not enough to balance the destruction in tropical regions. In the last decade, we lost 10x as much tropical forest as we gained in temperate forests. ",
+            "imageURL": "",
+            "title": "🌲",
+            "sourceURL": "https://ourworldindata.org/deforestation",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -263,6 +403,32 @@
           "type": "recipe",
           "recipeID": 55,
           "subtitle": "The cornerstone of this dish is red lentils, one of the easiest and most delicious ways to cook with legumes."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Do canned beans have a lower footprint than dried beans?",
+          "type": "question",
+          "title": "Which type of legumes have a lower footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Canned 🥫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Dried 🫘",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Legumes are harvested when they are dried out by the sun. Then they are further processed into other products like canned beans. The extra cooking and packaging give canned beans a slightly higher footprint, but it’s minimal compared to the impact of meat and dairy.\n\nWe often choose canned because it’s easier to cook with. That’s also important because if it’s too difficult, we might not eat them at all. That would be a shame as legumes are one of the key building blocks of a sustainable diet.",
+            "imageURL": "",
+            "title": "🫘",
+            "blogURL": "https://www.theguardian.com/environment/2008/mar/23/food.ethicalliving"
+          }
         }
       ]
     },
@@ -318,6 +484,42 @@
           "type": "recipe",
           "recipeID": 30,
           "subtitle": "This recipe is a veggie party!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What decreases the chances of being a ‘convinced meat eater’ the most?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Having higher education 🎓",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Having a vegetarian housemate 🏠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Being young 💁‍♂️",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Being a woman 💃",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Having a vegetarian housemate reduces the chance of being a ‘convinced meat eater’ by 89%. And while you can’t change someone’s age, gender, or education, you can be a changing factor in their surrounding. In other words: your food choices have more influence than you think!\n\nThe effect is a bit weaker but it’s still there for having a vegetarian friend (-43%) or family member (-55%) who doesn’t live with you.",
+            "imageURL": "",
+            "title": "🏠",
+            "sourceURL": "https://www.mdpi.com/2071-1050/11/14/3936",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -368,6 +570,37 @@
           "type": "recipe",
           "recipeID": 3,
           "subtitle": "Soup recipes are perfect for dipping some leftover bread."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Where is most food wasted in developing countries?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Consumption 🍽",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Processing and distribution 🚚",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Farming and storage 🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In developing countries most food waste happens at the farm and storage (33%). Only very little is wasted at consumption (16% compared to 58% in industrialized countries). Interesting fact: in cities it’s generally worse, regardless of where you are.",
+            "imageURL": "",
+            "title": "🌾",
+            "sourceURL": "https://www.wri.org/research/reducing-food-loss-and-waste",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -427,6 +660,43 @@
           "type": "recipe",
           "recipeID": 8,
           "subtitle": "Another recipe where plants are the main ingredient (although mushrooms are technically fungi)."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "We have a lot of farm animals for meat. But we also have a lot of pets that eat meat 🐶"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What percentage of feed for cats & dogs is meat? 🐈",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "20 to 30%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "40 to 50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "80 to 90%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Cat and dog food is 40-50% meat and that really adds up. For example, in the US 25-30% of the environmental footprint of animal farming is caused by pet food!\n\nWhile cats and dogs can both be healthy on plant-based foods, it’s a lot easier for dogs because they have the same type of stomach as us (because they're also omnivores). For cats, you need to pay more attention to cover all nutrients.",
+            "imageURL": "",
+            "title": "🐶",
+            "sourceURL": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0181301&type=printable",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -481,6 +751,42 @@
           "type": "recipe",
           "recipeID": 5,
           "subtitle": "With this recipe you’ve already reached half of the recommended amount of nuts and legumes."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What makes peanuts different from other nuts?",
+          "type": "text",
+          "title": "Peanuts are the most eaten nut in the world. "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What makes them different from other nuts? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They are officially legumes",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "They have more protein",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "They have more fat",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Peanuts are not even nuts, but legumes (like lentils) with a similar amount of protein and healthy fats as nuts. While they can’t be carbon-negative like tree nuts, they are good for the soil and have a much lower water footprint.",
+            "imageURL": "",
+            "title": "🥜"
+          }
         }
       ]
     },
@@ -536,6 +842,36 @@
           "type": "recipe",
           "recipeID": 65,
           "subtitle": "A meal with four sources of protein: pasta, beans, peas, and hazelnuts."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What contains more protein, rice or pasta?",
+          "type": "question",
+          "title": "Which of these grains contains the MOST protein? 🌾",
+          "subtitle": "per 100 g",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Oats",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rice",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Bread & pasta (wheat)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Both oats (14g) and wheat (12g) are high in protein and that means that bread has more protein than beans (ca. 8g per 100 g). Rice is around the same level as beans.\n\nSo while beans are a great source of protein (and fiber), grain products often provide most of the protein in a meal!",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },

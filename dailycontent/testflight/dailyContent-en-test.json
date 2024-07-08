@@ -8121,15 +8121,51 @@
           "type": "recipe",
           "recipeID": 91,
           "subtitle": "Use your new pasta knowledge with this simple and delicious recipe."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What are effective ways to reduce your gas usage?",
+          "type": "text",
+          "title": "There are many ways to reduce the amount of gas at home 🔥"
+        },
+        {
+          "id": 5,
+          "supporterONLY": true,
+          "type": "question",
+          "title": "What makes the SMALLEST difference?",
+          "subtitle": "for saving gas",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Turning heating down 1C 🌡",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Half as long hot showers 🚿",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Switching gas to electric cooking 🍳",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Turning the heating down or taking shorter hot showers can make a real difference. Switching to induction doesn’t save as much gas but it does help to reduce indoor air pollution.\n\nWhat we find interesting about this: habit change makes a bigger difference (for the climate and your wallet) than buying new stuff!",
+            "imageURL": "",
+            "title": "🔥"
+          }
         }
       ]
     },
     {
       "id": 92,
       "notificationTitle": "Today: Ocean",
-      "notificationText": "Underwater food forests 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup",
+      "notificationText": "Sea vegetables 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup",
       "home": {
-        "title": "Underwater food forests",
+        "title": "Sea vegetables",
         "category": 11
       },
       "pages": [
@@ -8144,15 +8180,57 @@
           "title": "We already saw that farming mussels is much more sustainable but there is another way to farm the oceans: seaweed! 🌊"
         },
         {
-          "id": 2,
-          "type": "text",
-          "title": "Seaweed is like an underwater forest that can capture CO2 while providing really nutritious food. But can it grow fast enough?"
-        },
-        {
           "id": 3,
           "type": "question",
-          "title": "How fast does seaweed grow?",
+          "title": "What is a benefit of seaweed?",
           "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Easy storage without food waste 📦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Doesn’t need sunlight ☀️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Doesn’t need fertilizer ⚡️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The biggest benefit of seaweed is that we can grow vegetables without any land, fertilizer, or irrigation. Farming seaweed is also easy and cheap and most varieties are very nutritious.\n\nSeaweed might not be a common product, but if you can find it, give this climate superfood a try!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/seaweed.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 64,
+          "subtitle": "You could add some sheets of Nori seaweed to this dish (often used for sushi)."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How can seaweed capture CO2 like a forest?",
+          "type": "text",
+          "title": "A challenge for seaweed is making it popular enough as food 📣 But there are other options for seaweed."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "One option is to use it as an alternative to planting trees to capture CO2 🌳 But can seaweed grow fast enough?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How fast does seaweed grow?",
+          "subtitle": "in the case of kelp in ideal conditions",
           "answerOptions": [
             {
               "id": 0,
@@ -8171,15 +8249,11 @@
             }
           ],
           "answerExplanation": {
-            "text": "Seaweed is a great climate solution: it grows much faster than trees, is easy and cheap to farm, and nutritious.\n\nThe biggest benefit of seaweed is that we can grow food without needing any land. Seaweed might not be a common product, but if you can find it, give this climate superfood a try!\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/05/seaweed.png"
+            "text": "Planting seaweed is a great alternative to planting trees, because - again - it requires no land and fertilizer. And it can grow very fast!\n\nPlanting more seaweed is one of the climate solutions in Project Drawdown. Another one is protecting existing seaweed areas, which are currently shrinking because of human activity.",
+            "imageURL": "",
+            "title": "🌊",
+            "blogURL": "https://drawdown.org/solutions/seaweed-farming"
           }
-        },
-        {
-          "id": 4,
-          "type": "recipe",
-          "recipeID": 64,
-          "subtitle": "You could add some sheets of Nori seaweed to this dish (often used for sushi)."
         }
       ]
     },
@@ -8229,6 +8303,50 @@
           "type": "recipe",
           "recipeID": 95,
           "subtitle": "Organic pasta is often not that much more expensive."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What is the cheapest way to reduce your carbon footprint?",
+          "type": "text",
+          "title": "Some solutions like fairtrade & organic food cost money 💶 And while those are worth it, it’s good to remember that there are many solutions that don’t cost extra."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "A study in Sweden found that the average person can reduce their footprint by 40%, without spending extra money! 🤑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which category saved the most CO2?",
+          "subtitle": "both in absolute and relative terms",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Holidays ✈️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Food 🍔",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Furnishing 🪑",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In the study they replaced flying and car travel with a train trip and a staycation with activities like concerts and a massage. All of that would cost the same but cut emissions by up to 90%.\n\nWith eating more plant-based, emissions were also cut by ca. 1/3 without spending extra. So even if you can’t afford Fairtrade and organic, your actions still make a big difference!",
+            "imageURL": "",
+            "title": "✈️",
+            "sourceURL": "https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13176",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -8283,6 +8401,44 @@
           "type": "recipe",
           "recipeID": 9,
           "subtitle": "Sometimes a little bit of sugar can make a tomato sauce more balanced. Try it with this delicious Chilli spaghetti."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much sugar do we eat per day?",
+          "type": "text",
+          "title": "On average, people in the Netherlands think they eat 7 cubes of sugar per day 💭"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many sugar cubes do they actually eat? 🍬",
+          "subtitle": "in the Netherlands per person per day ",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": 5,
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": 9,
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": 14,
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "People in the Netherlands eat twice as much sugar as they think! An important reason for this is that sugar is added to many products like spice mixes. Sugar also has 50 different names, like dextrose, which makes it more difficult to recognize. ",
+            "imageURL": "",
+            "title": "🍬",
+            "sourceURL": "https://www.diabetesfonds.nl/speciaal-voor/voor-de-pers/nederlanders-consumeren-meer-suiker-dan-ze-zelf-denken#:~:text=Nederlanders consumeren twee keer zoveel,is dit ruim 14 suikerklontjes.",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -8332,6 +8488,44 @@
           "type": "recipe",
           "recipeID": 38,
           "subtitle": "Try some of these veggie options at your next BBQ!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Are meat alternatives a good option for BBQ?",
+          "type": "text",
+          "title": "How acceptable people find meat alternatives can depend on the situation 😶"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "For example, a study found that meat alternatives feel more acceptable when eating alone than when they are invited to a restaurant 👥"
+        },
+        {
+          "id": 6,
+          "type": "question",
+          "title": "The acceptance of meat alternatives at a BBQ party is… 🍔",
+          "subtitle": "compared to other dinner settings",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Higher",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Lower",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Both meat eaters and flexitarians find meat alternatives less acceptable at a BBQ party than at other situations like a dinner with friends. Another good reason to put a lot of vegetables on the grill.\n\nWhen it comes to hosting vegetarians and vegans at a BBQ, it often happens that the host buys meat alternatives that the guests don’t even enjoy. One effective suggestion from a study about this topic: ask the guests to bring their own favorites. This way the vegetarians will be happy and meat eaters can try some new things as well!",
+            "imageURL": "",
+            "title": "🍔",
+            "blogURL": "https://www.nestle.co.uk/en-gb/media/pressreleases/allpressreleases/bbq-hosting-heat-no-need-flip-out-summer",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -8391,6 +8585,55 @@
           "type": "recipe",
           "recipeID": 92,
           "subtitle": "A delicious bean recipe. And as you know by now: beans improve the soil."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What is the main practice of regenerative agriculture?",
+          "type": "text",
+          "title": "The biggest focus is improving soil health, but how do farmers do this? 🧑‍🌾"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The same study also asked that question and analyzed how often certain activities are mentioned 🔍"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which activity is mentioned most often?",
+          "subtitle": "to define regenerative agriculture",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Crop rotation ♻️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Use of manure and compost 💩",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Minimizing fertilizer & pesticides 🧪",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "Minimizing plowing 🚜",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Regenerative farms use all of these but the most mentioned activity is minimizing ‘external inputs’ like fertilizer and pesticides.\n\nThe second most-mentioned activity was combining crops and animals on the same farm. This is in contrast to the 80% of farms in the EU that are specialized in either crops or livestock.",
+            "imageURL": "",
+            "title": "🧪",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2211912420300584",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -8445,6 +8688,44 @@
           "type": "recipe",
           "recipeID": 94,
           "subtitle": "Use this lasagne to invite friends for dinner and a talk about climate change."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many people around the world agree that climate change is a serious threat?",
+          "type": "text",
+          "title": "A different study surveyed 59,000 people in 63 countries and asked ‘Do you believe in climate change as a serious threat to humanity’? ⚠️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "In the country with the lowest score, how many people agreed that climate change is a serious threat? ⬇️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "53%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "73%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Even in the countries with the lowest agreement, 73% agree that climate change is a problem.\n\nThe majority in every single country also supported policies like a carbon tax, expanding public transport, more renewable energy, more electric car chargers, taxes on airlines, and protecting forests.",
+            "imageURL": "",
+            "title": "💪",
+            "sourceURL": "https://ourworldindata.org/climate-change-support",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -8504,6 +8785,50 @@
           "type": "recipe",
           "recipeID": 96,
           "subtitle": "You can start by making the choice to always buy the Fairtrade version of one product, like bananas, coffee, or in this case: rice."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How much would the price of meat increase with ‘true pricing’?",
+          "type": "text",
+          "title": "A ‘true price’ of a product not only includes the financial costs but also the societal costs that are caused by environmental damage 💰"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "A German study found that the true price of non-organic crops would on average get 0,79€ more expensive per kg 🌾"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much would the price of meat increase? 🍗",
+          "subtitle": "average per kg for beef, pork, chicken ",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "€ 0,95",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "€ 2,24",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "€ 4,42",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "All products - whether organic or not - get more expensive if you include the environmental damage. But the price of organic products is closer to the true price.\n\nFor vegetables, the price doesn’t increase that much but meat would be twice as expensive with a true price! The biggest price increase happens with beef, which would be 3x as expensive as current prices.",
+            "imageURL": "",
+            "title": "💰",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0959652623012921",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -8558,6 +8883,42 @@
           "type": "recipe",
           "recipeID": 100,
           "subtitle": "We can also eat grass ourselves, or at least the seeds. Wheat is a type of grass and this recipe includes wheat in the form of bulgur."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How much soy and corn do organic cows eat?",
+          "type": "text",
+          "title": "Dairy cows not only eat grass but also corn and ‘concentrate’ like soy 🌽 A Spanish study compared the diets of different farming methods."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much concentrate and corn do organic cows eat? 🐄",
+          "subtitle": "compared to conventional cows",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Less",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "None",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Organic cows also eat maize and power food, but at lower levels. The irony is that the Spanish study describes this as a problem because the organic cows give less milk.\n\nThis illustrates that only switching to organic meat & dairy is not the solution. If we switch to organic we need more cows and more land.\n\nThat's why we need to eat less of these products. But for the small amounts we do eat, it makes sense to have them organic.",
+            "imageURL": "",
+            "title": "🌽"
+          }
         }
       ]
     },
@@ -8612,6 +8973,42 @@
           "type": "recipe",
           "recipeID": 101,
           "subtitle": "Roasting veggies in the oven is one of the easiest ways to create a lot of flavor."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What’s the most effective way to reduce the energy use of the oven?",
+          "type": "text",
+          "title": "The oven uses a lot of energy but are there ways we can reduce it? ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which of these is the best strategy to save energy? ⚡️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Putting food in during pre-heating",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Using a lower oven temperature",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Turning it off 5-10 minutes before the end",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "You can turn the oven off 5-10 minutes before the end of the cooking time and let the food finish in the hot oven. This works well for our recipes but don’t use it for baking because that requires more precision.\n\nPre-heating the oven can be important for the flavor, as the immediate heat creates a different effect than gradual warming. For example, pre-heating is necessary to get crispy potatoes.",
+            "imageURL": "",
+            "title": "⚡️"
+          }
         }
       ]
     },
@@ -8663,7 +9060,8 @@
           ],
           "answerExplanation": {
             "text": "A lot of our nature is out of balance: there are no predators and because of streets and cities, deer can’t migrate to other areas. Then they crowd out other animals and plants.\n\nShooting them is one solution, and the majority of hunting in the Netherlands happens for this reason. So this can be a form of sustainable meat, but there is not enough to replace our current meat consumption.\n\nAlso when it comes to wild meat, keep in mind that the situation (and therefore sustainability) differs a lot from region to region and for different animal types. This is just one example.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/hunting-for-biodiversity.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/hunting-for-biodiversity.png",
+            "blogURL": "https://www.forkranger.com/blog/is-wild-meat-sustainable/"
           }
         },
         {
@@ -8671,6 +9069,43 @@
           "type": "recipe",
           "recipeID": 102,
           "subtitle": "To be honest, this curry has nothing to do with hunting. But it’s easy and delicious. "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Is wild meat really wild?",
+          "type": "text",
+          "title": "Some of the meat that we think of as ‘wild’ is actually farmed 🚜"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which of these is always wild?",
+          "subtitle": "in the Netherlands",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Roe deer 🦌",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Duck 🦆",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Rabbit 🐇",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In the Netherlands, meat from duck and rabbit is often farmed. And when it comes to deer it depends on the species.\n\nFallow deer have white spots on them and often come from a farm (you also see them in city parks). Roe deer are smaller and browner. They don’t eat grass and are considered more nervous and solitary. That's why you can't farm them, and it's always wild meat if you see it on a menu.",
+            "imageURL": "",
+            "title": "🦌",
+            "blogURL": "https://www.forkranger.com/blog/is-wild-meat-sustainable/"
+          }
         }
       ]
     },
@@ -8730,6 +9165,45 @@
           "type": "recipe",
           "recipeID": 99,
           "subtitle": "This recipe includes tofu, which has roughly the same footprint as the best-case scenario for cultivated meat."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Does cultivated meat taste exactly the same?",
+          "type": "text",
+          "title": "In 2022, an Israeli startup served a piece of cultivated chicken to professional taster Michal Ansky 🍗"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "They did a blind tasting with real chicken and ground up both versions so there wouldn’t be a difference in texture."
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Did she taste a difference? 👅",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "No",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "It was a blind tasting and she was convinced that the cultivated chicken was the real one. This story shows the potential of the solution. But for now, there remain a lot of challenges around costs and scaling up production.",
+            "imageURL": "",
+            "title": "🍗",
+            "sourceURL": "https://www.youtube.com/watch?v=jq9UxDJbv1A&feature=youtu.be",
+            "urlButtonText": "Watch the tasting"
+          }
         }
       ]
     },
@@ -8784,6 +9258,50 @@
           "type": "recipe",
           "recipeID": 97,
           "subtitle": "Agroforestry is about mixing agriculture with trees. This recipe includes walnuts, which of course comes from trees and can also be grown in agroforestry systems."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is a reusable cup more sustainable than paper cups?",
+          "type": "text",
+          "title": "Coffee-to-go comes in paper cups. But it’s not really paper because the inside is lined with plastic 🥤"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Let’s say you buy one coffee to-go every day and you switch to a reusable cup ☕️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How long would it take to save emissions? ⏱",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "3 weeks",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "2 months",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "1 year",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "After around 20-40 times a reusable cup saves more CO2 than getting paper cups. So if you’re someone who drinks a lot of coffee on the go, this is a good investment.\n\nBut if you only buy a coffee-to-go a few times a year you don’t have to stress about it too much.",
+            "imageURL": "",
+            "title": "☕️",
+            "sourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0959652620303413",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },

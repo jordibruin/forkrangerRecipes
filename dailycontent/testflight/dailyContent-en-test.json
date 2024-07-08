@@ -5300,7 +5300,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Nitrogen is a key ingredient for plants. Instead of using nitrogen, legumes ADD it nitrogen to the soil. This happens through a ‘partnership’ with bacteria that like to live around their roots.\n\nThis means that farmers can use legumes instead of nitrogen fertilizer, which saves emissions and has lots of other benefits.",
+            "text": "Nitrogen is a key ingredient for plants. Instead of using nitrogen, legumes ADD it to the soil. This happens through a ‘partnership’ with bacteria that like to live around their roots.\n\nThis means that farmers can use legumes instead of nitrogen fertilizer, which saves emissions and has lots of other benefits.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/nitrogen-fixing.png"
           }
         },
@@ -5309,6 +5309,45 @@
           "type": "recipe",
           "recipeID": 42,
           "subtitle": "A delicious curry with lentils to improve the soil!"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How can we increase the potential of legumes even more?",
+          "type": "text",
+          "title": "When a farmer uses beans in the field, he needs less fertilizer to grow wheat 🫘"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "There is a special farming method that boosts the special power of legumes even more 🧑🏼‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How can we increase the potential of legumes? 🫘",
+          "subtitle": "to fix nitrogen in the soil",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Growing beans before growing wheat",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Growing beans and wheat together in one field",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "This method of growing different plants in one field at the same time is called intercropping. It boosts the power of legumes, saves land, and also looks more beautiful than a monoculture.\n\nUsing intercropping for all legumes could reduce the need for chemical fertilizer by 26%. This is a big deal because (as you discovered a few stories back) fertilizer has a big climate impact!",
+            "imageURL": "",
+            "title": "🫘",
+            "sourceURL": "https://link.springer.com/article/10.1007/s13593-020-0607-x",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5363,6 +5402,38 @@
           "type": "recipe",
           "recipeID": 45,
           "subtitle": "Smoked paprika powder is an excellent way to replace the taste of bacon of other meat."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many of the chickens see daylight in the Netherlands?",
+          "type": "question",
+          "title": "How many of the broiler chickens for Dutch supermarkets see daylight? 🐓",
+          "subtitle": "broiler chickens are raised for meat",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "100%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Since 2023, all chicken meat in Dutch supermarkets has at least 1 star. And chickens with a 1-star rating can go outside (unlike 1-star pigs). They are also a breed that grows slower.\n\nA lot of work still needs to be done, for example, 0-star chicken that grows faster than is healthy for the chicken still exists in the Netherlands for export. But this success shows that campaigns for animal welfare work!\n\nAll the credit goes to Wakker Dier which started campaigning in 2013 (!). Read their story in the link.",
+            "imageURL": "",
+            "title": "🌟",
+            "blogURL": "https://www.wakkerdier.nl/persberichten/wereldwijde-primeur-alle-supermarktkip-krijgt-beter-leven/",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -5417,6 +5488,49 @@
           "type": "recipe",
           "recipeID": 86,
           "subtitle": "A recipe with apples, one of the products it’s easy to buy the organic version."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How big is organic farming in the EU?",
+          "type": "text",
+          "title": "10% of all farmland in the EU is organic 👨🏻‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is the EU goal for 2030? 🇪🇺",
+          "subtitle": "for the share of organic agriculture",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "25%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "There is no goal",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The good news is that organic agriculture is on the rise in the EU and the US.\n\nThe bad news: at the current rate the EU won’t reach its target. Austria is the only country that already reached it. In the US, organic agriculture is less than 1% of all farmland.\n\nBuying more organic products helps the transition. Start with one or two products that you always buy organically. Read more about our take on our blog.",
+            "imageURL": "",
+            "title": "🇪🇺",
+            "sourceURL": "https://www.eea.europa.eu/en/analysis/indicators/agricultural-area-used-for-organic",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5476,6 +5590,49 @@
           "type": "recipe",
           "recipeID": 58,
           "subtitle": "This recipe includes walnuts. And since those come from trees, they can also come from agroforestry systems."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The coffee example is known as ‘multistrata agroforestry’ 🌳 It’s an important climate solution in Project Drawdown"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "There are also other forms of agroforestry that can save lots of CO2 ⬇️"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What type of agroforestry is most common in Europe?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Combining trees with grazing animals 🐄",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Combining fruit trees with vegetables 🥦",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Combining food and wood production 🪵",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "‘Silvopasture’ is an ancient farming method where animals graze between trees. The most common form is the Spanish dehesa, where animals live between oak trees. It’s also possible to combine animals or even vegetable production with nut, fruit, or olive trees.\n\nIf silvopasture replaces intensive grasslands it is another important climate solution with lots of benefits: healthier soils, shade for the animals, and more beautiful landscapes!",
+            "imageURL": "",
+            "title": "🐄",
+            "sourceURL": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/651982/EPRS_BRI(2020)651982_EN.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5530,6 +5687,48 @@
           "type": "recipe",
           "recipeID": 88,
           "subtitle": "The pumpkin seeds in this recipe provide some extra protein and crunch."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Nuts contain a lot of fat. How healthy is that?",
+          "type": "text",
+          "title": "Nuts might have a lot of protein but they also have a lot of fat 🥜"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Fats come in two forms: saturated (bad) and unsaturated (good) 🤓"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What contains the least amount of saturated (bad) fat?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 hamburger (100g) 🥩",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 slice of cheese (30g) 🧀",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Three spoons of peanut butter (50g) 🥜",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "A typical portion size of nuts has less saturated fat than a typical serving of meat or dairy.\n\nNuts contain a lot of fat but these are mostly unsaturated. This means that nuts have many health benefits. They reduce cholesterol and the risk of type 2 diabetes and heart disease. Studies also didn’t find a connection to weight gain. And of course they’re delicious 🤤\n\nThe EAT Lancet report recommends 50 g a day!",
+            "imageURL": "",
+            "title": "🥜"
+          }
         }
       ]
     },
@@ -5584,6 +5783,38 @@
           "type": "recipe",
           "recipeID": 64,
           "subtitle": "Farmed fish are fed with soy. Better to eat it ourselves, like in this recipe, where we use tofu."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is most of our fish wild or farmed?",
+          "type": "question",
+          "title": "What provides more seafood? 🍣",
+          "subtitle": "for humans",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They only eat plants (herbivores)",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Wild-caught fish",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Fish farms",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "53% of the world’s seafood comes from fish farms. In 1960 it was only 6%. Because of this, more soy is now used to feed fish than to create tofu!\n\nCatching fish in the wild and farming fish creates different kinds of issues. What applies to both contexts is that we need to switch to seafood with a lower footprint: small fish from the wild and mussels and seaweed from farms.",
+            "imageURL": "",
+            "title": "🐟",
+            "sourceURL": "https://ourworldindata.org/fish-and-overfishing#global-fish-production",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5633,6 +5864,38 @@
           "type": "recipe",
           "recipeID": 36,
           "subtitle": "Wheat products usually require a lot of chemical fertilizer, so buying organic pasta is a great choice."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is organic meat better for the climate?",
+          "type": "question",
+          "title": "The carbon footprint of organic meat is… 🥩",
+          "subtitle": "on average, compared to conventional meat",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Much higher ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "About the same 🟰",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "A little lower ↘️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Meat from organic farms might have benefits, for example, it’s usually much better for the animals. But one thing is clear in the data: it doesn’t necessarily have a lower carbon footprint.\n\nOnce again we can conclude that WHAT you eat is much more important than HOW it is produced.",
+            "imageURL": "",
+            "title": "🥩",
+            "sourceURL": "https://ourworldindata.org/is-organic-agriculture-better-for-the-environment",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5687,6 +5950,37 @@
           "type": "recipe",
           "recipeID": 40,
           "subtitle": "You can also use other plant-based cooking cream, but we like soy cream the most."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How healthy is soy cream?",
+          "type": "text",
+          "title": "We recently found out that soy cream is made with sunflower oil… 🌻 Does that make it unhealthy?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which type of cream contains less saturated fat?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Dairy 🐄",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Soy 🌻",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Cream is about adding fat, taste, and creaminess. It’s usually not the healthiest product.\n\nBut soy cream, even though it’s made with sunflower oil, is a healthier option than most dairy cream. It has a MUCH lower amount of saturated fat (2g compared to 12-19g). It also has fewer calories.",
+            "imageURL": "",
+            "title": "🌻"
+          }
         }
       ]
     },
@@ -5741,6 +6035,48 @@
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "A tribute to Indonesia, where most palm oil comes from.\n"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is there a sustainable form of biofuel?",
+          "type": "text",
+          "title": "Cutting down rainforests to grow palm oil as fuel for cars or airplanes is a terrible idea 🪓"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there is also a sustainable form of biofuel: used cooking oil from frying food 🍟"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is the biggest issue with used cooking oil as fuel? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It creates less CO2 but more air pollution",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "It makes the engine less efficient",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "There’s not enough of it",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Flying from London to New York requires about 1 bathtub of fuel per passenger! If you use all the cooking oil from every McDonald's in London for a whole year, it doesn’t even cover 0,1% of the yearly flights from London to New York.\n\nThere is nowhere near enough used cooking oil. Unfortunately, sustainable flying just isn’t possible. Maybe we can have electric airplanes in the future, but that is very very far away…",
+            "imageURL": "",
+            "title": "🛁"
+          }
         }
       ]
     },
@@ -5800,6 +6136,44 @@
           "type": "recipe",
           "recipeID": 41,
           "subtitle": "The best way to reduce water pollution is eating more plant-based. Curries are always a great option!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What happened to the world’s biggest dead zone?",
+          "type": "text",
+          "title": "One of the biggest dead zones in the world was created in the Black Sea in the 1990s ☠️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happened since then? 💧",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Got even worse",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Stayed the same",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Recovered",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "One report identified 415 areas with eutrophication problems (and many regions don’t even have enough data). Of all those areas, only 13 are in recovery. Today the biggest dead zone is in the EU: the Baltic Sea.\n\nBut it’s hopeful that the recovery of a dead zone is possible within 15-20 years if we take the right actions.",
+            "imageURL": "",
+            "title": "💧",
+            "sourceURL": "https://www.wri.org/research/eutrophication-and-hypoxia-coastal-areas",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },

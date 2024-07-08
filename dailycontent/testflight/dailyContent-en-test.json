@@ -4003,12 +4003,12 @@
             },
             {
               "id": 1,
-              "title": "4",
+              "title": 4,
               "correct": false
             },
             {
               "id": 2,
-              "title": "8",
+              "title": 8,
               "correct": false
             }
           ],
@@ -4334,6 +4334,42 @@
           "type": "recipe",
           "recipeID": 7,
           "subtitle": "Mustard is a good cover crop: farmers can use it to protect and improve the soil. "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How much carbon is stored in the ocean?",
+          "type": "text",
+          "title": "A lot of carbon is stored in the soil, but most of our planet is water! 💦 Can water also store carbon? "
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What stores more carbon?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "The world’s soil and forests 🌳",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The ocean 🌊",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "The world’s glaciers ❄️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The ocean is BY FAR the biggest storage of carbon, about ten times more than soils and plants.\n\nThe ocean is also the reason why we don’t live in a climate hell already: it has absorbed 90% of the warming that has occurred in recent decades caused by our emissions.",
+            "imageURL": "",
+            "title": "🌊"
+          }
         }
       ]
     },
@@ -4392,37 +4428,32 @@
         {
           "id": 4,
           "supporterOnly": true,
-          "hometitle": "How much carbon is stored in the ocean?",
-          "type": "text",
-          "title": "A lot of carbon is stored in the soil, but most of our planet is water! 💦 Can water also store carbon? "
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
           "type": "question",
-          "title": "What stores more carbon?",
-          "subtitle": "",
+          "title": "For what is grassland better than forest?",
+          "subtitle": "in Europe",
           "answerOptions": [
             {
               "id": 0,
-              "title": "The world’s soil and forests 🌳",
+              "title": "Preventing floods 🌊",
               "correct": false
             },
             {
               "id": 1,
-              "title": "The ocean 🌊",
-              "correct": true
+              "title": "Preventing erosion 🪨",
+              "correct": false
             },
             {
               "id": 2,
-              "title": "The world’s glaciers ❄️",
-              "correct": false
+              "title": "Increasing biodiversity 🌿",
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "The ocean is BY FAR the biggest storage of carbon, about ten times more than soils and plants.\n\nThe ocean is also the reason why we don’t live in a climate hell already: it has absorbed 90**%** of the warming that has occurred in recent decades caused by our emissions.",
+            "text": "A study that analysed lots of research about grasslands in Europe found that they increase biodiversity more than forests (it’s probably a different story for tropical rainforest).\n\nBut forests have more clean water and climate benefits and do a better job on all other factors such as preventing floods and erosion.\n\nIn other words: forests are amazing but grasslands are also an important ecosystem and there is some room for feeding animals with it, as long as it’s not intensive (like right now).",
             "imageURL": "",
-            "title": "🌊"
+            "title": "🌿",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0167880922000408",
+            "urlButtonText": "View source"
           }
         }
       ]
@@ -4473,6 +4504,45 @@
           "type": "recipe",
           "recipeID": 25,
           "subtitle": "For this recipe you can use any kind of local sweet apple."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What are the benefits of traditional varieties of crops?",
+          "type": "text",
+          "title": "A lot of our food comes from modern crop varieties that have been developed for high yields 🧑‍🔬"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But traditional varieties often taste better 👩🏽‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which crop variety is often more resilient to environmental changes?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Modern 🧑‍🔬",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Traditional 👩🏽‍🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Modern varieties of crops have higher yields, but only in optimal conditions. In many cases, traditional varieties do much better when things get tough. They are more resistant to droughts and pests and are better adapted to local climate conditions.\n\nUnfortunately it can be difficult to find these varieties, but almost certainly, you would have to look beyond the supermarket.",
+            "imageURL": "",
+            "title": "👩🏽‍🌾",
+            "sourceURL": "https://www.mdpi.com/2071-1050/10/8/2834",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4522,6 +4592,50 @@
           "type": "recipe",
           "recipeID": 30,
           "subtitle": "This recipe was inspired by a paella, which is traditionally made with shrimp. "
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How big of a problem is overfishing?",
+          "type": "text",
+          "title": "One of the main issues with fishing is not the climate impact but overfishing 🐟"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "This happens when we catch more fish than are born, which means the population is not sustainable 📉"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many fish populations have a sustainable level? 🐟",
+          "subtitle": "meaning they are not overfished",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Almost zero",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "One third",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Two-thirds",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "You might have heard that the Oceans might be empty by 2048. This is not true. The majority of fish populations still have a sustainable level and if we take action it’s possible to improve the other 1/3 as well.\n\nOverall we can decide to eat sustainable amounts of seafood and if we do eat wild-caught seafood, to buy MSC-certified fish. It's the best guarantee (definitely not perfect) that you don't eat fish that's being overfished.\n\nAnd what about farmed fish? We’ll look at it next time we visit the Ocean.",
+            "imageURL": "",
+            "title": "🐟",
+            "sourceURL": "https://www.fao.org/3/cc0461en/online/sofia/2022/status-of-fishery-resources.html",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4571,6 +4685,39 @@
           "type": "recipe",
           "recipeID": 48,
           "subtitle": "Try this recipe from India with yoghurt!"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How is plant-based yogurt made?",
+          "type": "text",
+          "title": "The bacteria in yoghurt can have many health benefits ✨"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Does plant-based yoghurt also include these beneficial bacteria? 🥣",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "No",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Plant-based yoghurt is also created through fermentation with bacteria. This makes it ‘real yoghurt’ and not some processed replacement.\n\nSoy yoghurt is usually the healthiest option compared to coconut or oat (you can check the Nutri score). It is high in protein and is usually made with very simple ingredients: water, soy beans, calcium, and bacteria!",
+            "imageURL": "",
+            "title": "🥣",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2666833522000983#fig0001",
+            "urlButtonText": "View Source"
+          }
         }
       ]
     },
@@ -4620,6 +4767,37 @@
           "type": "recipe",
           "recipeID": 85,
           "subtitle": "A meatless quiche that will convince any meatlover."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What would happen if everyone ate like an American?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "We would have world peace 🇺🇸",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "We would have to cut all forests in the world 🪓",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Not possible, Earth is too small 🌎",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "If everyone would eat like the US, the world would literally be too small. If everyone would eat like the Dutch or Germans, we would have to cut ALL forests and use every bit of nature for food production.\n\nOn the other hand, if everyone ate like India we would need half the land we use right now!",
+            "imageURL": "",
+            "title": "🌎",
+            "sourceURL": "https://ourworldindata.org/agricultural-land-by-global-diets",
+            "urlButtonText": "Check for each country"
+          }
         }
       ]
     },
@@ -4674,6 +4852,39 @@
           "type": "recipe",
           "recipeID": 80,
           "subtitle": "Potatoes are one of the food products with the lowest water footprint."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much of our food production is dependent on rain?",
+          "type": "text",
+          "title": "Despite using so much water for irrigation, a lot of our food is also dependent on rain 🌧 The question is: how much?\n"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What provides more food?",
+          "subtitle": "worldwide",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Irrigation 🚰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Rain 🌧",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "60% of our food production is reliant on rain. But with more extreme weather from climate change, food production becomes less predictable.\n\nIt sometimes feels like humans run the world but it’s good to remember that we are completely dependent on nature.",
+            "imageURL": "",
+            "title": "🌧",
+            "sourceURL": "https://doi.org/10.4060/cb7654en",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4728,6 +4939,40 @@
           "type": "recipe",
           "recipeID": 57,
           "subtitle": "A simple way to support diversity is cooking (plant-based) meals with lots of different colors!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Lower biodiversity can increase the risk of…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Tsunamis 🌊",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Pandemics 🦠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Volcanic eruptions 🌋",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Aliens 👽",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "When the diversity of animals and plants goes down - for example replacing forest with a monoculture - it makes it harder for ‘specialists’ (species depending on specific plants or ecosystems) to survive and ‘generalist’ animals like rats thrive. These animals often carry dangerous viruses and as nature's own regulation of diseases is 'broken' it becomes easier for a virus to spread to humans.\n\nComing up with false answers for this question was really hard because biodiversity improves almost everything!",
+            "imageURL": "",
+            "title": "🦠"
+          }
         }
       ]
     },
@@ -4777,6 +5022,56 @@
           "type": "recipe",
           "recipeID": 81,
           "subtitle": "Like we’ve seen before, legumes are good for the soil. Here we use hummus as the ‘soil’ of these delicious tarts."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How can we reduce the climate impact of fertilizer?",
+          "type": "text",
+          "title": "Chemical fertilizer is not all bad and a little less than half of all people on Earth are dependent on it 🌍"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The main problem is that we often use too much. But there are solutions ✨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "In a big 10-year-long experiment, Chinese farmers were able to increase yields while using LESS fertilizer 🌾"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How did they achieve this?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Better technology to apply fertilizer 🚜",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Better fertilizer ⚡️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Training farmers 👨🏼‍🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "By training farmers, they increased the yield of corn, rice, and wheat while reducing fertilizer use. This reduced the climate impact by 14-22%!\n\nFor example, they helped to improve the timing when crops are planted and instead of applying fertilizer all at once, doing it in two smaller batches.",
+            "imageURL": "",
+            "title": "👨🏼‍🌾",
+            "sourceURL": "https://www.nature.com/articles/nature25785",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4831,6 +5126,42 @@
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "Avocados are very thirsty plants so we wanted to create delicious wraps without the need for avocado."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Why should we care how much rainwater a food product requires?",
+          "type": "text",
+          "title": "So if green water mostly comes from rain, why should we care about it? 🌧"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Products with a low green water footprint are more sustainable because:",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It decreases the risk of droughts ☀️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "It increases soil health 🪱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "It reduces water pollution ☠️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The majority of our food is produced with rain. But climate change makes the weather more extreme, so relying on rain becomes more unpredictable.\n\nAnd if it doesn’t rain, you still need 2170 liters of water to grow the grass and corn for a steak. So unless you use more blue water there is no steak. This is why ‘green water’ matters and why eating foods with a lower water footprint is more sustainable.",
+            "imageURL": "",
+            "title": "🌧"
+          }
         }
       ]
     },
@@ -4885,6 +5216,50 @@
           "type": "recipe",
           "recipeID": 61,
           "subtitle": "These canned ingredients help to create a delicious meal around the celeriac, a ‘forgotten’ vegetable for the winter months."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What are the benefits of canned tomatoes?",
+          "type": "text",
+          "title": "Cans can be recycled endlessly but this process costs a lot of energy ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there are some other benefits to canned tomatoes 🥫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is a benefit of canned tomatoes?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Better price for farmers💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Fewer pesticides ☠️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Fewer wasted tomatoes 🗑",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Canned tomatoes have a lower waste because compared to fresh tomatoes there is less waste in our own kitchens. In both cases, there is quite some waste that happens at the farming stage. In total, 54% of fresh tomatoes are wasted, and 41% of canned tomatoes.\n\nAnother benefit of canned tomatoes is that they are processed right after harvest, so they retain more nutrients than transported fresh tomatoes.",
+            "imageURL": "",
+            "title": "🥫",
+            "sourceURL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfpe.13509",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },

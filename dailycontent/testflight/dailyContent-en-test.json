@@ -7184,6 +7184,56 @@
           "type": "recipe",
           "recipeID": 90,
           "subtitle": "The cashews we use in this recipe would no longer exist if we lose all pollinating insects."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Can improving a small patch of greenery make a difference for insects?",
+          "type": "text",
+          "title": "In 2016, scientists in Melbourne counted insects on a small patch of green surrounded by roads and high buildings 🌆"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "It was no larger than a tennis court and had some grass and two trees 🌳"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Then they transformed it with new soil and added 12 native plant species 🌿"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happened after one year?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "70% of the plants died 🍂",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "2x more insects 🪰",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "5x more insects 🐞",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "After only one year, there were already 5 times more insects. After 3 years, three of the plant species had died but still, insects had increased 7-fold.\n\nIf you can influence a small area of land - in your own garden or together with others - it can make a big difference for insects.",
+            "imageURL": "",
+            "title": "🐞",
+            "blogURL": "https://www.theguardian.com/science/2023/aug/22/melbourne-urban-greening-benefits-insect-species",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -7238,6 +7288,50 @@
           "type": "recipe",
           "recipeID": 50,
           "subtitle": "Sauerkraut works really well with sausages… but this sauerkraut recipe is also delicious without any meat!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Are traditional cow breeds more sustainable?",
+          "type": "text",
+          "title": "Today most cows are specialized: either they are for milk OR beef production 🐄"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there are also traditional all-round cow breeds that are specialized for a specific ecosystem 🌿"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to special dairy cows, these all-round cows…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Need to eat soy to produce enough milk 🥛",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Only require grass 🍀",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Are more aggressive 😤",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Many traditional breeds produce less milk but have other benefits: they only require grass (instead of also needing soy) and can survive outside all winter.\n\nOften, these cows also help with promoting biodiversity. For example, there is a specific type of cow that is perfect for maintaining heathland. They eat just the right type of plants and also spread seeds in their fur.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/double_purpose_cows.png",
+            "title": "🍀",
+            "blogURL": "https://www.landschapoverijssel.nl/heidekoe",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -7282,6 +7376,44 @@
           "type": "recipe",
           "recipeID": 62,
           "subtitle": "We love induction cooking, but if you have a gas stove: place wraps directly on the flame for 20-30 seconds and make them really delicious."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What is another benefit of cooking on induction?",
+          "type": "text",
+          "title": "While we were researching this topic we found another interesting benefit of induction 👀"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is less likely when cooking on induction?",
+          "subtitle": "compared to gas",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Burning yourself 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Getting asthma 🫁",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Being overweight ⚖️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Cooking on gas causes indoor air pollution. A study found that children living in households that use gas stoves for cooking are 42% more likely to have asthma. Ventilation and air purifiers can help but the best option is cooking electrically.\n\nWhile gas is not the cleanest option, it would still be a huge improvement (for health & climate) for the millions of people currently cooking on wood or animal dung. That's why 'Clean Cooking' also made it to the list of Project Drawdown, one of our favorite resources about climate solutions.",
+            "imageURL": "",
+            "title": "🫁",
+            "sourceURL": "https://www.tno.nl/publish/pages/3848/tno-2022-r12249.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -7341,6 +7473,39 @@
           "type": "recipe",
           "recipeID": 72,
           "subtitle": "A rice recipe with (soy) cream!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Who should eat more cheese, men or women?",
+          "type": "text",
+          "title": "The WWF used a similar approach to determine a sustainable amount of dairy. In their version, there is an interesting difference between men and women 👫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to men, women should eat… 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More cheese ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Less cheese ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In the WWF calculations, women should eat more cheese (and red meat) than men. Women get 147 g per week and men only 21 g of cheese! That’s because they have higher requirements for iron due to blood loss during menstruation.\n\nThe poster we created (see Supporter page) shows all the amounts, but we used the average for men and women.",
+            "imageURL": "",
+            "title": "🧀",
+            "blogURL": "https://www.forkranger.com/product/poster-gezond-eten-binnen-de-grenzen-van-een-aarde/",
+            "urlButtonText": "View the poster 🏞"
+          }
         }
       ]
     },
@@ -7400,6 +7565,44 @@
           "type": "recipe",
           "recipeID": 56,
           "subtitle": "In this recipe the broccoli soaks up the flavors of the orange juice. Delicious!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What characterizes the climate impact of wine and beer?",
+          "type": "text",
+          "title": "The carbon footprint from food usually comes from growing the food 🌾 But for beer and wine it’s different"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which part of the carbon footprint plays a relatively big role?",
+          "subtitle": "for wine & beer",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Food waste 🗑",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Storage ❄️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Transport & packaging 🚚",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wine and beer usually come in glass, which creates higher packaging emissions. And transport emissions are high because both the glass and all the water are heavy.\n\nBut even then it’s not something to worry about too much: transporting a bottle of wine from Australia to the UK still has a lower footprint than driving a car to a local winery yourself that’s 5 km away.",
+            "imageURL": "",
+            "title": "🚚",
+            "sourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0959652620319843",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -7454,6 +7657,48 @@
           "type": "recipe",
           "recipeID": 12,
           "subtitle": "This pasta recipe is a great alternative to the traditional bolognese (which requires minced beef)\n"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How heavy are today’s cows compared to the bison that used to roam the prairie?",
+          "type": "text",
+          "title": "Sometimes people say that cows are just like bison that used to roam the prairie 🦬"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "So we were curious: how much did all wild mammals weigh before humans took over the planet? 🦣"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to all of today’s cows, all wild mammals weighed… 🦣",
+          "subtitle": "100.000 years ago",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "3 times more",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "About the same",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "3 times less",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "All the mammoths, rhinos, bison, etc. combined still weighed 3 times less than today’s cows! Another reminder that we need to eat a lot less beef and dairy.",
+            "imageURL": "",
+            "title": "🦣"
+          }
         }
       ]
     },
@@ -7508,6 +7753,44 @@
           "type": "recipe",
           "recipeID": 55,
           "subtitle": "The Fairtrade versions of products like coconut milk are an example of where spending the extra money is worth it."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is a sustainable diet more or less expensive?",
+          "type": "text",
+          "title": "Scientists calculated how much it would cost to switch to a sustainable & healthy diet 💰"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "A healthy & sustainable diet is…",
+          "subtitle": "in high-income countries",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More expensive ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Same cost",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Cheaper ⬇️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In high-income countries, a healthy & sustainable diet with lots of veggies and legumes and low amounts of meat & dairy is cheaper than the current diet. The model shows that eating plant-based can even reduce costs by one-third!\n\nThese diets would cost more in low-income countries, but the typical Western diet is even more expensive.",
+            "imageURL": "",
+            "title": "⬇️",
+            "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S2542-5196(21)00251-5",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -7557,6 +7840,50 @@
           "type": "recipe",
           "recipeID": 88,
           "subtitle": "This recipe includes apples, a product that’s easy to buy organically and support more biodiversity."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Can bee hotels help to increase the number of wild bees?",
+          "type": "text",
+          "title": "There are many different types of pollinators but bees are the most important group 🐝"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Can bee hotels help to increase the number of wild bees? 🏨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "The majority of bee species live…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "In old wood 🪵",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "In a beehive 🍯",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Underground 🪱",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "3/4 of all bee species live underground, which means bee hotels are not the perfect home for most bees.\n\nStill, research shows that they can help, particularly as the bee hotels get older. There were more pollinators in bee hotels that were older and when they had more flowers nearby.\n\nBut placing a few bee hotels in an area full of pavement is not going to do the job.",
+            "imageURL": "",
+            "title": "🐝",
+            "sourceURL": "https://resjournals.onlinelibrary.wiley.com/doi/full/10.1111/een.12986",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -7616,6 +7943,45 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "One of the easiest ways to eat diverse food is making it more colorful!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Can you get enough protein from plants if you do a LOT of sports?",
+          "type": "text",
+          "title": "Okay, so you can get ‘complete’ protein with only plants. But can you also get enough protein from plants if you do a LOT of sports? 🏋️‍♂️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The general recommended amount of protein is 0.83 g per kg bodyweight ⚖️"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "For what amount of the population of healthy adults should this be enough? 💪",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "32.5%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "97.5%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The European Food Safety Authority (EFSA) concludes that 0.83 g of protein per kg bodyweight is enough for virtually everyone (97.5% of healthy adults). Many people think it should be higher but the EFSA advises that the extra burnt calories simply require more food, not a focus on extra protein.\n\nThe only issue when you do a LOT of sports, like professional athletes, is that you cannot eat and digest that much, so then special solutions come in. Also good to know: they didn’t find any extra benefit for either muscle mass or performance when increasing protein intake.",
+            "imageURL": "",
+            "title": "💪",
+            "sourceURL": "https://www.efsa.europa.eu/en/supporting/pub/en-871",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -7665,6 +8031,42 @@
           "type": "recipe",
           "recipeID": 21,
           "subtitle": "Bananas are an easy product to buy Fairtrade."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Do Fairtrade farmers and workers receive a ‘living wage’?",
+          "type": "text",
+          "title": "Every person should receive a ‘living wage’: an amount of money that’s enough to have decent standard of living in their country 💸"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Fairtrade farmers and workers receive a ‘living wage’ 👨🏽‍🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Almost",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "No",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Even with Fairtrade, farmers and workers do not automatically receive a living wage. This is a quote from Fairtrade itself: “Current wages are so far below living wages, that individual plantations and farmers have no way to achieve a living wage for workers and remain competitive in the market.”\n\nSo we would say Fairtrade is more like ‘minimum trade’. It’s better than nothing, but still falls short. Let’s not fool ourselves: many of our products come from modern slavery and more responsible food choices aren’t going to fix it. We need better laws and a different food system.",
+            "imageURL": "",
+            "title": "💸"
+          }
         }
       ]
     },

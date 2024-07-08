@@ -6233,6 +6233,47 @@
           "type": "recipe",
           "recipeID": 13,
           "subtitle": "Arborio rice for risotto doesn’t come from Thailand, but from Italy.\n"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What exactly is the purpose of ‘Fairtrade’?",
+          "type": "text",
+          "title": "The goal of the Fairtrade label is to tackle unfair price differences 💰 How does it work?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Fairtrade determines…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "What farmers get paid 👩‍🌾",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "What supermarkets pay to farmers 🏪",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "What consumers pay to supermarkets 👨‍💼",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "All of the above",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Fairtrade only ensures that farmers get paid a fair price. It’s up to retailers to determine the price that consumers pay for a product. So Fairtrade is not automatically a good deal for consumers, but it is a better deal for farmers. We’ll explore how exactly Fairtrade works for farmers in a later story.\n\nAnd how does the Fairtrade organization make money? Products that use the Fairtrade logo pay a licensing fee. For rice in the Netherlands, this is 0,09€ per kg.",
+            "imageURL": "",
+            "title": "💸"
+          }
         }
       ]
     },
@@ -6287,6 +6328,50 @@
           "type": "recipe",
           "recipeID": 57,
           "subtitle": "Pumpkin is another product that wouldn’t exist without pollinators."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the most effective way to help pollinators in your garden?",
+          "type": "text",
+          "title": "What can you do yourself to increase pollinators in your own backyard? 🦋"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The results from lots of studies are mixed 🧐 But there are few things that always help."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What helps pollinators the most? 🌼",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Avoiding chemicals",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Focus on native plants",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Increasing the diversity of plants",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "A higher diversity of plant species always increased pollinators. The results were not as clear for native vs exotic plants.\n\nThree other things consistently showed positive effects: increasing the size of the garden, having more shrubs and trees, and more exposure to the sun.",
+            "imageURL": "",
+            "title": "🦋",
+            "sourceURL": "https://par.nsf.gov/servlets/purl/10098150",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -6341,6 +6426,50 @@
           "type": "recipe",
           "recipeID": 39,
           "subtitle": "Peanuts have the lowest water footprint of nuts. They usually work well in rice recipes, but here they are a great fit for this pasta."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What’s the most sustainable nut if we look at all factors?",
+          "type": "text",
+          "title": "One study wanted to find out: how can we buy responsible nuts? 🥜"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "They scored nuts and seeds on sustainability, but also on nutritional value and social aspects like worker safety 👷🏽"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which factor is most important for the sustainability of nuts?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Type of nut 🥜",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Country of origin 📍",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Amount of protein in the nut 💪",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The biggest influence on all factors was the type of nut. They divided them into three categories and walnuts and sunflower seeds scored the best in all aspects. We quickly analyzed our own recipes after learning this and good news: we use walnuts most often!\n\nPeanuts and hazelnuts belong to the second category. Cashews, almonds, and chestnuts have the most issues. We have quite some recipes with cashews so we’ll pay attention to this when making new recipes.\n\nReplacing meat with nuts is an important part of a sustainable diet and we don’t think you should feel guilty about eating cashews or almonds. But let’s focus on eating more walnuts.",
+            "imageURL": "",
+            "title": "🥜",
+            "sourceURL": "https://link.springer.com/article/10.1007/s11625-022-01146-7",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -6390,6 +6519,44 @@
           "type": "recipe",
           "recipeID": 47,
           "subtitle": "Even though food miles are not a useful measure, buying local food is still important for other reasons. This recipe uses lots of ingredients from the Netherlands.\n"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Eating locally: what is the biggest benefit for farmers?",
+          "type": "text",
+          "title": "We found a study that summarizes a lot of research about local food systems, like farmers’ markets 👩🏽‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is the main reason for farmers to participate in local food initiatives?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Earning more money 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Farming more sustainably 🌱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Getting more recognition 😌",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Often social recognition and contact with consumers was the main reason for farmers to get involved in local food initiatives.\n\nAnother interesting finding was that consumers are healthier when they buy food locally. Not because local food is healthier, but probably because they are more aware of what they eat.\n\nOverall you might say that the main benefit of local food is being more mindful about our food, feeling connected to where it comes from, and appreciating who grew it.",
+            "imageURL": "",
+            "title": "😌",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0308521X21001797#s0075",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -6449,6 +6616,47 @@
           "type": "recipe",
           "recipeID": 48,
           "subtitle": "Of all dairy products, yogurt has the lowest footprint. And in this recipe it’s a delicious addition!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Where does vitamin B12 come from?",
+          "type": "text",
+          "title": "Let’s take a closer look at where vitamin B12 comes from ✨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Vitamin B12 is created by…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Plants 🌱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Microbes 🦠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Fungi 🍄",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Animals 🐖",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "B12 can only be made by microbes like bacteria. Sometimes plants or fungi contain B12 because they work together with bacteria, but the amounts are very low. The meat from many animals (chickens, pigs, fish) contains B12 because they eat other things that contain B12.\n\nThe microbes that create B12 also live inside the stomachs of ruminants like cows, which is why their meat and dairy contain B12.",
+            "imageURL": "",
+            "title": "🦠"
+          }
         }
       ]
     },
@@ -6508,6 +6716,50 @@
           "type": "recipe",
           "recipeID": 52,
           "subtitle": "This is a recipe with little packaging because fennel, oranges, and zucchini are usually not wrapped in plastic."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Is plastic pollution in Europe more under control than in China?",
+          "type": "text",
+          "title": "Most of the plastic waste that enters the Ocean comes from China 🇨🇳"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "China’s lost plastic waste is almost 10 times higher than in Europe 🇪🇺 But what about microplastics?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to China, how much microplastics enter the Ocean from Europe?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "10 times more ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The same",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "10 times less ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europe and the US, we have pretty advanced waste treatment, which prevents most of the plastic pollution from entering the environment. But our microplastic pollution is on the same level as China.\n\nWhen we talk about plastic pollution we often think of packaging, but in Europe, almost half the pollution comes from microplastics from other sources like washing synthetic clothing and wear and tear of car tires.",
+            "imageURL": "",
+            "title": "🛞",
+            "sourceURL": "https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -6557,6 +6809,50 @@
           "type": "recipe",
           "recipeID": 32,
           "subtitle": "Serve this Nasi Goreng with an egg for a good addition of vitamin B12."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How much vitamin B12 is in meat alternatives?",
+          "type": "text",
+          "title": "A Dutch report compared the nutritional value of meat alternatives to meat 🍔"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Often meat alternatives are enriched with vitamins and minerals like iron ✨"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many of the meat replacements were enriched with vitamin B12?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "5%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "55%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "95%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Those 55% that were enriched had relatively high levels of B12. But since not all products are enriched, it can be tricky to get enough B12 when you only rely on meat alternatives.\n\nProVeg - the NGO that did the research - advises to take B12 supplements when eating (mostly) plant-based.",
+            "imageURL": "",
+            "title": "🍔",
+            "sourceURL": "https://proveg.com/nl/wp-content/uploads/sites/6/2023/08/PV_NL_Vleesvervangers-Rapport_final.pdf?__hstc=107755037.0e690f877d39947114ffa4b9bd7b433c.1715265168263.1715265168263.1715265168263.1&__hssc=107755037.1.1715265168263&__hsfp=3392768047",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -6611,6 +6907,38 @@
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Choose whole grain lasagne: there are a lot of by-products from milling white flour that are fed to animals. But it’s a lot more sustainable to eat the entire grain of wheat ourselves."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What makes up the majority of byproducts that are fed to animals?",
+          "type": "question",
+          "title": "The majority of feed from byproducts comes from…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Grains 🍞",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Vegetables 🥦",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Potatoes 🥔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The byproducts that become animal feed come from many different sources but the biggest one is grains.\n\nUsing byproducts for animal feed makes sense if they are inedible for humans. But this is not always the case.\n\nThe majority of these grain byproducts come from milling whole grain into refined grain. This is seen as a ‘byproduct’ but you could also see it as food waste because whole grain products have a lot more nutrition that we can eat ourselves.",
+            "imageURL": "",
+            "title": "🍞",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0921344919302721?ref=pdf_download&fr=RR-2&rr=89fec3eb59d756c1",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -6660,6 +6988,45 @@
           "type": "recipe",
           "recipeID": 26,
           "subtitle": "The supermarket is super convenient, but let’s try to buy our veggies from a smaller shop or market from time to time."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What’s the profit that farmers and supermarkets make?",
+          "type": "text",
+          "title": "The previous infographic shows where the money goes but it doesn’t include costs and profit 💰"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "A report in the UK dug into this. For example, they found that the profit that supermarkets make on apples is only 1% 🍎"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What’s the profit of the farmer? 🧑🏼‍🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "10%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The supermarket, farmer, and distributor all make a very low profit on fresh produce like apples. But while supermarkets can make a profit by selling other items, the farmers face a much bigger risk. Again, paying farmers a fair price wouldn’t increase the end price that much.\n\nWhat can you do? Try to shop at smaller, organic shops from time to time. The report concludes that organic apples and carrots, sold at alternative markets, provide farmers with a much higher profit.",
+            "imageURL": "",
+            "title": "🍎",
+            "sourceURL": "https://www.sustainweb.org/news/nov22-unpicking-food-prices-new/",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -6714,6 +7081,50 @@
           "type": "recipe",
           "recipeID": 63,
           "subtitle": "Mushrooms are a great way to replace the taste of meat but for these pita breads you could also use plant-based shoarma."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Which processed foods increase the risk of cancer?",
+          "type": "text",
+          "title": "A large research found that people who eat more ultra-processed foods have a higher chance of cancer and other diseases ☠️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "This was especially true for processed meat 🥓"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which other processed product increased the risk of cancer?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Artificially and sugar-sweetened drinks 🥤",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Ultra-processed breads and cereals 🥐",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Plant-based alternatives 🍔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Plant-based alternatives are not associated with cancer, but processed meat is. A plant-based alternative is almost certainly healthier than processed meat like a schnitzel, sausage, bacon, salami, or fast-food burger.\n\nMost plant-based alternatives have fewer calories and less saturated fat. They also don’t contain a lot of added sugars. If you want to choose a healthy plant-based option, look at the salt content: it should be 1,1 g or less (per 100g).",
+            "imageURL": "",
+            "title": "🥓",
+            "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S2666-7762(23)00190-4",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },

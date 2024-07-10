@@ -2,7 +2,8 @@
   "dailyContent": [
     {
       "id": 1,
-      "notificationText": "Test text",
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "What makes a bigger difference: eating vegetarian or eating different meats? 🌍 - Recipe of the day: Smokey Chilli",
       "home": {
         "title": "A small step with a big impact",
         "category": 1
@@ -954,8 +955,9 @@
           ],
           "answerExplanation": {
             "text": "Soybeans have around 50% more protein than kidney beans. This is one reason why they’re a good alternative to meat. By the way, the difference between soybeans and edamame is only the moment when the beans are harvested.\n\nThere is another bean with a similar amount of protein that also grows better in Europe than soy: lupin beans.",
-            "imageURL": "🫘",
-            "sourceURL": "https://www.tabledebates.org/sites/default/files/2021-12/FCRN Building Block - Soy_food%2C feed%2C and land use change (1).pdf",
+            "imageURL": "",
+            "title": "🫘",
+            "sourceURL": "https://tabledebates.org/building-blocks/soy-food-feed-and-land-use-change",
             "urlButtonText": "View source"
           }
         }
@@ -1280,7 +1282,7 @@
           "supporterOnly": true,
           "hometitle": "8% of cereals are used for industry. What does that mean?",
           "type": "text",
-          "title": "The infographic showed that 8% of the cereals is used for Industry 🏭"
+          "title": "The infographic showed that 8% of the cereals is used for industry 🏭"
         },
         {
           "id": 5,
@@ -1382,16 +1384,10 @@
           "supporterOnly": true,
           "hometitle": "What is the best strategy to avoid wasting pasta?",
           "type": "text",
-          "title": "What is the best strategy to avoid wasting pasta?"
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
-          "type": "text",
           "title": "So what if you always cook the right amount of pasta and if someone is still hungry, then you cook a bit extra 🔥 Would that be better? "
         },
         {
-          "id": 6,
+          "id": 5,
           "supporterOnly": true,
           "type": "question",
           "title": "What has a lower carbon footprint?",
@@ -2585,17 +2581,12 @@
         {
           "id": 4,
           "supporterOnly": true,
-          "type": "text",
-          "title": "New habits can be scary. What’s the effect of that?"
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
+          "hometitle": "New habits can be scary. What’s the effect of that?",
           "type": "text",
           "title": "For most people, a new challenge triggers some amount of fear 😨"
         },
         {
-          "id": 6,
+          "id": 5,
           "supporterOnly": true,
           "type": "question",
           "title": "What does fear do?",

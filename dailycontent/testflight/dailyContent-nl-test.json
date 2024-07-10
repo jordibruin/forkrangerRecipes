@@ -2,7 +2,8 @@
   "dailyContent": [
     {
       "id": 1,
-      "notificationText": "Test text",
+      "notificationTitle": "Vandaag: The Big Ranch",
+      "notificationText": "Wat maakt meer uit: vegetarisch eten of ander vlees eten? 🌍 - Recept van de dag: Smokey Chili",
       "home": {
         "title": "Een kleine stap met een grote impact",
         "category": 1
@@ -150,7 +151,7 @@
             },
             {
               "id": 1,
-              "title": "Ze verbeteren the bodem 🪱",
+              "title": "Ze verbeteren de bodem 🪱",
               "correct": false
             },
             {
@@ -160,7 +161,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "De meeste noten groeien aan bomen, en net als alle bomen, betekent het dat ze CO2 opslaan. En veel meer noten plantages zijn aangeplant op grasland. Deze verandering van het landschap slaat meer CO2 op dan er vrijkomt wanneer de noten worden geteeld.\n\nPinda's groeien trouwens niet aan bomen, maar ze zijn de enige noten emoji (en hebben trouwens ook een lage klimaatimpact).",
+            "text": "De meeste noten groeien aan bomen, en net als alle bomen, betekent het dat ze CO2 opslaan. Er worden ook veel notenbomen geplant op grasland. Deze verandering van het landschap slaat meer CO2 op dan er vrijkomt wanneer de noten worden geteeld.",
             "title": "🌳",
             "imageURL": "",
             "blogURL": "",
@@ -241,10 +242,10 @@
             }
           ],
           "answerExplanation": {
-            "text": "Vlees- en zuivelproductie neemt 77% van het land gebruikt voor voedselproductie (inclusief graslanden) in, maar levert slechts 18% van alle calorieën wereldwijd. In latere stories ontdekken we waarom graslanden ook meetellen in het totale land gebruikt voor voedselproductie.\n\nIn andere woorden: als we minder vlees en zuivel consumeren, kunnen we een groot deel van het land teruggeven aan de natuur.",
+            "text": "Vlees- en zuivelproductie neemt 77% van alle landbouwgrond in (inclusief graslanden), maar levert slechts 18% van alle calorieën wereldwijd. In latere stories ontdekken we waarom graslanden ook meetellen als landbouw.\n\nIn andere woorden: als we minder vlees en zuivel consumeren, kunnen we een groot deel van het land teruggeven aan de natuur.",
             "title": "🐄",
             "imageURL": "",
-            "sourceURL": "https://ourworldindata.org/land-use\n",
+            "sourceURL": "https://ourworldindata.org/land-use",
             "urlButtonText": "Bekijk de bron"
           }
         }
@@ -287,7 +288,7 @@
             },
             {
               "id": 2,
-              "title": "Soy",
+              "title": "Soja",
               "correct": false
             }
           ],
@@ -315,7 +316,7 @@
           "supporterOnly": true,
           "type": "question",
           "title": "Hoe is de situatie in de gematigde bossen in het noorden?",
-          "subtitle": "als je kijkt naar welk gebied ze beslaan sinds 1990",
+          "subtitle": "als je kijkt naar oppervlakte sinds 1990",
           "answerOptions": [
             {
               "id": 0,
@@ -334,7 +335,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Het goede nieuws is dat de gematigde bossen zijn toegenomen! Maar het is niet genoeg om de ontbossing in tropische regio's te balanceren. In het laatste tien jaar (2010-2020) hebben we 10x zoveel tropische regenwoud verloren als er gematigd bos is bijgekomen.",
+            "text": "Het goede nieuws is dat de gematigde bossen zijn toegenomen! Maar het is niet genoeg om de ontbossing in tropische regio's te balanceren. In de laatste tien jaar (2010-2020) hebben we 10x zoveel tropische regenwoud verloren als er gematigd bos is bijgekomen.",
             "title": "🌲",
             "imageURL": "",
             "sourceURL": "https://ourworldindata.org/deforestation",
@@ -1106,10 +1107,16 @@
           "id": 4,
           "supporterOnly": true,
           "type": "text",
-          "title": "Aan het begin bij 'Base camp' lieten we je een infographic zien over Project Drawdown. De conclusie: voedselverspilling verminderen is de nummer 1 oplossing voor het klimaat."
+          "title": "Aan het begin bij 'Base camp' lieten we je een infographic zien over Project Drawdown."
         },
         {
           "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "De conclusie: voedselverspilling verminderen is de nummer 1 oplossing voor het klimaat."
+        },
+        {
+          "id": 6,
           "supporterOnly": true,
           "type": "question",
           "title": "Met hoeveel moeten we voedselverspilling verminderen om het Drawdown doel te halen?",
@@ -1118,12 +1125,12 @@
             {
               "id": 0,
               "title": "50%",
-              "correct": false
+              "correct": true
             },
             {
               "id": 1,
               "title": "70%",
-              "correct": true
+              "correct": false
             },
             {
               "id": 2,
@@ -1282,13 +1289,13 @@
           "title": "De infographic liet zien dat 8% van alle granen gebruikt worden voor de industrie 🏭"
         },
         {
-          "id": 4,
+          "id": 5,
           "supporterOnly": true,
           "type": "text",
           "title": "Bijvoorbeeld één van de producten is tarwe zetmeel poeder dat wordt gebruik voor heel veel verschillende dingen 🌾"
         },
         {
-          "id": 5,
+          "id": 6,
           "type": "question",
           "title": "Waar wordt tarwe zetmeel NIET voor gebruikt?",
           "subtitle": "",
@@ -1315,7 +1322,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Okay, dit is misschien niet het meest belangrijke om te onthouden, maar we waren gewoon nieuwgierig waar dat industrie gedeelte over ging.\n\nAan de ene kant is het fijn dat we natuurlijke materialen in al deze producten kunnen gebruiken. Maar het is ook lastig als het in competitie is land voor voedselproductie.\n\nWe realiseerden ons opnieuw dat onze aarde gelimiteerd is en we goed moet kijken hoe we de ruimte gebruiken.",
+            "text": "Okay, dit is misschien niet het meest belangrijke om te onthouden, maar we waren gewoon nieuwgierig waar dat industrie gedeelte over ging.\n\nAan de ene kant is het fijn dat we natuurlijke materialen in al deze producten kunnen gebruiken. Maar het is ook lastig als het in competitie is met land voor voedselproductie.\n\nWe realiseerden ons opnieuw dat onze aarde gelimiteerd is en we goed moet kijken hoe we de ruimte gebruiken.",
             "imageURL": "",
             "title": "🌾"
           }
@@ -1656,12 +1663,12 @@
             {
               "id": 0,
               "title": "Passagiersvluchten 👯",
-              "correct": false
+              "correct": true
             },
             {
               "id": 1,
               "title": "Vrachtvluchten 📦",
-              "correct": true
+              "correct": false
             }
           ],
           "answerExplanation": {
@@ -2352,6 +2359,7 @@
           "answerExplanation": {
             "text": "Een duurzame hoeveelheid zuivel is 250 ml melkequivalenten per dag. Als je dat allemaal voor kaas gebruikt is het ongeveer 175 g per week.\n\nToen Mareike haar kaas consumptie wilde verminderen gaf ze zichzelf een kaas budget: ze kocht precies die hoeveelheid per week en als het op was, dan was dat het.",
             "imageURL": "",
+            "title": "🧀",
             "blogURL": "https://www.forkranger.com/nl/blog/hoe-eet-je-minder-zuivel-als-klimaatbewuste-kaasliefhebber/"
           }
         }
@@ -2427,6 +2435,7 @@
           "answerExplanation": {
             "text": "De CO2 impact van een standaard papieren tas is ongeveer 8 keer hoger dan plastic. Als het van gerecycled papier is gemaakt, is het al wat beter, maar nog steeds iets hoger.\n\nNatuurlijk heeft plastic andere issues, maar het punt is dat alle single-use tassen een probleem zijn. Alleen overstappen op papier is dus niet de oplossing.",
             "imageURL": "",
+            "title": "🛍",
             "blogURL": "",
             "sourceURL": "https://howbadarebananas.com",
             "urlButtonText": "Bekijk de bron"
@@ -2583,17 +2592,12 @@
         {
           "id": 4,
           "supporterOnly": true,
-          "type": "text",
-          "title": "Nieuwe gewoonten zijn soms eng. Wat is hiervan het effect?"
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
+          "hometitle": "Nieuwe gewoonten zijn soms eng. Wat is hiervan het effect?",
           "type": "text",
           "title": "De meeste mensen voelen bij een nieuwe uitdaging ook wat angst 😨"
         },
         {
-          "id": 6,
+          "id": 5,
           "supporterOnly": true,
           "type": "question",
           "title": "Wat is het effect van angst?",
@@ -2930,7 +2934,7 @@
           "id": 5,
           "supporterOnly": true,
           "type": "question",
-          "title": "Met hoeveel zouden we onze zuivelconsumptie moeten verminderen dit te bereiken?",
+          "title": "Met hoeveel zouden we onze zuivelconsumptie moeten verminderen?",
           "subtitle": "voor een gemiddeld Noord-Amerikaans/Europees voedingspatroon",
           "answerOptions": [
             {
@@ -2954,7 +2958,7 @@
             "imageURL": "",
             "title": "🥛",
             "sourceURL": "https://www.fao.org/gift-individual-food-consumption/data/en",
-            "urlButtonText": "Bekijk de huidige consumptie"
+            "urlButtonText": "Bekijk de bron"
           }
         }
       ]
@@ -3007,16 +3011,10 @@
           "supporterOnly": true,
           "hometitle": "Is het mogelijk om verwarmde kassen duurzaam te maken?",
           "type": "text",
-          "title": "Is het mogelijk om verwarmde kassen duurzaam te maken?"
-        },
-        {
-          "id": 4,
-          "supporterOnly": true,
-          "type": "text",
           "title": "Stel we stoken de kassen niet met gas maar met aardwarmte, zou dat het probleem oplossen?"
         },
         {
-          "id": 5,
+          "id": 4,
           "supporterOnly": true,
           "type": "question",
           "title": "De impact van spinazie uit de kas zou lager zijn dan getransporteerd uit Spanje",
@@ -3036,7 +3034,9 @@
           "answerExplanation": {
             "text": "Als we gas kunnen vervangen door aardwarmte en andere hernieuwbare energiebronnen, is het duurzamer om verwarmde kassen te hebben dan groenten van Spanje naar Nederland te transporteren. Daarom promootte David Attenborough dit in zijn documentaire ‘A life on our planet’.\n\nMaar hoe staan we ervoor? Van 2010 tot 2022 is het aandeel duurzame energie voor de Nederlandse kassen gestegen van 2% naar 15%. De zaken gaan dus vooruit, maar we hebben nog een lange weg te gaan.",
             "imageURL": "",
-            "blogURL": ""
+            "title": "🔥",
+            "blogURL": "https://www.netflix.com/title/80216393",
+            "urlButtonText": "Kijktip 🎬"
           }
         }
       ]
@@ -3291,6 +3291,7 @@
           "answerExplanation": {
             "text": "Veel belangrijker dan de hoeveelheid koolhydraten is het type koolhydraten. Het is moeilijk om voldoende te benadrukken hoeveel gezonder de volkoren optie is.\n\nKoolhydraten uit ongeraffineerde en volkoren granen maken een belangrijk deel uit van een gezond voedingspatroon. Dus minder cornflakes, basmat rijst, wit brood en traditionele pasta. En meer havervlokken, volkoren brood en volkoren pasta.",
             "imageURL": "",
+            "title": "🍞",
             "sourceURL": "https://www.hsph.harvard.edu/nutritionsource/carbohydrates/",
             "urlButtonText": "Bekijk de bron"
           }
@@ -3582,7 +3583,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Dat zorgt voor te veel stikstof in het water, en veroorzaakt dead zones. ☠️\n\nMosselen zijn onderdeel van de oplossing.\n"
+          "title": "Dat zorgt voor te veel stikstof in het water, en veroorzaakt dead zones. ☠️\n\nMosselen zijn onderdeel van de oplossing."
         },
         {
           "id": 2,
@@ -3631,13 +3632,13 @@
           "title": "Eerst het trieste deel 😩 Microplastics zijn bijna overal gevonden, zelfs in zout of honing (het is nog steeds niet duidelijk of dit gevolgen voor de gezondheid heeft)."
         },
         {
-          "id": 5,
+          "id": 6,
           "supporterOnly": true,
           "type": "text",
           "title": "Het ‘goede nieuws’ is dat mosselen geen hogere concentraties microplastics bevatten 😅 Dus hoe gaan ze om met vervuiling?"
         },
         {
-          "id": 6,
+          "id": 7,
           "supporterOnly": true,
           "type": "question",
           "title": "Wat doen mosselen met vervuilende deeltjes?",
@@ -3841,7 +3842,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Sinds 1990 vangen we ongeveer dezelfde hoeveelheid vis elk jaar. De totale visconsumptie is wel toegenomen, maar de extra groei kwam door gekweekte vis. Gekweekte vis heeft andere problemen waar we later naar kijken. Maar het goede nieuws is dat de claim die je nogal eens hoort dat de oceanen leeg zullen zijn in 2048 is complete onzin.",
+            "text": "Sinds 1990 vangen we ongeveer dezelfde hoeveelheid vis elk jaar. De totale visconsumptie is wel toegenomen, maar de extra groei kwam door gekweekte vis. Gekweekte vis heeft andere problemen waar we later naar kijken. Maar het goede nieuws is dat de claim die je nogal eens hoort dat de oceanen leeg zullen zijn in 2048 complete onzin is.",
             "imageURL": "",
             "title": "🎣",
             "blogURL": "https://ourworldindata.org/fish-and-overfishing#will-the-oceans-be-empty-by-2048",
@@ -4001,7 +4002,7 @@
               "correct": false
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "8",
               "correct": false
             }
@@ -4185,7 +4186,7 @@
               "correct": true
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "Verbranden voor energie ⚡️",
               "correct": false
             }
@@ -4355,7 +4356,7 @@
               "correct": true
             },
             {
-              "id": 1,
+              "id": 2,
               "title": "De gletsjers ❄️",
               "correct": false
             }
@@ -4528,7 +4529,7 @@
             {
               "id": 1,
               "title": "Traditioneel 🧑‍🌾",
-              "correct": false
+              "correct": true
             }
           ],
           "answerExplanation": {
@@ -5138,22 +5139,22 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "…de kans op droogtes kleiner is☀️",
+              "title": "de kans op droogtes kleiner is☀️",
               "correct": true
             },
             {
               "id": 1,
-              "title": "…de bodemgezondheid hoger is 🪱",
+              "title": "de bodemgezondheid hoger is 🪱",
               "correct": false
             },
             {
               "id": 2,
-              "title": "…de watervervuiling vermindert ☠️",
+              "title": "de watervervuiling vermindert ☠️",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Het merendeel van ons voedsel wordt geproduceerd met regen. Maar de klimaatverandering maakt het weer extremer, waardoor het afhankelijker worden van regen onvoorspelbaarder wordt.\n\nEn als het niet regent, heb je nog steeds 2170 liter water nodig om het gras en de maïs voor een biefstuk te laten groeien. Dus tenzij je meer blauw water gebruikt, is er geen biefstuk. Dit is de reden waarom ‘groen water’ belangrijk is en waarom het eten van voedsel dat minder water nodig heeft duurzamer is.",
+            "text": "Het merendeel van ons voedsel wordt geproduceerd met regen. Maar door het extremere weer als gevolg van de klimaatverandering wordt de voedselproductie minder voorspelbaar.\n\nEn als het niet regent, heb je nog steeds 2170 liter water nodig om het gras en de maïs voor een biefstuk te laten groeien. Dus tenzij je meer blauw water gebruikt, is er geen biefstuk. Dit is de reden waarom ‘groen water’ belangrijk is en waarom het eten van voedsel dat minder water nodig heeft duurzamer is.",
             "imageURL": "",
             "title": "🌧"
           }
@@ -5514,7 +5515,7 @@
             },
             {
               "id": 3,
-              "title": "There is no goal",
+              "title": "Er is geen doel",
               "correct": false
             }
           ],
@@ -5522,8 +5523,7 @@
             "text": "Het goede nieuws is dat de biologische landbouw in de EU en de VS in opkomst is.\n\nHet slechte nieuws: met de huidige groei zal de EU haar doel niet bereiken. Oostenrijk is momenteel het enige land dat dit al heeft bereikt. In de VS maakt biologische landbouw minder dan 1% van alle landbouwgrond uit.\n\nVaker biologisch kopen helpt de transitie te versnellen. Begin met één of twee producten die je altijd biologisch koopt. Lees meer over onze aanpak in onze blog.",
             "imageURL": "",
             "title": "🇪🇺",
-            "sourceURL": "https://www.eea.europa.eu/en/analysis/indicators/agricultural-area-used-for-organic",
-            "urlButtonText": "Bekijk de bron"
+            "blogURL": "https://www.forkranger.com/nl/blog/betaalbaar-biologisch-boodschappen-doen/"
           }
         }
       ]
@@ -5621,7 +5621,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "‘Silvopasture’ is een eeuwenoude landbouwmethode waarbij dieren tussen de bomen grazen. De meest voorkomende vorm is de Spaanse dehesa, waar dieren tussen eikenbomen leven. Het is ook mogelijk om de productie van dieren of zelfs groenten te combineren met noten-, fruit- of olijfbomen.\n\nAls bosland de intensieve graslanden vervangt, is het een andere belangrijke klimaatoplossing met veel voordelen: gezondere bodems, schaduw voor de dieren en mooiere landschappen!",
+            "text": "‘Silvopasture’ is een eeuwenoude landbouwmethode waarbij dieren tussen de bomen grazen. De meest voorkomende vorm is de Spaanse dehesa, waar dieren tussen eikenbomen leven. Het is ook mogelijk om de productie van dieren of zelfs groenten te combineren met noten-, fruit- of olijfbomen.\n\nAls bosland de intensieve graslanden vervangt, is het ook een belangrijke klimaatoplossing met veel voordelen: gezondere bodems, schaduw voor de dieren en mooiere landschappen!",
             "imageURL": "",
             "title": "🐄",
             "sourceURL": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/651982/EPRS_BRI(2020)651982_EN.pdf",
@@ -6142,18 +6142,18 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "...nog erger geworden",
+              "title": "nog erger geworden",
               "correct": false
             },
             {
               "id": 1,
-              "title": "...hetzelfde gebleven",
-              "correct": true
+              "title": "hetzelfde gebleven",
+              "correct": false
             },
             {
               "id": 2,
-              "title": "..hersteld",
-              "correct": false
+              "title": "hersteld",
+              "correct": true
             }
           ],
           "answerExplanation": {
@@ -6253,7 +6253,7 @@
               "correct": false
             },
             {
-              "id": 2,
+              "id": 3,
               "title": "Alle bovenstaande",
               "correct": false
             }
@@ -6326,13 +6326,13 @@
           "title": "Wat kun je zelf doen om het aantal bestuivers in je eigen achtertuin te vergroten? 🦋"
         },
         {
-          "id": 4,
+          "id": 5,
           "supporterOnly": true,
           "type": "text",
           "title": "De resultaten van veel onderzoeken zijn gemengd 🧐 Maar er zijn een paar dingen die altijd helpen."
         },
         {
-          "id": 5,
+          "id": 6,
           "supporterOnly": true,
           "type": "question",
           "title": "Wat helpt bestuivers het meest? 🌼\n",
@@ -6439,7 +6439,7 @@
             {
               "id": 0,
               "title": "De soort noot 🥜",
-              "correct": false
+              "correct": true
             },
             {
               "id": 1,
@@ -6449,7 +6449,7 @@
             {
               "id": 2,
               "title": "De hoeveelheid eiwit in de noot 💪",
-              "correct": true
+              "correct": false
             }
           ],
           "answerExplanation": {
@@ -6514,7 +6514,7 @@
           "supporterOnly": true,
           "hometitle": "Lokaal eten: wat is het grootste voordeel voor boeren?",
           "type": "text",
-          "title": "We hebben een onderzoek gevonden dat veel onderzoek naar lokale voedselsystemen samenvat, zoals boerenmarkten 👩🏽‍🌾"
+          "title": "We hebben een studie gevonden dat veel onderzoek naar lokale voedselsystemen samenvat, zoals boerenmarkten 👩🏽‍🌾"
         },
         {
           "id": 5,
@@ -6642,7 +6642,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "B12 kan alleen worden aangemaakt door microben, zoals bacteriën. Soms bevatten planten of schimmels B12 omdat ze samenwerken met bacteriën, maar de hoeveelheden zijn erg laag. Het vlees van veel dieren (kippen, varkens, vis) bevat B12 omdat ze andere dingen eten waar B12 in zit.\n\nDe microben die B12 aanmaken, leven ook in de magen van herkauwers zoals koeien. Daarom bevatten hun vlees en zuivelproducten B12.",
+            "text": "B12 kan alleen worden aangemaakt door microben, zoals bacteriën. Soms bevatten planten of schimmels B12 omdat ze samenwerken met bacteriën, maar de hoeveelheden zijn erg laag. Het vlees van veel dieren (kippen, varkens, vis) bevat B12 omdat ze andere dingen eten waar B12 in zit.\n\nDe microben die B12 aanmaken, leven ook in de magen van herkauwers zoals koeien. Daarom bevat hun vlees en zuivelproducten B12.",
             "imageURL": "",
             "title": "🦠"
           }
@@ -7586,7 +7586,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Wijn en bier worden meestal in glas geleverd, wat voor een hogere verpakkingsemissies zorgt. En de transportemissies zijn hoog omdat zowel het glas als al het water veel weegt.\n\nMaar zelfs dan is het niet iets om je al te veel zorgen over te maken: het vervoeren van een fles wijn van Australië naar Groot-Brittannië heeft nog steeds een kleinere klimaatimpact dan zelf met de auto naar een lokale wijngaard 5 km verderop te rijden.",
+            "text": "Wijn en bier worden meestal in glas geleverd, wat voor hogere verpakkingsemissies zorgt. En de transportemissies zijn hoog omdat zowel het glas als al het water veel weegt.\n\nMaar zelfs dan is het niet iets om je al te veel zorgen over te maken: het vervoeren van een fles wijn van Australië naar Groot-Brittannië heeft nog steeds een kleinere klimaatimpact dan zelf met de auto naar een lokale wijngaard 5 km verderop te rijden.",
             "imageURL": "",
             "title": "🚚",
             "sourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0959652620319843",
@@ -7774,7 +7774,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "In landen met hoge inkomens is een gezond en duurzaam voedingspatroon, veel groenten en peulvruchten en lage hoeveelheden vlees en zuivel, goedkoper dan het huidige voedingspatroon. Het model laat zien dat plantaardig eten de kosten zelfs met een derde kan verlagen!\n\nDeze voedingspatronen zouden in lage-inkomenslanden duurder zijn, maar het typische westerse voedingspatroon is zelfs nog duurder.",
+            "text": "In landen met hoge inkomens is een gezond en duurzaam voedingspatroon (veel groenten en peulvruchten en lage hoeveelheden vlees en zuivel) goedkoper dan het huidige voedingspatroon. Het model laat zien dat plantaardig eten de kosten zelfs met een derde kan verlagen!\n\nDeze voedingspatronen zouden in lage-inkomenslanden duurder zijn, maar het typische westerse voedingspatroon is zelfs nog duurder.",
             "imageURL": "",
             "title": "⬇️",
             "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S2542-5196%2821%2900251-5",
@@ -8510,7 +8510,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Zowel vleeseters als flexitariërs vinden vleesalternatieven minder acceptabel op een BBQ-feest dan in andere situaties zoals een etentje met vrienden. Nog een goede reden om veel groenten op de grill te leggen.\n\nAls vegetariërs en veganisten zijn uitgenodigd op een BBQ komt het vaak voor er vleesalternatieven zijn gekocht waar de gasten niet eens van genieten. Een effectieve suggestie uit een onderzoek over dit onderwerp: vraag de gasten om hun eigen favorieten mee te nemen. Op deze manier weet je zeker dat de vegetariërs blij zijn en kunnen vleeseters ook wat nieuwe dingen proberen!",
+            "text": "Zowel vleeseters als flexitariërs vinden vleesalternatieven minder acceptabel op een BBQ-feest dan in andere situaties zoals een etentje met vrienden. Nog een goede reden om veel groenten op de grill te leggen.\n\nAls vegetariërs en veganisten zijn uitgenodigd op een BBQ komt het vaak voor dat er vleesalternatieven zijn gekocht waar de gasten niet eens van genieten. Een effectieve suggestie uit een onderzoek over dit onderwerp: vraag de gasten om hun eigen favorieten mee te nemen. Op deze manier weet je zeker dat de vegetariërs blij zijn en kunnen vleeseters ook wat nieuwe dingen proberen!",
             "imageURL": "",
             "title": "🍔",
             "blogURL": "https://www.nestle.co.uk/en-gb/media/pressreleases/allpressreleases/bbq-hosting-heat-no-need-flip-out-summer",
@@ -8804,12 +8804,12 @@
             {
               "id": 1,
               "title": "€ 2,24",
-              "correct": true
+              "correct": false
             },
             {
               "id": 2,
               "title": "€ 4,42",
-              "correct": false
+              "correct": true
             }
           ],
           "answerExplanation": {

@@ -1864,7 +1864,7 @@
       "id": 13,
       "isPartOfBook": true,
       "title": "Fennel risotto",
-      "description": "Geting risotto right isn't always easy but incredibly delicious. It doesn’t have to take long but requires your constant attention. Also: it’s worth buying high quality ingredients, especially for the stock and rice.",
+      "description": "Getting risotto right isn't always easy but incredibly delicious. It doesn’t have to take long but requires your constant attention. Also: it’s worth buying high quality ingredients, especially for the stock and rice.",
       "imageUrl": "https://www.forkranger.com/wp-content/uploads/2020/03/fennel-risotto.jpg",
       "duration": 35,
       "rewardTitle": "You're a chef!",
@@ -5901,7 +5901,7 @@
           "quantityType": "TBL sp"
         },
         {
-          "name": "Musterd",
+          "name": "Mustard",
           "type": "taste",
           "quantity": 2,
           "quantityType": "tea sp"

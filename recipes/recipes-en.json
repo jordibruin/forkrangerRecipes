@@ -2511,12 +2511,6 @@
           "quantityType": "g"
         },
         {
-          "name": "Prunes (dried plums)",
-          "type": "fresh",
-          "quantity": 150,
-          "quantityType": "g"
-        },
-        {
           "name": "Mango",
           "type": "fresh",
           "quantity": 1,

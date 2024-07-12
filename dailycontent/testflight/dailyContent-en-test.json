@@ -3909,7 +3909,7 @@
             {
               "id": 0,
               "title": "Summer ☀️",
-              "correct": false
+              "correct": true
             },
             {
               "id": 1,
@@ -5423,7 +5423,7 @@
             "imageURL": "",
             "title": "🌟",
             "blogURL": "https://www.wakkerdier.nl/persberichten/wereldwijde-primeur-alle-supermarktkip-krijgt-beter-leven/",
-            "urlButtonText": "Reading tip 🤓"
+            "urlButtonText": "Reading tip (in Dutch) 🤓"
           }
         }
       ]
@@ -5785,16 +5785,11 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "They only eat plants (herbivores)",
-              "correct": false
-            },
-            {
-              "id": 1,
               "title": "Wild-caught fish",
               "correct": false
             },
             {
-              "id": 2,
+              "id": 1,
               "title": "Fish farms",
               "correct": true
             }
@@ -7318,7 +7313,7 @@
           ],
           "answerExplanation": {
             "text": "Many traditional breeds produce less milk but have other benefits: they only require grass (instead of also needing soy) and can survive outside all winter.\n\nOften, these cows also help with promoting biodiversity. For example, there is a specific type of cow that is perfect for maintaining heathland. They eat just the right type of plants and also spread seeds in their fur.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/double_purpose_cows.png",
+            "imageURL": "",
             "title": "🍀",
             "blogURL": "https://www.landschapoverijssel.nl/heidekoe",
             "urlButtonText": "Reading tip 🤓"
@@ -8715,7 +8710,7 @@
             "imageURL": "",
             "title": "💪",
             "sourceURL": "https://ourworldindata.org/climate-change-support",
-            "urlButtonText": "View source"
+            "urlButtonText": "Reading tip 🤓"
           }
         }
       ]
@@ -9215,7 +9210,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "They all have a unique taste, but to they also differ in their carbon footprint?"
+          "title": "They all have a unique taste, but do they also differ in their carbon footprint?"
         },
         {
           "id": 2,

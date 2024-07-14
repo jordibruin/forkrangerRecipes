@@ -2,7 +2,8 @@
   "dailyContent": [
     {
       "id": 1,
-      "notificationText": "Test text",
+      "notificationTitle": "Today: The Big Ranch",
+      "notificationText": "What makes a bigger difference: eating vegetarian or eating different meats? 🌍 - Recipe of the day: Smokey Chilli",
       "home": {
         "title": "A small step with a big impact",
         "category": 1
@@ -50,6 +51,39 @@
           "id": 4,
           "type": "text",
           "title": "Come back tomorrow to discover the climate impact of nuts"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What’s the impact of replacing not just beef, but also dairy?",
+          "type": "text",
+          "title": "Replacing beef with other meat reduces the footprint by 21% 🥩"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much more would it reduce if we also leave out dairy? 🥛",
+          "subtitle": "for reducing CO2 in average European or North American diet",
+          "answerOptions": [
+            {
+              "id": 1,
+              "title": "-4%",
+              "correct": false
+            },
+            {
+              "id": 0,
+              "title": "-12%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Since milk also comes from cows it has a relatively high footprint. Replacing beef with other meat and avoiding dairy (-33%) makes about the same difference as eating completely vegetarian (-31%).",
+            "imageURL": "",
+            "title": "🐄",
+            "sourceURL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -100,6 +134,44 @@
           "type": "recipe",
           "recipeID": 58,
           "subtitle": "The walnuts in this creamy pasta dish not only provide some extra protein but also a delicious crunch."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Nuts can even be carbon negative. How?",
+          "type": "text",
+          "title": "Nuts not only have a low footprint, they can even absorb CO2 so they become carbon negative ⬇️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How can nuts be carbon negative? ",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They replace grassland with trees 🌳",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "They improve the soil 🪱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "They prevent deforestation 🪓",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Most nuts grow on trees, and like all trees, that means they can absorb CO2. A lot of nut plantations have been planted on grasslands. This change in landscape stores more CO2 than is released when farming the nuts.",
+            "imageURL": "",
+            "title": "🌳",
+            "sourceURL": "https://ourworldindata.org/faqs-environmental-impacts-food",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -149,6 +221,37 @@
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "This recipe uses a lot less land than a tortilla with ground beef."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Of all the land we use for food, how much is used for meat & dairy? 🐄",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "33%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "55%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "77%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Meat and dairy production uses 77% of farmland (including grasslands) but only provides 18% of all the calories we produce worldwide. In later stories we’ll explore why grasslands should also be counted as food production.\n\nIn other words: if we reduce meat and dairy consumption we can give a lot of land back to nature.",
+            "imageURL": "",
+            "title": "🌍",
+            "sourceURL": "https://ourworldindata.org/land-use",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -204,6 +307,44 @@
           "type": "recipe",
           "recipeID": 2,
           "subtitle": "A green meal to save the green forests of the world."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Most deforestation happens in tropical countries, but what about temperate forests?",
+          "type": "text",
+          "title": "Most deforestation happens in tropical countries 🌴"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What has happened with temperate forests in the North? 🌲",
+          "subtitle": "in terms of area since 1990",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Increased ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Stayed the same",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Decreased ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The good news is that temperate forests have increased! But it’s not enough to balance the destruction in tropical regions. In the last decade, we lost 10x as much tropical forest as we gained in temperate forests. ",
+            "imageURL": "",
+            "title": "🌲",
+            "sourceURL": "https://ourworldindata.org/deforestation",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -263,6 +404,32 @@
           "type": "recipe",
           "recipeID": 55,
           "subtitle": "The cornerstone of this dish is red lentils, one of the easiest and most delicious ways to cook with legumes."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Do canned beans have a lower footprint than dried beans?",
+          "type": "question",
+          "title": "Which type of legumes have a lower footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Canned 🥫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Dried 🫘",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Legumes are harvested when they are dried out by the sun. Then they are further processed into other products like canned beans. The extra cooking and packaging give canned beans a slightly higher footprint, but it’s minimal compared to the impact of meat and dairy.\n\nWe often choose canned because it’s easier to cook with. That’s also important because if it’s too difficult, we might not eat them at all. That would be a shame as legumes are one of the key building blocks of a sustainable diet.",
+            "imageURL": "",
+            "title": "🫘",
+            "blogURL": "https://www.theguardian.com/environment/2008/mar/23/food.ethicalliving"
+          }
         }
       ]
     },
@@ -318,6 +485,42 @@
           "type": "recipe",
           "recipeID": 30,
           "subtitle": "This recipe is a veggie party!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What decreases the chances of being a ‘convinced meat eater’ the most?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Having higher education 🎓",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Having a vegetarian housemate 🏠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Being young 💁‍♂️",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Being a woman 💃",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Having a vegetarian housemate reduces the chance of being a ‘convinced meat eater’ by 89%. And while you can’t change someone’s age, gender, or education, you can be a changing factor in their surrounding. In other words: your food choices have more influence than you think!\n\nThe effect is a bit weaker but it’s still there for having a vegetarian friend (-43%) or family member (-55%) who doesn’t live with you.",
+            "imageURL": "",
+            "title": "🏠",
+            "sourceURL": "https://www.mdpi.com/2071-1050/11/14/3936",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -368,6 +571,37 @@
           "type": "recipe",
           "recipeID": 3,
           "subtitle": "Soup recipes are perfect for dipping some leftover bread."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Where is most food wasted in developing countries?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Consumption 🍽",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Processing and distribution 🚚",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Farming and storage 🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In developing countries most food waste happens at the farm and storage (33%). Only very little is wasted at consumption (16% compared to 58% in industrialized countries). Interesting fact: in cities it’s generally worse, regardless of where you are.",
+            "imageURL": "",
+            "title": "🌾",
+            "sourceURL": "https://www.wri.org/research/reducing-food-loss-and-waste",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -427,6 +661,43 @@
           "type": "recipe",
           "recipeID": 8,
           "subtitle": "Another recipe where plants are the main ingredient (although mushrooms are technically fungi)."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "We have a lot of farm animals for meat. But we also have a lot of pets that eat meat 🐶"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What percentage of feed for cats & dogs is meat? 🐈",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "20 to 30%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "40 to 50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "80 to 90%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Cat and dog food is 40-50% meat and that really adds up. For example, in the US 25-30% of the environmental footprint of animal farming is caused by pet food!\n\nWhile cats and dogs can both be healthy on plant-based foods, it’s a lot easier for dogs because they have the same type of stomach as us (because they're also omnivores). For cats, you need to pay more attention to cover all nutrients.",
+            "imageURL": "",
+            "title": "🐶",
+            "sourceURL": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0181301&type=printable",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -481,6 +752,42 @@
           "type": "recipe",
           "recipeID": 5,
           "subtitle": "With this recipe you’ve already reached half of the recommended amount of nuts and legumes."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What makes peanuts different from other nuts?",
+          "type": "text",
+          "title": "Peanuts are the most eaten nut in the world. "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What makes them different from other nuts? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "They are officially legumes",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "They have more protein",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "They have more fat",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Peanuts are not even nuts, but legumes (like lentils) with a similar amount of protein and healthy fats as nuts. While they can’t be carbon-negative like tree nuts, they are good for the soil and have a much lower water footprint.",
+            "imageURL": "",
+            "title": "🥜"
+          }
         }
       ]
     },
@@ -536,6 +843,36 @@
           "type": "recipe",
           "recipeID": 65,
           "subtitle": "A meal with four sources of protein: pasta, beans, peas, and hazelnuts."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What contains more protein, rice or pasta?",
+          "type": "question",
+          "title": "Which of these grains contains the MOST protein? 🌾",
+          "subtitle": "per 100 g",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Oats",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rice",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Bread & pasta (wheat)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Both oats (14g) and wheat (12g) are high in protein and that means that bread has more protein than beans (ca. 8g per 100 g). Rice is around the same level as beans.\n\nSo while beans are a great source of protein (and fiber), grain products often provide most of the protein in a meal!",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -586,6 +923,43 @@
           "type": "recipe",
           "recipeID": 24,
           "subtitle": "Most of the world’s soy comes from Brazil, so here is meatless version of a Brazilian classic."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Most meat alternatives are made with soy beans 🍔"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What makes soy special compared to other beans? 🫘",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More protein",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Easier to digest",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Tastier",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Soybeans have around 50% more protein than kidney beans. This is one reason why they’re a good alternative to meat. By the way, the difference between soybeans and edamame is only the moment when the beans are harvested.\n\nThere is another bean with a similar amount of protein that also grows better in Europe than soy: lupin beans.",
+            "imageURL": "",
+            "title": "🫘",
+            "sourceURL": "https://tabledebates.org/building-blocks/soy-food-feed-and-land-use-change",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -645,6 +1019,37 @@
           "type": "recipe",
           "recipeID": 28,
           "subtitle": "Meat has a strong umami flavor, but this recipe is also full of umami from the mushrooms, soy sauce, and fried onions."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much of the footprint of beef is caused by methane? 🐄",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "85%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "50% of the climate impact of beef comes from methane. That’s a lot, but even if we take away the methane footprint, beef would have a higher carbon footprint than pork and chicken.\n\nFor goat and sheep meat methane plays an even bigger role at 65% of the total emissions.",
+            "imageURL": "",
+            "sourceURL": "https://ourworldindata.org/carbon-footprint-food-methane",
+            "urlButtonText": "View source",
+            "title": "🐄"
+          }
         }
       ]
     },
@@ -699,6 +1104,43 @@
           "type": "recipe",
           "recipeID": 37,
           "subtitle": "This is a great recipe to add any leftover veggies you have."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "At ‘Base camp’ we showed you an infographic about Project Drawdown. The conclusion: reduced food waste is the number 1 solution for the climate 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "By how much do we need to reduce food waste to reach the Drawdown goal? ⬇️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "70%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "90%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "There will always be some food waste, but the goal in Project Drawdown (for Scenario 1) is to reduce food waste by 50%. We can do this!\n\nIt would save ten times more CO2 than switching 1/3 of all cars to electric.",
+            "imageURL": "",
+            "title": "🗑",
+            "sourceURL": "https://drawdown.org/solutions/reduced-food-waste",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -753,6 +1195,38 @@
           "type": "recipe",
           "recipeID": 19,
           "subtitle": "Cheese has a strong umami flavor but you can also get it from ingredients. In this case: soy sauce."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much cheese do vegetarians eat compared to meat eaters?",
+          "type": "question",
+          "title": "How much cheese do vegetarians eat compared to meat eaters? 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25% more ",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50% more",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "75% more",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Vegetarians eat almost twice as much cheese as meat eaters. Overall, it’s still more sustainable than a high-meat diet. But as one of our followers concluded: it’s better to eat salami some days than cheese every day.",
+            "imageURL": "",
+            "title": "🧀",
+            "sourceURL": "https://www.mdpi.com/2072-6643/9/12/1317",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -802,6 +1276,53 @@
           "type": "recipe",
           "recipeID": 16,
           "subtitle": "A delicious recipe without animal products, so no need for feed!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "8% of cereals are used for industry. What does that mean?",
+          "type": "text",
+          "title": "The infographic showed that 8% of the cereals is used for industry 🏭"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "For example one of the products is wheat starch powder, used for many different things 🌾"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is NOT something that wheat starch is used for?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Glue for cardboard 📦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The outer part of a pill 💊",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Motor oil 🛢",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "Extending shelf life of food products 🍿",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Okay this is probably not the most important to remember, we were curious what that industry part is about.\n\nOn the one hand, it’s nice that we can use natural materials in all these products. But it’s also complicated if this is in competition with land for growing food.\n\nIt made us realize once again that our Earth is limited and we should use the space responsibly.",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -857,6 +1378,37 @@
           "type": "recipe",
           "recipeID": 67,
           "subtitle": "A pasta recipe to practice the right amount of pasta you need per person to avoid leftovers."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the best strategy to avoid wasting pasta?",
+          "type": "text",
+          "title": "So what if you always cook the right amount of pasta and if someone is still hungry, then you cook a bit extra 🔥 Would that be better? "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Wasting 100g leftover pasta",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Boiling water 2nd time to cook extra pasta",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Let’s imagine two scenarios: in the first you cook 400 g of pasta but it’s too much and you throw away 100 g. In the second, you cook 300 g of pasta but it turns out it’s not enough, so you cook an extra 100 g.\n\nThe carbon footprint for boiling the water again in the second scenario is five times lower than the footprint of wasting pasta. So it’s better to cook exactly what you expect to eat, and if necessary cook some extra.",
+            "imageURL": "",
+            "title": "🍝"
+          }
         }
       ]
     },
@@ -907,6 +1459,38 @@
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "A tribute to Indonesia, where a lot of rainforest has been destroyed to make space for palm oil plantations."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Does Nutella with palm oil have a higher footprint than beef?",
+          "type": "text",
+          "title": "Nutella is known as a chocolate-hazelnut spread but 1/3 of the ingredients is palm oil 😳"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What has a higher carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 jar Nutella 🍫",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 beef hamburger 🍔",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Even though palm oil is causing a lot of problems, the carbon footprint for food products that use palm oil is still much lower than for meat and dairy. And this includes the impact of deforestation.\n\nOne hamburger has the same footprint as three jars of Nutella.",
+            "imageURL": "",
+            "title": "🍔",
+            "blogURL": "https://www.forkranger.com/why-palm-oil-is-not-as-bad-as-its-reputation/"
+          }
         }
       ]
     },
@@ -961,6 +1545,44 @@
           "type": "recipe",
           "recipeID": 7,
           "subtitle": "Since you probably know enough recipes with bacon, here is a nice potato recipe where you don’t need meat."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the biggest barrier for people to reduce meat?",
+          "type": "text",
+          "title": "A study in the Netherlands looked at how young adults think about eating less meat."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What was the biggest barrier for reducing meat?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "High prices of meat alternatives 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Habit 🕐",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Taste 👅",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "By far the biggest barrier to eating less meat was taste. This is why reducing portion sizes can be a good option. You keep part of the taste but also reduce the climate impact. In the same study, people also generally found it a little easier to reduce portion size than to replace meat with a plant-based alternative.\n\nIt’s interesting that the high prices of meat alternatives were also mentioned as a big barrier, even though they are generally cheaper than meat.",
+            "imageURL": "",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0950329322000982",
+            "urlButtonText": "View source",
+            "title": "👅"
+          }
         }
       ]
     },
@@ -1021,6 +1643,33 @@
           "type": "recipe",
           "recipeID": 21,
           "subtitle": "We can eat bananas in mainland Europe thanks to the transport by ship from banana-producing regions. Let’s enjoy them in this wonderful curry."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What type of flight causes more emissions, passengers or cargo?",
+          "type": "question",
+          "title": "Which causes most of the emissions from flying?",
+          "subtitle": "worldwide",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Passenger flights 👯",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Cargo flights 📦",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "81% of the emissions of flying come from passenger flights, and 19% from cargo. Most of those passenger emissions come from high-income countries.\n\nLong-distance flights have a much higher carbon footprint than short flights, but there are many more short flights. So ALL short flights together contribute roughly the same amount of CO2 as all long-distance flights.",
+            "imageURL": "",
+            "title": "✈️",
+            "sourceURL": "https://theicct.org/sites/default/files/publications/ICCT_CO2-commercl-aviation-2018_20190918.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1046,7 +1695,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Somone with the average Western diets eats...",
+          "title": "Someone with the average Western diets eats...",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1070,6 +1719,33 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Rice and beans is a great combination because together they provide a complete source of protein (all essential amino acids)."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Who needs to pay more attention to protein, gym bros or grandmothers?",
+          "type": "question",
+          "title": "Which group has a higher chance of not eating enough protein?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Old people 👵🏼",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Young gymgoers 🏋️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Older people are more likely to have a shortage of protein. For two reasons: 1) Older people generally eat less food 2) Our need for protein increases with old age.\n\nSo it’s not young gymgoers but old people who should pay attention to protein.",
+            "imageURL": "",
+            "sourceURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6507527/",
+            "urlButtonText": "View source",
+            "title": "👵🏼"
+          }
         }
       ]
     },
@@ -1120,6 +1796,48 @@
           "type": "recipe",
           "recipeID": 14,
           "subtitle": "While pineapple comes by boat, fresh sugar snaps and green beans are often transported by air. So from September until April, it’s a good option to buy them frozen."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The infographic showed the division of all food miles. But what if we look at total emissions of transporting food? ☁️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which mode of transport causes most of the transport emissions?",
+          "subtitle": "% of total food transport emissions",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Truck 🚚",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Boat 🚢",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Train 🚅",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Airplane ✈️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "81% of all food transport emissions come from local/regional truck transport!\n\nMost food miles are covered by boat but once food arrives in the harbor they still need to be transported to stores. As we saw in a previous story, trucks have a relatively high carbon footprint for every ton of food they transport. And all of those emissions add up!",
+            "imageURL": "",
+            "title": "🚚",
+            "sourceURL": "https://www.nature.com/articles/s43016-021-00225-9",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1175,6 +1893,44 @@
           "type": "recipe",
           "recipeID": 0,
           "subtitle": "This is a fantastic recipe to discover a completely new taste."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many people are willing to eat low amounts of meat?",
+          "type": "text",
+          "title": "In the Netherlands, 9% of people are eating low amounts of meat 👍"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many are *willing* to eat low amounts of meat? 🙋",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "42%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "86%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Of course there are still many people who don’t want to eat less meat. But almost half of the population is open to it! But they’re not doing it, yet. As Gandhi said: “The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.”\n\nYou probably also have someone like that in your environment. So maybe learning about this app or receiving a Fork Ranger book is all they need to take action 😉",
+            "imageURL": "",
+            "title": "🫶",
+            "sourceURL": "https://www.pbl.nl/publicaties/hoe-circulair-zijn-nederlandse-consumenten",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1229,6 +1985,35 @@
           "type": "recipe",
           "recipeID": 45,
           "subtitle": "A great recipe to cook with a less common type of legume and source of protein: lima beans."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which of these meals contains the most protein?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Spaghetti with peas 🍝",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Rice with kidney beans 🫘",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Potato frittata with egg 🍳",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Spaghetti with peas has the most protein because wheat products contain a lot of protein. One portion of spaghetti (100 g) has 13 g of protein. That’s the same amount as two small eggs and two-thirds of a can of kidney beans.\n\nThat means that pasta and bread, but also other wheat products like couscous and bulgur, have a lot more protein than most people think.",
+            "imageURL": "",
+            "title": "🍝"
+          }
         }
       ]
     },
@@ -1278,6 +2063,54 @@
           "type": "recipe",
           "recipeID": 66,
           "subtitle": "This recipe uses canned tomatoes, which means no tomatoes were wasted in the process."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Do potato peels count as food waste?",
+          "type": "text",
+          "title": "The previous infographic only showed the carbon footprint of ‘avoidable’ food waste 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "That includes all waste where it’s obvious that it should have been eaten, like a piece of bread 🍞"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there is also ‘unavoidable’ food waste like banana peels 🍌 And ‘possibly avoidable’ food waste."
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Potato peels count as… 🥔",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Avoidable food waste",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Possibly avoidable food waste",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Unavoidable food waste",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Potato peels are the biggest category in the UK household list of ‘possibly avoided food waste’. Wasted potato peels still have a 3 times higher footprint than an entire season of Formula 1! So if you buy potatoes you don’t have to peel them. A win-win for the climate and you because it also saves time.\n\nOther fresh vegetables also contribute a lot to ‘possibly avoidable’ food waste, such as broccoli stems.",
+            "imageURL": "",
+            "title": "🥔"
+          }
         }
       ]
     },
@@ -1328,6 +2161,33 @@
           "type": "recipe",
           "recipeID": 68,
           "subtitle": "The Middle-Eastern flavors of this recipe create a rich meal where you won’t miss cheese.."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is the carbon footprint of cheese lower if it’s organic? ",
+          "type": "question",
+          "title": "Is the carbon footprint of cheese lower if it’s organic? 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "No",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Yes",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "An organic farm has many benefits, like the reduced use of pesticides, better animal welfare, and higher biodiversity. But when it comes to meat or dairy, the organic version doesn’t have a lower carbon footprint.\n\nIn other words: buying organic doesn’t solve the huge climate impact of animal products. We also have to eat less of them.",
+            "imageURL": "",
+            "title": "🐄",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2772427123000475",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1383,6 +2243,35 @@
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Oven recipes are a great way to use old bread: just crumble it on top for a crunchy layer."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "For which food does ‘wrong storage’ cause the most food waste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Fruit 🍌",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Vegetables 🍅",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Dairy 🥛",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The main reason for wasting fruit - almost half of the waste - happens due to wrong storage. So let’s clear some things up:\n\n🍌 If you want your bananas to last longer, you can wrap the little top of bananas (which holds them together) with plastic foil. This reduces ethylene gas escape from the stems and slows down the ripening.\n\n🍋 Citrus fruits: store in the fridge in a bag or container if you don’t plan to use them soon. If you have leftovers, squeeze them and keep the juice as ice cubes.",
+            "imageURL": "",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -1432,6 +2321,37 @@
           "type": "recipe",
           "recipeID": 59,
           "subtitle": "Another way to reduce portion sizes is using small amounts of strong-tasting cheese, such as feta."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is a sustainable amount of cheese per week?",
+          "type": "question",
+          "title": "What is a sustainable amount of cheese per week? 🧀",
+          "subtitle": "per person if you don’t eat other dairy, according to the EAT-Lancet report",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "50 g (two big slices)",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "175 g (Parmesan triangle)",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "350 g (two packs of feta)",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "A sustainable amount of dairy is 250 ml of whole milk equivalents per day. If you use all of that for cheese, it translates to about 175 g per week.\n\nWhen Mareike wanted to reduce her cheese consumption she used this to give herself a cheese budget: she bought that amount per week and once it was gone, that was it.",
+            "imageURL": "",
+            "title": "🧀",
+            "blogURL": "https://www.forkranger.com/blog/how-to-eat-less-dairy-as-a-climate-concious-cheese-lover/"
+          }
         }
       ]
     },
@@ -1466,7 +2386,7 @@
               "correct": false
             },
             {
-              "id": 2,
+              "id": 1,
               "title": "Low",
               "correct": true
             }
@@ -1482,12 +2402,39 @@
           "type": "recipe",
           "recipeID": 54,
           "subtitle": "A recipe that uses a lot of cans. Now you know that it still has a much lower impact than a chilli con carne."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Which bag has a lower footprint, paper or plastic?",
+          "type": "question",
+          "title": "Which bag has a lower carbon footprint? 🛍",
+          "subtitle": "re-using the bag is not taken into account (but is of course always a good idea)",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Paper",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Plastic",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The carbon footprint of a standard paper bag is 8 times higher than plastic. If it’s recycled it’s much better, but still slightly higher.\n\nOf course plastic has other issues but the point is that all single-use bags are a problem. Only shifting to paper is not the solution.",
+            "imageURL": "",
+            "title": "🛍",
+            "sourceURL": "https://howbadarebananas.com",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
     {
       "id": 29,
-      "notificationTitle": "Today: The Big Ranch (the last one!)",
+      "notificationTitle": "Today: The Big Ranch",
       "notificationText": "Introducing a red meat budget 🍔 - Recipe of the day: Pita Bread with Mushrooms",
       "home": {
         "title": "Introducing a red meat budget",
@@ -1536,6 +2483,45 @@
           "type": "recipe",
           "recipeID": 63,
           "subtitle": "A lot of red meat is used for fast food, but it’s easy to make a delicious pita with mushrooms."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Who should eat more red meat, men or women?",
+          "type": "text",
+          "title": "The WWF also calculated what a healthy and sustainable diet should look like in the Netherlands 🇳🇱"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "They found an interesting difference for men and women 👫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Who is ‘allowed’ to eat more red meat?",
+          "subtitle": "for health reasons",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Men 👨🏽‍🦰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Women 👩🏽",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Women are ‘allowed’ more red meat. For men it’s 91 g per week and for women 150 g. This is because they need more iron because of the blood loss during menstruation.\n\nOf course you can also get enough iron from other sources.",
+            "imageURL": "",
+            "title": "👩🏽",
+            "sourceURL": "https://www.wwf.nl/globalassets/pdf/rapporten/wwf-nl_2023_gezond_eten_binnen_de_grenzen_van_een_aarde_uitgebreid_v2.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -1591,6 +2577,43 @@
           "type": "recipe",
           "recipeID": 18,
           "subtitle": "One of our most simple recipes. So it’s to also set a small step on busy days."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "New habits can be scary. What’s the effect of that?",
+          "type": "text",
+          "title": "For most people, a new challenge triggers some amount of fear 😨"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What does fear do?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Weaker memory formation 🧠",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Less creative and rational thinking 🤔",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "More calm and lower heart rate 🫀",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Fear puts our body into survival mode: more adrenaline and less creative and rational thinking. That’s useful for running away from a tiger but not for changing a habit, which can also be scary.\n\nThis is why small steps are important: if the first step is small enough it doesn’t trigger fear. For example, instead of having the goal to read a book, set a goal to read 1 page per day. Or replace beef instead of becoming vegetarian.",
+            "imageURL": "",
+            "title": "🏃",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -1645,6 +2668,35 @@
           "type": "recipe",
           "recipeID": 39,
           "subtitle": "A great dish for whole grain spaghetti. While not all types of pasta are available as whole grain variant, most supermarkets have whole grain spaghetti."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happens to the wheat bran and germ after being removed?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Burnt 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Fed to animals 🐷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Used for vitamin supplements 💊",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "A benefit of having animals in the food system is that they can eat leftover products, like the bran and germ of refined grains. But that only makes sense if they are leftovers that we cannot eat. In this case it would be healthier and more sustainable if we would eat those parts of the grain ourselves!",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -1700,6 +2752,32 @@
           "type": "recipe",
           "recipeID": 49,
           "subtitle": "To keep avocados more special, we’ve decided to only use them for authentic Mexican recipes, like these fajitas."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Does the average European eat more butter or more avocados?",
+          "type": "question",
+          "title": "What does the average European eat more of?",
+          "subtitle": "in kg",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Butter 🧈",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Avocados 🥑",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The average European eats three times more butter than avocados (and 11 times more beef). So even though avocados have some issues, it’s clear that reducing avocado consumption is a MUCH lower priority than reducing meat and dairy.\n\nThe average European eats about 8 avocados per year. So for our avocado budget we rounded this number up to 1 per month. So if we stick to this avocado budget, avocado consumption won’t grow (and probably decrease).",
+            "imageURL": "",
+            "title": "🥑",
+            "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
+          }
         }
       ]
     },
@@ -1754,6 +2832,36 @@
           "type": "recipe",
           "recipeID": 62,
           "subtitle": "With these wraps you can practice choosing the whole grain option."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How can you recognize whole grain products?",
+          "type": "question",
+          "title": "How can you recognize whole grain products? 🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Check for dark color",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Check for ‘whole grain’ label",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Check the ingredients",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The only way to make sure a product is whole grain is to check the ingredient list and find the word ‘whole grain’. Ingredients are listed according to the quantity. So for a product like bread, whole grain should be the first word.\n\nYou can also find whole grain cookies, but then the first ingredient is usually sugar. So while it’s a whole grain version of a cookie, it’s still a cookie full of sugar and not the kind of whole grain product that is healthy.",
+            "imageURL": "",
+            "title": "🌾"
+          }
         }
       ]
     },
@@ -1803,6 +2911,44 @@
           "type": "recipe",
           "recipeID": 35,
           "subtitle": "In most tortellini types, a bit of cheese is already hidden inside. That’s why there’s no need to sprinkle more on top."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "By how much should we reduce our dairy consumption for a sustainable level?",
+          "type": "text",
+          "title": "The EAT-Lancet report calculated a healthy & sustainable amount of dairy 🥛"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much should we reduce dairy consumption to meet those goals? ⬇️",
+          "subtitle": "for average North American & European diet",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "20%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "80%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "To get to a sustainable diet, we need to cut dairy consumption roughly in half (for an average North American/European diet). Generally, we can say that a sustainable amount is about one portion per day. For example, either a bowl of yogurt or a cheese sandwich.",
+            "imageURL": "",
+            "title": "🥛",
+            "sourceURL": "https://www.fao.org/gift-individual-food-consumption/data/en",
+            "urlButtonText": "Check current consumption"
+          }
         }
       ]
     },
@@ -1848,6 +2994,44 @@
           "type": "recipe",
           "recipeID": 42,
           "subtitle": "A one-pot curry with spinach. You can buy frozen spinach if it’s not in season."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is it possible to have sustainable heated greenhouses?",
+          "type": "text",
+          "title": "Heated greenhouses also have benefits: they can produce more food with less land and fertilizer ⬇️"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "So what if we don’t heat them with fossil fuel but with geothermal energy? ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "The footprint of spinach from a greenhouse would be lower than transporting it from Spain ",
+          "subtitle": "for a greenhouse with geothermal energy in the Netherlands",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes ✅",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "No ❌",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "If we can replace gas with geothermal energy and other renewables it will be more sustainable to have heated greenhouses than to transport vegetables from Spain to the Netherlands. That’s why David Attenborough promoted them in his documentary ‘A life on our planet’.\n\nSo how are we doing? From 2010 to 2022 the share of sustainable energy for Dutch greenhouses increased from 2% to 15%. So things are improving, but we still have a long way to go.",
+            "imageURL": "",
+            "title": "⚡️",
+            "blogURL": ""
+          }
         }
       ]
     },
@@ -1902,6 +3086,43 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "Did you know that many chilli’s contain cocoa, too? This one contains another rainforest product - cinnamon."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is dark chocolate better for the climate than milk chocolate?",
+          "type": "text",
+          "title": "Let’s compare two chocolate bars: one with milk and the other with dark chocolate (both without deforestation) 🪓"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Milk chocolate contains milk, but dark chocolate contains twice as much cacao… 🍫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which one has a lower carbon footprint? 🍫",
+          "subtitle": "if there’s no deforestation",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Dark",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Milk",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The answer all depends on the cacao: if it comes from deforestation areas, dark chocolate is worse because it uses double the amount of cacao. But if it’s farmed sustainably, dark chocolate avoids the milk and has a lower footprint.\n\nAn important benefit of dark chocolate is that you eat less of it because the taste is more intense. So we’re fans of dark!",
+            "imageURL": "",
+            "title": "🍫"
+          }
         }
       ]
     },
@@ -1956,6 +3177,42 @@
           "type": "recipe",
           "recipeID": 9,
           "subtitle": "This Chilli Spaghetti is a great pasta recipe where you won’t miss cheese. Try it yourself!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much milk is required to make yogurt?",
+          "type": "text",
+          "title": "While butter and cheese require a lot of milk, you only need 1 liter of milk for 1 kg of yogurt 🥣 But not all yogurts are the same."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which type of yogurt requires more milk?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Fruit yogurt 🍑",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Greek yogurt 🇬🇷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Lactose-free yogurt 🐮",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Greek yogurt has about three times the fat content of regular yogurt, so it requires roughly three times more milk. Which means it has a higher carbon footprint.",
+            "imageURL": "",
+            "title": "🇬🇷"
+          }
         }
       ]
     },
@@ -2005,6 +3262,33 @@
           "type": "recipe",
           "recipeID": 52,
           "subtitle": "Did you know that couscous is also made from wheat? Try this delicious Fennel and Orange Couscous."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Which health aspect is most important when it comes to carbs?",
+          "type": "question",
+          "title": "What is more important for your health? 🍞",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Not eating too many carbs",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Eating higher-quality carbs",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Much more important than how many carbs you eat is the type of carbs. It’s hard to understate how much healthier the whole-grain option is.\n\nUnrefined and whole-grain carbs are an essential part of a healthy diet. So less cornflakes, basmati rice, white bread, and traditional pasta. And more oats, whole-grain bread, and whole-grain pasta.",
+            "imageURL": "",
+            "title": "🍞",
+            "sourceURL": "https://www.hsph.harvard.edu/nutritionsource/carbohydrates/",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2050,7 +3334,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Both pigs and chickens are mostly fed with grain and soy beans. The main reason why meat from chickens has a lower impact than from pigs is because they are more efficient at “converting” this feed into meat and eggs (even though this is of course a sad way to talk about animals…).",
+            "text": "Both pigs and chickens are mostly fed with grain and soy beans. The main reason why meat from chickens has a lower impact than from pigs is because they are more efficient at “converting” this feed into meat and eggs (even though this is of course a sad way to talk about animals…).\n\nThe aubergine in this curry creates a meaty texture while the chickpeas add some protein.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/feed-conversion.png"
           }
         },
@@ -2059,6 +3343,44 @@
           "type": "recipe",
           "recipeID": 1,
           "subtitle": "The aubergine in this curry creates a meaty texture while the chickpeas add some protein."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many chickens do you need to replace one cow?",
+          "type": "text",
+          "title": "One cow is much heavier than one chicken, and provides a lot more meat 🐄"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many chickens do you need to replace one cow? 🐓",
+          "subtitle": "to produce an equal amount of meat",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "37 chickens",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "222 chickens",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "2390 chickens",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Replacing beef with chicken saves a lot of emissions, but it’s controversial because it requires more animals, and a lot of them are treated poorly.\n\nWe see replacing beef with chicken as a first step for activating real meat lovers. But in the end, we need to reduce all types of meat, including chicken, to reach a sustainable diet (see our ‘compass’ with all steps). If you buy chicken, choose organic, where the chickens have a better quality of life. It’s more expensive but that also helps to eat less of it.",
+            "imageURL": "",
+            "title": "🐓",
+            "blogURL": "https://www.forkranger.com/about/compass/",
+            "urlButtonText": "View our Compass 🧭"
+          }
         }
       ]
     },
@@ -2118,6 +3440,45 @@
           "type": "recipe",
           "recipeID": 13,
           "subtitle": "To make a delicious risotto, you need to add some butter (for special occasions 😉) or margarine at the end. "
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is margarine healthier than butter?",
+          "type": "text",
+          "title": "Many people think that margarine is bad for your health because of trans-fats 👎"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But since 2021, trans-fats have been banned in both the EU and the USA! 🎉 What about other health aspects?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is healthier if you have high cholesterol? 🧈",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Butter",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Margarine",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Margarine or plant-based butter contains fewer saturated fats than butter, making it a healthier choice for people with high cholesterol levels.\n\nHowever, margarine does fall under the category of ultra-processed foods. We don’t yet know the long-term health effects of margarine (without trans-fats).\n\nShould we worry about margarine being ultra-processed? What we can say: the typical person eats much more other ultra-processed foods. So if you regularly eat a hot dog, chocolate, a bag of chips, or cookies, it doesn’t really matter for your health whether you use butter or margarine.",
+            "imageURL": "",
+            "title": "🧈",
+            "blogURL": "https://www.youtube.com/watch?v=wsd6D39EoTc",
+            "urlButtonText": "Viewing tip 🎬"
+          }
         }
       ]
     },
@@ -2172,6 +3533,31 @@
           "type": "recipe",
           "recipeID": 22,
           "subtitle": "A part of the smokey flavor of this delicious chilli comes from adding coffee!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the most effective way to reduce the footprint of a cappuccino?",
+          "type": "question",
+          "title": "What helps more to reduce the footprint of a cappuccino?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 espresso instead of 2 ☕️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Replace milk with oat milk 🥛",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The carbon footprint of cow’s milk is about three times higher than oat milk. Since milk is the biggest contributor to the impact of a cappuccino, switching to oat milk (or a different plant-based milk) is the best option.",
+            "imageURL": "",
+            "title": "🥛"
+          }
         }
       ]
     },
@@ -2217,7 +3603,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Mussels filter the extra nitrogen out of the water. They then poop it out and it becomes sediment. A reef full of mussels also creates habitat for more fish.\n\nSo eating mussels is great for nature!\n",
+            "text": "Mussels - but also oysters and clams - can filter out the nitrogen. But does that mean that they contain chemical pollution? No, because nitrogen is not a toxic substance. Nitrogen is a part of nature. The problem in many waters is that there is way too much of it because we used too much fertilizer. ",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/mussels.png"
           }
         },
@@ -2225,7 +3611,57 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 34,
-          "subtitle": "Legumes like chickpeas also help with nitrogen issues: their roots can feed nitrogen into the soil so a farmer needs less fertilizer.\n"
+          "subtitle": "Legumes like chickpeas also help with nitrogen issues: their roots can feed nitrogen into the soil so a farmer needs less fertilizer."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "If mussels filter the water, are they safe to eat?",
+          "type": "text",
+          "title": "If mussels filter the water and the water contains plastic… shouldn’t mussels have an extra high amount of microplastics? 🤔"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "First, the sad part 😩 Microplastics have been found almost everywhere, even in salt or honey (it’s still not clear if this has health effects)."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The ‘good news’ is that mussels don’t have higher levels of microplastics 😅 So how do they deal with pollution?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What do mussels do with polluting particles?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Eat and poop out 💩",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Eat and use to build their shells 🦪",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Separate food and pollution before eating 🔀",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The mussels pump water through their gills, which are like tiny fishing nets. They are covered with sticky slime to catch all the particles in the water. Then it all enters a 'conveyor belt' to the mussel’s mouth. Here it is sorted: tiny plankton goes into the mouth and other particles are thrown out, wrapped in sticky slime.\n\nSo the mussels eat the plankton and package the other polluting particles into small balls that are left on the seafloor. This is how they clean the water but are still healthy to eat.",
+            "imageURL": "",
+            "blogURL": "https://www.youtube.com/watch?v=DxEpyjWDB6I",
+            "urlButtonText": "Viewing tip 🎬",
+            "title": "🔀"
+          }
         }
       ]
     },
@@ -2280,6 +3716,49 @@
           "type": "recipe",
           "recipeID": 33,
           "subtitle": "A summer recipe to enjoy when rocket, green beans, and bell pepper are in season."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What percentage do fruits and vegetables contribute to the carbon footprint of the EAT Lancet diet?",
+          "type": "text",
+          "title": "The advice for a sustainable and healthy diet is to eat less meat and dairy. And way more vegetables 🥕"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What percentage do fruits and vegetables contribute to the carbon footprint of the EAT Lancet diet? 🥦",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "12%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "48%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The carbon footprint of fruits and vegetables becomes 3x bigger than right now. But it’s still only a small part of the total because they have a really low footprint. The total footprint of the average European diet would decrease by more than 50% if you switch to more vegetables and less meat.\n\nSo eating seasonally becomes a little more important when you eat less meat and dairy and more vegetables. But we think the main benefits of seasonal food are not the climate footprint. Read more in our blog.",
+            "imageURL": "",
+            "blogURL": "https://www.forkranger.com/blog/why-the-benefits-of-seasonal-food-cant-be-measured-in-co2/",
+            "title": "🥦"
+          }
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "So if fruits and veggies currently make up 4% of the CO2 footprint… how much would it be in a sustainable diet? 🥗"
         }
       ]
     },
@@ -2334,6 +3813,37 @@
           "type": "recipe",
           "recipeID": 27,
           "subtitle": "Salmon has a unique flavor that’s hard to imitate. We don’t have any fish recipes, but this creamy pasta recipe with saffron might have an even more unique flavor."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Since 1990, the total amount of wild-caught fish has… 🎣",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Increased",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Stayed the same",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Decreased",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Since 1990 we are catching the same amount of fish each year. Global fish consumption did increase but all of that extra growth came from farmed fish. Farmed fish has other issues that we will look at later. But the good news is that the often heard claim that the oceans will be empty by 2048 is complete nonsense.",
+            "imageURL": "",
+            "title": "🎣",
+            "blogURL": "https://ourworldindata.org/fish-and-overfishing#will-the-oceans-be-empty-by-2048",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -2388,6 +3898,37 @@
           "type": "recipe",
           "recipeID": 50,
           "subtitle": "Here is your chance to cook with fermented white cabbage, also known as sauerkraut."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "When are vegetables the cheapest?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Summer ☀️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Autumn 🍁",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Winter ❄️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We did some calculations for the Netherlands. Vegetables are on average 13,1% cheaper at the end of summer – when most things are harvested – compared to the prices at the following end of winter.",
+            "imageURL": "",
+            "sourceURL": "https://www.agrimatie.nl/ThemaResultaat.aspx?subpubID=2232&themaID=3596&indicatorID=2414&sectorID=2539",
+            "urlButtonText": "View source",
+            "title": "☀️"
+          }
         }
       ]
     },
@@ -2437,6 +3978,38 @@
           "type": "recipe",
           "recipeID": 32,
           "subtitle": "Nasi Goreng is delicious when you serve it with a fried egg."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is a sustainable amount of eggs per week?",
+          "type": "question",
+          "title": "What is a sustainable amount of eggs per week? 🥚",
+          "subtitle": "per person, based on the EAT-Lancet diet",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1-2",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "4",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "8",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Of the most common animal products, eggs have the lowest footprint. The recommendation is 1-2 per week. But we already saw they have a much lower footprint than cheese. So if eating more than 1 or 2 eggs helps you eat less cheese, that’s also a win for the climate.",
+            "imageURL": "",
+            "title": "🍳",
+            "sourceURL": "https://eatforum.org/learn-and-discover/can-healthy-food-save-the-planet-animation/",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2491,6 +4064,37 @@
           "type": "recipe",
           "recipeID": 44,
           "subtitle": "What counts for milk is also true for cream. Because soy cream is most widely available and has a neutral taste we suggest that in our recipes, but feel free to substitute for oat cream."
+        },
+        {
+          "id": 4,
+          "hometitle": "How many people use plant-based dairy products?",
+          "type": "question",
+          "title": "What percentage of people use plant-based dairy products every week? 🥛",
+          "subtitle": "in Europe",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "4%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "34%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The good news is that not only the vegans buy plant-based dairy. The group of people who use plant-based dairy alternatives every week is bigger (34%) than the group who never uses them (28%).\n\nDespite some people being very critical of plant-based dairy, most people are open to it! Again, more people care than you might think.",
+            "imageURL": "",
+            "title": "🥛",
+            "sourceURL": "https://www.euromonitor.com/article/eating-plant-based-alternatives-limiters-vs-vegans",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2540,6 +4144,55 @@
           "type": "recipe",
           "recipeID": 5,
           "subtitle": "Peeling vegetables or fruits is often unnecessary and creates waste. So it’s not needed in the case of carrots and apples you need for this recipe."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "There are many ways to create a ‘circle of life’ ♻️ And some are more efficient than others."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "For example: sometimes bread passes the expiration date before it's sold 📆"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The first goal should be reducing this waste 🗑 But if this isn't possible, what is the next best option?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is - after prevention - the most efficient way to use food waste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Composting 🌱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Feeding it to animals 🐷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Burning it for energy ⚡️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Leftover bread required energy, land, and water. So using the calories in that bread for feeding animals (which then become food) is more efficient than composting or recycling the nutrients into the soil.\n\nBut it’s always much better to eat the bread ourselves. Anything else is a big waste.",
+            "imageURL": "",
+            "title": "🐷",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2581,7 +4234,7 @@
           ],
           "answerExplanation": {
             "text": "Rice is grown in flooded paddies. This creates an environment without oxygen and releases methane. The same thing also happens on a landfill, which is why food waste can also cause methane.\n\nThere are ways to reduce the methane emissions of rice productions. That’s why Project Drawdown lists this as part of the top solutions for climate change.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/Rice-and-methane.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/Rice-and-methane.png"
           }
         },
         {
@@ -2589,6 +4242,35 @@
           "type": "recipe",
           "recipeID": 1,
           "subtitle": "The footprint of rice might be higher than pasta, but it’s still relatively low. So please don’t add rice to the list of foods you’re trying to avoid and enjoy this curry 😉"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happens when we stop methane emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Not much 🤷",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "It stays in the atmosphere for 1000 years ☁️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Slows down global heating immediately ❄️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Methane has a short life of only 12 years, while CO2 stays in the atmosphere for 300-1000 years. But in that short time methane heats up the planet much more than CO2.\n\nSo even if we reduce methane, we still need to worry about CO2. But the good news is that it would have an immediate effect and slow down the increase in global temperature.",
+            "imageURL": "",
+            "title": "❄️"
+          }
         }
       ]
     },
@@ -2643,6 +4325,42 @@
           "type": "recipe",
           "recipeID": 7,
           "subtitle": "Mustard is a good cover crop: farmers can use it to protect and improve the soil. "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How much carbon is stored in the ocean?",
+          "type": "text",
+          "title": "A lot of carbon is stored in the soil, but most of our planet is water! 💦 Can water also store carbon? "
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What stores more carbon?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "The world’s soil and forests 🌳",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The ocean 🌊",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "The world’s glaciers ❄️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The ocean is BY FAR the biggest storage of carbon, about ten times more than soils and plants.\n\nThe ocean is also the reason why we don’t live in a climate hell already: it has absorbed 90% of the warming that has occurred in recent decades caused by our emissions.",
+            "imageURL": "",
+            "title": "🌊"
+          }
         }
       ]
     },
@@ -2697,6 +4415,37 @@
           "type": "recipe",
           "recipeID": 11,
           "subtitle": "Did you know that corn also belongs to the grass family? Polenta is a powder made from corn."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "For what is grassland better than forest?",
+          "subtitle": "in Europe",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Preventing floods 🌊",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Preventing erosion 🪨",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Increasing biodiversity 🌿",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "A study that analysed lots of research about grasslands in Europe found that they increase biodiversity more than forests (it’s probably a different story for tropical rainforest).\n\nBut forests have more clean water and climate benefits and do a better job on all other factors such as preventing floods and erosion.\n\nIn other words: forests are amazing but grasslands are also an important ecosystem and there is some room for feeding animals with it, as long as it’s not intensive (like right now).",
+            "imageURL": "",
+            "title": "🌿",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0167880922000408",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2746,6 +4495,45 @@
           "type": "recipe",
           "recipeID": 25,
           "subtitle": "For this recipe you can use any kind of local sweet apple."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What are the benefits of traditional varieties of crops?",
+          "type": "text",
+          "title": "A lot of our food comes from modern crop varieties that have been developed for high yields 🧑‍🔬"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But traditional varieties often taste better 👩🏽‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which crop variety is often more resilient to environmental changes?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Modern 🧑‍🔬",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Traditional 👩🏽‍🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Modern varieties of crops have higher yields, but only in optimal conditions. In many cases, traditional varieties do much better when things get tough. They are more resistant to droughts and pests and are better adapted to local climate conditions.\n\nUnfortunately it can be difficult to find these varieties, but almost certainly, you would have to look beyond the supermarket.",
+            "imageURL": "",
+            "title": "👩🏽‍🌾",
+            "sourceURL": "https://www.mdpi.com/2071-1050/10/8/2834",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2787,7 +4575,7 @@
           ],
           "answerExplanation": {
             "text": "The carbon footprint of fish is similar to chicken, but smaller fish like ansjovies or herring are a better option.\n\nOnly looking at CO2 can be misleading because there are other issues like overfishing. Also in that regard, smaller fish or mussels are a better choice.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/10/co2-of-fish-.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/co2-of-fish.png"
           }
         },
         {
@@ -2795,6 +4583,50 @@
           "type": "recipe",
           "recipeID": 30,
           "subtitle": "This recipe was inspired by a paella, which is traditionally made with shrimp. "
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How big of a problem is overfishing?",
+          "type": "text",
+          "title": "One of the main issues with fishing is not the climate impact but overfishing 🐟"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "This happens when we catch more fish than are born, which means the population is not sustainable 📉"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many fish populations have a sustainable level? 🐟",
+          "subtitle": "meaning they are not overfished",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Almost zero",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "One third",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Two-thirds",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "You might have heard that the Oceans might be empty by 2048. This is not true. The majority of fish populations still have a sustainable level and if we take action it’s possible to improve the other 1/3 as well.\n\nOverall we can decide to eat sustainable amounts of seafood and if we do eat wild-caught seafood, to buy MSC-certified fish. It's the best guarantee (definitely not perfect) that you don't eat fish that's being overfished.\n\nAnd what about farmed fish? We’ll look at it next time we visit the Ocean.",
+            "imageURL": "",
+            "title": "🐟",
+            "sourceURL": "https://www.fao.org/3/cc0461en/online/sofia/2022/status-of-fishery-resources.html",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -2844,6 +4676,39 @@
           "type": "recipe",
           "recipeID": 48,
           "subtitle": "Try this recipe from India with yoghurt!"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How is plant-based yogurt made?",
+          "type": "text",
+          "title": "The bacteria in yoghurt can have many health benefits ✨"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Does plant-based yoghurt also include these beneficial bacteria? 🥣",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "No",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Plant-based yoghurt is also created through fermentation with bacteria. This makes it ‘real yoghurt’ and not some processed replacement.\n\nSoy yoghurt is usually the healthiest option compared to coconut or oat (you can check the Nutri score). It is high in protein and is usually made with very simple ingredients: water, soy beans, calcium, and bacteria!",
+            "imageURL": "",
+            "title": "🥣",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2666833522000983#fig0001",
+            "urlButtonText": "View Source"
+          }
         }
       ]
     },
@@ -2884,7 +4749,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "In Europe and North America, meat consumption was already quite high. And then it further increased by one third.\n\nThe EAT Lancet report calculated what a sustainable amount of meat per person could look like: 16 kg per year. That means Europeans need to go from having meat multiple times a day, to eating meat 2-3 times a week.\n",
+            "text": "In Europe and North America, meat consumption was already quite high. And then it further increased by one third.\n\nThe EAT Lancet report calculated what a sustainable of meat per person could look like: 16 kg per year. That means Europeans need to go from having meat multiple times a day, to eating meat 2-3 times a week.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/meat-consumption-since-1961.png"
           }
         },
@@ -2893,6 +4758,37 @@
           "type": "recipe",
           "recipeID": 85,
           "subtitle": "A meatless quiche that will convince any meatlover."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What would happen if everyone ate like an American?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "We would have world peace 🇺🇸",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "We would have to cut all forests in the world 🪓",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Not possible, Earth is too small 🌎",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "If everyone would eat like the US, the world would literally be too small. If everyone would eat like the Dutch or Germans, we would have to cut ALL forests and use every bit of nature for food production.\n\nOn the other hand, if everyone ate like India we would need half the land we use right now!",
+            "imageURL": "",
+            "title": "🌎",
+            "sourceURL": "https://ourworldindata.org/agricultural-land-by-global-diets",
+            "urlButtonText": "Check for each country"
+          }
         }
       ]
     },
@@ -2947,6 +4843,39 @@
           "type": "recipe",
           "recipeID": 80,
           "subtitle": "Potatoes are one of the food products with the lowest water footprint."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much of our food production is dependent on rain?",
+          "type": "text",
+          "title": "Despite using so much water for irrigation, a lot of our food is also dependent on rain 🌧 The question is: how much?\n"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What provides more food?",
+          "subtitle": "worldwide",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Irrigation 🚰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Rain 🌧",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "60% of our food production is reliant on rain. But with more extreme weather from climate change, food production becomes less predictable.\n\nIt sometimes feels like humans run the world but it’s good to remember that we are completely dependent on nature.",
+            "imageURL": "",
+            "title": "🌧",
+            "sourceURL": "https://doi.org/10.4060/cb7654en",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3001,6 +4930,40 @@
           "type": "recipe",
           "recipeID": 57,
           "subtitle": "A simple way to support diversity is cooking (plant-based) meals with lots of different colors!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Lower biodiversity can increase the risk of…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Tsunamis 🌊",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Pandemics 🦠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Volcanic eruptions 🌋",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Aliens 👽",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "When the diversity of animals and plants goes down - for example replacing forest with a monoculture - it makes it harder for ‘specialists’ (species depending on specific plants or ecosystems) to survive and ‘generalist’ animals like rats thrive. These animals often carry dangerous viruses and as nature's own regulation of diseases is 'broken' it becomes easier for a virus to spread to humans.\n\nComing up with false answers for this question was really hard because biodiversity improves almost everything!",
+            "imageURL": "",
+            "title": "🦠"
+          }
         }
       ]
     },
@@ -3050,6 +5013,56 @@
           "type": "recipe",
           "recipeID": 81,
           "subtitle": "Like we’ve seen before, legumes are good for the soil. Here we use hummus as the ‘soil’ of these delicious tarts."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How can we reduce the climate impact of fertilizer?",
+          "type": "text",
+          "title": "Chemical fertilizer is not all bad and a little less than half of all people on Earth are dependent on it 🌍"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The main problem is that we often use too much. But there are solutions ✨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "In a big 10-year-long experiment, Chinese farmers were able to increase yields while using LESS fertilizer 🌾"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How did they achieve this?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Better technology to apply fertilizer 🚜",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Better fertilizer ⚡️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Training farmers 👨🏼‍🌾",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "By training farmers, they increased the yield of corn, rice, and wheat while reducing fertilizer use. This reduced the climate impact by 14-22%!\n\nFor example, they helped to improve the timing when crops are planted and instead of applying fertilizer all at once, doing it in two smaller batches.",
+            "imageURL": "",
+            "title": "👨🏼‍🌾",
+            "sourceURL": "https://www.nature.com/articles/nature25785",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3104,6 +5117,42 @@
           "type": "recipe",
           "recipeID": 20,
           "subtitle": "Avocados are very thirsty plants so we wanted to create delicious wraps without the need for avocado."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Why should we care how much rainwater a food product requires?",
+          "type": "text",
+          "title": "So if green water mostly comes from rain, why should we care about it? 🌧"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Products with a low green water footprint are more sustainable because:",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It decreases the risk of droughts ☀️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "It increases soil health 🪱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "It reduces water pollution ☠️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The majority of our food is produced with rain. But climate change makes the weather more extreme, so relying on rain becomes more unpredictable.\n\nAnd if it doesn’t rain, you still need 2170 liters of water to grow the grass and corn for a steak. So unless you use more blue water there is no steak. This is why ‘green water’ matters and why eating foods with a lower water footprint is more sustainable.",
+            "imageURL": "",
+            "title": "🌧"
+          }
         }
       ]
     },
@@ -3158,6 +5207,50 @@
           "type": "recipe",
           "recipeID": 61,
           "subtitle": "These canned ingredients help to create a delicious meal around the celeriac, a ‘forgotten’ vegetable for the winter months."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What are the benefits of canned tomatoes?",
+          "type": "text",
+          "title": "Cans can be recycled endlessly but this process costs a lot of energy ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there are some other benefits to canned tomatoes 🥫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is a benefit of canned tomatoes?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Better price for farmers💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Fewer pesticides ☠️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Fewer wasted tomatoes 🗑",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Canned tomatoes have a lower waste because compared to fresh tomatoes there is less waste in our own kitchens. In both cases, there is quite some waste that happens at the farming stage. In total, 54% of fresh tomatoes are wasted, and 41% of canned tomatoes.\n\nAnother benefit of canned tomatoes is that they are processed right after harvest, so they retain more nutrients than transported fresh tomatoes.",
+            "imageURL": "",
+            "title": "🥫",
+            "sourceURL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfpe.13509",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3198,7 +5291,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Nitrogen is a key ingredient for plants. Instead of using nitrogen, legumes ADD it nitrogen to the soil. This happens through a ‘partnership’ with bacteria that like to live around their roots.\n\nThis means that farmers can use legumes instead of nitrogen fertilizer, which saves emissions and has lots of other benefits.",
+            "text": "Nitrogen is a key ingredient for plants. Instead of using nitrogen, legumes ADD it to the soil. This happens through a ‘partnership’ with bacteria that like to live around their roots.\n\nThis means that farmers can use legumes instead of nitrogen fertilizer, which saves emissions and has lots of other benefits.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/nitrogen-fixing.png"
           }
         },
@@ -3207,6 +5300,45 @@
           "type": "recipe",
           "recipeID": 42,
           "subtitle": "A delicious curry with lentils to improve the soil!"
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How can we increase the potential of legumes even more?",
+          "type": "text",
+          "title": "When a farmer uses beans in the field, he needs less fertilizer to grow wheat 🫘"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "There is a special farming method that boosts the special power of legumes even more 🧑🏼‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How can we increase the potential of legumes? 🫘",
+          "subtitle": "to fix nitrogen in the soil",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Growing beans before growing wheat",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Growing beans and wheat together in one field",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "This method of growing different plants in one field at the same time is called intercropping. It boosts the power of legumes, saves land, and also looks more beautiful than a monoculture.\n\nUsing intercropping for all legumes could reduce the need for chemical fertilizer by 26%. This is a big deal because (as you discovered a few stories back) fertilizer has a big climate impact!",
+            "imageURL": "",
+            "title": "🫘",
+            "sourceURL": "https://link.springer.com/article/10.1007/s13593-020-0607-x",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3261,6 +5393,38 @@
           "type": "recipe",
           "recipeID": 45,
           "subtitle": "Smoked paprika powder is an excellent way to replace the taste of bacon of other meat."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many of the chickens see daylight in the Netherlands?",
+          "type": "question",
+          "title": "How many of the broiler chickens for Dutch supermarkets see daylight? 🐓",
+          "subtitle": "broiler chickens are raised for meat",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "25%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "100%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Since 2023, all chicken meat in Dutch supermarkets has at least 1 star. And chickens with a 1-star rating can go outside (unlike 1-star pigs). They are also a breed that grows slower.\n\nA lot of work still needs to be done, for example, 0-star chicken that grows faster than is healthy for the chicken still exists in the Netherlands for export. But this success shows that campaigns for animal welfare work!\n\nAll the credit goes to Wakker Dier which started campaigning in 2013 (!). Read their story in the link.",
+            "imageURL": "",
+            "title": "🌟",
+            "blogURL": "https://www.wakkerdier.nl/persberichten/wereldwijde-primeur-alle-supermarktkip-krijgt-beter-leven/",
+            "urlButtonText": "Reading tip (in Dutch) 🤓"
+          }
         }
       ]
     },
@@ -3315,6 +5479,49 @@
           "type": "recipe",
           "recipeID": 86,
           "subtitle": "A recipe with apples, one of the products it’s easy to buy the organic version."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How big is organic farming in the EU?",
+          "type": "text",
+          "title": "10% of all farmland in the EU is organic 👨🏻‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is the EU goal for 2030? 🇪🇺",
+          "subtitle": "for the share of organic agriculture",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "15%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "25%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "50%",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "There is no goal",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The good news is that organic agriculture is on the rise in the EU and the US.\n\nThe bad news: at the current rate the EU won’t reach its target. Austria is the only country that already reached it. In the US, organic agriculture is less than 1% of all farmland.\n\nBuying more organic products helps the transition. Start with one or two products that you always buy organically. Read more about our take on our blog.",
+            "imageURL": "",
+            "title": "🇪🇺",
+            "sourceURL": "https://www.eea.europa.eu/en/analysis/indicators/agricultural-area-used-for-organic",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3374,6 +5581,49 @@
           "type": "recipe",
           "recipeID": 58,
           "subtitle": "This recipe includes walnuts. And since those come from trees, they can also come from agroforestry systems."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The coffee example is known as ‘multistrata agroforestry’ 🌳 It’s an important climate solution in Project Drawdown"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "There are also other forms of agroforestry that can save lots of CO2 ⬇️"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What type of agroforestry is most common in Europe?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Combining trees with grazing animals 🐄",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Combining fruit trees with vegetables 🥦",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Combining food and wood production 🪵",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "‘Silvopasture’ is an ancient farming method where animals graze between trees. The most common form is the Spanish dehesa, where animals live between oak trees. It’s also possible to combine animals or even vegetable production with nut, fruit, or olive trees.\n\nIf silvopasture replaces intensive grasslands it is another important climate solution with lots of benefits: healthier soils, shade for the animals, and more beautiful landscapes!",
+            "imageURL": "",
+            "title": "🐄",
+            "sourceURL": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/651982/EPRS_BRI(2020)651982_EN.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3428,6 +5678,48 @@
           "type": "recipe",
           "recipeID": 88,
           "subtitle": "The pumpkin seeds in this recipe provide some extra protein and crunch."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Nuts contain a lot of fat. How healthy is that?",
+          "type": "text",
+          "title": "Nuts might have a lot of protein but they also have a lot of fat 🥜"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Fats come in two forms: saturated (bad) and unsaturated (good) 🤓"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What contains the least amount of saturated (bad) fat?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1 hamburger (100g) 🥩",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "1 slice of cheese (30g) 🧀",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Three spoons of peanut butter (50g) 🥜",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "A typical portion size of nuts has less saturated fat than a typical serving of meat or dairy.\n\nNuts contain a lot of fat but these are mostly unsaturated. This means that nuts have many health benefits. They reduce cholesterol and the risk of type 2 diabetes and heart disease. Studies also didn’t find a connection to weight gain. And of course they’re delicious 🤤\n\nThe EAT Lancet report recommends 50 g a day!",
+            "imageURL": "",
+            "title": "🥜"
+          }
         }
       ]
     },
@@ -3482,6 +5774,33 @@
           "type": "recipe",
           "recipeID": 64,
           "subtitle": "Farmed fish are fed with soy. Better to eat it ourselves, like in this recipe, where we use tofu."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is most of our fish wild or farmed?",
+          "type": "question",
+          "title": "What provides more seafood? 🍣",
+          "subtitle": "for humans",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Wild-caught fish",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Fish farms",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "53% of the world’s seafood comes from fish farms. In 1960 it was only 6%. Because of this, more soy is now used to feed fish than to create tofu!\n\nCatching fish in the wild and farming fish creates different kinds of issues. What applies to both contexts is that we need to switch to seafood with a lower footprint: small fish from the wild and mussels and seaweed from farms.",
+            "imageURL": "",
+            "title": "🐟",
+            "sourceURL": "https://ourworldindata.org/fish-and-overfishing#global-fish-production",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3531,6 +5850,38 @@
           "type": "recipe",
           "recipeID": 36,
           "subtitle": "Wheat products usually require a lot of chemical fertilizer, so buying organic pasta is a great choice."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Is organic meat better for the climate?",
+          "type": "question",
+          "title": "The carbon footprint of organic meat is… 🥩",
+          "subtitle": "on average, compared to conventional meat",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Much higher ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "About the same 🟰",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "A little lower ↘️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Meat from organic farms might have benefits, for example, it’s usually much better for the animals. But one thing is clear in the data: it doesn’t necessarily have a lower carbon footprint.\n\nOnce again we can conclude that WHAT you eat is much more important than HOW it is produced.",
+            "imageURL": "",
+            "title": "🥩",
+            "sourceURL": "https://ourworldindata.org/is-organic-agriculture-better-for-the-environment",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3585,6 +5936,37 @@
           "type": "recipe",
           "recipeID": 40,
           "subtitle": "You can also use other plant-based cooking cream, but we like soy cream the most."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How healthy is soy cream?",
+          "type": "text",
+          "title": "We recently found out that soy cream is made with sunflower oil… 🌻 Does that make it unhealthy?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which type of cream contains less saturated fat?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Dairy 🐄",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Soy 🌻",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Cream is about adding fat, taste, and creaminess. It’s usually not the healthiest product.\n\nBut soy cream, even though it’s made with sunflower oil, is a healthier option than most dairy cream. It has a MUCH lower amount of saturated fat (2g compared to 12-19g). It also has fewer calories.",
+            "imageURL": "",
+            "title": "🌻"
+          }
         }
       ]
     },
@@ -3639,6 +6021,48 @@
           "type": "recipe",
           "recipeID": 43,
           "subtitle": "A tribute to Indonesia, where most palm oil comes from.\n"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is there a sustainable form of biofuel?",
+          "type": "text",
+          "title": "Cutting down rainforests to grow palm oil as fuel for cars or airplanes is a terrible idea 🪓"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there is also a sustainable form of biofuel: used cooking oil from frying food 🍟"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is the biggest issue with used cooking oil as fuel? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "It creates less CO2 but more air pollution",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "It makes the engine less efficient",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "There’s not enough of it",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Flying from London to New York requires about 1 bathtub of fuel per passenger! If you use all the cooking oil from every McDonald's in London for a whole year, it doesn’t even cover 0,1% of the yearly flights from London to New York.\n\nThere is nowhere near enough used cooking oil. Unfortunately, sustainable flying just isn’t possible. Maybe we can have electric airplanes in the future, but that is very very far away…",
+            "imageURL": "",
+            "title": "🛁"
+          }
         }
       ]
     },
@@ -3698,6 +6122,44 @@
           "type": "recipe",
           "recipeID": 41,
           "subtitle": "The best way to reduce water pollution is eating more plant-based. Curries are always a great option!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What happened to the world’s biggest dead zone?",
+          "type": "text",
+          "title": "One of the biggest dead zones in the world was created in the Black Sea in the 1990s ☠️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happened since then? 💧",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Got even worse",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Stayed the same",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Recovered",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "One report identified 415 areas with eutrophication problems (and many regions don’t even have enough data). Of all those areas, only 13 are in recovery. Today the biggest dead zone is in the EU: the Baltic Sea.\n\nBut it’s hopeful that the recovery of a dead zone is possible within 15-20 years if we take the right actions.",
+            "imageURL": "",
+            "title": "💧",
+            "sourceURL": "https://www.wri.org/research/eutrophication-and-hypoxia-coastal-areas",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3748,7 +6210,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Farmers and workers of many products get significantly underpaid. But it wouldn’t actually cost much to fix this problem.\n\nTo better understand why this happens, we need to explore where most of the money ends up. That’s for the next story in Fair Fields.",
+            "text": "Farmers and workers of many products get significanlty underpaid. But it wouldn’t actually cost much to fix this problem.\n\nTo better understand why this happens, we need to explore where most of the money ends up. That’s for the next story in Fair Fields.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/fair_price_of_rice.png"
           }
         },
@@ -3757,6 +6219,47 @@
           "type": "recipe",
           "recipeID": 13,
           "subtitle": "Arborio rice for risotto doesn’t come from Thailand, but from Italy.\n"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What exactly is the purpose of ‘Fairtrade’?",
+          "type": "text",
+          "title": "The goal of the Fairtrade label is to tackle unfair price differences 💰 How does it work?"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Fairtrade determines…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "What farmers get paid 👩‍🌾",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "What supermarkets pay to farmers 🏪",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "What consumers pay to supermarkets 👨‍💼",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "All of the above",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Fairtrade only ensures that farmers get paid a fair price. It’s up to retailers to determine the price that consumers pay for a product. So Fairtrade is not automatically a good deal for consumers, but it is a better deal for farmers. We’ll explore how exactly Fairtrade works for farmers in a later story.\n\nAnd how does the Fairtrade organization make money? Products that use the Fairtrade logo pay a licensing fee. For rice in the Netherlands, this is 0,09€ per kg.",
+            "imageURL": "",
+            "title": "💸"
+          }
         }
       ]
     },
@@ -3811,6 +6314,50 @@
           "type": "recipe",
           "recipeID": 57,
           "subtitle": "Pumpkin is another product that wouldn’t exist without pollinators."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What is the most effective way to help pollinators in your garden?",
+          "type": "text",
+          "title": "What can you do yourself to increase pollinators in your own backyard? 🦋"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The results from lots of studies are mixed 🧐 But there are few things that always help."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What helps pollinators the most? 🌼",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Avoiding chemicals",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Focus on native plants",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Increasing the diversity of plants",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "A higher diversity of plant species always increased pollinators. The results were not as clear for native vs exotic plants.\n\nThree other things consistently showed positive effects: increasing the size of the garden, having more shrubs and trees, and more exposure to the sun.",
+            "imageURL": "",
+            "title": "🦋",
+            "sourceURL": "https://par.nsf.gov/servlets/purl/10098150",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3865,6 +6412,50 @@
           "type": "recipe",
           "recipeID": 39,
           "subtitle": "Peanuts have the lowest water footprint of nuts. They usually work well in rice recipes, but here they are a great fit for this pasta."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What’s the most sustainable nut if we look at all factors?",
+          "type": "text",
+          "title": "One study wanted to find out: how can we buy responsible nuts? 🥜"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "They scored nuts and seeds on sustainability, but also on nutritional value and social aspects like worker safety 👷🏽"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which factor is most important for the sustainability of nuts?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Type of nut 🥜",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Country of origin 📍",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Amount of protein in the nut 💪",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The biggest influence on all factors was the type of nut. They divided them into three categories and walnuts and sunflower seeds scored the best in all aspects. We quickly analyzed our own recipes after learning this and good news: we use walnuts most often!\n\nPeanuts and hazelnuts belong to the second category. Cashews, almonds, and chestnuts have the most issues. We have quite some recipes with cashews so we’ll pay attention to this when making new recipes.\n\nReplacing meat with nuts is an important part of a sustainable diet and we don’t think you should feel guilty about eating cashews or almonds. But let’s focus on eating more walnuts.",
+            "imageURL": "",
+            "title": "🥜",
+            "sourceURL": "https://link.springer.com/article/10.1007/s11625-022-01146-7",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3914,6 +6505,44 @@
           "type": "recipe",
           "recipeID": 47,
           "subtitle": "Even though food miles are not a useful measure, buying local food is still important for other reasons. This recipe uses lots of ingredients from the Netherlands.\n"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Eating locally: what is the biggest benefit for farmers?",
+          "type": "text",
+          "title": "We found a study that summarizes a lot of research about local food systems, like farmers’ markets 👩🏽‍🌾"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is the main reason for farmers to participate in local food initiatives?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Earning more money 💰",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Farming more sustainably 🌱",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Getting more recognition 😌",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Often social recognition and contact with consumers was the main reason for farmers to get involved in local food initiatives.\n\nAnother interesting finding was that consumers are healthier when they buy food locally. Not because local food is healthier, but probably because they are more aware of what they eat.\n\nOverall you might say that the main benefit of local food is being more mindful about our food, feeling connected to where it comes from, and appreciating who grew it.",
+            "imageURL": "",
+            "title": "😌",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0308521X21001797#s0075",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -3973,6 +6602,47 @@
           "type": "recipe",
           "recipeID": 48,
           "subtitle": "Of all dairy products, yogurt has the lowest footprint. And in this recipe it’s a delicious addition!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Where does vitamin B12 come from?",
+          "type": "text",
+          "title": "Let’s take a closer look at where vitamin B12 comes from ✨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Vitamin B12 is created by…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Plants 🌱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Microbes 🦠",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Fungi 🍄",
+              "correct": false
+            },
+            {
+              "id": 3,
+              "title": "Animals 🐖",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "B12 can only be made by microbes like bacteria. Sometimes plants or fungi contain B12 because they work together with bacteria, but the amounts are very low. The meat from many animals (chickens, pigs, fish) contains B12 because they eat other things that contain B12.\n\nThe microbes that create B12 also live inside the stomachs of ruminants like cows, which is why their meat and dairy contain B12.",
+            "imageURL": "",
+            "title": "🦠"
+          }
         }
       ]
     },
@@ -4032,6 +6702,50 @@
           "type": "recipe",
           "recipeID": 52,
           "subtitle": "This is a recipe with little packaging because fennel, oranges, and zucchini are usually not wrapped in plastic."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Is plastic pollution in Europe more under control than in China?",
+          "type": "text",
+          "title": "Most of the plastic waste that enters the Ocean comes from China 🇨🇳"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "China’s lost plastic waste is almost 10 times higher than in Europe 🇪🇺 But what about microplastics?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to China, how much microplastics enter the Ocean from Europe?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "10 times more ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "The same",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "10 times less ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In Europe and the US, we have pretty advanced waste treatment, which prevents most of the plastic pollution from entering the environment. But our microplastic pollution is on the same level as China.\n\nWhen we talk about plastic pollution we often think of packaging, but in Europe, almost half the pollution comes from microplastics from other sources like washing synthetic clothing and wear and tear of car tires.",
+            "imageURL": "",
+            "title": "🛞",
+            "sourceURL": "https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4081,6 +6795,50 @@
           "type": "recipe",
           "recipeID": 32,
           "subtitle": "Serve this Nasi Goreng with an egg for a good addition of vitamin B12."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "How much vitamin B12 is in meat alternatives?",
+          "type": "text",
+          "title": "A Dutch report compared the nutritional value of meat alternatives to meat 🍔"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Often meat alternatives are enriched with vitamins and minerals like iron ✨"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many of the meat replacements were enriched with vitamin B12?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "5%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "55%",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "95%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Those 55% that were enriched had relatively high levels of B12. But since not all products are enriched, it can be tricky to get enough B12 when you only rely on meat alternatives.\n\nProVeg - the NGO that did the research - advises to take B12 supplements when eating (mostly) plant-based.",
+            "imageURL": "",
+            "title": "🍔",
+            "sourceURL": "https://proveg.com/nl/wp-content/uploads/sites/6/2023/08/PV_NL_Vleesvervangers-Rapport_final.pdf?__hstc=107755037.0e690f877d39947114ffa4b9bd7b433c.1715265168263.1715265168263.1715265168263.1&__hssc=107755037.1.1715265168263&__hsfp=3392768047",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4135,6 +6893,38 @@
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Choose whole grain lasagne: there are a lot of by-products from milling white flour that are fed to animals. But it’s a lot more sustainable to eat the entire grain of wheat ourselves."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What makes up the majority of byproducts that are fed to animals?",
+          "type": "question",
+          "title": "The majority of feed from byproducts comes from…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Grains 🍞",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Vegetables 🥦",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Potatoes 🥔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The byproducts that become animal feed come from many different sources but the biggest one is grains.\n\nUsing byproducts for animal feed makes sense if they are inedible for humans. But this is not always the case.\n\nThe majority of these grain byproducts come from milling whole grain into refined grain. This is seen as a ‘byproduct’ but you could also see it as food waste because whole grain products have a lot more nutrition that we can eat ourselves.",
+            "imageURL": "",
+            "title": "🍞",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0921344919302721?ref=pdf_download&fr=RR-2&rr=89fec3eb59d756c1",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4184,6 +6974,45 @@
           "type": "recipe",
           "recipeID": 26,
           "subtitle": "The supermarket is super convenient, but let’s try to buy our veggies from a smaller shop or market from time to time."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What’s the profit that farmers and supermarkets make?",
+          "type": "text",
+          "title": "The previous infographic shows where the money goes but it doesn’t include costs and profit 💰"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "A report in the UK dug into this. For example, they found that the profit that supermarkets make on apples is only 1% 🍎"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What’s the profit of the farmer? 🧑🏼‍🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "1%",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "10%",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "The supermarket, farmer, and distributor all make a very low profit on fresh produce like apples. But while supermarkets can make a profit by selling other items, the farmers face a much bigger risk. Again, paying farmers a fair price wouldn’t increase the end price that much.\n\nWhat can you do? Try to shop at smaller, organic shops from time to time. The report concludes that organic apples and carrots, sold at alternative markets, provide farmers with a much higher profit.",
+            "imageURL": "",
+            "title": "🍎",
+            "sourceURL": "https://www.sustainweb.org/news/nov22-unpicking-food-prices-new/",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4238,6 +7067,50 @@
           "type": "recipe",
           "recipeID": 63,
           "subtitle": "Mushrooms are a great way to replace the taste of meat but for these pita breads you could also use plant-based shoarma."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Which processed foods increase the risk of cancer?",
+          "type": "text",
+          "title": "A large research found that people who eat more ultra-processed foods have a higher chance of cancer and other diseases ☠️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "This was especially true for processed meat 🥓"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which other processed product increased the risk of cancer?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Artificially and sugar-sweetened drinks 🥤",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Ultra-processed breads and cereals 🥐",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Plant-based alternatives 🍔",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Plant-based alternatives are not associated with cancer, but processed meat is. A plant-based alternative is almost certainly healthier than processed meat like a schnitzel, sausage, bacon, salami, or fast-food burger.\n\nMost plant-based alternatives have fewer calories and less saturated fat. They also don’t contain a lot of added sugars. If you want to choose a healthy plant-based option, look at the salt content: it should be 1,1 g or less (per 100g).",
+            "imageURL": "",
+            "title": "🥓",
+            "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S2666-7762(23)00190-4",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4297,6 +7170,56 @@
           "type": "recipe",
           "recipeID": 90,
           "subtitle": "The cashews we use in this recipe would no longer exist if we lose all pollinating insects."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Can improving a small patch of greenery make a difference for insects?",
+          "type": "text",
+          "title": "In 2016, scientists in Melbourne counted insects on a small patch of green surrounded by roads and high buildings 🌆"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "It was no larger than a tennis court and had some grass and two trees 🌳"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Then they transformed it with new soil and added 12 native plant species 🌿"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What happened after one year?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "70% of the plants died 🍂",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "2x more insects 🪰",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "5x more insects 🐞",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "After only one year, there were already 5 times more insects. After 3 years, three of the plant species had died but still, insects had increased 7-fold.\n\nIf you can influence a small area of land - in your own garden or together with others - it can make a big difference for insects.",
+            "imageURL": "",
+            "title": "🐞",
+            "blogURL": "https://www.theguardian.com/science/2023/aug/22/melbourne-urban-greening-benefits-insect-species",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -4351,6 +7274,50 @@
           "type": "recipe",
           "recipeID": 50,
           "subtitle": "Sauerkraut works really well with sausages… but this sauerkraut recipe is also delicious without any meat!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Are traditional cow breeds more sustainable?",
+          "type": "text",
+          "title": "Today most cows are specialized: either they are for milk OR beef production 🐄"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "But there are also traditional all-round cow breeds that are specialized for a specific ecosystem 🌿"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to special dairy cows, these all-round cows…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Need to eat soy to produce enough milk 🥛",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Only require grass 🍀",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Are more aggressive 😤",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Many traditional breeds produce less milk but have other benefits: they only require grass (instead of also needing soy) and can survive outside all winter.\n\nOften, these cows also help with promoting biodiversity. For example, there is a specific type of cow that is perfect for maintaining heathland. They eat just the right type of plants and also spread seeds in their fur.",
+            "imageURL": "",
+            "title": "🍀",
+            "blogURL": "https://www.landschapoverijssel.nl/heidekoe",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -4395,6 +7362,44 @@
           "type": "recipe",
           "recipeID": 62,
           "subtitle": "We love induction cooking, but if you have a gas stove: place wraps directly on the flame for 20-30 seconds and make them really delicious."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What is another benefit of cooking on induction?",
+          "type": "text",
+          "title": "While we were researching this topic we found another interesting benefit of induction 👀"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "What is less likely when cooking on induction?",
+          "subtitle": "compared to gas",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Burning yourself 🔥",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Getting asthma 🫁",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Being overweight ⚖️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Cooking on gas causes indoor air pollution. A study found that children living in households that use gas stoves for cooking are 42% more likely to have asthma. Ventilation and air purifiers can help but the best option is cooking electrically.\n\nWhile gas is not the cleanest option, it would still be a huge improvement (for health & climate) for the millions of people currently cooking on wood or animal dung. That's why 'Clean Cooking' also made it to the list of Project Drawdown, one of our favorite resources about climate solutions.",
+            "imageURL": "",
+            "title": "🫁",
+            "sourceURL": "https://www.tno.nl/publish/pages/3848/tno-2022-r12249.pdf",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4454,6 +7459,39 @@
           "type": "recipe",
           "recipeID": 72,
           "subtitle": "A rice recipe with (soy) cream!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Who should eat more cheese, men or women?",
+          "type": "text",
+          "title": "The WWF used a similar approach to determine a sustainable amount of dairy. In their version, there is an interesting difference between men and women 👫"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to men, women should eat… 🧀",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More cheese ⬆️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Less cheese ⬇️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In the WWF calculations, women should eat more cheese (and red meat) than men. Women get 147 g per week and men only 21 g of cheese! That’s because they have higher requirements for iron due to blood loss during menstruation.\n\nThe poster we created (see Supporter page) shows all the amounts, but we used the average for men and women.",
+            "imageURL": "",
+            "title": "🧀",
+            "blogURL": "https://www.forkranger.com/product/poster-gezond-eten-binnen-de-grenzen-van-een-aarde/",
+            "urlButtonText": "View the poster 🏞"
+          }
         }
       ]
     },
@@ -4513,6 +7551,44 @@
           "type": "recipe",
           "recipeID": 56,
           "subtitle": "In this recipe the broccoli soaks up the flavors of the orange juice. Delicious!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What characterizes the climate impact of wine and beer?",
+          "type": "text",
+          "title": "The carbon footprint from food usually comes from growing the food 🌾 But for beer and wine it’s different"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which part of the carbon footprint plays a relatively big role?",
+          "subtitle": "for wine & beer",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Food waste 🗑",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Storage ❄️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Transport & packaging 🚚",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Wine and beer usually come in glass, which creates higher packaging emissions. And transport emissions are high because both the glass and all the water are heavy.\n\nBut even then it’s not something to worry about too much: transporting a bottle of wine from Australia to the UK still has a lower footprint than driving a car to a local winery yourself that’s 5 km away.",
+            "imageURL": "",
+            "title": "🚚",
+            "sourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0959652620319843",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4567,6 +7643,48 @@
           "type": "recipe",
           "recipeID": 12,
           "subtitle": "This pasta recipe is a great alternative to the traditional bolognese (which requires minced beef)\n"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How heavy are today’s cows compared to the bison that used to roam the prairie?",
+          "type": "text",
+          "title": "Sometimes people say that cows are just like bison that used to roam the prairie 🦬"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "So we were curious: how much did all wild mammals weigh before humans took over the planet? 🦣"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Compared to all of today’s cows, all wild mammals weighed… 🦣",
+          "subtitle": "100.000 years ago",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "3 times more",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "About the same",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "3 times less",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "All the mammoths, rhinos, bison, etc. combined still weighed 3 times less than today’s cows! Another reminder that we need to eat a lot less beef and dairy.",
+            "imageURL": "",
+            "title": "🦣"
+          }
         }
       ]
     },
@@ -4621,6 +7739,44 @@
           "type": "recipe",
           "recipeID": 55,
           "subtitle": "The Fairtrade versions of products like coconut milk are an example of where spending the extra money is worth it."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is a sustainable diet more or less expensive?",
+          "type": "text",
+          "title": "Scientists calculated how much it would cost to switch to a sustainable & healthy diet 💰"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "A healthy & sustainable diet is…",
+          "subtitle": "in high-income countries",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More expensive ⬆️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Same cost",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Cheaper ⬇️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "In high-income countries, a healthy & sustainable diet with lots of veggies and legumes and low amounts of meat & dairy is cheaper than the current diet. The model shows that eating plant-based can even reduce costs by one-third!\n\nThese diets would cost more in low-income countries, but the typical Western diet is even more expensive.",
+            "imageURL": "",
+            "title": "⬇️",
+            "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S2542-5196(21)00251-5",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4661,7 +7817,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "The reason that we have so many honey bees is because we use them as ‘honey farms’. While honey bees are really good at collecting pollen for honey, they don’t stop at other flowers to pollinate them. And if there are too many bee hives in one area, there is no more food for other pollinators.\n\nSo eating honey is not helping (pollinating) insects. Instead, to increase biodiversity you can eat more organic products and keep native plants in your garden.\n",
+            "text": "The reason that we have so many honey bees is because we use them as ‘honey farms’. While honey bees are really good at collecting pollen for honey, they don’t stop at other flowers to pollinate them. And if there are too bee hives in one area, there is no more food for other pollinators.\n\nSo eating honey is not helping (pollinating) insects. Instead, to increase biodiversity you can eat more organic products and keep native plants in your garden.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/honey_bees.png"
           }
         },
@@ -4670,6 +7826,50 @@
           "type": "recipe",
           "recipeID": 88,
           "subtitle": "This recipe includes apples, a product that’s easy to buy organically and support more biodiversity."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Can bee hotels help to increase the number of wild bees?",
+          "type": "text",
+          "title": "There are many different types of pollinators but bees are the most important group 🐝"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Can bee hotels help to increase the number of wild bees? 🏨"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "The majority of bee species live…",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "In old wood 🪵",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "In a beehive 🍯",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Underground 🪱",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "3/4 of all bee species live underground, which means bee hotels are not the perfect home for most bees.\n\nStill, research shows that they can help, particularly as the bee hotels get older. There were more pollinators in bee hotels that were older and when they had more flowers nearby.\n\nBut placing a few bee hotels in an area full of pavement is not going to do the job.",
+            "imageURL": "",
+            "title": "🐝",
+            "sourceURL": "https://resjournals.onlinelibrary.wiley.com/doi/full/10.1111/een.12986",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4729,6 +7929,45 @@
           "type": "recipe",
           "recipeID": 17,
           "subtitle": "One of the easiest ways to eat diverse food is making it more colorful!"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Can you get enough protein from plants if you do a LOT of sports?",
+          "type": "text",
+          "title": "Okay, so you can get ‘complete’ protein with only plants. But can you also get enough protein from plants if you do a LOT of sports? 🏋️‍♂️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The general recommended amount of protein is 0.83 g per kg bodyweight ⚖️"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "For what amount of the population of healthy adults should this be enough? 💪",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "32.5%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "97.5%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The European Food Safety Authority (EFSA) concludes that 0.83 g of protein per kg bodyweight is enough for virtually everyone (97.5% of healthy adults). Many people think it should be higher but the EFSA advises that the extra burnt calories simply require more food, not a focus on extra protein.\n\nThe only issue when you do a LOT of sports, like professional athletes, is that you cannot eat and digest that much, so then special solutions come in. Also good to know: they didn’t find any extra benefit for either muscle mass or performance when increasing protein intake.",
+            "imageURL": "",
+            "title": "💪",
+            "sourceURL": "https://www.efsa.europa.eu/en/supporting/pub/en-871",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4769,7 +8008,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Many farmers around the world are small and don’t have negotiation power with big companies. That’s why the Fairtrade minimum price is an important structure.\n\nFairtrade also includes a premium. It’s an extra sum of money that goes into a fund. Farmers and workers can decide where it's spent and they often use it for housing, education, or improving the farm.\n",
+            "text": "Many farmers around the world are small and don’t have negotiation power with big companies. That’s why the Fairtrade minimum price is an important structure.\n\nFairtrade also includes a premium. It’s an extra sum of money that goes into a fund. Farmers and workers can decide where it's spend and they often use it for housing, education, or improving the farm.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/04/how-fairtrade-works.png"
           }
         },
@@ -4778,6 +8017,42 @@
           "type": "recipe",
           "recipeID": 21,
           "subtitle": "Bananas are an easy product to buy Fairtrade."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "Do Fairtrade farmers and workers receive a ‘living wage’?",
+          "type": "text",
+          "title": "Every person should receive a ‘living wage’: an amount of money that’s enough to have decent standard of living in their country 💸"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Fairtrade farmers and workers receive a ‘living wage’ 👨🏽‍🌾",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Almost",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "No",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Even with Fairtrade, farmers and workers do not automatically receive a living wage. This is a quote from Fairtrade itself: “Current wages are so far below living wages, that individual plantations and farmers have no way to achieve a living wage for workers and remain competitive in the market.”\n\nSo we would say Fairtrade is more like ‘minimum trade’. It’s better than nothing, but still falls short. Let’s not fool ourselves: many of our products come from modern slavery and more responsible food choices aren’t going to fix it. We need better laws and a different food system.",
+            "imageURL": "",
+            "title": "💸"
+          }
         }
       ]
     },
@@ -4832,15 +8107,51 @@
           "type": "recipe",
           "recipeID": 91,
           "subtitle": "Use your new pasta knowledge with this simple and delicious recipe."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What are effective ways to reduce your gas usage?",
+          "type": "text",
+          "title": "There are many ways to reduce the amount of gas at home 🔥"
+        },
+        {
+          "id": 5,
+          "supporterONLY": true,
+          "type": "question",
+          "title": "What makes the SMALLEST difference?",
+          "subtitle": "for saving gas",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Turning heating down 1C 🌡",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Half as long hot showers 🚿",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Switching gas to electric cooking 🍳",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Turning the heating down or taking shorter hot showers can make a real difference. Switching to induction doesn’t save as much gas but it does help to reduce indoor air pollution.\n\nWhat we find interesting about this: habit change makes a bigger difference (for the climate and your wallet) than buying new stuff!",
+            "imageURL": "",
+            "title": "🔥"
+          }
         }
       ]
     },
     {
       "id": 92,
       "notificationTitle": "Today: Ocean",
-      "notificationText": "Underwater food forests 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup",
+      "notificationText": "Sea vegetables 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup",
       "home": {
-        "title": "Underwater food forests",
+        "title": "Sea vegetables",
         "category": 11
       },
       "pages": [
@@ -4855,15 +8166,57 @@
           "title": "We already saw that farming mussels is much more sustainable but there is another way to farm the oceans: seaweed! 🌊"
         },
         {
-          "id": 2,
-          "type": "text",
-          "title": "Seaweed is like an underwater forest that can capture CO2 while providing really nutritious food. But can it grow fast enough?"
-        },
-        {
           "id": 3,
           "type": "question",
-          "title": "How fast does seaweed grow?",
+          "title": "What is a benefit of seaweed?",
           "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Easy storage without food waste 📦",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Doesn’t need sunlight ☀️",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Doesn’t need fertilizer ⚡️",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "The biggest benefit of seaweed is that we can grow vegetables without any land, fertilizer, or irrigation. Farming seaweed is also easy and cheap and most varieties are very nutritious.\n\nSeaweed might not be a common product, but if you can find it, give this climate superfood a try!",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/seaweed.png"
+          }
+        },
+        {
+          "id": 4,
+          "type": "recipe",
+          "recipeID": 64,
+          "subtitle": "You could add some sheets of Nori seaweed to this dish (often used for sushi)."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How can seaweed capture CO2 like a forest?",
+          "type": "text",
+          "title": "A challenge for seaweed is making it popular enough as food 📣 But there are other options for seaweed."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "One option is to use it as an alternative to planting trees to capture CO2 🌳 But can seaweed grow fast enough?"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How fast does seaweed grow?",
+          "subtitle": "in the case of kelp in ideal conditions",
           "answerOptions": [
             {
               "id": 0,
@@ -4882,15 +8235,11 @@
             }
           ],
           "answerExplanation": {
-            "text": "Seaweed is a great climate solution: it grows much faster than trees, is easy and cheap to farm, and nutritious.\n\nThe biggest benefit of seaweed is that we can grow food without needing any land. Seaweed might not be a common product, but if you can find it, give this climate superfood a try!\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/02/seaweed.png"
+            "text": "Planting seaweed is a great alternative to planting trees, because - again - it requires no land and fertilizer. And it can grow very fast!\n\nPlanting more seaweed is one of the climate solutions in Project Drawdown. Another one is protecting existing seaweed areas, which are currently shrinking because of human activity.",
+            "imageURL": "",
+            "title": "🌊",
+            "blogURL": "https://drawdown.org/solutions/seaweed-farming"
           }
-        },
-        {
-          "id": 4,
-          "type": "recipe",
-          "recipeID": 64,
-          "subtitle": "You could add some sheets of Nori seaweed to this dish (often used for sushi)."
         }
       ]
     },
@@ -4940,6 +8289,50 @@
           "type": "recipe",
           "recipeID": 95,
           "subtitle": "Organic pasta is often not that much more expensive."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "hometitle": "What is the cheapest way to reduce your carbon footprint?",
+          "type": "text",
+          "title": "Some solutions like fairtrade & organic food cost money 💶 And while those are worth it, it’s good to remember that there are many solutions that don’t cost extra."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "A study in Sweden found that the average person can reduce their footprint by 40%, without spending extra money! 🤑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which category saved the most CO2?",
+          "subtitle": "both in absolute and relative terms",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Holidays ✈️",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Food 🍔",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Furnishing 🪑",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In the study they replaced flying and car travel with a train trip and a staycation with activities like concerts and a massage. All of that would cost the same but cut emissions by up to 90%.\n\nWith eating more plant-based, emissions were also cut by ca. 1/3 without spending extra. So even if you can’t afford Fairtrade and organic, your actions still make a big difference!",
+            "imageURL": "",
+            "title": "✈️",
+            "sourceURL": "https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13176",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -4994,6 +8387,44 @@
           "type": "recipe",
           "recipeID": 9,
           "subtitle": "Sometimes a little bit of sugar can make a tomato sauce more balanced. Try it with this delicious Chilli spaghetti."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How much sugar do we eat per day?",
+          "type": "text",
+          "title": "On average, people in the Netherlands think they eat 7 cubes of sugar per day 💭"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How many sugar cubes do they actually eat? 🍬",
+          "subtitle": "in the Netherlands per person per day ",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "5",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "9",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "14",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "People in the Netherlands eat twice as much sugar as they think! An important reason for this is that sugar is added to many products like spice mixes. Sugar also has 50 different names, like dextrose, which makes it more difficult to recognize. ",
+            "imageURL": "",
+            "title": "🍬",
+            "sourceURL": "https://www.diabetesfonds.nl/speciaal-voor/voor-de-pers/nederlanders-consumeren-meer-suiker-dan-ze-zelf-denken#:~:text=Nederlanders consumeren twee keer zoveel,is dit ruim 14 suikerklontjes.",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5043,6 +8474,44 @@
           "type": "recipe",
           "recipeID": 38,
           "subtitle": "Try some of these veggie options at your next BBQ!"
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Are meat alternatives a good option for BBQ?",
+          "type": "text",
+          "title": "How acceptable people find meat alternatives can depend on the situation 😶"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "For example, a study found that meat alternatives feel more acceptable when eating alone than when they are invited to a restaurant 👥"
+        },
+        {
+          "id": 6,
+          "type": "question",
+          "title": "The acceptance of meat alternatives at a BBQ party is… 🍔",
+          "subtitle": "compared to other dinner settings",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Higher",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Lower",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Both meat eaters and flexitarians find meat alternatives less acceptable at a BBQ party than at other situations like a dinner with friends. Another good reason to put a lot of vegetables on the grill.\n\nWhen it comes to hosting vegetarians and vegans at a BBQ, it often happens that the host buys meat alternatives that the guests don’t even enjoy. One effective suggestion from a study about this topic: ask the guests to bring their own favorites. This way the vegetarians will be happy and meat eaters can try some new things as well!",
+            "imageURL": "",
+            "title": "🍔",
+            "blogURL": "https://www.nestle.co.uk/en-gb/media/pressreleases/allpressreleases/bbq-hosting-heat-no-need-flip-out-summer",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -5102,6 +8571,55 @@
           "type": "recipe",
           "recipeID": 92,
           "subtitle": "A delicious bean recipe. And as you know by now: beans improve the soil."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "What is the main practice of regenerative agriculture?",
+          "type": "text",
+          "title": "The biggest focus is improving soil health, but how do farmers do this? 🧑‍🌾"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The same study also asked that question and analyzed how often certain activities are mentioned 🔍"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which activity is mentioned most often?",
+          "subtitle": "to define regenerative agriculture",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Crop rotation ♻️",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Use of manure and compost 💩",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Minimizing fertilizer & pesticides 🧪",
+              "correct": true
+            },
+            {
+              "id": 3,
+              "title": "Minimizing plowing 🚜",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Regenerative farms use all of these but the most mentioned activity is minimizing ‘external inputs’ like fertilizer and pesticides.\n\nThe second most-mentioned activity was combining crops and animals on the same farm. This is in contrast to the 80% of farms in the EU that are specialized in either crops or livestock.",
+            "imageURL": "",
+            "title": "🧪",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2211912420300584",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5156,6 +8674,44 @@
           "type": "recipe",
           "recipeID": 94,
           "subtitle": "Use this lasagne to invite friends for dinner and a talk about climate change."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "How many people around the world agree that climate change is a serious threat?",
+          "type": "text",
+          "title": "A different study surveyed 59,000 people in 63 countries and asked ‘Do you believe in climate change as a serious threat to humanity’? ⚠️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "In the country with the lowest score, how many people agreed that climate change is a serious threat? ⬇️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "19%",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "53%",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "73%",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "Even in the countries with the lowest agreement, 73% agree that climate change is a problem.\n\nThe majority in every single country also supported policies like a carbon tax, expanding public transport, more renewable energy, more electric car chargers, taxes on airlines, and protecting forests.",
+            "imageURL": "",
+            "title": "💪",
+            "sourceURL": "https://ourworldindata.org/climate-change-support",
+            "urlButtonText": "Reading tip 🤓"
+          }
         }
       ]
     },
@@ -5215,6 +8771,50 @@
           "type": "recipe",
           "recipeID": 96,
           "subtitle": "You can start by making the choice to always buy the Fairtrade version of one product, like bananas, coffee, or in this case: rice."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How much would the price of meat increase with ‘true pricing’?",
+          "type": "text",
+          "title": "A ‘true price’ of a product not only includes the financial costs but also the societal costs that are caused by environmental damage 💰"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "A German study found that the true price of non-organic crops would on average get 0,79€ more expensive per kg 🌾"
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much would the price of meat increase? 🍗",
+          "subtitle": "average per kg for beef, pork, chicken ",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "€ 0,95",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "€ 2,24",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "€ 4,42",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "All products - whether organic or not - get more expensive if you include the environmental damage. But the price of organic products is closer to the true price.\n\nFor vegetables, the price doesn’t increase that much but meat would be twice as expensive with a true price! The biggest price increase happens with beef, which would be 3x as expensive as current prices.",
+            "imageURL": "",
+            "title": "💰",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0959652623012921",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },
@@ -5269,6 +8869,42 @@
           "type": "recipe",
           "recipeID": 100,
           "subtitle": "We can also eat grass ourselves, or at least the seeds. Wheat is a type of grass and this recipe includes wheat in the form of bulgur."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "How much soy and corn do organic cows eat?",
+          "type": "text",
+          "title": "Dairy cows not only eat grass but also corn and ‘concentrate’ like soy 🌽 A Spanish study compared the diets of different farming methods."
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How much concentrate and corn do organic cows eat? 🐄",
+          "subtitle": "compared to conventional cows",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "More",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Less",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "None",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "Organic cows also eat maize and power food, but at lower levels. The irony is that the Spanish study describes this as a problem because the organic cows give less milk.\n\nThis illustrates that only switching to organic meat & dairy is not the solution. If we switch to organic we need more cows and more land.\n\nThat's why we need to eat less of these products. But for the small amounts we do eat, it makes sense to have them organic.",
+            "imageURL": "",
+            "title": "🌽"
+          }
         }
       ]
     },
@@ -5323,6 +8959,42 @@
           "type": "recipe",
           "recipeID": 101,
           "subtitle": "Roasting veggies in the oven is one of the easiest ways to create a lot of flavor."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "What’s the most effective way to reduce the energy use of the oven?",
+          "type": "text",
+          "title": "The oven uses a lot of energy but are there ways we can reduce it? ⚡️"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which of these is the best strategy to save energy? ⚡️",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Putting food in during pre-heating",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Using a lower oven temperature",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Turning it off 5-10 minutes before the end",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "You can turn the oven off 5-10 minutes before the end of the cooking time and let the food finish in the hot oven. This works well for our recipes but don’t use it for baking because that requires more precision.\n\nPre-heating the oven can be important for the flavor, as the immediate heat creates a different effect than gradual warming. For example, pre-heating is necessary to get crispy potatoes.",
+            "imageURL": "",
+            "title": "⚡️"
+          }
         }
       ]
     },
@@ -5374,7 +9046,8 @@
           ],
           "answerExplanation": {
             "text": "A lot of our nature is out of balance: there are no predators and because of streets and cities, deer can’t migrate to other areas. Then they crowd out other animals and plants.\n\nShooting them is one solution, and the majority of hunting in the Netherlands happens for this reason. So this can be a form of sustainable meat, but there is not enough to replace our current meat consumption.\n\nAlso when it comes to wild meat, keep in mind that the situation (and therefore sustainability) differs a lot from region to region and for different animal types. This is just one example.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/hunting-for-biodiversity.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/07/hunting-for-biodiversity.png",
+            "blogURL": "https://www.forkranger.com/blog/is-wild-meat-sustainable/"
           }
         },
         {
@@ -5382,6 +9055,43 @@
           "type": "recipe",
           "recipeID": 102,
           "subtitle": "To be honest, this curry has nothing to do with hunting. But it’s easy and delicious. "
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Is wild meat really wild?",
+          "type": "text",
+          "title": "Some of the meat that we think of as ‘wild’ is actually farmed 🚜"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Which of these is always wild?",
+          "subtitle": "in the Netherlands",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Roe deer 🦌",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Duck 🦆",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "Rabbit 🐇",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "In the Netherlands, meat from duck and rabbit is often farmed. And when it comes to deer it depends on the species.\n\nFallow deer have white spots on them and often come from a farm (you also see them in city parks). Roe deer are smaller and browner. They don’t eat grass and are considered more nervous and solitary. That's why you can't farm them, and it's always wild meat if you see it on a menu.",
+            "imageURL": "",
+            "title": "🦌",
+            "blogURL": "https://www.forkranger.com/blog/is-wild-meat-sustainable/"
+          }
         }
       ]
     },
@@ -5441,6 +9151,45 @@
           "type": "recipe",
           "recipeID": 99,
           "subtitle": "This recipe includes tofu, which has roughly the same footprint as the best-case scenario for cultivated meat."
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "hometitle": "Does cultivated meat taste exactly the same?",
+          "type": "text",
+          "title": "In 2022, an Israeli startup served a piece of cultivated chicken to professional taster Michal Ansky 🍗"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "They did a blind tasting with real chicken and ground up both versions so there wouldn’t be a difference in texture."
+        },
+        {
+          "id": 7,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Did she taste a difference? 👅",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Yes",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "No",
+              "correct": true
+            }
+          ],
+          "answerExplanation": {
+            "text": "It was a blind tasting and she was convinced that the cultivated chicken was the real one. This story shows the potential of the solution. But for now, there remain a lot of challenges around costs and scaling up production.",
+            "imageURL": "",
+            "title": "🍗",
+            "sourceURL": "https://www.youtube.com/watch?v=jq9UxDJbv1A&feature=youtu.be",
+            "urlButtonText": "Watch the tasting"
+          }
         }
       ]
     },
@@ -5461,7 +9210,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "They all have a unique taste, but to they also differ in their carbon footprint?"
+          "title": "They all have a unique taste, but do they also differ in their carbon footprint?"
         },
         {
           "id": 2,
@@ -5495,6 +9244,50 @@
           "type": "recipe",
           "recipeID": 97,
           "subtitle": "Agroforestry is about mixing agriculture with trees. This recipe includes walnuts, which of course comes from trees and can also be grown in agroforestry systems."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "hometitle": "Is a reusable cup more sustainable than paper cups?",
+          "type": "text",
+          "title": "Coffee-to-go comes in paper cups. But it’s not really paper because the inside is lined with plastic 🥤"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Let’s say you buy one coffee to-go every day and you switch to a reusable cup ☕️"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "How long would it take to save emissions? ⏱",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "3 weeks",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "2 months",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "1 year",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "After around 20-40 times a reusable cup saves more CO2 than getting paper cups. So if you’re someone who drinks a lot of coffee on the go, this is a good investment.\n\nBut if you only buy a coffee-to-go a few times a year you don’t have to stress about it too much.",
+            "imageURL": "",
+            "title": "☕️",
+            "sourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0959652620303413",
+            "urlButtonText": "View source"
+          }
         }
       ]
     },

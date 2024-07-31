@@ -106,7 +106,7 @@
     {
       "id": 3,
       "notificationTitle": "Heute: Die Große Ranch",
-      "notificationText": "Warum hat Essen einen großen Fußabdruck?🤔 Rezept des Tages: Minze Auberginen Wraps",
+      "notificationText": "Warum hat Essen einen großen Fußabdruck?🤔 Rezept des Tages: Auberginen Wraps mit Minze",
       "home": {
         "title": "Warum hat Essen so einen großen Fußabdruck",
         "category": 1
@@ -705,7 +705,7 @@
     {
       "id": 14,
       "notificationTitle": "Heute: Kuhmuh-Weide",
-      "notificationText": "Wie schneidet Käse im Vergleich zu Fleisch ab? 🧀 - Rezept des Tages: Knusprige Nudeln",
+      "notificationText": "Wie schneidet Käse im Vergleich zu Fleisch ab? 🧀 - Rezept des Tages: Crunchy Asianudeln",
       "home": {
         "title": "Wie schneidet Käse im Vergleich zu Fleisch ab?",
         "category": 7
@@ -1076,7 +1076,7 @@
     {
       "id": 21,
       "notificationTitle": "Heute: Der Hafen",
-      "notificationText": "Wie viel unseres Essens wird mit dem Flugzeug transportiert?✈️– Rezept des Tages: Ananas Curry  ",
+      "notificationText": "Wie viel unseres Essens wird mit dem Flugzeug transportiert?✈️– Rezept des Tages: Ananas Curry",
       "home": {
         "title": "Wie viel unseres Essens wird mit dem Flugzeug transportiert?",
         "category": 8
@@ -1542,7 +1542,7 @@
     {
       "id": 30,
       "notificationTitle": "Heute: Gefährten der Gabel",
-      "notificationText": "[Heute ist dein 3️⃣0️⃣. Tag] Wie kann man Menschen am besten dazu inspirieren, eine neue Gewohnheit zu beginnen? - Rezept des Tages: Balsamico-Ravioli",
+      "notificationText": "[Heute ist dein 3️⃣0️⃣. Tag] Wie kann man Menschen am besten dazu inspirieren, eine neue Gewohnheit zu beginnen? - Rezept des Tages: Balsamico Ravioli",
       "home": {
         "title": "Wie man andere Menschen überzeugt",
         "category": 4
@@ -2649,7 +2649,7 @@
     {
       "id": 51,
       "notificationTitle": "Heute: Kuhmuh-Weide",
-      "notificationText": "Finde heraus, warum Gras nicht gleich Gras ist 🌱 - Rezept des Tages: Ofen Polenta",
+      "notificationText": "Finde heraus, warum Gras nicht gleich Gras ist 🌱 - Rezept des Tages: Polenta aus dem Backofen",
       "home": {
         "title": "Nicht alle Gräser sind gleich",
         "category": 7
@@ -3056,7 +3056,7 @@
     {
       "id": 59,
       "notificationTitle": "Heute: Staubiger See",
-      "notificationText": "Wie der ‘Wasser-Fußabdruck’ funktioniert 💦 - Rezept des Tages: Minzige Auberginen-Wraps",
+      "notificationText": "Wie der ‘Wasser-Fußabdruck’ funktioniert 💦 - Rezept des Tages: Auberginen Wraps mit Minze",
       "home": {
         "title": "Wie der ‘Wasser-Fußabdruck’ funktioniert",
         "category": 13
@@ -3704,7 +3704,7 @@
     {
       "id": 71,
       "notificationTitle": "Heute: Faire Felder",
-      "notificationText": "Der unfaire Preis von Reis 🍚 - Rezept des Tages: Fenchel-Risotto",
+      "notificationText": "Der unfaire Preis von Reis 🍚 - Rezept des Tages: Fenchel Risotto",
       "home": {
         "title": "Der unfaire Preis von Reis",
         "category": 14

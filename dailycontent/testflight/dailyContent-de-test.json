@@ -155,7 +155,7 @@
     {
       "id": 4,
       "notificationTitle": "Heute: Schwindender Wald",
-      "notificationText": "Kennst du die Hauptursache für die Abholzung der Wälder?🪓Rezept des Tages: Grüne Zitronen Spaghetti",
+      "notificationText": "Kennst du die Hauptursache für die Abholzung der Wälder?🪓Rezept des Tages: Grüne Zitronenspaghetti",
       "home": {
         "title": "Was ist die Hauptursache für die Abholzung der Wälder?",
         "category": 3
@@ -324,7 +324,7 @@
     {
       "id": 7,
       "notificationTitle": "Heute: Wilder Waste",
-      "notificationText": "Weißt du, an welcher Stelle die meisten Lebensmittel verschwendet werden? 🗑 - Rezept des Tages: Afrikanische Erdnuss-Suppe",
+      "notificationText": "Weißt du, an welcher Stelle die meisten Lebensmittel verschwendet werden? 🗑 - Rezept des Tages: Afrikanische Erdnusssuppe",
       "home": {
         "title": "Wo werden die meisten Lebensmittel verschwendet?",
         "category": 5
@@ -374,7 +374,7 @@
     {
       "id": 8,
       "notificationTitle": "Heute: Die Große Ranch",
-      "notificationText": "Das Gewicht aller Menschen und ihrer Nutztiere ⚖️ - Rezept des Tages: Cremige Pilzpasta",
+      "notificationText": "Das Gewicht aller Menschen und ihrer Nutztiere ⚖️ - Rezept des Tages: Cremige Nudeln mit Pilzen",
       "home": {
         "title": "Das Gewicht der Menschheit",
         "category": 1
@@ -913,7 +913,7 @@
     {
       "id": 18,
       "notificationTitle": "Heute: Die Große Ranch",
-      "notificationText": "Ein Klimatipp für die Fleischliebhaber in deinem Leben 🍖 - Rezept des Tages: Bratkartoffeln mit Senf",
+      "notificationText": "Ein Klimatipp für die Fleischliebhaber in deinem Leben 🍖 - Rezept des Tages: Ofengemüse mit Senfsauce",
       "home": {
         "title": "Ein Klimatipp für Fleischliebhaber",
         "category": 1
@@ -1126,7 +1126,7 @@
     {
       "id": 22,
       "notificationTitle": "Heute: Gefährten der Gabel",
-      "notificationText": "Was ist der Hauptgrund, der Menschen davon abhält weniger Fleisch zu essen?😵‍💫 -  Rezept des Tages: Orangen Chili Spaghetti",
+      "notificationText": "Was ist der Hauptgrund, der Menschen davon abhält weniger Fleisch zu essen?😵‍💫 -  Rezept des Tages: Orangen-Chili Spaghetti",
       "home": {
         "title": "Warum Menschen sich nicht ändern",
         "category": 4
@@ -2011,7 +2011,7 @@
     {
       "id": 39,
       "notificationTitle": "Heute: Die Große Ranch",
-      "notificationText": "Warum Hühner nachhaltiger als Schweine sind 🐓- Rezept des Tages: Auberginen Tomaten Curry",
+      "notificationText": "Warum Hühner nachhaltiger als Schweine sind 🐓- Rezept des Tages: Auberginen-Tomatencurry",
       "home": {
         "title": "Warum Hühner nachhaltiger als Schweine sind",
         "category": 1
@@ -2497,7 +2497,7 @@
     {
       "id": 48,
       "notificationTitle": "Heute: Wilder Waste",
-      "notificationText": "Was Kaffee uns über den Kreislauf des Lebens lehren kann ☕️ - Rezept des Tages: Erdnuss-Frucht-Reis",
+      "notificationText": "Was Kaffee uns über den Kreislauf des Lebens lehren kann ☕️ - Rezept des Tages: Fruchtiger Reis mit Erdnüssen",
       "home": {
         "title": "Was Kaffee uns über den Kreislauf des Lebens lehren kann",
         "category": 5
@@ -2546,7 +2546,7 @@
     {
       "id": 49,
       "notificationTitle": "Heute: Goldene Felder",
-      "notificationText": "Der überraschend hohe Fußabdruck von Reis 🍚 – Rezept des Tages: Auberginen-Tomaten-Curry",
+      "notificationText": "Der überraschend hohe Fußabdruck von Reis 🍚 – Rezept des Tages: Auberginen-Tomatencurry",
       "home": {
         "title": "Der überraschend hohe Fußabdruck von Reis",
         "category": 9
@@ -2595,7 +2595,7 @@
     {
       "id": 50,
       "notificationTitle": "Heute: Welt der Wimmelerde",
-      "notificationText": "Die unterschätzte Kraft des Bodens 🪱 - Rezept des Tages: Bratkartoffeln mit Senf",
+      "notificationText": "Die unterschätzte Kraft des Bodens 🪱 - Rezept des Tages: Ofengemüse mit Senfsauce",
       "home": {
         "title": "Die unterschätzte Kraft des Bodens",
         "category": 12
@@ -4941,7 +4941,7 @@
     {
       "id": 94,
       "notificationTitle": "Heute: Goldene Felder",
-      "notificationText": "Die meist angebaute Pflanze der Welt 🥇 - Rezept des Tages: Chili-Spaghetti",
+      "notificationText": "Die meist angebaute Pflanze der Welt 🥇 - Rezept des Tages: Chili Spaghetti",
       "home": {
         "title": "Die meist angebaute Pflanze der Welt",
         "category": 9

@@ -210,7 +210,7 @@
     {
       "id": 5,
       "notificationTitle": "Heute: Tal der Kraft",
-      "notificationText": "Iss mehr von diesem Klima-Superfood 🤩- Rezept des Tages Kokosnuss Dahl (einer unser Lieblingsrezepte)",
+      "notificationText": "Iss mehr von diesem Klima-Superfood 🤩- Rezept des Tages: Kokos-Dal (einer unser Lieblingsrezepte)",
       "home": {
         "title": "Iss mehr von diesem Klima-Superfood",
         "category": 2
@@ -1334,7 +1334,7 @@
     {
       "id": 26,
       "notificationTitle": "Heute: Wilder Waste",
-      "notificationText": "Warum wir so viel Brot verschwenden 🥖 - Rezept des Tages: Leichte Pesto-Lasagne",
+      "notificationText": "Warum wir so viel Brot verschwenden 🥖 - Rezept des Tages: Einfache Pesto Lasagne",
       "home": {
         "title": "Warum verschwenden wir so viel Brot?",
         "category": 5
@@ -1438,7 +1438,7 @@
     {
       "id": 28,
       "notificationTitle": "Heute: Der Hafen",
-      "notificationText": "Wie sieht es mit dem Impact von Verpackung aus? 📦- Rezept des Tages: Süßes Chili",
+      "notificationText": "Wie sieht es mit dem Impact von Verpackung aus? 📦- Rezept des Tages: Süßkartoffel Chili",
       "home": {
         "title": "Wie groß ist der Fußabdruck von Verpackung?",
         "category": 8
@@ -1651,7 +1651,7 @@
     {
       "id": 32,
       "notificationTitle": "Heute: Schwindender Wald",
-      "notificationText": "Die dunkle Seite der Avocados 🥑 – Rezept des Tages: Schwarze Bohnen-Fajitas",
+      "notificationText": "Die dunkle Seite der Avocados 🥑 – Rezept des Tages: Fajitas mit schwarzen Bohnen",
       "home": {
         "title": "Die dunkle Seite der Avocado",
         "category": 3
@@ -3979,7 +3979,7 @@
     {
       "id": 76,
       "notificationTitle": "Heute: Der Hafen",
-      "notificationText": "Das Plastik-Dilemma, kannst du etwas dagegen tun? 🥤 – Rezept des Tages: Fenchel-Orangen-Couscous",
+      "notificationText": "Das Plastik-Dilemma, kannst du etwas dagegen tun? 🥤 – Rezept des Tages: Fenchel-Orangen Couscous",
       "home": {
         "title": "Das Plastik-Dilemma",
         "category": 8
@@ -4087,7 +4087,7 @@
     {
       "id": 78,
       "notificationTitle": "Heute: Hof mit Hoffnung",
-      "notificationText": "Wie Tierfutter nachhaltig sein kann 🐷 - Rezept des Tages: Einfache Pesto-Lasagne",
+      "notificationText": "Wie Tierfutter nachhaltig sein kann 🐷 - Rezept des Tages: Einfache Pesto Lasagne",
       "home": {
         "title": "Wie Tierfutter nachhaltig sein kann",
         "category": 15
@@ -4573,7 +4573,7 @@
     {
       "id": 87,
       "notificationTitle": "Heute: Faire Felder",
-      "notificationText": "Wie viel gibst du für Essen aus? 🤑 – Rezept des Tages: Kokosnuss-Dahl",
+      "notificationText": "Wie viel gibst du für Essen aus? 🤑 – Rezept des Tages: Kokos-Dal",
       "home": {
         "title": "Wie viel gibst du für Essen aus?",
         "category": 14

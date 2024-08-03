@@ -2850,7 +2850,7 @@
     {
       "id": 55,
       "notificationTitle": "Heute: Die Große Ranch",
-      "notificationText": "Wie viel Fleisch haben unsere Großeltern gegessen? 🥩 - Rezept des Tages: Lauch-Linsen-Quiche",
+      "notificationText": "Wie viel Fleisch haben unsere Großeltern gegessen? 🥩 - Rezept des Tages: Lauchquiche mit Linsen",
       "home": {
         "title": "Wie viel Fleisch haben unsere Großeltern gegessen?",
         "category": 1
@@ -2899,7 +2899,7 @@
     {
       "id": 56,
       "notificationTitle": "Heute: Staubiger See",
-      "notificationText": "Weißt du, wo das meiste Wasser verbraucht wird? 💦 - Kochrezept des Tages: Kartoffel-Pesto-Auflauf",
+      "notificationText": "Weißt du, wo das meiste Wasser verbraucht wird? 💦 - Kochrezept des Tages: Kartoffel Pesto Auflauf",
       "home": {
         "title": "Wo wird das meiste Wasser verbraucht?",
         "category": 13
@@ -3007,7 +3007,7 @@
     {
       "id": 58,
       "notificationTitle": "Heute: Welt der Wimmelerde",
-      "notificationText": "Die Schäden von chemischem Dünger ☠️ - Rezept des Tages: Süßkartoffel- und Rote-Bete-Tarte",
+      "notificationText": "Die Schäden von chemischem Dünger ☠️ - Rezept des Tages: Tarte mit Roter Bete und Süßkartoffeln",
       "home": {
         "title": "Die Schäden von chemischem Dünger",
         "category": 12
@@ -3267,7 +3267,7 @@
     {
       "id": 63,
       "notificationTitle": "Heute: Welt der Wimmelerde",
-      "notificationText": "Was ist ökologischer Landbau? 👩‍🌾 - Rezept des Tages: Rotkohl Stir-Fry",
+      "notificationText": "Was ist ökologischer Landbau? 👩‍🌾 - Rezept des Tages: Rotkohl Stir Fry mit Apfel",
       "home": {
         "title": "Was ist ökologischer Landbau?",
         "category": 12
@@ -3380,7 +3380,7 @@
     {
       "id": 65,
       "notificationTitle": "Heute: Mucki-Mountain",
-      "notificationText": "Hier ein paar einfache Möglichkeiten für eine extra Portion Protein 💪 - Rezept des Tages: Sellerie Süßkartoffelpüree",
+      "notificationText": "Hier ein paar einfache Möglichkeiten für eine extra Portion Protein 💪 - Rezept des Tages: Süßkartoffelpüree mit Knollensellerie",
       "home": {
         "title": "Der einfachste Weg zu mehr Protein",
         "category": 6
@@ -3434,7 +3434,7 @@
     {
       "id": 66,
       "notificationTitle": "Heute: Der Ozean",
-      "notificationText": "Die Geschichte von Zuchtfischen 🐟 - Rezept des Tages: Pilz Ingwer Nudelsuppe",
+      "notificationText": "Die Geschichte von Zuchtfischen 🐟 - Rezept des Tages: Nudelsuppe mit Pilzen",
       "home": {
         "title": "Die Geschichte von Zuchtfischen",
         "category": 11
@@ -4401,7 +4401,7 @@
     {
       "id": 84,
       "notificationTitle": "Heute: Kuhmuh-Weide",
-      "notificationText": "Was ist eine nachhaltige Menge an Milchprodukten? 🥛 - Rezept des Tages: Cremiger Rote-Bete-Reis",
+      "notificationText": "Was ist eine nachhaltige Menge an Milchprodukten? 🥛 - Rezept des Tages: Cremiger Rote Bete Reis",
       "home": {
         "title": "Was ist eine nachhaltige Menge an Milchprodukten?",
         "category": 7
@@ -4627,7 +4627,7 @@
     {
       "id": 88,
       "notificationTitle": "Heute: Welt der Wimmelerde",
-      "notificationText": "Ist Honig nachhaltig? 🍯 - Rezept des Tages: Knollensellerie-Süßkartoffel-Püree",
+      "notificationText": "Ist Honig nachhaltig? 🍯 - Rezept des Tages: Süßkartoffelpüree mit Knollensellerie",
       "home": {
         "title": "Ist Honig nachhaltig?",
         "category": 12
@@ -4784,7 +4784,7 @@
     {
       "id": 91,
       "notificationTitle": "Heute: Windmühlenland",
-      "notificationText": "Spart man Energie, wenn man einen Deckel auf die Pfanne legt? 🔥 - Rezept des Tages: Pikante grüne Penne",
+      "notificationText": "Spart man Energie, wenn man einen Deckel auf die Pfanne legt? 🔥 - Rezept des Tages: Grüne Penne mit Pfiff",
       "home": {
         "title": "Spart man Energie, wenn man einen Deckel auf die Pfanne legt?",
         "category": 16
@@ -4838,7 +4838,7 @@
     {
       "id": 92,
       "notificationTitle": "Heute: Der Ozean",
-      "notificationText": "Veggies from the Ocean 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup Gemüse aus dem Meer 🌊 - Rezept des Tages: Pilz-Ingwer-Nudelsuppe",
+      "notificationText": "Veggies from the Ocean 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup Gemüse aus dem Meer 🌊 - Rezept des Tages: Nudelsuppe mit Pilzen",
       "home": {
         "title": "Veggies from the Ocean Gemüse aus dem Meer",
         "category": 11
@@ -4892,7 +4892,7 @@
     {
       "id": 93,
       "notificationTitle": "Heute: Faire Felder",
-      "notificationText": "Kannst du dir Fairtrade- und Bio-Produkte leisten? 💰 - Rezept des Tages: Cremige Tomatennudeln mit Haselnüssen",
+      "notificationText": "Kannst du dir Fairtrade- und Bio-Produkte leisten? 💰 - Rezept des Tages: Cremige Tomatennudeln mit Nüssen",
       "home": {
         "title": "Kannst du dir Fairtrade- und Bio-Produkte leisten?",
         "category": 14
@@ -5157,7 +5157,7 @@
     {
       "id": 98,
       "notificationTitle": "Heute: Faire Felder",
-      "notificationText": "Die Kosten von Fairtrade 💸 - Rezept des Tages: Pikantes Gemüse mit Erdnusssoße",
+      "notificationText": "Die Kosten von Fairtrade 💸 - Rezept des Tages: Pikantes Gemüse mit Erdnusssauce",
       "home": {
         "title": "Die Kosten von Fairtrade",
         "category": 14
@@ -5216,7 +5216,7 @@
     {
       "id": 99,
       "notificationTitle": "Heute: Hof mit Hoffnung",
-      "notificationText": "Welche Vorteile hat die ausschließliche Fütterung von Kühen mit Gras? - Rezept des Tages: Geröstete Rüben und Möhren mit Bulgur",
+      "notificationText": "Welche Vorteile hat die ausschließliche Fütterung von Kühen mit Gras? - Rezept des Tages: Geröstete Rote Bete und Karotten",
       "home": {
         "title": "Welche Vorteile hat die ausschließliche Fütterung von Kühen mit Gras?",
         "category": 15
@@ -5383,7 +5383,7 @@
     {
       "id": 102,
       "notificationTitle": "Heute: Hof mit Hoffnung",
-      "notificationText": "Die Klimaauswirkungen von kultiviertem Fleisch 🍖 - Rezept des Tages: Balsamico-Brokkoli-Nudeln",
+      "notificationText": "Die Klimaauswirkungen von kultiviertem Fleisch 🍖 - Rezept des Tages: Brokkoli in Balsamico",
       "home": {
         "title": "Der Klimaauswirkungen von kultiviertem Fleisch",
         "category": 15

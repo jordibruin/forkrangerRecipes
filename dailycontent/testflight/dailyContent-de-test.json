@@ -863,7 +863,7 @@
     {
       "id": 17,
       "notificationTitle": "Heute: Schwindender Wald",
-      "notificationText": "Solltest du versuchen, Palmöl zu vermeiden? 🌴 – Rezept des Tages: Scharfer indonesischer Kohl",
+      "notificationText": "Solltest du versuchen, Palmöl zu vermeiden? 🌴 – Rezept des Tages: Indonesischer Spitzkohl",
       "home": {
         "title": "Solltest du versuchen, Palmöl zu vermeiden?",
         "category": 3
@@ -1809,7 +1809,7 @@
     {
       "id": 35,
       "notificationTitle": "Heute: Gemüsebeet",
-      "notificationText": "Der Impact von saisonalem Essen 🌱 - Rezept des Tages: Süßkartoffel-Linsen-Curry",
+      "notificationText": "Der Impact von saisonalem Essen 🌱 - Rezept des Tages: Süßkartoffelcurry mit Linsen",
       "home": {
         "title": "Der Impact von saisonalem Essen",
         "category": 10
@@ -3164,7 +3164,7 @@
     {
       "id": 61,
       "notificationTitle": "Heute: Welt der Wimmelerde",
-      "notificationText": "Wie Hülsenfrüchte den Boden verbessern 🫘 - Rezept des Tages: Süßkartoffel-Linsen-Curry",
+      "notificationText": "Wie Hülsenfrüchte den Boden verbessern 🫘 - Rezept des Tages: Süßkartoffelcurry mit Linsen",
       "home": {
         "title": "Wie Hülsenfrüchte den Boden verbessern",
         "category": 12
@@ -3537,7 +3537,7 @@
     {
       "id": 68,
       "notificationTitle": "Heute: Kuhmuh-Weide",
-      "notificationText": "Was ist der Impact von Sojasahne? 🐄 - Rezept des Tages: Sahnige Birnen Pasta",
+      "notificationText": "Was ist der Impact von Sojasahne? 🐄 - Rezept des Tages: Sahnige Birnen-Pasta",
       "home": {
         "title": "Was ist der Impact von Sojasahne?",
         "category": 7
@@ -3591,7 +3591,7 @@
     {
       "id": 69,
       "notificationTitle": "Heute: Schwindender Wald",
-      "notificationText": "Was Europa bezüglich Palmöl tun muss. 🌴- Rezept des Tages: Scharfer Indonesischer Kohl",
+      "notificationText": "Was Europa bezüglich Palmöl tun muss. 🌴- Rezept des Tages: Indonesischer Spitzkohl",
       "home": {
         "title": "Was Europa bezüglich Palmöl tun muss",
         "category": 3
@@ -4995,7 +4995,7 @@
     {
       "id": 95,
       "notificationTitle": "Heute: Windmühlenland",
-      "notificationText": "Wie nachhaltig ist grillen? 🔥 - Rezept des Tages: Nachhaltiges BBQ",
+      "notificationText": "Wie nachhaltig ist grillen? 🔥 - Rezept des Tages: Low Impact BBQ",
       "home": {
         "title": " Wie nachhaltig ist Grillen?",
         "category": 16

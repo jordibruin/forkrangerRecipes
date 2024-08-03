@@ -56,7 +56,7 @@
     {
       "id": 2,
       "notificationTitle": "Heute: Tal der Kraft",
-      "notificationText": "Was ist der Effekt von Nüssen auf das Klima? 🥜 – Rezept des Tages: Weißwein Pilz Tagliatelle",
+      "notificationText": "Was ist der Effekt von Nüssen auf das Klima? 🥜 – Rezept des Tages: Tagliatelle mit Champignons in Weißweinsauce",
       "home": {
         "title": "Was ist der Effekt von Nüssen auf das Klima?",
         "category": 2
@@ -1706,7 +1706,7 @@
     {
       "id": 33,
       "notificationTitle": "Heute: Goldene Felder",
-      "notificationText": "Die Vorteile von Vollkorn 🌾 – Rezept des Tages: Zucchini-Pfirsich-Wraps",
+      "notificationText": "Die Vorteile von Vollkorn 🌾 – Rezept des Tages: Wraps mit Zucchini und Pfirsich",
       "home": {
         "title": "Die Vorteile von Vollkorn",
         "category": 9
@@ -2953,7 +2953,7 @@
     {
       "id": 57,
       "notificationTitle": "Heute: Gemüsebeet",
-      "notificationText": "Die Artenvielfalt ist wichtig. Aber warum? 🌼 - Rezept des Tages: Rote Bete-Kürbis-Curry",
+      "notificationText": "Die Artenvielfalt ist wichtig. Aber warum? 🌼 - Rezept des Tages: Rote Bete Kürbis Curry",
       "home": {
         "title": "Die Schönheit von Vielfalt",
         "category": 10
@@ -3110,7 +3110,7 @@
     {
       "id": 60,
       "notificationTitle": "Heute: Der Hafen",
-      "notificationText": "Der Fußabdruck von Tomaten im Winter 🍅 – Rezept des Tages: Kichererbsen-Tajine mit Pfirsichen",
+      "notificationText": "Der Fußabdruck von Tomaten im Winter 🍅 – Rezept des Tages: Tajine mit Kichererbsen und Pfirsichen",
       "home": {
         "title": "Der Fußabdruck von Tomaten im Winter",
         "category": 8
@@ -3321,7 +3321,7 @@
     {
       "id": 64,
       "notificationTitle": "Heute: Schwindender Wald",
-      "notificationText": "Was ist nachhaltiger Kaffee? ☕️ - Rezept des Tages: Weißwein-Pilz-Tagliatelle",
+      "notificationText": "Was ist nachhaltiger Kaffee? ☕️ - Rezept des Tages: Tagliatelle mit Champignons in Weißweinsauce",
       "home": {
         "title": "Was ist nachhaltiger Kaffee?",
         "category": 3
@@ -3763,7 +3763,7 @@
     {
       "id": 72,
       "notificationTitle": "Heute: Welt der Wimmelerde",
-      "notificationText": "Welche Nahrungsmittel würde es ohne Bestäuber nicht geben? 🌼 - Rezept des Tages: Rote Bete und Kürbis-Curry",
+      "notificationText": "Welche Nahrungsmittel würde es ohne Bestäuber nicht geben? 🌼 - Rezept des Tages: Rote Bete Kürbis Curry",
       "home": {
         "title": "Das Bestäubungsteam",
         "category": 12
@@ -4190,7 +4190,7 @@
     {
       "id": 80,
       "notificationTitle": "Heute: Hof mit Hoffnung",
-      "notificationText": "Der Fußabdruck von pflanzlichem Fleisch 🍔 - Rezept des Tages: Pilz-Fladenbrote",
+      "notificationText": "Der Fußabdruck von pflanzlichem Fleisch 🍔 - Rezept des Tages: Pitabrot gefüllt mit Pilzen",
       "home": {
         "title": "Der Fußabdruck von pflanzlichem Fleisch",
         "category": 15

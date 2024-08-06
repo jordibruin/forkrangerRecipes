@@ -16,7 +16,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Es gibt einen kleinen Schritt, den jeder von uns gehen kann, um den eigenen Fußabdruck sofort zu reduzieren."
+          "title": "Es gibt einen kleinen Schritt, den jeder von uns gehen kann, um den eigenen Fußabdruck sofort zu reduzieren"
         },
         {
           "id": 2,
@@ -56,7 +56,7 @@
     {
       "id": 2,
       "notificationTitle": "Heute: Tal der Kraft",
-      "notificationText": "Welchen Effekt haben Nüsse auf das Klima? 🥜 – Rezept des Tages: Tagliatelle mit Champignons in Weißweinsauce",
+      "notificationText": "Was ist der Effekt von Nüssen auf das Klima? 🥜 – Rezept des Tages: Tagliatelle mit Champignons in Weißweinsauce",
       "home": {
         "title": "Welchen Effekt haben Nüsse auf das Klima?",
         "category": 2
@@ -65,12 +65,12 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Im Reich der Pflanzen haben Nüsse den höchsten Proteingehalt 💪 "
+          "title": "Im Reich der Pflanzen haben Nüsse den höchsten Proteingehalt 💪, "
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Nüsse können also eine gute Alternative zu Fleisch sein. Aber was ist eigentlich mit ihrem CO₂-Fußabdruck?"
+          "title": "Also können Nüsse eine gute Alternative zu Fleisch sein. Aber was ist eigentlich mit ihrem CO₂-Fußabdruck?"
         },
         {
           "id": 2,
@@ -108,7 +108,7 @@
       "notificationTitle": "Heute: Die Große Ranch",
       "notificationText": "Warum hat Essen einen großen Fußabdruck?🤔 Rezept des Tages: Auberginen Wraps mit Minze",
       "home": {
-        "title": "Warum hat Essen so einen großen Fußabdruck?",
+        "title": "Warum hat Essen so einen großen Fußabdruck",
         "category": 1
       },
       "pages": [
@@ -174,7 +174,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Was ist der Hauptgrund für die Abholzung von Wäldern?",
+          "title": "Was ist der Hauptgrund für die Abholzung von Wälder?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -254,7 +254,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Hülsenfrüchte sind kleine Trockenfrüchte, die wir als Kichererbsen, Linsen, Erbsen oder Bohnen kennen. Genau wie Nüsse haben sie viel Protein und einen geringen Fußabdruck. Aber Hülsenfrüchte haben noch mehr Vorteile für die Umwelt, denn sie brauchen sehr wenig Wasser.",
+            "text": "Hülsenfrüchte sind kleine Trockenfrüchte, die wir als Kichererbsen, Linsen, Erbsen oder Bohnen kennen. Genau wie Nüsse haben sie viel Protein und einen geringen Fußabdruck. Aber Hülsenfrüchte haben noch mehr Vorteile für die Umwelt, denn sie brauchen sehr wenig Wasser.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/climate-superfood-legumes-DE.png"
           }
         },
@@ -308,8 +308,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "Wenn du eine andere Person dazu inspirierst, Rindfleisch durch Hühnchen zu ersetzen, macht das einen viel größeren Unterschied, als wenn du allein versuchst, perfekte Entscheidungen zu treffen.\n\nEssen ist Geselligkeit. Und die Lösung für ein nachhaltiges Ernährungssystem kann auch nur in Gemeinschaft gestaltet werden! Teile also ein Rezept oder eine Infografik mit anderen Menschen, und vor allem lasst uns mehr nachhaltige Dinnerpartys feiern.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/1-vegan-vs-3-replacing-beef-DE.png",
+            "text": "Wenn du eine andere Person dazu inspirierst, Rindfleisch durch Hühnchen zu ersetzen, macht das einen viel größeren Unterschied, als wenn du allein versuchst, perfekte Entscheidungen zu treffen.\n\nEssen ist geselligkeit. Und die Lösung für ein nachhaltiges Ernährungssystem kann auch nur in Gemeinschaft gestaltet werden! Teile also ein Rezept oder eine Infografik mit anderen Menschen, und vor allem lasst uns mehr nachhaltige Dinnerpartys feiern.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/1-vegan-vs-3-replacing-beef-DE.png",
             "blogURL": "https://www.forkranger.com/how-to-convince-your-friends-to-eat-less-meat/"
           }
         },
@@ -359,7 +359,7 @@
           ],
           "answerExplanation": {
             "text": "Mehr als die Hälfte aller Lebensmittelabfälle in Nordamerika und Europa entsteht beim Verzehr (zu Hause, in Restaurants, in Kantinen, auf Veranstaltungen). Das bedeutet, dass wir alle eine wichtige Rolle spielen.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/Total-food-waste-DE.png",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/Total-food-waste-DE.png",
             "blogURL": "https://www.forkranger.com/the-solution-to-food-waste-starts-with-bread/"
           }
         },
@@ -472,7 +472,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Derzeit essen wir nur 15 g pro Tag, während es 125 g sein sollten. Nüsse und Hülsenfrüchte sind der nachhaltigste Weg, um Fleisch und Milchprodukte zu ersetzen.\n\n Versuch jeden Tag mindestens eine Portion Nüsse und eine Portion Hülsenfrüchte zu essen. Also hol schonmal das Studentenfutter raus! 😍🥜",
+            "text": "Derzeit essen wir nur 15 g pro Tag, während es 125 g sein sollten. Nüsse und Hülsenfrüchte sind der nachhaltigste Weg, um Fleisch und Milchprodukte zu ersetzen.\n\nVersuch jeden Tag mindestens eine Portion Nüsse und eine Portion Hülsenfrüchte zu essen. Also hol schonmal das Studentenfutter raus! 😍🥜",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/recommended-amount-nuts-and-legumes-DE.png"
           }
         },
@@ -637,7 +637,7 @@
           ],
           "answerExplanation": {
             "text": "Wiederkäuer haben einen speziellen Magen, der es ihnen ermöglicht, Gras zu fressen. Dabei rülpsen sie ein Gas namens Methan aus, das ein starkes Treibhausgas ist.\n\nMethan ist ein wichtiger Grund dafür, dass Rindfleisch - aber auch Ziegen- und Schaffleisch - einen viel größeren Fußabdruck haben als andere Lebensmittel.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/ruminant-meat-DE.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/ruminant-meat-DE.png"
           }
         },
         {
@@ -714,7 +714,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Vielen Menschen, die weniger Fleisch essen, fällt es viel schwerer, weniger Käse zu essen 🧀."
+          "title": "Vielen Menschen, die weniger Fleisch essen, fällt es noch schwerer, weniger Käse zu essen 🧀."
         },
         {
           "id": 1,
@@ -744,7 +744,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Die einfachste Art, ein vegetarisches Gericht zu kochen, ist Fleisch durch Käse zu ersetzen. Aber das ist, als ob man zwei Schritte vor und einen zurück macht. \n\n Wir müssen Käse nicht aus unserer Ernährung verbannen, aber er sollte kein alltägliches Grundnahrungsmittel sein. Wir denken die Lösung ist, sich Käse für besondere Anlässe und die Wochenenden aufzusparen.",
+            "text": "Die einfachste Art, ein vegetarisches Gericht zu kochen, ist Fleisch durch Käse zu ersetzen. Aber das ist, als ob man zwei Schritte vor und einen zurück macht.\n\nWir müssen Käse nicht aus unserer Ernährung verbannen, aber er sollte kein alltägliches Grundnahrungsmittel sein. Wir denken die Lösung ist, sich Käse für besondere Anlässe und an Wochenenden zu gönnen.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/cheese-footprint-DE.png"
           }
         },
@@ -801,7 +801,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 16,
-          "subtitle": "Ein leckeres Rezept ohne tierische Produkte, also kein Futter nötig!"
+          "subtitle": "Ein leckeres Rezept ohne tierische Produkte, also kein Tierfutter nötig!"
         }
       ]
     },
@@ -847,7 +847,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Weltweit fallen 53% aller verschwendeten Kalorien auf Getreideprodukte zurück. Für den Anbau von Getreide wird viel Land und Dünger benötigt, sodass die Verschwendung von Getreide schädlicher ist als die Verschwendung der meisten Obst- und Gemüsesorten.\n\n Jeder Nudelrest oder jedes alte Brot, das du isst, ist ein Gewinn fürs Klima.",
+            "text": "Weltweit fallen 53% aller verschwendeten Kalorien auf Getreideprodukte zurück. Für den Anbau von Getreide wird viel Land und Dünger benötigt, sodass die Verschwendung von Getreide schädlicher ist als die Verschwendung der meisten Obst- und Gemüsesorten.\n\nJeder Nudelrest oder jedes alte Brot, das du isst statt wegwirfst, ist ein Gewinn fürs Klima.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/food-waste-in-calories-DE.png",
             "blogURL": "https://www.forkranger.com/the-solution-to-food-waste-starts-with-bread/"
           }
@@ -877,7 +877,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Erforschen wir also eine mögliche Lösung."
+          "title": "Erforschen wir also eine mögliche Alternative."
         },
         {
           "id": 2,
@@ -952,7 +952,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Hähnchen und Schweinefleisch sind immer eine bessere Wahl als Rindfleisch. Aber es kommt auch auf die Portionsgröße an. Einige Speckwürfel können einem Gericht viel Geschmack verleihen ohne viel Fleisch zu verwenden.",
+            "text": "Hähnchen und Schweinefleisch sind immer eine bessere Wahl als Rindfleisch. Aber es kommt auch auf die Portionsgröße an. Ein paar Speckwürfel können einem Gericht viel Geschmack verleihen ohne viel Fleisch dabei zu verwenden.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/smaller-portion-sizes-of-meat-DE.png"
           }
         },
@@ -981,7 +981,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Aber nicht alle Transportarten haben die gleiche Auswirkung"
+          "title": "Aber nicht alle Transportarten haben den gleichen Fußabdruck oder Impact"
         },
         {
           "id": 2,
@@ -1078,7 +1078,7 @@
       "notificationTitle": "Heute: Der Hafen",
       "notificationText": "Wie viel unseres Essens wird mit dem Flugzeug transportiert?✈️– Rezept des Tages: Ananas Curry",
       "home": {
-        "title": "Wie viel unseres Essens wird mit dem Flugzeug transportiert?",
+        "title": "Wie viel von unserem Essen wird mit dem Flugzeug transportiert?",
         "category": 8
       },
       "pages": [
@@ -1095,7 +1095,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Wie viel Prozent aller Transportwege von Essen werden mit dem Flugzeug zurückgelegt?",
+          "title": "Wie viel % aller Transportwege unseres Essens werden mit dem Flugzeug zurückgelegt?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1110,7 +1110,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Nur ein sehr kleiner Teil unseres Essens kommt mit dem Flugzeug zu uns. Diese Lebensmittel sind meistens weich und haben eine sehr kurze Haltbarkeit, wie Beeren oder Spargel.\n\nDas bedeutet, dass ‘regional‘ essen nicht der wirksamste Tipp ist, um den Fußabdruck deines Essens zu reduzieren. Es ist viel wichtiger was du isst (Fleisch oder Gemüse) und wie es produziert wird.",
+            "text": "Nur ein sehr kleiner Teil unseres Essens kommt mit dem Flugzeug zu uns. Diese Lebensmittel sind meistens weich und haben eine sehr kurze Haltbarkeit, wie Beeren oder Spargel.\n\nDas bedeutet, dass ‘regional‘ essen nicht der wirksamste Tipp ist, um den Fußabdruck deines Essens zu reduzieren. Es ist noch viel wichtiger was du isst (Fleisch oder Gemüse) und wie es produziert ist.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/share-of-transport-methods-DE.png",
             "blogURL": "https://www.forkranger.com/the-surprising-impact-of-air-transported-food/"
           }
@@ -1165,7 +1165,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Die meisten Menschen stimmen den Fakten zu. Aber wenn du daran gewöhnt bist zu jeder Mahlzeit Fleisch zu essen, kann es schwierig sein, sich eine Alternative vorzustellen.\n\n Der beste Weg andere zu überzeugen, weniger Fleisch zu essen, ist es ihnen zu zeigen, wie lecker es sein kann. Also lad sie zu einer nachhaltigen Dinnerparty ein und schicke ihnen die Rezepte!",
+            "text": "Die meisten Menschen stimmen den Fakten zu. Aber wenn du daran gewöhnt bist, zu jeder Mahlzeit Fleisch zu essen, kann es schwierig sein, sich eine Alternative vorzustellen.\n\nDer beste Weg andere zu überzeugen, weniger Fleisch zu essen, ist es ihnen zu zeigen, wie lecker es sein kann. Also lad sie zu einer nachhaltigen Dinnerparty ein und schicke ihnen die Rezepte!",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/eating-less-meat-imagination-DE.png",
             "blogURL": "https://www.forkranger.com/how-to-convince-your-friends-to-eat-less-meat/"
           }
@@ -1200,7 +1200,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Eine Dose Bohnen hat die gleiche Menge an Protein wie…",
+          "title": "1 Dose Bohnen hat die gleiche Menge an Protein wie…",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1220,7 +1220,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Indem du Hülsenfrüchte als eine gesunde Proteinquelle zu deinen Mahlzeiten hinzufügst kannst du deinen Fußabdruck drastisch reduzieren.\n\nEs stimmt zwar das Fleisch die einfachste Möglichkeit ist viel Protein zu essen, aber wir haben auch bereits gesehen, dass wir gar nicht jeden Tag so viel Protein benötigen. ",
+            "text": "Indem du Hülsenfrüchte als eine gesunde Proteinquelle zu deinen Mahlzeiten hinzufügst kannst du deinen Fußabdruck drastisch reduzieren.\n\nEs stimmt zwar, dass Fleisch die einfachste Möglichkeit ist viel Protein zu essen, aber wir haben auch bereits gesehen, dass wir gar nicht jeden Tag so viel Protein benötigen. ",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/protein-CO2-comparison-DE.png"
           }
         },
@@ -1249,7 +1249,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Und dann den gesamten Fußabdruck all dieser Abfälle ausgerechnet."
+          "title": "Und dann den gesamten Fußabdruck all dieser Abfälle ausgerechnet"
         },
         {
           "id": 2,
@@ -1373,7 +1373,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Bei der Verschwendung von Brot geht es um unsere Einstellung: Fühlen wir uns zu gut, um Brotkruste zu essen? Oder sehen wir es als etwas wertvolles an?\n\n Um Lebensmittelverschwendung zu lösen, sollten wir uns daran erinnern, dass Lebensmittel unser allererstes Grundbedürfnis sind. Sie sind zu wertvoll, um sie wegzuwerfen, selbst wenn unser altes Brot ein bisschen hart geworden ist.",
+            "text": "Bei der Verschwendung von Brot geht es um unsere Einstellung: Fühlen wir uns zu gut, um Brotkruste zu essen? Oder sehen wir es als etwas wertvolles an?\n\nUm Lebensmittelverschwendung zu lösen, sollten wir uns daran erinnern, dass Lebensmittel unser allererstes Grundbedürfnis sind. Sie sind zu wertvoll, um sie wegzuwerfen, selbst wenn unser altes Brot ein bisschen hart geworden ist.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/reasons-for-bread-waste-DE.png",
             "blogURL": "https://www.forkranger.com/the-solution-to-food-waste-starts-with-bread/"
           }
@@ -1398,7 +1398,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Weichkäse wie Mozzarella benötigt weniger Milch als Hartkäse wie Parmesan 🧀."
+          "title": "Weichkäse (wie Mozzarella) benötigt weniger Milch als Hartkäse (wie Parmesan) 🧀."
         },
         {
           "id": 1,
@@ -1472,8 +1472,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "Die Verpackung ist der Teil vom Impact, den wir mit unseren eigenen Augen sehen. Was wir nicht sehen, ist das Wasser, das Land und die Energie, die für den Anbau der Lebensmittel aufgewendet wurden, und das hat viel größere Auswirkungen.\n\n Es ist also besser, eine Dose Tomaten oder eine Tüte Linsen zu kaufen als Zero-Waste-Fleisch.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/production-vs-logistics-DE.png",
+            "text": "Die Verpackung ist der Teil vom Impact, den wir mit unseren eigenen Augen sehen. Was wir nicht sehen, ist das Wasser, das Land und die Energie, die für den Anbau der Lebensmittel aufgewendet wurden, und das hat viel größere Auswirkungen.\n\nEs ist also besser, eine Dose Tomaten oder eine Tüte Linsen zu kaufen als Zero-Waste-Fleisch.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/production-vs-logistics-DE.png",
             "blogURL": "https://www.forkranger.com/plastic-wrapping-of-cucumbers-clever-or-careless/"
           }
         },
@@ -1502,7 +1502,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Wenn du es also trotzdem essen möchtest, was ist eine nachhaltige Menge?"
+          "title": "Wenn du es also trotzdem essen möchtest, was wäre eine nachhaltige Menge?"
         },
         {
           "id": 2,
@@ -1535,7 +1535,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 63,
-          "subtitle": "Viel rotes Fleisch wird für Fast Food verwendet, aber es geht auch schnell, eine köstliche Pita mit Pilzen zu machen."
+          "subtitle": "Für Fast Food wird viel rotes Fleisch verwendet, aber es geht auch schnell, eine köstliche Pita mit Pilzen zu machen."
         }
       ]
     },
@@ -1551,7 +1551,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Wir sehen nachhaltige Ernährung oft als ein persönliches Problem."
+          "title": "Wir sehen nachhaltige Ernährung oft als eine persönliche Herausforderung."
         },
         {
           "id": 1,
@@ -1636,7 +1636,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Die äußere Schicht (Kleie) und der Keim wurden nicht entfernt. Dadurch entsteht ein Mehl, das etwas schwerer zu kauen ist, aber auch viel mehr Nährstoffe enthält.\n\n Die Wahl von raffinierten statt Vollkornprodukten ist eine Art Lebensmittelverschwendung, weil wir wertvolle Nährstoffe verlieren.",
+            "text": "Die äußere Schicht (Kleie) und der Keim wurden nicht entfernt. Dadurch entsteht ein Mehl, das etwas schwerer zu kauen ist, aber auch viel mehr Nährstoffe enthält.\n\nDie Wahl von raffinierten statt Vollkornprodukten ist eine Art Lebensmittelverschwendung, weil wir wertvolle Nährstoffe verlieren.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/What-is-whole-grain-DE.png"
           }
         },
@@ -1690,7 +1690,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Die meisten Avocados kommen aus Mexiko, wo Wälder abgeholzt werden, um Platz für ihren Anbau zu schaffen. Sie verbrauchen auch viel Wasser, und Drogenkartelle sind jetzt auch in das Avocado-Geschäft verwickelt.\n\n Es ist ein kompliziertes Produkt. Deshalb haben wir uns ein “Avocado-Budget” von 1 pro Monat gegeben.\n",
+            "text": "Die meisten Avocados kommen aus Mexiko, wo Wälder abgeholzt werden, um Platz für ihren Anbau zu schaffen. Sie verbrauchen sehr viel Wasser, und Drogenkartelle sind jetzt auch in das Avocado-Geschäft verwickelt.\n\n Es ist ein kompliziertes Produkt. Deshalb haben wir uns ein “Avocado-Budget” von 1 pro Monat gegeben.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/avocado-land-use-2-DE.png",
             "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
           }
@@ -1762,7 +1762,7 @@
       "notificationTitle": "Heute: Kuhmuh-Weide",
       "notificationText": "Der gesamte Fußabdruck von Milch 🥛 – Rezept des Tages: Lazy Tortellini",
       "home": {
-        "title": "Der gesamte Fußabdruck von Milch",
+        "title": "Der Fußabdruck der gesamten Milch",
         "category": 7
       },
       "pages": [
@@ -1839,7 +1839,7 @@
           ],
           "answerExplanation": {
             "text": "Saisonales Essen kann im Vergleich zur nicht saisonalen Version aus einem beheizten Gewächshaus einen echten Unterschied machen.\n\nDer Standort ist weniger wichtig als die Frage, ob es Saison hat. Das liegt daran, dass der Großteil der Emissionen in der Regel durch die Produktion und nicht durch den Transport entsteht.\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/spinach-seasonal-DE.png",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/spinach-seasonal-DE.png",
             "blogURL": "https://www.forkranger.com/why-the-benefits-of-seasonal-food-cant-be-measured-in-CO₂/"
           }
         },
@@ -1873,7 +1873,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Was ist der größte Einflussfaktor auf die Klimaauswirkungen eines Schokoriegels?",
+          "title": "Was ist der größte Einflussfaktor auf den Fußabdruck eines Schokoriegels?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1893,7 +1893,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Schokolade ist ein weiteres Produkt, für das Wälder abgeholzt werden. Aber im besten Fall kann sie auch zum Schutz des Regenwaldes beitragen. Das erklärt, warum der Fußabdruck von Schokolade von -4 kg CO₂ bis zu 5 mal schlimmer als der von Rindfleisch variiert.\n\n Also ist es wichtig, nachhaltige Schokolade zu kaufen, die nicht zur weiteren Abholzung der Wälder führt. Das Minimum sollte Rainforest Alliance sein (das grüne Froschlogo).",
+            "text": "Schokolade kann zur Abholzung von Wäldern beitragen, aber im besten Fall auch den Regenwald schützen. Deshalb variiert ihr CO₂-Fußabdruck so stark – von -4 kg CO₂ bis zu fünfmal schlimmer als Rindfleisch. Es ist also wichtig, nachhaltige Schokolade zu kaufen, da sie keine Abholzung verursacht. Das Minimum sollte Rainforest Alliance sein (das grüne Froschlogo).",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/footprint-of-cacao-DE.png"
           }
         },
@@ -1922,7 +1922,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Aber wofür wird die meiste Milch verwendet? 🐄"
+          "title": "Wohin geht die meiste Milch? 🐄"
         },
         {
           "id": 2,
@@ -2192,7 +2192,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Das bedeutet, dass zu viel Stickstoff im Wasser ist, was zu Totwasserzonen führt. ☠️ Gezüchtete Muscheln sind Teil der Lösung."
+          "title": "Das bedeutet, dass zu viel Stickstoff im Wasser ist, was zu Totwasserzonen führt. ☠️ Muscheln sind Teil der Lösung."
         },
         {
           "id": 2,
@@ -2379,7 +2379,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Wann hast du das letzte Mal Grünkohl, Weißkohl oder Kohlrabi gegessen? 😉 Das Essen von saisonalen Lebensmitteln hilft uns, Gemüse mehr zu schätzen und bringt uns mehr in Kontakt mit der Natur, den Jahreszeiten und Variationen unseres regionalen Ernährungssystems.\n\n Es ist eine großartige Möglichkeit, Landwirtschaft zu unterstützen, die mehr mit der Natur verbunden ist.\n",
+            "text": "Wann hast du das letzte Mal Grünkohl, Weißkohl oder Kohlrabi gegessen? 😉 Saisonale Lebensmittel zu essen hilft uns, Gemüse mehr zu schätzen und bringt uns näher an die Natur und die Jahreszeiten. Es unterstützt auch eine naturverbundenere Landwirtschaft.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/benefits-of-seasonal-DE.png"
           }
         },
@@ -2396,7 +2396,7 @@
       "notificationTitle": "Heute: Die Große Ranch",
       "notificationText": "Der Klima Impact von einem Ei 🥚 – Rezept des Tages: Nasi Goreng",
       "home": {
-        "title": "Der Klima Impact von einem Ei",
+        "title": "Der Fußabdruck von einem Ei",
         "category": 1
       },
       "pages": [
@@ -2428,7 +2428,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Eier haben den geringsten Fußabdruck unter den gängigen tierischen Lebensmitteln. Das liegt daran, dass Hühner weniger Futter benötigen als Schweine und Kühe.\n\n Beachte, dass das Ei in dieser Infografik doppelt so schwer ist wie die anderen Lebensmittel, sodass die Auswirkungen bei gleichem Gewicht noch geringer sind.\n",
+            "text": "Eier haben den geringsten Fußabdruck unter den gängigen tierischen Lebensmitteln. Das liegt daran, dass Hühner weniger Futter benötigen als Schweine und Kühe.\n\nBeachte, dass das Ei in dieser Infografik doppelt so schwer ist wie die anderen Lebensmittel, sodass die Auswirkungen bei gleichem Gewicht noch geringer sind.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/eggs-footprint-DE.png"
           }
         },
@@ -2436,7 +2436,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 32,
-          "subtitle": "Nasi Goreng ist köstlich, wenn du es mit einem Spiegelei verfeinerst."
+          "subtitle": "Nasi Goreng ist besonders köstlich, wenn du es mit einem Spiegelei verfeinerst."
         }
       ]
     },
@@ -2712,7 +2712,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "‘Regional zu essen ist einer der häufigsten Tipps für eine nachhaltigere Ernährung 📍 Aber warum ist das so wichtig? "
+          "title": "'Regional zu essen' ist einer der häufigsten Tipps für eine nachhaltigere Ernährung 📍 Aber warum ist das so wichtig? "
         },
         {
           "id": 1,
@@ -2737,7 +2737,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Es gibt etwa 7500 Apfelsorten, aber in den meisten Supermärkten auf der ganzen Welt gibt es die gleichen Granny Smith und Golden Delicious.\n\n Es ist wichtig, eine Vielfalt von Gemüse und Obst zu unterstützen (warum werden wir in einer späteren Story sehen). Besuche also ab und zu einen Wochenmarkt, um mit der Lebensmittelkultur deiner Region in Verbindung zu bleiben.",
+            "text": "Es gibt etwa 7500 Apfelsorten, aber in den meisten Supermärkten auf der ganzen Welt gibt es die gleichen Granny Smith und Golden Delicious.\n\nEs ist wichtig, eine Vielfalt von Gemüse und Obst zu unterstützen (warum werden wir in einer späteren Story sehen). Besuche also ab und zu einen Wochenmarkt, um mit der Lebensmittelkultur deiner Region in Verbindung zu bleiben.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/apple-varieties-DE.png"
           }
         },
@@ -2835,7 +2835,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Joghurt wird durch die Zugabe spezieller Bakterien hergestellt. Die Bakterien fressen den Zucker und dicken die Milch ein. Durch diesen Prozess kann man aus 1 Liter Milch 1 Liter Joghurt gewinnen.\n\n Deshalb hat Joghurt einen viel geringeren Fußabdruck als Sahne, Käse oder Butter, für die viel mehr Milch benötigt wird. Generell kann man sagen, je mehr Fett ein Produkt enthält, desto mehr Milch wurde für die Herstellung verwendet.",
+            "text": "Joghurt wird durch die Zugabe spezieller Bakterien hergestellt. Die Bakterien fressen den Zucker und dicken die Milch ein. Durch diesen Prozess kann man aus 1 Liter Milch 1 Liter Joghurt gewinnen.\n\nDeshalb hat Joghurt einen viel geringeren Fußabdruck als Sahne, Käse oder Butter, für die viel mehr Milch benötigt wird. Generell kann man sagen, je mehr Fett ein Produkt enthält, desto mehr Milch wurde für die Herstellung verwendet.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/milk-for-dairy-products-DE.png"
           }
         },
@@ -3112,7 +3112,7 @@
       "notificationTitle": "Heute: Der Hafen",
       "notificationText": "Der Fußabdruck von Tomaten im Winter 🍅 – Rezept des Tages: Tajine mit Kichererbsen und Pfirsichen",
       "home": {
-        "title": "Der Fußabdruck von Tomaten im Winter",
+        "title": "Der Fußabdruck von 'Wintertomaten'",
         "category": 8
       },
       "pages": [
@@ -3149,7 +3149,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Natürlich sind saisonale Produkte die beste Wahl. Aber in den Wintermonaten sind auch Konserven eine gute Option. Dosentomaten werden im Sommer geerntet. In der Dose bleiben sie frisch und sind oft schmackhafter als Tomaten aus dem Gewächshaus.\n\n Bei all diesen Optionen kann man leicht in Entscheidungsstress geraten. Doch denk daran: Weniger tierische Produkte zu essen ist wichtiger als die nachhaltigsten Tomaten zu kaufen.",
+            "text": "Natürlich sind saisonale Produkte die beste Wahl. Aber in den Wintermonaten sind auch Konserven eine gute Option. Dosentomaten werden im Sommer geerntet. In der Dose bleiben sie frisch und sind oft schmackhafter als Tomaten aus dem Gewächshaus.\n\nBei all diesen Optionen kann man leicht in Entscheidungsstress geraten. Doch denk daran: Weniger tierische Produkte zu essen ist wichtiger als die nachhaltigsten Tomaten zu kaufen.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/tomatoes-heated-greenhouse-DE.png"
           }
         },
@@ -3198,7 +3198,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Stickstoff ist ein wesentlicher Baustein für Pflanzen. Anstatt Stickstoff zu verbrauchen, führen Hülsenfrüchte dem Boden Stickstoff zu. Dies geschieht durch eine “Partnerschaft” mit Bakterien, die gerne um ihre Wurzeln herum leben.\n\n Das bedeutet, dass Landwirte Hülsenfrüchte anstelle von Stickstoffdünger verwenden können, was Emissionen spart und viele andere Vorteile hat",
+            "text": "Stickstoff ist ein wesentlicher Baustein für Pflanzen. Anstatt Stickstoff zu verbrauchen, führen Hülsenfrüchte dem Boden Stickstoff zu. Dies geschieht durch eine “Partnerschaft” mit Bakterien, die gerne um ihre Wurzeln herum leben.\n\nDas bedeutet, dass Landwirte Hülsenfrüchte anstelle von Stickstoffdünger verwenden können, was Emissionen spart und viele andere Vorteile hat",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/nitrogen-fixing-DE.png"
           }
         },
@@ -3306,15 +3306,15 @@
             }
           ],
           "answerExplanation": {
-            "text": "Industrial agriculture is all about output: getting more food from the land, by any means necessary. This made food production very efficient but it’s also destroying the soil we depend on.\n\nOrganic agriculture is about keeping a balance between healthy soil and food production. That’s why it uses crop rotations, manure, and compost. In der industriellen Landwirtschaft dreht sich alles um den Ertrag: Es geht darum, mit allen Mitteln mehr Lebensmittel aus dem Boden zu holen. Dadurch wurde die Herstellung von Nahrungsmitteln sehr effizient, aber sie zerstört auch den Boden, von dem wir abhängig sind.\n\n Bei der ökologischen Landwirtschaft geht es darum, ein Gleichgewicht zwischen gesundem Boden und Nahrungsmittelherstellung zu wahren. Deshalb werden Fruchtfolgen, Dünger und Kompost eingesetzt.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/definition-of-organic-DE.png"
+            "text": "In der industriellen Landwirtschaft dreht sich alles um den Ertrag: Es geht darum, mit allen Mitteln mehr Lebensmittel aus dem Boden zu holen. Dadurch wurde die Herstellung von Nahrungsmitteln sehr effizient, aber sie zerstört auch den Boden, von dem wir abhängig sind.\n\n Bei der ökologischen Landwirtschaft geht es darum, ein Gleichgewicht zwischen gesundem Boden und Nahrungsmittelherstellung zu wahren. Deshalb werden Fruchtfolgen, Dünger und Kompost eingesetzt.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/definition-of-organic-DE.png"
           }
         },
         {
           "id": 3,
           "type": "recipe",
           "recipeID": 86,
-          "subtitle": "A recipe with apples, one of the products it’s easy to buy the organic version. Ein Rezept mit Äpfeln, eines der Produkte, bei denen es einfach ist, die Bio-Version zu kaufen."
+          "subtitle": "Ein Rezept mit Äpfeln, eines der Produkte, bei denen es einfach ist, die Bio-Version zu kaufen."
         }
       ]
     },
@@ -3399,7 +3399,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": " Essen hat das meiste Protein?💪",
+          "title": "Welches Essen hat das meiste Protein?💪",
           "subtitle": "pro 100 g",
           "answerOptions": [
             {
@@ -3577,7 +3577,7 @@
           ],
           "answerExplanation": {
             "text": "Mit 250 ml Sojasahne zu kochen gleicht den Fußabdruck von 400 g Pasta aus! Das ist mehr als wir dachten.\n\nWenn du keine Sojasahne in deinem Laden um die Ecke findest, hab kein schlechtes Gewissen. Aber alle die ihr bestes geben wollen, der Schritt mit pflanzlicher Sahne zu kochen lohnt sich.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/dairy-vs-soy-cream-DE.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/dairy-vs-soy-cream-DE.png"
           }
         },
         {
@@ -3605,7 +3605,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Das meiste Palmöl wird zwar zum Kochen in Asien verwendet, aber Europe importiert ebenfalls 20% des weltweiten Palmöls"
+          "title": "Das meiste Palmöl wird zwar zum Kochen in Asien verwendet, aber Europa importiert ebenfalls 20% des weltweiten Palmöls"
         },
         {
           "id": 2,
@@ -3630,7 +3630,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Der Großteil des Palmöls in der EU wird als Biokraftstoff verwendet. Die gute Nachricht ist, das läuft im Jahr 2030 aus. Unklar ist jedoch immer noch durch was es ersetzt wird.\n\nHier ziehen wir einen Schluss, der nichts mit Essen zu tun hat: Benutz dein Fahrrad oder den öffentlichen Verkehr mehr als Autos.",
+            "text": "Der Großteil des Palmöls in der EU wird als Biokraftstoff verwendet. Die gute Nachricht ist, das läuft im Jahr 2030 aus. Unklar ist jedoch immer noch, wodurch es ersetzt wird.\n\nHier ziehen wir einen Schluss, der nichts mit Essen zu tun hat: Benutz dein Fahrrad oder öffentlichen Verkehrsmittel mehr als Autos.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/palm_oil_in_europe-DE.png"
           }
         },
@@ -3856,7 +3856,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Peanuts and walnuts use the least water. But it’s true that especially almonds, cashews, and pistachios are very thirsty plants. This is a problem in dry areas.\n\nAt the same time, nuts score MUCH better than meat on all other environmental issues. That means they are still a good source of protein in the transition to a more sustainable food system.\n Erdnüsse und Walnüsse haben den geringsten Wasserverbrauch. Aber es stimmt, dass insbesondere Mandeln, Cashews und Pistazien sehr “durstige” Pflanzen sind. Das ist in trockenen Gebieten ein Problem.\n\nGleichzeitig schneiden Nüsse in allen anderen Umweltfragen VIEL besser ab als Fleisch. Das bedeutet, dass sie immer noch eine gute Proteinquelle für den Umstieg auf ein nachhaltigeres Ernährungssystem sind.\n",
+            "text": "Erdnüsse und Walnüsse haben den geringsten Wasserverbrauch. Aber es stimmt, dass insbesondere Mandeln, Cashews und Pistazien sehr “durstige” Pflanzen sind. Das ist in trockenen Gebieten ein Problem.\n\nGleichzeitig schneiden Nüsse in allen anderen Umweltfragen VIEL besser ab als Fleisch. Das bedeutet, dass sie immer noch eine gute Proteinquelle für den Umstieg auf ein nachhaltigeres Ernährungssystem sind.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/nuts-vs-pork-DE.png"
           }
         },
@@ -3905,7 +3905,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "As we discovered before, food miles have a much lower footprint than people think. But there is one case where every mile matters: when you’re driving yourself! Because that’s a lot of emissions and traffic for only one delivery, compared to a truck full of veggie boxes.\n\nAt Fork Ranger, we don’t believe that everything should be delivered 24/7. More convenience is not the solution to a sustainable world. But if the alternative is driving a car, delivery is usually the better option.\n Wie wir bereits entdeckt haben, ist der Fußabdruck von “Lebensmittelmeilen” viel geringer, als du denkst. Aber es gibt einen Fall, in dem jede Meile zählt: wenn du selbst fährst! Denn das sind eine Menge Emissionen und Verkehr für nur eine Lieferung, verglichen mit einem Lieferwagen voller Gemüsekisten.\n\nWir bei Fork Ranger glauben nicht, dass alles rund um die Uhr geliefert werden sollte. Mehr Bequemlichkeit ist nicht die Lösung für eine nachhaltige Welt. Aber in dem Fall ist Lieferung meist die bessere Option, als selbst mit dem Auto zu fahren.\n",
+            "text": "Wie wir bereits entdeckt haben, ist der Fußabdruck von “Lebensmittelmeilen” viel geringer, als du denkst. Aber es gibt einen Fall, in dem jeder Kilometer zählt: wenn du selbst fährst! Denn das sind eine Menge Emissionen und Verkehr für nur eine Lieferung, verglichen mit einem Lieferwagen voller Gemüsekisten.\n\nWir bei Fork Ranger glauben nicht, dass alles rund um die Uhr geliefert werden sollte. Mehr Bequemlichkeit ist nicht die Lösung für eine nachhaltige Welt. Aber in dem Fall ist Lieferung meist die bessere Option, als selbst mit dem Auto zu fahren.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/driving_local_food-DE.png"
           }
         },
@@ -3934,7 +3934,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "EAT-Lancet-Bericht wurde berechnet, wie eine gesunde und nachhaltige Ernährung aussehen sollte. Insgesamt geht es darum, viel Gemüse, Hülsenfrüchte und Nüsse zu essen 🥦🥜"
+          "title": "Im EAT-Lancet-Bericht wurde berechnet, wie eine gesunde und nachhaltige Ernährung aussehen sollte. Insgesamt geht es darum, viel Gemüse, Hülsenfrüchte und Nüsse zu essen 🥦🥜"
         },
         {
           "id": 2,
@@ -3964,7 +3964,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Wenn du dich nach der EAT-Lancet-Ernährung richtest, sollte dein Vitamin-B12-Haushalt ausreichend gedeckt sein. Viele pflanzliche Fleisch- und Milchalternativen enthalten ebenfalls B12.\n\n Wenn du weniger Fleisch und Milchprodukte isst, solltest du auf Vitamin B12 achten und eventuell eine Ergänzung nehmen.\n",
+            "text": "Wenn du dich nach der EAT-Lancet-Ernährung richtest, sollte dein Vitamin-B12-Haushalt ausreichend gedeckt sein. Viele pflanzliche Fleisch- und Milchalternativen enthalten ebenfalls B12.\n\nWenn du weniger Fleisch und Milchprodukte isst, solltest du auf Vitamin B12 achten und eventuell eine Ergänzung nehmen.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/B12_per_week-DE.png"
           }
         },
@@ -4023,7 +4023,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Es ist verwirrend und frustrierend als Verbraucher das Verpackungs-Dilemma zu lösen. Die Lösung für die Zukunft besteht darin, sich von Einwegverpackungen zu verabschieden: d.h. Flaschen wiederverwenden und eigene Taschen und Dosen mitnehmen. Aber so zu leben ist in unserer heutigen Welt fast unmöglich.\n\n Daher lautet unser Rat, Verpackungen zu vermeiden, wo immer es geht. Nicht um 100 % Zero Waste zu werden, sondern um sich die Bequemlichkeit von Einwegverpackungen abzugewöhnen. Beginne mit Brot: Wir kaufen es regelmäßig und in vielen Supermärkten ist es möglich, es in eine wiederverwendbare Tüte zu packen.\n",
+            "text": "Es ist verwirrend und frustrierend als Verbraucher das Verpackungs-Dilemma zu lösen. Die Lösung für die Zukunft besteht darin, sich von Einwegverpackungen zu verabschieden: d.h. Flaschen wiederverwenden und eigene Taschen und Dosen mitnehmen. Aber so zu leben ist in unserer heutigen Welt fast unmöglich.\n\nDaher lautet unser Rat, Verpackungen zu vermeiden, wo immer es geht. Nicht um 100 % Zero Waste zu werden, sondern um sich die Bequemlichkeit von Einwegverpackungen abzugewöhnen. Beginne mit Brot: Wir kaufen es regelmäßig und in vielen Supermärkten ist es möglich, es in eine wiederverwendbare Tüte zu packen.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/pros-and-cons-of-packaging-DE.png"
           }
         },
@@ -4073,7 +4073,7 @@
           ],
           "answerExplanation": {
             "text": "Lachs enthält bei weitem das meiste B12 und hat auch einen geringeren Fußabdruck als Milchprodukte und Fleisch.\n\nEier und Milchprodukte haben ebenfalls einen relativ hohen B12-Gehalt bei einem geringen Fußabdruck. Rindfleisch hat noch mehr B12, aber auch einen viel größeren Fußabdruck. Schweinefleisch enthält nur sehr wenig B12.\n\nGut zu wissen: Viele pflanzliche Fleisch- und Milchalternativen enthalten ebenfalls B12.\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/B12_in_co2-DE.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/B12_in_co2-DE.png"
           }
         },
         {
@@ -4101,7 +4101,7 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Aber es gibt auch Wege, wie Fleisch nachhaltig sein kann. Das werden wir auf dem Hof mit Hoffnung erkunden."
+          "title": "Aber es gibt auch Wege, wie Fleisch nachhaltig sein kann. Das werden wir auf dem 'Hof mit Hoffnung' erkunden."
         },
         {
           "id": 2,
@@ -4126,7 +4126,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Bei der Lebensmittelverarbeitung fallen viele Nebenprodukte an. Bei der Herstellung von Sonnenblumenöl zum Beispiel bleibt ein trockener “Kuchen” übrig, den wir nicht essen können, der aber ein nahrhaftes Futtermittel für Tiere ist.\n\n Eine weitere wichtige Rolle, die vor allem Schweine spielen können, ist das Fressen von Lebensmittelabfällen (obwohl es immer effektiver ist, übrig gebliebene Lebensmittel zuerst selbst zu essen).\n",
+            "text": "Bei der Lebensmittelverarbeitung fallen viele Nebenprodukte an. Bei der Herstellung von Sonnenblumenöl zum Beispiel bleibt ein trockener “Kuchen” übrig, den wir nicht essen können, der aber ein nahrhaftes Futtermittel für Tiere ist.\n\nEine weitere wichtige Rolle, die vor allem Schweine spielen können, ist das Fressen von Lebensmittelabfällen (obwohl es immer effektiver ist, übrig gebliebene Lebensmittel zuerst selbst zu essen).\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/sustainable-animal-feed-DE.png"
           }
         },
@@ -4342,7 +4342,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Meat from dairy cows has a lower footprint, but you can’t get the luxury cuts like a steak. We’re often cherry-picking the best cuts of meat which only come from beef cows. If we want to have more sustainable meat, we also need to eat the other parts, for example sausage, minced meat, and chewy meats.\n\nIf you still want to eat beef, go to a butcher and ask for meat from ‘dual purpose’ cows. These are breeds of cows that give both high-quality milk and beef. They are healthier cows but also rare, because they are seen as less productive. Fleisch von Milchkühen hat einen geringeren Fußabdruck, aber man bekommt keine besonderen Stücke wie ein Steak. Wir picken uns oft die besten Fleischstücke raus, die nur von Mastrindern stammen. Wenn wir nachhaltigeres Fleisch haben wollen, sollten wir auch die anderen Teile essen, z. B. Wurst, Hackfleisch und zähes Fleisch.\n\nWenn du trotzdem Rindfleisch essen möchtest, geh zu einem Metzger und frag nach Fleisch von „Zweinutzungskühen“. Das sind Kuhrassen, die sowohl hochwertige Milch als auch Rindfleisch liefern. Sie sind gesünder, aber auch seltener, da sie als “weniger produktiv” gelten.",
+            "text": "Fleisch von Milchkühen hat einen geringeren Fußabdruck, aber man bekommt keine besonderen Stücke wie ein Steak. Wir picken uns oft die besten Fleischstücke raus, die nur von Mastrindern stammen. Wenn wir nachhaltigeres Fleisch haben wollen, sollten wir auch die anderen Teile essen, z. B. Wurst, Hackfleisch und zähes Fleisch.\n\nWenn du trotzdem Rindfleisch essen möchtest, geh zu einem Metzger und frag nach Fleisch von „Zweinutzungskühen“. Das sind Kuhrassen, die sowohl hochwertige Milch als auch Rindfleisch liefern. Sie sind gesünder, aber auch seltener, da sie als “weniger produktiv” gelten.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/double_purpose_cows-DE.png"
           }
         },
@@ -4386,7 +4386,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Momentan sind die eingesparten Emissionen beim Kochen sehr gering, weil der meiste Strom mit fossilen Brennstoffen erzeugt wird. Aber selbst wenn der Strom aus erneuerbaren Quellen stammt, ist es noch wichtiger, darauf zu achten, was wir essen. Die durchschnittliche Ernährung in der EU hat einen Fußabdruck von etwa 1070 kg CO₂e pro Person.",
+            "text": "Momentan sind die eingesparten Emissionen beim Kochen sehr gering, weil der meiste Strom mit fossilen Brennstoffen erzeugt wird. Aber selbst wenn der Strom aus erneuerbaren Quellen stammt, ist es noch wichtiger, darauf zu achten, was wir essen. Die durchschnittliche niederländische Ernährung hat einen Fußabdruck von etwa 1300 kg CO₂e pro Person.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/induction_vs_gas-DE.png"
           }
         },
@@ -4504,7 +4504,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Der Fußabdruck eines Getränks hängt von unseren Gewohnheiten ab: Die Emissionen von Milch und Kaffee können sich summieren, wenn du sie jeden Tag trinkst. Dann kann ein reduzierter Kaffeekonsum oder ein Umstieg auf pflanzliche Milch einen Unterschied machen.\n\nEs gibt viele Gründe, weniger Alkohol zu trinken, aber der Fußabdruck eines gelegentlichen Biers ist relativ gering. Die Snacks nach einer Ausgehnacht haben wahrscheinlich eine größere Auswirkung: Ein Hähnchenburger hat denselben Fußabdruck wie 7 Biere. 🍻 (47 im Falle vom Rinderburger)\nn",
+            "text": "Der Fußabdruck eines Getränks hängt von unseren Gewohnheiten ab: Die Emissionen von Milch und Kaffee können sich summieren, wenn du sie jeden Tag trinkst. Dann kann ein reduzierter Kaffeekonsum oder der Umstieg auf pflanzliche Milch einen Unterschied machen.\n\nEs gibt viele Gründe, weniger Alkohol zu trinken, aber der Fußabdruck eines gelegentlichen Biers ist relativ gering. Die Snacks nach einer Ausgehnacht haben wahrscheinlich eine größere Auswirkung: Ein Chickenburger hat denselben Fußabdruck wie 7 Biere. 🍻 (47 im Falle vom Rinderburger)\nn",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/drinks-DE.png"
           }
         },
@@ -4558,7 +4558,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Kühe, die nur Gras fressen, sind gesünder, aber sie wachsen auch langsamer. Man braucht also mehr Kühe für die gleiche Menge Fleisch. Und das erfordert zusätzliche Flächen und verursacht zusätzliche Methanemissionen.\n\nFleisch hat einen großen Fußabdruck, weil: 1. Kühe Methan rülpsen 2. Kühe viel Futter brauchen. Ob dieses Futter nun Getreide oder Gras ist, ändert nichts an der Tatsache, dass dafür viel Land benötigt wird, was viel CO₂ verursacht.\n\n Weidehaltung von Kühen hat noch weitere Vorteile, aber nicht für das Klima: Kühe können zwar dazu beitragen, dass Grasland Kohlenstoff speichert, aber das gleicht die zusätzlichen Emissionen nicht aus.\n",
+            "text": "Kühe, die nur Gras fressen, sind gesünder, aber sie wachsen auch langsamer. Man braucht also mehr Kühe für die gleiche Menge Fleisch. Und das erfordert zusätzliche Flächen und verursacht zusätzliche Methanemissionen.\n\nFleisch hat einen großen Fußabdruck, weil: 1. Kühe Methan rülpsen 2. Kühe viel Futter brauchen. Ob dieses Futter nun Getreide oder Gras ist, ändert nichts an der Tatsache, dass dafür viel Land benötigt wird, was viel CO₂ verursacht.\n\nWeidehaltung von Kühen hat noch weitere Vorteile, aber nicht für das Klima: Kühe können zwar dazu beitragen, dass Grasland Kohlenstoff speichert, aber das gleicht die zusätzlichen Emissionen nicht aus.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/grassfed-beef-DE.png"
           }
         },
@@ -4661,7 +4661,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Wir haben so viele Honigbienen, weil wir sie als “Honigfarmen” nutzen. Honigbienen sind zwar sehr gut im Sammeln von Pollen für Honig, aber sie halten nicht bei anderen Blumen und bestäuben sie. Und wenn es zu viele Bienenstöcke in einem Gebiet gibt, fehlt Nahrung für andere Bestäuber.\n\n Der Verzehr von Honig hilft also den (bestäubenden) Insekten nicht. Um die Artenvielfalt zu erhöhen, kannst du stattdessen mehr Bioprodukte essen und einheimische Pflanzen in deinem Garten anpflanzen.\n",
+            "text": "Wir haben so viele Honigbienen, weil wir sie als “Honigfarmen” nutzen. Honigbienen sind zwar sehr gut im Sammeln von Pollen für Honig, aber sie halten nicht bei anderen Blumen und bestäuben sie. Und wenn es zu viele Bienenstöcke in einem Gebiet gibt, fehlt Nahrung für andere Bestäuber.\n\nDer Verzehr von Honig hilft also den (bestäubenden) Insekten nicht. Um die Artenvielfalt zu erhöhen, kannst du stattdessen mehr Bioprodukte essen und einheimische Pflanzen in deinem Garten anpflanzen.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/honey_bees_DE.png"
           }
         },
@@ -4720,7 +4720,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Es stimmt nicht, dass man alle 20 Aminosäuren nur aus Fleisch bekommen kann. Es ist auch nicht wahr, dass man die richtigen Kombinationen in einer Mahlzeit essen muss (z.B. Reis und Bohnen). Alles, was du brauchst ist, innerhalb von 24 Stunden eine Vielzahl von Lebensmitteln zu essen.\n\n Mit anderen Worten: Du brauchst dir keine Sorgen um “vollständige” Proteine zu machen.\n",
+            "text": "Es stimmt nicht, dass man alle 20 Aminosäuren nur aus Fleisch bekommen kann. Es ist auch nicht wahr, dass man die richtigen Kombinationen in einer Mahlzeit essen muss (z.B. Reis und Bohnen). Alles, was du brauchst ist, innerhalb von 24 Stunden eine Vielzahl von Lebensmitteln zu essen.\n\nMit anderen Worten: Du brauchst dir keine Sorgen um “vollständige” Proteine zu machen.\n",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/complete-protein-DE.png"
           }
         },
@@ -4770,7 +4770,7 @@
           ],
           "answerExplanation": {
             "text": "Viele Landwirte auf der ganzen Welt sind Kleinbauern und haben keine Verhandlungsmacht gegenüber großen Unternehmen. Deshalb ist der Fairtrade-Mindestpreis eine wichtige Struktur.\n\nFairtrade beinhaltet auch eine Prämie. Das ist ein zusätzlicher Geldbetrag, der in einen Fonds fließt. Die Landwirte und Arbeiter können selbst entscheiden, wofür sie das Geld ausgeben. Sie verwenden es oft für Wohnraum, Bildung oder die Verbesserung des Betriebs.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/how-fairtrade-works-DE.png"
+            "imageURL": "hhttps://www.forkranger.com/wp-content/uploads/2024/07/how-fairtrade-works-DE.png"
           }
         },
         {
@@ -4813,12 +4813,12 @@
             },
             {
               "id": 1,
-              "title": "Deckel aufsetzen",
+              "title": "Deckel drauf",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Herunterschalten der Hitze, nachdem das Wasser kocht und die Nudeln hinzugefügt wurden",
+              "title": "Hitze verringern, sobald das Wasser kocht und die Nudeln im Topf sind",
               "correct": true
             }
           ],
@@ -4840,39 +4840,39 @@
       "notificationTitle": "Heute: Der Ozean",
       "notificationText": "Veggies from the Ocean 🌊 - Recipe of the day: Mushroom Ginger Noodle Soup Gemüse aus dem Meer 🌊 - Rezept des Tages: Nudelsuppe mit Pilzen",
       "home": {
-        "title": "Veggies from the Ocean Gemüse aus dem Meer",
+        "title": "Gemüse aus dem Meer",
         "category": 11
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "The majority of our food comes from land but we also get some food from the Ocean. Mostly by hunting or farming fish 🐟Der größte Teil unserer Nahrung stammt vom Land, aber wir beziehen auch einige Nahrungsmittel aus dem Meer. Meistens durch Jagd oder Fischzucht 🐟"
+          "title": "Der größte Teil unserer Nahrung stammt vom Land, aber wir beziehen auch einige Nahrungsmittel aus dem Meer. Meistens durch Jagd oder Fischzucht 🐟"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "We already saw that farming mussels is much more sustainable but there is another way to farm the oceans: seaweed! 🌊 Wir wissen bereits, dass die Muschelzucht viel nachhaltiger ist, aber es gibt noch eine andere Möglichkeit, die Meere zu nutzen: Algen! 🌊"
+          "title": "Wir wissen bereits, dass die Muschelzucht viel nachhaltiger ist, aber es gibt noch eine andere Möglichkeit, die Meere zu nutzen: Algen! 🌊"
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "question",
-          "title": "What is a benefit of seaweed? Was ist ein Vorteil von Algen?",
+          "title": "Was ist ein Vorteil von Algen?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Easy storage without food waste 📦 Einfache Lagerung ohne Lebensmittelabfälle 📦",
+              "title": "Einfache Lagerung ohne Lebensmittelabfälle 📦",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Doesn't need sunlight ☀️ Brauchen kein Sonnenlicht ☀️",
+              "title": "Brauchen kein Sonnenlicht ☀️",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Doesn't need fertilizer ⚡️ Brauchen keinen Dünger⚡",
+              "title": "Brauchen keinen Dünger⚡",
               "correct": false
             }
           ],
@@ -4882,10 +4882,10 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 64,
-          "subtitle": "You could add some sheets of Nori seaweed to this dish (often used for sushi). Du kannst diesem Gericht auch einige Blätter Nori-Algen hinzufügen (werden oft für Sushi verwendet)."
+          "subtitle": "Du kannst diesem Gericht auch einige Blätter Nori-Algen hinzufügen (werden oft für Sushi verwendet)."
         }
       ]
     },
@@ -5089,7 +5089,7 @@
           ],
           "answerExplanation": {
             "text": "Im Zentrum von regenerativer Landwirtschaft steht die Verbesserung des Bodens. Das wird oft dadurch erreicht, dass man auf ‘Inputs’ wie chemische Düngemittel oder Pestizide verzichtet, Nutztiere in das System einbezieht und das Land nicht bearbeitet.\n\nAm einfachsten unterstützt man die regenerative Landwirtschaft durch den Kauf von Bioprodukten, da es viele Überschneidungen zwischen diesen beiden Konzepten gibt.\n",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/what-is-regen-ag-DE.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/what-is-regen-ag-DE.png"
           }
         },
         {
@@ -5481,7 +5481,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Ein Espresso hat den geringsten ökologischen Fußabdruck, aber es sind auch nur 40 ml. Die French Press hat ebenfalls einen geringen Fußabdruck, da sie nicht viel Strom verbraucht und keinen Abfall verursacht (sie enthält auch das meiste Koffein). Noch wichtiger als die Art der Kaffeezubereitung ist aber der Kaffee, den du kaufst: Der Espresso hätte einen viel größeren Klima Impact, wenn wir die durchschnittlichen Zahlen aus einer großen Studie verwenden würden, die mehrere Kaffeesorten untersucht hat. Der nachhaltigste Kaffee stammt aus der Agroforstwirtschaft (siehe die Infografik in „Schwindender Wald“).",
+            "text": "Ein Espresso hat den geringsten ökologischen Fußabdruck, aber es sind auch nur 40 ml. Die French Press hat ebenfalls einen geringen Fußabdruck, da sie nicht viel Strom verbraucht und keinen Abfall verursacht (sie enthält auch das meiste Koffein).\n\nNoch wichtiger als die Art der Kaffeezubereitung ist aber der Kaffee, den du kaufst: Der Espresso hätte einen viel größeren Klima Impact, wenn wir die durchschnittlichen Zahlen aus einer großen Studie verwenden würden, die mehrere Kaffeesorten untersucht hat. Der nachhaltigste Kaffee stammt aus der Agroforstwirtschaft (siehe die Infografik in „Schwindender Wald“).",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/coffee_machines-DE.png"
           }
         },

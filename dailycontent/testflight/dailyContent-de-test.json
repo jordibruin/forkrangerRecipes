@@ -11,12 +11,12 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Willkommen auf der Großen Ranch! Lass uns die Auswirkungen von Fleisch erkunden und herausfinden, was du tun kannst. "
+          "title": "Willkommen auf der Großen Ranch! Lasst uns herausfinden, welche Auswirkungen Fleisch hat und was du tun kannst. "
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Es gibt einen kleinen Schritt, den jeder von uns gehen kann, um sofort den eigenen Fußabdruck zu reduzieren"
+          "title": "Es gibt einen kleinen Schritt, den jeder von uns gehen kann, um den eigenen Fußabdruck sofort zu reduzieren."
         },
         {
           "id": 2,
@@ -56,21 +56,21 @@
     {
       "id": 2,
       "notificationTitle": "Heute: Tal der Kraft",
-      "notificationText": "Was ist der Effekt von Nüssen auf das Klima? 🥜 – Rezept des Tages: Tagliatelle mit Champignons in Weißweinsauce",
+      "notificationText": "Welchen Effekt haben Nüsse auf das Klima? 🥜 – Rezept des Tages: Tagliatelle mit Champignons in Weißweinsauce",
       "home": {
-        "title": "Was ist der Effekt von Nüssen auf das Klima?",
+        "title": "Welchen Effekt haben Nüsse auf das Klima?",
         "category": 2
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Im Reich der Pflanzen haben Nüsse den höchsten Proteingehalt 💪, "
+          "title": "Im Reich der Pflanzen haben Nüsse den höchsten Proteingehalt 💪 "
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Also können Nüsse eine gute Alternative zu Fleisch sein. Aber was ist eigentlich mit ihrem CO₂-Fußabdruck?"
+          "title": "Nüsse können also eine gute Alternative zu Fleisch sein. Aber was ist eigentlich mit ihrem CO₂-Fußabdruck?"
         },
         {
           "id": 2,
@@ -108,7 +108,7 @@
       "notificationTitle": "Heute: Die Große Ranch",
       "notificationText": "Warum hat Essen einen großen Fußabdruck?🤔 Rezept des Tages: Auberginen Wraps mit Minze",
       "home": {
-        "title": "Warum hat Essen so einen großen Fußabdruck",
+        "title": "Warum hat Essen so einen großen Fußabdruck?",
         "category": 1
       },
       "pages": [
@@ -157,7 +157,7 @@
       "notificationTitle": "Heute: Schwindender Wald",
       "notificationText": "Kennst du die Hauptursache für die Abholzung der Wälder?🪓Rezept des Tages: Grüne Zitronenspaghetti",
       "home": {
-        "title": "Was ist die Hauptursache für die Abholzung der Wälder?",
+        "title": "Was ist der Hauptgrund für die Abholzung von Wälder?",
         "category": 3
       },
       "pages": [
@@ -174,7 +174,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Was ist die Hauptursache für die Abholzung von Wäldern?",
+          "title": "Was ist der Hauptgrund für die Abholzung von Wäldern?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -254,7 +254,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Hülsenfrüchte sind kleine Trockenfrüchte, die wir als Kichererbsen, Linsen, Erbsen oder Bohnen kennen. Genau wie Nüsse haben sie viel Protein und einen geringen Fußabdruck. Aber Hülsenfrüchte haben noch mehr Vorteile für die Umwelt, denn sie brauchen sehr wenig Wasser.\n",
+            "text": "Hülsenfrüchte sind kleine Trockenfrüchte, die wir als Kichererbsen, Linsen, Erbsen oder Bohnen kennen. Genau wie Nüsse haben sie viel Protein und einen geringen Fußabdruck. Aber Hülsenfrüchte haben noch mehr Vorteile für die Umwelt, denn sie brauchen sehr wenig Wasser.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/climate-superfood-legumes-DE.png"
           }
         },
@@ -278,17 +278,17 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Verantwortungsvolle Entscheidungen bei Lebensmitteln zu treffen, kann angesichts der vielen verwirrenden Informationen sehr schwierig sein 😵‍💫"
+          "title": "Es ist oft schwierig, bewusste Essensentscheidungen zu treffen, weil es so viele verwirrende Informationen gibt 😵‍💫"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Es ist also wichtig, das Gesamtbild im Auge zu behalten."
+          "title": "Wichtig ist, das Gesamtbild im Auge zu behalten."
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Was spart mehr Emissionen?",
+          "title": "Was spart wohl mehr Emissionen?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -308,7 +308,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Wenn du eine andere Person dazu inspirierst, Rindfleisch durch Hühnchen zu ersetzen, macht das einen viel größeren Unterschied, als wenn du allein versuchst, perfekte Entscheidungen zu treffen.\n\nEssen ist gesellig. Und die Lösung für ein nachhaltiges Lebensmittelsystem kann auch nur in Gemeinschaft gestaltet werden! Teile also ein Rezept oder eine Infografik und vor allem lasst uns mehr nachhaltige Dinnerpartys feiern.",
+            "text": "Wenn du eine andere Person dazu inspirierst, Rindfleisch durch Hühnchen zu ersetzen, macht das einen viel größeren Unterschied, als wenn du allein versuchst, perfekte Entscheidungen zu treffen.\n\nEssen ist Geselligkeit. Und die Lösung für ein nachhaltiges Ernährungssystem kann auch nur in Gemeinschaft gestaltet werden! Teile also ein Rezept oder eine Infografik mit anderen Menschen, und vor allem lasst uns mehr nachhaltige Dinnerpartys feiern.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/1-vegan-vs-3-replacing-beef-DE.png",
             "blogURL": "https://www.forkranger.com/how-to-convince-your-friends-to-eat-less-meat/"
           }
@@ -418,7 +418,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Alle Kühe sind schwerer als alle Menschen und wilde Säugetiere zusammen! Sie sind auch schwerer als alle anderen Nutztiere zusammen (Schweine, Hühner, Schafe, Ziegen, Pferde).\n\n Man könnte sagen, dass wir auf dem Planet der Kühe leben...",
+            "text": "Alle Kühe sind schwerer als alle Menschen und wilde Säugetiere zusammen! Sie sind auch schwerer als alle anderen Nutztiere zusammen (Schweine, Hühner, Schafe, Ziegen, Pferde).\n\nMan könnte sagen, dass wir auf dem Planet der Kühe leben...",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/weight-of-all-mammals-DE.png"
           }
         },
@@ -467,7 +467,7 @@
             },
             {
               "id": 2,
-              "title": "´Mehrmal in der Woche",
+              "title": "´Mehrmals in der Woche",
               "correct": false
             }
           ],

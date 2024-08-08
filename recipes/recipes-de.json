@@ -1695,7 +1695,7 @@
           "time": 5
         },
         {
-          "title": " Zucchini, Tomaten, Oregano und Balsamico-Essig hinzufügen",
+          "title": "Zucchini, Tomaten, Oregano und Balsamico-Essig hinzufügen",
           "detail": "alles köcheln lassen, mit Salz und Pfeffer würzen",
           "panType": "fryingPan1",
           "emoji": "🧄",
@@ -1942,7 +1942,7 @@
       "prepSteps": [
         "Backofen auf 200°C vorheizen (falls möglich, bei Umluft auf 175°C)",
         "Zwiebeln würfeln und Knoblauch fein hacken",
-        "Cut away the fennel stalks and cut like an Zwiebel into medium thick strips Fenchelstiele abschneiden und Fenchel wie eine Zwiebel in mitteldicke Streifen schneiden",
+        "Fenchelstiele abschneiden und Fenchel wie eine Zwiebel in mitteldicke Streifen schneiden",
         "Zucchini in geviertelte Scheiben schneiden",
         "Parmesan reiben",
         "Decke den Tisch (am besten servierst du das Risotto sofort)"
@@ -3702,7 +3702,7 @@
           "quantityType": ""
         },
         {
-          "name": "Garlic cloves Knoblauchzehen",
+          "name": "Knoblauchzehen",
           "type": "taste",
           "quantity": 2,
           "quantityType": ""
@@ -4178,7 +4178,7 @@
         },
         {
           "title": "Spinat hinzufügen",
-          "detail": "mix",
+          "detail": "gut mischen",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
@@ -4773,7 +4773,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Ketjap Manis",
+          "name": "Kecap Manis",
           "type": "taste",
           "quantity": 3,
           "quantityType": "EL"
@@ -4859,7 +4859,7 @@
           "time": 1
         },
         {
-          "title": "Langsam den Reis umrühren und Ketjap Manis hinzufügen",
+          "title": "Langsam den Reis umrühren und Kecap Manis hinzufügen",
           "detail": "auf hoher Hitze anbraten, bis der Reis karamellisiert ist; dies funktioniert nur, wenn der Reis kalt ist",
           "panType": "fryingPan1",
           "emoji": "",
@@ -7441,7 +7441,7 @@
           "time": 2
         },
         {
-          "title": " Sauerkraut abgießen und in das Püree rühren",
+          "title": "Sauerkraut abgießen und in das Püree rühren",
           "detail": "gut mischen",
           "panType": "cookingPan1",
           "emoji": "",
@@ -7555,7 +7555,7 @@
           "time": 2
         },
         {
-          "title": " Spinat und Erbsen hinzufügen",
+          "title": "Spinat und Erbsen hinzufügen",
           "detail": "bis der Spinat zusammengefallen ist und die Erbsen aufgetaut sind",
           "panType": "cookingPan1",
           "emoji": "",
@@ -7968,7 +7968,7 @@
       "url": "https://www.forkranger.com/de/recipe/kokos-dal/?share",
       "id": 55,
       "title": "Kokos-Dal",
-      "description": "Dahl ist ein südasiatischer Linseneintopf mit viel Geschmack. In dieser Version fügen die Pfirsiche eine köstliche Süße hinzu, während der rohe Spinat für eine frische Note sorgt. Wenn du kein Fan von warmem Obst bist, kannst du die Pfirsiche auch durch Tomaten ersetzen.",
+      "description": "Dal ist ein südasiatischer Linseneintopf mit viel Geschmack. In dieser Version fügen die Pfirsiche eine köstliche Süße hinzu, während der rohe Spinat für eine frische Note sorgt. Wenn du kein Fan von warmem Obst bist, kannst du die Pfirsiche auch durch Tomaten ersetzen.",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/coconut-dahl.jpg",
       "duration": 30,
       "rewardTitle": "You're a chef!",
@@ -8100,7 +8100,7 @@
           "time": 5
         },
         {
-          "title": "Das Dahl mit frischem Spinat und Brot als Beilage servieren",
+          "title": "Das Dal mit frischem Spinat und Brot als Beilage servieren",
           "detail": "",
           "emoji": ""
         }
@@ -8724,7 +8724,7 @@
           "quantityType": "ml"
         },
         {
-          "name": "Ketjap Manis",
+          "name": "Kecap Manis",
           "type": "taste",
           "quantity": 4,
           "quantityType": "EL"
@@ -8800,7 +8800,7 @@
           "time": 3
         },
         {
-          "title": "Kokosmilch, Wasser und Ketjap Manis hinzufügen",
+          "title": "Kokosmilch, Wasser und Kecap Manis hinzufügen",
           "detail": "auf niedriger Hitze, mit dem Deckel köcheln lassen, ab und zu umrühren",
           "panType": "fryingPan1",
           "emoji": "",
@@ -9819,7 +9819,7 @@
       "rewardTitle": "Well done!",
       "rewardText": "Popeye would be proud of your spinach power.",
       "servings": 4,
-      "variationHeader": "Make it a dinner party",
+      "variationHeader": "Mach daraus eine Dinnerparty",
       "variationBody": "Anstatt die Auberginen und Paprika in die Pfanne zu geben, backe sie im Ofen (20-30 Min bei 200°C) und füge sie am Ende hinzu. Du kannst auch Kreuzkümmel, Kurkuma und Thymian durch Za'atar ersetzen.",
       "ingredients": [
         {
@@ -10372,7 +10372,7 @@
         },
         {
           "title": "Erdnüsse und Mungobohnensprossen hinzugeben",
-          "detail": "mix together",
+          "detail": "gut mischen",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
@@ -12193,7 +12193,7 @@
         "Getrocknete Tomaten in kleine Streifen schneiden",
         "Walnüsse hacken",
         "Petersilie fein hacken",
-        "PBackofen auf 180°C vorheizen"
+        "Backofen auf 180°C vorheizen"
       ],
       "cookTime": 45,
       "cookSteps": [
@@ -12936,7 +12936,7 @@
         },
         {
           "title": "Knoblauch, Zimt, Paprika- und Currypulver hinzufügen",
-          "detail": "mix",
+          "detail": "gut mischen",
           "panType": "cookingPan1",
           "emoji": "",
           "time": 2
@@ -13067,7 +13067,7 @@
         },
         {
           "title": "Pesto-Pasta, Walnüsse und Chiliflocken hinzufügen",
-          "detail": "stir umrühren",
+          "detail": "umrühren",
           "panType": "fryingPan1",
           "emoji": "",
           "time": 1

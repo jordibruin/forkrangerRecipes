@@ -3,6 +3,7 @@
     "id": "1",
     "nameNL": "Aardappel",
     "nameEN": "Potato",
+    "nameDE": "Kartoffel",
     "image": "potato",
     "LC": [],
     "GFS": [
@@ -28,6 +29,7 @@
     "id": "2",
     "nameNL": "Aardbei",
     "nameEN": "Strawberry",
+    "nameDE": "Erdbeere",
     "image": "strawberry",
     "LC": [
       9
@@ -46,6 +48,7 @@
     "id": "4",
     "nameNL": "Andijvie",
     "nameEN": "Endive",
+    "nameDE": "Endivie",
     "image": "endive",
     "LC": [
       11
@@ -67,6 +70,7 @@
     "id": "5",
     "nameNL": "Appel",
     "nameEN": "Apple",
+    "nameDE": "Apfel",
     "image": "apple",
     "LC": [],
     "GFS": [
@@ -92,6 +96,7 @@
     "id": "6",
     "nameNL": "Asperge",
     "nameEN": "Asparagus",
+    "nameDE": "Spargel",
     "image": "asparagus",
     "LC": [
       6
@@ -108,6 +113,7 @@
     "id": "7",
     "nameNL": "Aubergine",
     "nameEN": "Aubergine",
+    "nameDE": "Aubergine",
     "image": "aubergine",
     "LC": [
       10
@@ -125,6 +131,7 @@
     "id": "8",
     "nameNL": "Blauwe bes",
     "nameEN": "Blueberry",
+    "nameDE": "Blaubeere",
     "image": "blueberries",
     "LC": [
       9
@@ -142,6 +149,7 @@
     "id": "9",
     "nameNL": "Bleekselderij",
     "nameEN": "Celery",
+    "nameDE": "Sellerie",
     "image": "celery",
     "LC": [
       11
@@ -161,6 +169,7 @@
     "id": "10",
     "nameNL": "Bloemkool",
     "nameEN": "Cauliflower",
+    "nameDE": "Blumenkohl",
     "image": "cauliflower",
     "LC": [
       11
@@ -183,6 +192,7 @@
     "id": "11",
     "nameNL": "Boerenkool",
     "nameEN": "Kale",
+    "nameDE": "Grünkohl",
     "image": "kale",
     "LC": [
       3
@@ -203,6 +213,7 @@
     "id": "12",
     "nameNL": "Braam",
     "nameEN": "Blackberry",
+    "nameDE": "Brombeere",
     "image": "blackberry",
     "LC": [
       10
@@ -220,6 +231,7 @@
     "id": "13",
     "nameNL": "Broccoli",
     "nameEN": "Broccoli",
+    "nameDE": "Brokkoli",
     "image": "broccoli",
     "LC": [
       10
@@ -239,6 +251,7 @@
     "id": "14",
     "nameNL": "Chinese kool",
     "nameEN": "Chinese Cabbage",
+    "nameDE": "Chinakohl",
     "image": "chinesecabbage",
     "LC": [
       3
@@ -264,6 +277,7 @@
     "id": "15",
     "nameNL": "Courgette",
     "nameEN": "Zucchini",
+    "nameDE": "Zucchini",
     "image": "zucchini",
     "LC": [
       10
@@ -282,6 +296,7 @@
     "id": "16",
     "nameNL": "Doperwt",
     "nameEN": "Peas",
+    "nameDE": "Erbsen",
     "image": "peas",
     "LC": [
       8
@@ -299,6 +314,7 @@
     "id": "17",
     "nameNL": "Framboos",
     "nameEN": "Raspberry",
+    "nameDE": "Himbeere",
     "image": "raspberry",
     "LC": [
       9
@@ -316,6 +332,7 @@
     "id": "18",
     "nameNL": "Kers",
     "nameEN": "Cherry",
+    "nameDE": "Kirsche",
     "image": "cherry",
     "LC": [
       8
@@ -332,6 +349,7 @@
     "id": "19",
     "nameNL": "Knolselderij",
     "nameEN": "Celeriac",
+    "nameDE": "Knollensellerie",
     "image": "celeriac",
     "LC": [
       3
@@ -354,6 +372,7 @@
     "id": "20",
     "nameNL": "Komkommer",
     "nameEN": "Cucumber",
+    "nameDE": "Gurke",
     "image": "cucumber",
     "LC": [
       10
@@ -372,6 +391,7 @@
     "id": "21",
     "nameNL": "Koolraap",
     "nameEN": "Swede",
+    "nameDE": "Steckrübe",
     "image": "swede",
     "LC": [
       3
@@ -392,6 +412,7 @@
     "id": "22",
     "nameNL": "Koolrabi",
     "nameEN": "Kohlrabi",
+    "nameDE": "Kohlrabi",
     "image": "kohlrabi",
     "LC": [
       10
@@ -411,6 +432,7 @@
     "id": "23",
     "nameNL": "Sla",
     "nameEN": "Lettuce",
+    "nameDE": "Salat",
     "image": "lettuce",
     "LC": [
       10
@@ -429,6 +451,7 @@
     "id": "24",
     "nameNL": "Lente-ui",
     "nameEN": "Spring onion",
+    "nameDE": "Frühlingszwiebel",
     "image": "springonion",
     "LC": [
       10
@@ -448,6 +471,7 @@
     "id": "25",
     "nameNL": "Mais",
     "nameEN": "Corn",
+    "nameDE": "Mais",
     "image": "corn",
     "LC": [
       10
@@ -464,6 +488,7 @@
     "id": "27",
     "nameNL": "Paksoi",
     "nameEN": "Pak choi",
+    "nameDE": "Pak Choi",
     "image": "bokchoy",
     "LC": [
       10
@@ -483,6 +508,7 @@
     "id": "28",
     "nameNL": "Paprika",
     "nameEN": "Bell pepper",
+    "nameDE": "Paprika",
     "image": "bellpepper",
     "LC": [
       10
@@ -500,6 +526,7 @@
     "id": "29",
     "nameNL": "Pastinaak",
     "nameEN": "Parsnip",
+    "nameDE": "Pastinak",
     "image": "parsnip",
     "LC": [
       5
@@ -525,6 +552,7 @@
     "id": "30",
     "nameNL": "Peer",
     "nameEN": "Pear",
+    "nameDE": "Birne",
     "image": "pear",
     "LC": [
       5
@@ -548,6 +576,7 @@
     "id": "31",
     "nameNL": "Pompoen",
     "nameEN": "Pumpkin",
+    "nameDE": "Kürbis",
     "image": "pumpkin",
     "LC": [
       3
@@ -570,6 +599,7 @@
     "id": "32",
     "nameNL": "Prei",
     "nameEN": "Leek",
+    "nameDE": "Lauch",
     "image": "leek",
     "LC": [
       3
@@ -593,6 +623,7 @@
     "id": "33",
     "nameNL": "Pruim",
     "nameEN": "Plum",
+    "nameDE": "Pflaume",
     "image": "plum",
     "LC": [
       9
@@ -609,6 +640,7 @@
     "id": "35",
     "nameNL": "Raapstelen",
     "nameEN": "Rapini",
+    "nameDE": "Rübstiel",
     "image": "rapini",
     "LC": [
       6,
@@ -629,6 +661,7 @@
     "id": "36",
     "nameNL": "Rabarber",
     "nameEN": "Rhubarb",
+    "nameDE": "Rhabarber",
     "image": "rhubarb",
     "LC": [
       7
@@ -646,6 +679,7 @@
     "id": "37",
     "nameNL": "Radijs",
     "nameEN": "Radish",
+    "nameDE": "Radieschen",
     "image": "radish",
     "LC": [
       9
@@ -665,6 +699,7 @@
     "id": "38",
     "nameNL": "Rode bes",
     "nameEN": "Red currant",
+    "nameDE": "Rote Johannisbeere",
     "image": "redcurrant",
     "LC": [
       8
@@ -681,6 +716,7 @@
     "id": "39",
     "nameNL": "Rode biet",
     "nameEN": "Beetroot",
+    "nameDE": "Rote Bete",
     "image": "beetroot",
     "LC": [],
     "GFS": [
@@ -706,6 +742,7 @@
     "id": "40",
     "nameNL": "Rodekool",
     "nameEN": "Red cabbage",
+    "nameDE": "Rotkohl",
     "image": "redcabbage",
     "LC": [],
     "GFS": [
@@ -731,6 +768,7 @@
     "id": "41",
     "nameNL": "Rucola",
     "nameEN": "Rocket",
+    "nameDE": "Rucola",
     "image": "rucola",
     "LC": [
       10
@@ -750,6 +788,7 @@
     "id": "42",
     "nameNL": "Savooikool",
     "nameEN": "Savoy cabbage",
+    "nameDE": "Wirsingkohl",
     "image": "savoycabbage",
     "LC": [
       3
@@ -774,6 +813,7 @@
     "id": "43",
     "nameNL": "Schorseneer",
     "nameEN": "Black salsify",
+    "nameDE": "Schwarzwurzeln",
     "image": "blacksalsify",
     "LC": [
       2
@@ -794,6 +834,7 @@
     "id": "45",
     "nameNL": "Snijboon",
     "nameEN": "Runner bean",
+    "nameDE": "Breite Bohnen",
     "image": "flatbean",
     "LC": [
       10
@@ -811,6 +852,7 @@
     "id": "46",
     "nameNL": "Sperzieboon",
     "nameEN": "Green bean",
+    "nameDE": "Grüne Bohnen",
     "image": "greenbeans",
     "LC": [
       10
@@ -829,6 +871,7 @@
     "id": "47",
     "nameNL": "Spinazie",
     "nameEN": "Spinach",
+    "nameDE": "Spinat",
     "image": "spinach",
     "LC": [
       10
@@ -849,6 +892,7 @@
     "id": "48",
     "nameNL": "Spitskool",
     "nameEN": "Pointed cabbage",
+    "nameDE": "Spitzkohl",
     "image": "oxheartcabbage",
     "LC": [
       1
@@ -871,6 +915,7 @@
     "id": "49",
     "nameNL": "Spruiten",
     "nameEN": "Brussels sprouts",
+    "nameDE": "Rosenkohl",
     "image": "brusselssprouts",
     "LC": [
       3
@@ -891,6 +936,7 @@
     "id": "50",
     "nameNL": "Tomaat",
     "nameEN": "Tomato",
+    "nameDE": "Tomate",
     "image": "tomato",
     "LC": [
       10
@@ -910,6 +956,7 @@
     "id": "51",
     "nameNL": "Tuinboon",
     "nameEN": "Broad beans",
+    "nameDE": "Dicke Bohnen",
     "image": "broadbean",
     "LC": [
       9
@@ -927,6 +974,7 @@
     "id": "53",
     "nameNL": "Veldsla",
     "nameEN": "Lamb's lettuce",
+    "nameDE": "Feldsalat",
     "image": "lambslettuce",
     "LC": [
       3
@@ -945,6 +993,7 @@
     "id": "54",
     "nameNL": "Venkel",
     "nameEN": "Fennel",
+    "nameDE": "Fenchel",
     "image": "fennel",
     "LC": [
       11
@@ -964,6 +1013,7 @@
     "id": "55",
     "nameNL": "Winterpostelein",
     "nameEN": "Miner's lettuce",
+    "nameDE": "Winterportulak",
     "image": "minerslettuce",
     "LC": [
       3
@@ -983,6 +1033,7 @@
     "id": "56",
     "nameNL": "Witlof",
     "nameEN": "Chicory",
+    "nameDE": "Chicorée",
     "image": "chicory",
     "LC": [
       4
@@ -1003,6 +1054,7 @@
     "id": "57",
     "nameNL": "Wittekool",
     "nameEN": "White cabbage",
+    "nameDE": "Weißkohl",
     "image": "whitecabbage",
     "LC": [],
     "GFS": [
@@ -1028,6 +1080,7 @@
     "id": "58",
     "nameNL": "Wortel",
     "nameEN": "Carrot",
+    "nameDE": "Karotte",
     "image": "carrot",
     "LC": [],
     "GFS": [

@@ -36,7 +36,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Rindfleisch hat mit Abstand den größten Fußabdruck von allen Fleischsorten. Ohne weniger Fleisch zu essen, würde dieser Schritt den CO₂-Fußabdruck der durchschnittlichen westlichen Ernährungsweise also schon um ein Fünftel reduzieren. Natürlich ist Rindfleisch mit Hühnchen (oder Schwein) zu ersetzen, letztendlich nicht die alleinige Lösung für eine nachhaltige Ernährung. Aber es ist ein einfacher erster Schritt, der einen großen Unterschied macht.",
+            "text": "Rindfleisch hat mit Abstand den größten Fußabdruck von allen Fleischsorten. Ohne weniger Fleisch zu essen, würde dieser Schritt den CO₂-Fußabdruck der durchschnittlichen westlichen Ernährungsweise also schon um ein Fünftel reduzieren. Natürlich ist Rindfleisch mit Hühnchen (oder Schwein) zu ersetzen, nicht die alleinige Lösung für eine nachhaltige Ernährung. Aber es ist ein einfacher erster Schritt, der einen großen Unterschied macht.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/replacing-beef-vs-vegetarian-for-1-day-DE.png"
           }
         },
@@ -65,7 +65,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Im Reich der Pflanzen haben Nüsse den höchsten Proteingehalt 💪, "
+          "title": "Im Reich der Pflanzen haben Nüsse den höchsten Proteingehalt 💪"
         },
         {
           "id": 1,
@@ -108,7 +108,7 @@
       "notificationTitle": "Heute: Die Große Ranch",
       "notificationText": "Warum hat Essen einen großen Fußabdruck?🤔 Rezept des Tages: Auberginen Wraps mit Minze",
       "home": {
-        "title": "Warum hat Essen so einen großen Fußabdruck",
+        "title": "Warum hat Essen so einen großen Fußabdruck?",
         "category": 1
       },
       "pages": [
@@ -203,7 +203,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 2,
-          "subtitle": "Rettung der grünen Wälder der Welt"
+          "subtitle": "Eine grüne Mahlzeit zur Rettung der grünen Wälder der Welt"
         }
       ]
     },
@@ -308,7 +308,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Wenn du eine andere Person dazu inspirierst, Rindfleisch durch Hühnchen zu ersetzen, macht das einen viel größeren Unterschied, als wenn du allein versuchst, perfekte Entscheidungen zu treffen.\n\nEssen ist geselligkeit. Und die Lösung für ein nachhaltiges Ernährungssystem kann auch nur in Gemeinschaft gestaltet werden! Teile also ein Rezept oder eine Infografik mit anderen Menschen, und vor allem lasst uns mehr nachhaltige Dinnerpartys feiern.",
+            "text": "Wenn du eine andere Person dazu inspirierst, Rindfleisch durch Hühnchen zu ersetzen, macht das einen viel größeren Unterschied, als wenn du allein versuchst, perfekte Entscheidungen zu treffen.\n\nEssen ist Geselligkeit. Und die Lösung für ein nachhaltiges Ernährungssystem kann auch nur in Gemeinschaft gestaltet werden! Teile also ein Rezept oder eine Infografik mit anderen Menschen, und vor allem lasst uns mehr nachhaltige Dinnerpartys feiern.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/1-vegan-vs-3-replacing-beef-DE.png",
             "blogURL": "https://www.forkranger.com/how-to-convince-your-friends-to-eat-less-meat/"
           }
@@ -467,7 +467,7 @@
             },
             {
               "id": 2,
-              "title": "´Mehrmals in der Woche",
+              "title": "Mehrmals in der Woche",
               "correct": false
             }
           ],
@@ -1061,7 +1061,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Der durchschnittliche 30-jährige Mann braucht etwa 63 Gramm Eiweiß pro Tag, die durchschnittliche Frau etwa 54 Gramm. \n\nWenn du  Fleisch und Milchprodukte vollständig weglässt, brauchst du etwas mehr Protein. Das liegt daran, dass tierische Proteine besser verdaut werden können als pflanzliche Proteine. Zum Glück gibt es eine ganze Reihe guter Alternativen.",
+            "text": "Der durchschnittliche 30-jährige Mann braucht etwa 63 Gramm Eiweiß pro Tag, die durchschnittliche Frau etwa 54 Gramm. \n\nWenn du Fleisch und Milchprodukte vollständig weglässt, brauchst du etwas mehr Protein. Das liegt daran, dass tierische Proteine besser verdaut werden können als pflanzliche Proteine. Zum Glück gibt es eine ganze Reihe guter Alternativen.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/too-much-protein-DE.png"
           }
         },
@@ -1220,7 +1220,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Indem du Hülsenfrüchte als eine gesunde Proteinquelle zu deinen Mahlzeiten hinzufügst kannst du deinen Fußabdruck drastisch reduzieren.\n\nEs stimmt zwar, dass Fleisch die einfachste Möglichkeit ist viel Protein zu essen, aber wir haben auch bereits gesehen, dass wir gar nicht jeden Tag so viel Protein benötigen. ",
+            "text": "Indem du Hülsenfrüchte als eine gesunde Proteinquelle zu deinen Mahlzeiten hinzufügst kannst du deinen Fußabdruck drastisch reduzieren.\n\nEs stimmt zwar, dass Fleisch die einfachste Möglichkeit ist viel Protein zu essen, aber wir haben auch gesehen, dass wir gar nicht jeden Tag so viel Protein benötigen. ",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/protein-CO2-comparison-DE.png"
           }
         },
@@ -1660,7 +1660,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Avocados sind sehr beliebt geworden"
+          "title": "Avocados sind sehr beliebt geworden."
         },
         {
           "id": 1,
@@ -1690,7 +1690,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Die meisten Avocados kommen aus Mexiko, wo Wälder abgeholzt werden, um Platz für ihren Anbau zu schaffen. Sie verbrauchen sehr viel Wasser, und Drogenkartelle sind jetzt auch in das Avocado-Geschäft verwickelt.\n\n Es ist ein kompliziertes Produkt. Deshalb haben wir uns ein “Avocado-Budget” von 1 pro Monat gegeben.\n",
+            "text": "Die meisten Avocados kommen aus Mexiko, wo Wälder abgeholzt werden, um Platz für ihren Anbau zu schaffen. Sie verbrauchen sehr viel Wasser, und Drogenkartelle sind jetzt auch in das Avocado-Geschäft verwickelt.\n\nEs ist ein kompliziertes Produkt. Deshalb haben wir uns ein “Avocado-Budget” von 1 pro Monat gegeben.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/avocado-land-use-2-DE.png",
             "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
           }
@@ -2634,7 +2634,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Ein gesunder Boden enthält viel Kohlenstoff und ist die Grundlage unseres Lebens. Doch die industrielle Landwirtschaft zerstört gesunde Böden in alarmierendem Ausmaß. Dies gefährdet nicht nur unsere Lebensmittelproduktion, sondern setzt auch viel CO₂ frei.\n\n Die gute Nachricht ist, dass nachhaltigere Formen der Landwirtschaft den Boden wiederherstellen können. In den folgenden Storys zeigen wir, wie das alles mit unserem Essen zusammenhängt.",
+            "text": "Ein gesunder Boden enthält viel Kohlenstoff und ist die Grundlage unseres Lebens. Doch die industrielle Landwirtschaft zerstört gesunde Böden in alarmierendem Ausmaß. Dies gefährdet nicht nur unsere Lebensmittelproduktion, sondern setzt auch viel CO₂ frei.\n\nDie gute Nachricht ist, dass nachhaltigere Formen der Landwirtschaft den Boden wiederherstellen können. In den folgenden Storys zeigen wir, wie das alles mit unserem Essen zusammenhängt.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/carbon-storage-soil-DE.png"
           }
         },
@@ -3306,7 +3306,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "In der industriellen Landwirtschaft dreht sich alles um den Ertrag: Es geht darum, mit allen Mitteln mehr Lebensmittel aus dem Boden zu holen. Dadurch wurde die Herstellung von Nahrungsmitteln sehr effizient, aber sie zerstört auch den Boden, von dem wir abhängig sind.\n\n Bei der ökologischen Landwirtschaft geht es darum, ein Gleichgewicht zwischen gesundem Boden und Nahrungsmittelherstellung zu wahren. Deshalb werden Fruchtfolgen, Dünger und Kompost eingesetzt.",
+            "text": "In der industriellen Landwirtschaft dreht sich alles um den Ertrag: Es geht darum, mit allen Mitteln mehr Lebensmittel aus dem Boden zu holen. Dadurch wurde die Herstellung von Nahrungsmitteln sehr effizient, aber sie zerstört auch den Boden, von dem wir abhängig sind.\n\nBei der ökologischen Landwirtschaft geht es darum, ein Gleichgewicht zwischen gesundem Boden und Nahrungsmittelherstellung zu wahren. Deshalb werden Fruchtfolgen, Dünger und Kompost eingesetzt.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/08/definition-of-organic-DE.png"
           }
         },
@@ -4386,7 +4386,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Momentan sind die eingesparten Emissionen beim Kochen sehr gering, weil der meiste Strom mit fossilen Brennstoffen erzeugt wird. Aber selbst wenn der Strom aus erneuerbaren Quellen stammt, ist es noch wichtiger, darauf zu achten, was wir essen. Die durchschnittliche niederländische Ernährung hat einen Fußabdruck von etwa 1300 kg CO₂e pro Person.",
+            "text": "Momentan sind die eingesparten Emissionen beim Kochen sehr gering, weil der meiste Strom mit fossilen Brennstoffen erzeugt wird. Aber selbst wenn der Strom aus erneuerbaren Quellen stammt, ist es noch wichtiger, darauf zu achten, was wir essen. Die durchschnittliche Ernährung in der EU hat einen Fußabdruck von etwa 1070 kg CO₂e pro Person.",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/induction_vs_gas-DE.png"
           }
         },
@@ -4504,7 +4504,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Der Fußabdruck eines Getränks hängt von unseren Gewohnheiten ab: Die Emissionen von Milch und Kaffee können sich summieren, wenn du sie jeden Tag trinkst. Dann kann ein reduzierter Kaffeekonsum oder der Umstieg auf pflanzliche Milch einen Unterschied machen.\n\nEs gibt viele Gründe, weniger Alkohol zu trinken, aber der Fußabdruck eines gelegentlichen Biers ist relativ gering. Die Snacks nach einer Ausgehnacht haben wahrscheinlich eine größere Auswirkung: Ein Chickenburger hat denselben Fußabdruck wie 7 Biere. 🍻 (47 im Falle vom Rinderburger)\nn",
+            "text": "Der Fußabdruck eines Getränks hängt von unseren Gewohnheiten ab: Die Emissionen von Milch und Kaffee können sich summieren, wenn du sie jeden Tag trinkst. Dann kann ein reduzierter Kaffeekonsum oder der Umstieg auf pflanzliche Milch einen Unterschied machen.\n\nEs gibt viele Gründe, weniger Alkohol zu trinken, aber der Fußabdruck eines gelegentlichen Biers ist relativ gering. Die Snacks nach einer Ausgehnacht haben wahrscheinlich eine größere Auswirkung: Ein Chickenburger hat denselben Fußabdruck wie 7 Biere. 🍻 (47 im Falle vom Rinderburger)",
             "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/drinks-DE.png"
           }
         },
@@ -4770,7 +4770,7 @@
           ],
           "answerExplanation": {
             "text": "Viele Landwirte auf der ganzen Welt sind Kleinbauern und haben keine Verhandlungsmacht gegenüber großen Unternehmen. Deshalb ist der Fairtrade-Mindestpreis eine wichtige Struktur.\n\nFairtrade beinhaltet auch eine Prämie. Das ist ein zusätzlicher Geldbetrag, der in einen Fonds fließt. Die Landwirte und Arbeiter können selbst entscheiden, wofür sie das Geld ausgeben. Sie verwenden es oft für Wohnraum, Bildung oder die Verbesserung des Betriebs.",
-            "imageURL": "hhttps://www.forkranger.com/wp-content/uploads/2024/07/how-fairtrade-works-DE.png"
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/how-fairtrade-works-DE.png"
           }
         },
         {

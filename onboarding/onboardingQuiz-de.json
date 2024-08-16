@@ -1,7 +1,7 @@
 {
   "questions": [
     {   
-      "id": 1000,
+      "id": 1,
       "home": {
         "title": "Wie stark trägt unser Essen zum Klimawandel bei?",
         "category": 0
@@ -39,11 +39,9 @@
           "type": "recipe",
           "recipeID": 12,
           "subtitle": "Das ist das allererste Rezept von Fork Ranger und es hat sich zu einem Lieblingsrezept von sehr vielen Menschen entwickelt."
-        }
-      ]
-    },
+        },
     {
-      "id": 1001,
+      "id": 2,
       "home": {
         "title": "Wie können mehr CO₂-Emissionen reduziert werden?",
         "category": 0
@@ -76,11 +74,9 @@
           "type": "recipe",
           "recipeID": 4,
           "subtitle": "Die meisten von uns sollten mehr Gemüse essen, und dieses Rezept macht das sehr viel einfacher."
-        }
-      ]
     },
     {
-      "id": 1002,
+      "id": 3,
       "home": {
         "title": "Die wirksamsten Lösungen für den Klimawandel",
         "category": 0
@@ -121,4 +117,3 @@
         }
       ]
     }
-  ]

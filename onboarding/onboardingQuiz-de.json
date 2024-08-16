@@ -1,119 +1,86 @@
 {
   "questions": [
-    {   
+    {
       "id": 1,
-      "home": {
-        "title": "Wie stark trägt unser Essen zum Klimawandel bei?",
-        "category": 0
-      },
-      "pages": [
+      "type": "question",
+      "title": "How much does our food contribute to climate change?",
+      "subtitle": "yearly greenhouse gas emissions worldwide",
+      "answerOptions": [
         {
           "id": 0,
-          "type": "question",
-          "title": "Wie stark trägt unser Essen zum Klimawandel bei?",
-          "subtitle": "jährliche Treibhausgasemissionen weltweit",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "8%",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "34%",
-              "correct": false
-            },
-            {
-              "id": 2,
-              "title": "62%",
-              "correct": true
-            }
-          ],
-          "answerExplanation": {
-            "text": "Unser globales Ernährungssystem verursacht ein Drittel aller Emissionen. Auf deiner Fork Ranger-Reise wirst du die wichtigsten Quellen dieser Emissionen erkunden und herausfinden, was wir dagegen tun können.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/food-causes-one-third-of-climate-change-DE.png"
-          }
+          "title": "8%",
+          "correct": false
         },
         {
           "id": 1,
-          "type": "recipe",
-          "recipeID": 12,
-          "subtitle": "Das ist das allererste Rezept von Fork Ranger und es hat sich zu einem Lieblingsrezept von sehr vielen Menschen entwickelt."
+          "title": "34%",
+          "correct": true
         },
+        {
+          "id": 2,
+          "title": "62%",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "Our global food system causes one-third of all emissions.\n\nOn your Fork Ranger journey, you’re going to explore the most important sources of these emissions and what we can do about it",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/food-causes-one-third-of-climate-change.png"
+      },
+      "recipe": 12,
+      "recipeSubtitle" : "This was the first Fork Ranger recipe and it has become a favorite of dozens of people."
+    },
     {
       "id": 2,
-      "home": {
-        "title": "Wie können mehr CO₂-Emissionen reduziert werden?",
-        "category": 0
-      },
-      "pages": [
-        {
-          "id": 0,
-          "type": "question",
-          "title": "Wie können mehr CO₂-Emissionen reduziert werden?",
-          "subtitle": "",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "Unsere Essgewohnheiten ändern",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "Landwirtschaft nachhaltiger gestalten",
-              "correct": false
-            }
-          ],
-          "answerExplanation": {
-            "text": "Der wirksamste Weg, den Fußabdruck unserer Nahrung zu verringern, ist weniger Fleisch und Milchprodukten zu essen. Du musst nicht gleich Vegetarier werden, um Teil der Lösung zu sein. Ein paar einfache Änderungen können einen großen Unterschied machen.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/sustainable-diet-DE.png"
-          }
-        },
+      "type": "question",
+      "title": "What can save more CO2 emissions?",
+      "subtitle": "",
+      "answerOptions": [
         {
           "id": 1,
-          "type": "recipe",
-          "recipeID": 4,
-          "subtitle": "Die meisten von uns sollten mehr Gemüse essen, und dieses Rezept macht das sehr viel einfacher."
+          "title": "Changing what we eat",
+          "correct": true
+        },
+        {
+          "id": 0,
+          "title": "Making farms more sustainable",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "The most effective way to reduce the footprint of our food is to eat less meat and dairy.\n\nYou don’t have to become a vegetarian to be part of the solution. A few simple changes can make a massive difference.",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/sustainable-diet.png"
+      },
+      "recipe": 4,
+      "recipeSubtitle" : "Most of us need to eat more veggies and this recipe makes that a lot easier."
     },
     {
       "id": 3,
-      "home": {
-        "title": "Die wirksamsten Lösungen für den Klimawandel",
-        "category": 0
-      },
-      "pages": [
+      "type": "question",
+      "title": "Which solution can save the most CO2?",
+      "subtitle": "according to the calculations of Project Drawdown",
+      "answerOptions": [
         {
           "id": 0,
-          "type": "question",
-          "title": "Welche Lösung spart am meisten CO₂ ein?",
-          "subtitle": "",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "Elektrofahrzeuge 🚗",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "Weniger Lebensmittelverschwendung 🗑",
-              "correct": false
-            },
-            {
-              "id": 2,
-              "title": "Pflanzenreiche Ernährung 🥦",
-              "correct": true
-            }
-          ],
-          "answerExplanation": {
-            "text": "Wir von Fork Ranger lassen uns davon inspirieren, dass es einige sehr “menschliche” Lösungen gibt, die viel mehr CO₂ einsparen können als Technologie. Es geht darum, eine neue Lebensweise zu finden, die im Einklang mit der Natur steht: \n- weniger Fleisch, mehr Pflanzen\n- weniger Fliegen, mehr regionale Abenteuer\n- weniger Kram, mehr Erinnerungen",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/drawdown-solutions-DE.png"
-          }
+          "title": "Electric cars 🚗",
+          "correct": false
         },
         {
           "id": 1,
-          "type": "recipe",
-          "recipeID": 18,
-          "subtitle": "Eines unserer einfachsten Rezepte. So kannst du auch an stressigen Tagen einen kleinen Schritt gehen."
+          "title": "Reduced food waste 🗑",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "title": "Plant-rich diets 🥦",
+          "correct": false
         }
-      ]
+      ],
+      "answerExplanation": {
+        "text": "At Fork Ranger, we are inspired by the fact that there are some very human solutions that can save a lot more CO2 than technology.\n\nIt’s all about finding a new way of living that is in harmony with nature:\n- less meat, more plants\n- less flying, more local adventures\n- less stuff, more memories",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/drawdown-solutions.png"
+      },
+      "recipe": 69,
+      "recipeSubtitle" : "Curry recipes like this one are one of the easiest ways to eat more plant-based meals."
     }
+  ]
+}

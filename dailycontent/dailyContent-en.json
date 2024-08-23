@@ -8166,7 +8166,7 @@
           "title": "We already saw that farming mussels is much more sustainable but there is another way to farm the oceans: seaweed! 🌊"
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "question",
           "title": "What is a benefit of seaweed?",
           "subtitle": "",
@@ -8193,26 +8193,26 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "type": "recipe",
           "recipeID": 64,
           "subtitle": "You could add some sheets of Nori seaweed to this dish (often used for sushi)."
         },
         {
-          "id": 5,
+          "id": 4,
           "supporterOnly": true,
           "hometitle": "How can seaweed capture CO2 like a forest?",
           "type": "text",
           "title": "A challenge for seaweed is making it popular enough as food 📣 But there are other options for seaweed."
         },
         {
-          "id": 6,
+          "id": 5,
           "supporterOnly": true,
           "type": "text",
           "title": "One option is to use it as an alternative to planting trees to capture CO2 🌳 But can seaweed grow fast enough?"
         },
         {
-          "id": 7,
+          "id": 6,
           "supporterOnly": true,
           "type": "question",
           "title": "How fast does seaweed grow?",

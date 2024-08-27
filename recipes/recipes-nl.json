@@ -12899,8 +12899,8 @@
         {
           "name": "Citroen",
           "type": "taste",
-          "quantity": 2,
-          "quantityType": "tl"
+          "quantity": 1,
+          "quantityType": ""
         },
         {
           "name": "Knoflooktenen",

@@ -9584,7 +9584,7 @@
           "name": "Mozzarella",
           "type": "fresh",
           "quantity": 1,
-          "quantityType": "ml"
+          "quantityType": ""
         },
         {
           "name": "Rucola",

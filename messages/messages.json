@@ -214,10 +214,27 @@
     "titleEN": "Vote which features we should build",
     "bodyEN": "We've created a shortlist of our 2025 ideas for this app and would love to know what you like most. Let us know by answering this short survey. Thank you 💚",
     "buttonTextEN": "Go to survey",
-    "buttonURLEN": "https://docs.google.com/forms/d/1tkzJSj5CVLSCXnL4nX_Y8KMZ6scMgbmVOE0GMu3H6x0/preview",
+    "buttonURLEN": "https://docs.google.com/forms/d/e/1FAIpQLSeZ4KxdC82X-444rYiVMuYr4rwDmQaQmWK8G6UnJSsTcW7-rg/viewform?usp=preview",
     "titleNL": "Stem welke features we gaan bouwen",
     "bodyNL": "We hebben een lijst gemaakt met onze ideeën voor 2025 voor deze app en horen graag wat jij het meeste zou waarderen. Laat het ons weten in deze korte enquete. Dankjewel 💚",
     "buttonTextNL": "Ga naar de enquete",
-    "buttonURLNL": "https://docs.google.com/forms/d/1ZMZbQrl1LIt-pDfRNCrRkejLwF720dsgSM8UpB9nue0/preview"
+    "buttonURLNL": "https://docs.google.com/forms/d/e/1FAIpQLSc_vsAYFtUdO-kmFKbU1rwKV_RAo5XDRSE9zVIIgE0qxNAyKQ/viewform?usp=preview"
+  },
+  {
+    "id": 18,
+    "startDate": "16-01-2025",
+    "endDate": "29-01-2025",
+    "titleEN": "Starting soon: our online cooking ‘bootcamp’",
+    "bodyEN": "Do you love the infographics but could some help with changing your cooking habits? Then this is for you 😉 In a 4-week online program with a small group of max. 30 people we will guide you through everything you need. Starts on February 1st.",
+    "buttonTextEN": "Learn more",
+    "buttonURLEN": "https://www.forkranger.com/product/bootcamp/",
+    "titleNL": "Starting soon: onze online kook ‘bootcamp’",
+    "bodyNL": "Vind jij de infographics heel boeiend, maar kun je wel wat hulp gebruiken bij het veranderen van je kookgewoonten? Dan is dit iets voor jou 😉 In een online programma van 4 weken met een kleine groep van max. 30 mensen begeleiden we je bij alles wat je nodig hebt (in het Engels). Begint op 1 februari.",
+    "buttonTextNL": "Lees meer",
+    "buttonURLNL": "https://www.forkranger.com/nl/product/bootcamp/",
+    "titleDE": "Bald gehts los: unser Online-Koch-Bootcamp",
+    "bodyDE": "Du liebst die Infografiken, aber könntest etwas Hilfe gebrauchen beim Verändern deiner Kochgewohnheiten? Dann ist das genau das Richtige für dich 😉 In einem 4-wöchigen Online-Programm mit einer kleinen Gruppe von max. 30 Personen begleiten wir dich mit Allem was du brauchst (nur in Englisch). Beginnt 1. Februrar.",
+    "buttonTextDE": "Mehr erfahren",
+    "buttonURLDE": "https://www.forkranger.com/de/product/bootcamp/"
   }
 ]

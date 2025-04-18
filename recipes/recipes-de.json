@@ -7476,6 +7476,8 @@
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Variationen",
+      "variationBody": "Für eine pflanzliche Variante, kannst du die Mascarpone ersetzen durch 300g Hafer Alternative. Verwenden in diesem Fall 100 ml Brühe, damit die Sauce nicht zu dünn wird. Lasse auch den Parmesan weg.\n\nFür eine Variante mit nur Gemüse, kannst du anstelle der Lasagneblätter in Scheiben geschnittene Zucchini verwenden.",
       "ingredients": [
         {
           "name": "Lasagneblätter (Vollkorn)",

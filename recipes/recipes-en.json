@@ -7476,6 +7476,8 @@
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Variations",
+      "variationBody": "For a plant-based version substitute the mascarpone by 300 g plant-based oat spread. In that case, use 100ml bouillon so that the sauce doesn't become too thin. Also, leave away the parmesan on top.\n\nFor a full veggie version you can use sliced courgette instead of the lasagne sheets.",
       "ingredients": [
         {
           "name": "Lasagne sheets (whole wheat)",

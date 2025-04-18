@@ -7471,6 +7471,8 @@
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
+      "variationHeader": "Variatie",
+      "variationBody": "Vervang voor een plantaaardige versie de mascarpone door 300 g haver spread. Gebruik in dat geval maar 100ml bouillon zodat de saus niet te dun wordt. Laat ook de parmezaan weg.\n\nVoor een volledige groente versie kun je dunne courgette plakken gebruiken in plaats van lasagnebladen.",
       "ingredients": [
         {
           "name": "Lasagnebladen (volkoren)",

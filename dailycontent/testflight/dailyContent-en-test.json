@@ -1695,7 +1695,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Someone with the average Western diets eats...",
+          "title": "Someone with the average European diets eats...",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1710,8 +1710,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "The average 30-year-old man needs about 63 grams of protein per day, and the average woman around 54 grams. \n\nIf you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/too-much-protein-1.png"
+            "text": "If you weigh for example 70kg, you would need 58g of protein per day. So, the average consumption pattern clearly supplies too much protein. Even if you leave out all red meat, you still get enough. \n\nThe recommended intake is 0.83 g protein per kg body weight. However, if you would leave out ALL meat AND dairy, you would need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/too-much-protein-new.png"
           }
         },
         {

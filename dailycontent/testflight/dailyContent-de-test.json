@@ -511,23 +511,23 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Fleisch 🥩",
+              "title": "Fleisch & Fisch 🥩🐟",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Milch 🥛",
+              "title": "Milchprodukte, Eier und Getreide 🥛🌾",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Getreide 🍞",
+              "title": "Nüsse & Hülsenfrüchte 🥜🫘",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Getreideprodukte wie Nudeln, Reis und Brot sind aufgrund ihrer Kohlenhydrate die wichtigste Energiequelle für Menschen. Sie enthalten aber auch viel mehr Proteine, als du denkst. Diese Produkte - vor allem die Vollkornvariante - sind für eine gesunde und nachhaltige Ernährung unverzichtbar, denn sie machen uns weniger abhängig von Proteinen aus Fleisch und Milchprodukten.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/protein-intake-DE.png",
+            "text": "Milchprodukte, Eier und Getreide liefern zusammen mehr Proteine als Fleish & Fisch. Getreideprodukte wie Nudeln, Reis und Brot sind aufgrund ihrer Kohlenhydrate die wichtigste Energiequelle für Menschen. Sie enthalten aber auch viel mehr Proteine, als du denkst.\n\nDiese Produkte - vor allem die Vollkornvariante - sind für eine gesunde und nachhaltige Ernährung unverzichtbar, denn sie machen uns weniger abhängig von Proteinen aus Fleisch und Milchprodukten.\n\nNüsse und Hülsenfrüchte liefern im Moment wenig Eiweiß, da wir so wenig davon essen, sind aber eine wichtige Quelle für eine nachhaltige Ernährung.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/protein-intake-DE-2.png",
             "blogURL": "https://www.forkranger.com/nuts-and-the-search-for-sustainable-protein/"
           }
         },
@@ -1046,7 +1046,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Jemand mit einer durchschnittlichen westlichen Ernährung, isst...",
+          "title": "Jemand mit einer durchschnittlichen Europäischen Ernährung, isst...",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1061,8 +1061,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "Der durchschnittliche 30-jährige Mann braucht etwa 63 Gramm Eiweiß pro Tag, die durchschnittliche Frau etwa 54 Gramm. \n\nWenn du Fleisch und Milchprodukte vollständig weglässt, brauchst du etwas mehr Protein. Das liegt daran, dass tierische Proteine besser verdaut werden können als pflanzliche Proteine. Zum Glück gibt es eine ganze Reihe guter Alternativen.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2024/07/too-much-protein-DE.png"
+            "text": "Wenn du beispielsweise 70 kg wiegst, benötigst du 58 g Protein pro Tag. Die durchschnittliche Ernährung liefert also eindeutig zu viel Protein. Selbst wenn du auf rotes Fleisch verzichtest, erhältst du immer noch genügend\n\nDie täglich empfohlene Menge beträgt überigens 0.83 g pro kg Körpergewicht. Aber wenn du ALLE Fleisch und Milchprodukte weglässt, brauchst du etwas mehr Protein. Das liegt daran, dass tierische Proteine besser verdaut werden können als pflanzliche Proteine. Zum Glück gibt es eine ganze Reihe guter Alternativen.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/too-much-protein-new-DE.png"
           }
         },
         {

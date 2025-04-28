@@ -818,23 +818,23 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Meat 🥩",
+              "title": "Meat & fish 🥩🐟",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Dairy 🥛",
+              "title": "Dairy, eggs, and cereals 🥛🌾",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Cereals 🍞",
+              "title": "Nuts & Legumes 🥜🫘",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Cereals like pasta, rice, and bread are the most important energy source for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products - especially the whole grain version - are essential for a sustainable diet because they make us less dependent on protein from meat and dairy.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-1.png",
+            "text": "Dairy, eggs, and cereals provide more protein together than meat and fish. Cereals like pasta, rice, and bread are the most important energy source for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products - especially the whole grain version - are essential for a sustainable diet because they make us less dependent on protein from meat.\n\nNuts & legumes now provide only little protein, because we eat so little of them, but are an important source in a more sustainable diet.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/protein-intake.png",
             "blogURL": "https://www.forkranger.com/nuts-and-the-search-for-sustainable-protein/"
           }
         },

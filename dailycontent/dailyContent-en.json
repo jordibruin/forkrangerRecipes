@@ -818,23 +818,23 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Meat 🥩",
+              "title": "Meat & fish 🥩🐟",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Dairy 🥛",
+              "title": "Dairy, eggs, and cereals 🥛🌾",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Cereals 🍞",
+              "title": "Nuts & Legumes 🥜🫘",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Cereals like pasta, rice, and bread are the most important energy source for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products - especially the whole grain version - are essential for a sustainable diet because they make us less dependent on protein from meat and dairy.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-1.png",
+            "text": "Dairy, eggs, and cereals provide more protein together than meat and fish. Cereals like pasta, rice, and bread are the most important energy source for humanity because of their carbs. But they also contain a lot more protein than you think.\n\nThese products - especially the whole grain version - are essential for a sustainable diet because they make us less dependent on protein from meat.\n\nNuts & legumes now provide only little protein, because we eat so little of them, but are an important source in a more sustainable diet.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/protein-intake.png",
             "blogURL": "https://www.forkranger.com/nuts-and-the-search-for-sustainable-protein/"
           }
         },
@@ -1695,7 +1695,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Someone with the average Western diets eats...",
+          "title": "Someone with the average European diets eats...",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1710,8 +1710,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "The average 30-year-old man needs about 63 grams of protein per day, and the average woman around 54 grams. \n\nIf you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/too-much-protein-1.png"
+            "text": "If you weigh for example 70kg, you would need 58g of protein per day. So, the average consumption pattern clearly supplies too much protein. Even if you leave out all red meat, you still get enough. \n\nThe recommended intake is 0.83 g protein per kg body weight. However, if you would leave out ALL meat AND dairy, you would need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/too-much-protein-new.png"
           }
         },
         {

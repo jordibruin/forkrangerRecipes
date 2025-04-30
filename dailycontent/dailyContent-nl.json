@@ -814,23 +814,23 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Vlees 🥩",
+              "title": "Vlees & vis 🥩🐟",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Zuivel 🥛",
+              "title": "Zuivel, eieren en granen 🥛🌾",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Granen 🍞",
+              "title": "Noten & peulvruchten 🥜🫘",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Granen zoals pasta, rijst en brood zijn de belangrijkste energiebron voor mensen door hun koolhydraten, maar ze bevatten ook meer eiwit dan de meeste mensen denken.\n\nDeze producten - vooral de volkoren versie - zijn belangrijk voor een duurzaam voedingspatroon, omdat ze ons minder afhankelijk maken van de eiwitten van vlees en zuivel.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/protein-intake-NL-1.png",
+            "text": "Zuivel, eieren en granen leveren samen meer eiwitten dan vlees en vis. Granen zoals pasta, rijst en brood zijn de belangrijkste energiebron voor mensen door hun koolhydraten, maar ze bevatten ook meer eiwit dan de meeste mensen denken.\n\nDeze producten - vooral de volkoren versie - zijn belangrijk voor een duurzaam voedingspatroon, omdat ze ons minder afhankelijk maken van de eiwitten van vlees en zuivel.\n\nNoten en peulvruchten leveren nu maar weinig eiwit, simpelweg omdat we er weinig van eten, maar zijn een belangrijke bron in een duurzamer voedingspatroon.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/protein-intake-NL-2.png",
             "blogURL": "https://www.forkranger.com/nl/noten-en-de-zoektocht-naar-duurzame-eiwitten/"
           }
         },
@@ -1703,7 +1703,7 @@
         {
           "id": 2,
           "type": "question",
-          "title": "Iemand met een gemiddeld Westers voedingspatroon eet…",
+          "title": "Iemand met een gemiddeld Europees voedingspatroon eet…",
           "subtitle": "",
           "answerOptions": [
             {
@@ -1718,8 +1718,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw van die leeftijd 54 g.\n\nAls je vlees en zuivel helemaal weglaat, heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/too-much-protein-NL.png"
+            "text": "Als je bijvoorbeeld 70kg weegt, dan heb je 58g eiwit per dag nodig. Je ziet het al: het gemiddelde voedingspatroon levert te veel eiwit. Zelfs als je al het rode vlees weglaat, krijg je nog genoeg binnen.\n\nDe aanbevolen hoeveelheid is trouwens 0.83g per kg lichaamsgewicht. Maar als je AL HET vlees en ALLE zuivel weglaat, heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/04/too-much-protein-new-NL.png"
           }
         },
         {

@@ -9316,7 +9316,7 @@
           "name": "Sojasaus",
           "type": "taste",
           "quantity": 4,
-          "quantityType": "TBL sp"
+          "quantityType": "el"
         },
         {
           "name": "Gember",
@@ -9325,7 +9325,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Knoflook",
+          "name": "Knoflooktenen",
           "type": "taste",
           "quantity": 4,
           "quantityType": ""

@@ -908,9 +908,9 @@
   {
     "id": "61",
     "nameNL": "Mandarijn",
-    "nameEN": "Mandarin",
+    "nameEN": "Mandarine",
     "nameDE": "Mandarine",
-    "image": "mandarin",
+    "image": "mandarine",
     "LC": [
       4
     ],
@@ -931,7 +931,7 @@
     "nameNL": "Grapefruit",
     "nameEN": "Grapefruit",
     "nameDE": "Grapefruit",
-    "image": "mandarin",
+    "image": "grapefruit",
     "LC": [
       4
     ],
@@ -1006,7 +1006,7 @@
     "nameNL": "Abrikoos",
     "nameEN": "Abricot",
     "nameDE": "Aprikose",
-    "image": "abricot",
+    "image": "apricot",
     "LC": [
       8
     ],

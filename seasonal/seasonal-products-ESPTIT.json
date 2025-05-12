@@ -359,7 +359,8 @@
       6,
       7,
       8,
-      9
+      9,
+      10
     ],
     "SN": [
       5
@@ -894,10 +895,11 @@
     "LC": [
       3
     ],
-    "GFS": [],
-    "PT": [
+    "GFS": [
       1,
-      2,
+      2
+    ],
+    "PT": [
       11,
       12
     ],
@@ -1061,7 +1063,7 @@
     "nameNL": "Nectarine",
     "nameEN": "Nectarine",
     "nameDE": "Nektarine",
-    "image": "peach",
+    "image": "nectarine",
     "LC": [
       9
     ],
@@ -1194,6 +1196,29 @@
     ],
     "SN": [
       11
+    ]
+  },
+  {
+    "id": "77",
+    "nameNL": "Knolraap",
+    "nameEN": "Turnip",
+    "nameDE": "Rübe",
+    "image": "turnip",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "SN": [
+      9
     ]
   }
 ]

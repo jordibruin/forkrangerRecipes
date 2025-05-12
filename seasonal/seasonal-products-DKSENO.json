@@ -835,5 +835,53 @@
     "SN": [
       7
     ]
+  },
+  {
+    "id": "59",
+    "nameNL": "Aardpeer",
+    "nameEN": "Jerusalem artichoke",
+    "nameDE": "Topinambur",
+    "image": "jerusalem_artichoke",
+    "LC": [
+      4
+    ],
+    "GFS (copy)": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "PT": [
+      9,
+      10
+    ],
+    "SN": [
+      8
+    ]
+  },
+  {
+    "id": "59",
+    "nameNL": "Peterseliewortel",
+    "nameEN": "Parsley root",
+    "nameDE": "Petersilienwurzel",
+    "image": "parsley_root",
+    "LC": [
+      4
+    ],
+    "GFS (copy)": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "PT": [
+      9,
+      10
+    ],
+    "SN": [
+      8
+    ]
   }
 ]

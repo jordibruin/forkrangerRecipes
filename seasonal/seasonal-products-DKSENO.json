@@ -365,7 +365,7 @@
     "nameDE": "Kohlrabi",
     "image": "kohlrabi",
     "LC": [
-      10
+      11
     ],
     "GFS": [],
     "PT": [
@@ -796,18 +796,18 @@
       2,
       3,
       4,
+      5,
       11,
       12
     ],
     "PT": [
-      6,
       7,
       8,
       9,
       10
     ],
     "SN": [
-      5
+      6
     ]
   },
   {
@@ -882,6 +882,24 @@
     ],
     "SN": [
       8
+    ]
+  },
+  {
+    "id": "61",
+    "nameNL": "Tuinbonen",
+    "nameEN": "Broad beans",
+    "nameDE": "Dicke Bohnen",
+    "image": "broadbeans",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8
+    ],
+    "SN": [
+      6
     ]
   }
 ]

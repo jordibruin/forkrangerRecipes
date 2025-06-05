@@ -7209,17 +7209,17 @@
             },
             {
               "id": 1,
-              "title": "2x more insects 🪰",
+              "title": "2x more insects species 🪰",
               "correct": false
             },
             {
               "id": 2,
-              "title": "5x more insects 🐞",
+              "title": "5x more insects species 🐞",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "After only one year, there were already 5 times more insects. After 3 years, three of the plant species had died but still, insects had increased 7-fold.\n\nIf you can influence a small area of land - in your own garden or together with others - it can make a big difference for insects.",
+            "text": "After only one year, there were already 5 times more insects species. After 3 years, three of the plant species had died but still, insect species had increased 7-fold.\n\nIf you can influence a small area of land - in your own garden or together with others - it can make a big difference for insects.",
             "imageURL": "",
             "title": "🐞",
             "blogURL": "https://www.theguardian.com/science/2023/aug/22/melbourne-urban-greening-benefits-insect-species",

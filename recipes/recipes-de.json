@@ -7477,14 +7477,14 @@
       "url": "https://www.forkranger.com/de/recipe/einfache-pesto-lasagne/?share",
       "id": 51,
       "title": "Einfache Pesto Lasagne",
-      "description": "Das Schöne an dieser Lasagne ist, dass sie völlig anders ist als die traditionelle. Und sie ist auch super einfach zuzubereiten. Wir haben sie mit Mascarpone und einer Hafer Alternative ausprobiert und zu unserer Überraschung mochten wir die Variante mit Hafer lieber!",
+      "description": "Das Schöne an dieser Lasagne ist, dass sie völlig anders ist als die traditionelle. Und sie ist auch super einfach zuzubereiten. Wir haben sie mit Mascarpone und einer pflanzlichen Hafer Alternative ausprobiert und zu unserer Überraschung mochten wir die Variante mit Hafer lieber!",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/easy-pesto-lasagna.jpg",
       "duration": 45,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
       "variationHeader": "Variationen",
-      "variationBody": "Für eine pflanzliche Variante, kannst du die Mascarpone ersetzen durch 300g Hafer Alternative. Verwenden in diesem Fall 100 ml Brühe, damit die Sauce nicht zu dünn wird. Wähle auch ein pflanzliches Pesto und lasse den Parmesan weg.\n\nFür eine Variante mit nur Gemüse, kannst du anstelle der Lasagneblätter in Scheiben geschnittene Zucchini verwenden.",
+      "variationBody": "Für eine pflanzliche Variante, kannst du die Mascarpone ersetzen durch 300g pflanzliche Alternative (entweder eine Alternative zu Crème fraîche oder ein Aufstrich – dicker als eine Sahnealternative). Verwende in diesem Fall 100 ml Brühe, damit die Sauce nicht zu dünn wird. Wähle auch ein pflanzliches Pesto und lasse den Parmesan weg.\n\nFür eine Variante mit nur Gemüse, kannst du anstelle der Lasagneblätter in Scheiben geschnittene Zucchini verwenden.",
       "ingredients": [
         {
           "name": "Lasagneblätter (Vollkorn)",
@@ -7517,7 +7517,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Mascarpone (oder Hafer Alternative)",
+          "name": "Mascarpone (oder pflanzliche Alternative)",
           "type": "taste",
           "quantity": 500,
           "quantityType": "g"
@@ -7557,7 +7557,7 @@
       "cookTime": 35,
       "cookSteps": [
         {
-          "title": "Mascarpone (oder Hafer Alternative), Gemüsebrühe und Pesto erwärmen",
+          "title": "Mascarpone (oder pflanzliche Alternative), Gemüsebrühe und Pesto erwärmen",
           "detail": "gut mischen, erhitzen bis es fast kocht",
           "panType": "cookingPan1",
           "emoji": "",

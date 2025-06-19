@@ -1970,7 +1970,7 @@
           "time": 3
         },
         {
-          "title": "Add risotto rice and garlic",
+          "title": "Add risotto rice, garlic and lemon zest",
           "detail": "stir so the rice becomes glassy but don't let it brown, season with salt and pepper",
           "panType": "fryingPan1",
           "emoji": "",
@@ -1996,6 +1996,13 @@
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
+        },
+        {
+          "title": "Squeeze in some lemon juice",
+          "detail": "start with a little bit and add more to personal taste",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 0
         },
         {
           "title": "Mix in the roasted fennel and zucchini or serve it on top of the risotto",

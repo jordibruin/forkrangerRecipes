@@ -7472,14 +7472,14 @@
       "url": "https://forkranger.com/nl/easy-pesto-lasagne/?share",
       "id": 51,
       "title": "Easy Pesto Lasagne",
-      "description": "Het leuke van deze lasagne is dat het iets heel anders is dan het traditionele recept. En het is super makkelijk. We hebben het gemaakt met roomkaas (mascarpone) en met haver fraiche en tot onze verbazing vonden we de haver versie lekkerder!",
+      "description": "Het leuke van deze lasagne is dat het iets heel anders is dan het traditionele recept. En het is super makkelijk. We hebben het gemaakt met roomkaas (mascarpone) en met plantaardige haver fraiche en tot onze verbazing vonden we de haver versie lekkerder!",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/easy-pesto-lasagna.jpg",
       "duration": 45,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
       "variationHeader": "Variatie",
-      "variationBody": "Vervang voor een plantaaardige versie de mascarpone door 300 g haver spread. Gebruik in dat geval maar 100ml bouillon zodat de saus niet te dun wordt. Kies ook een plantaardige pesto en laat de parmezaan weg.\n\nVoor een volledige groente versie kun je dunne courgette plakken gebruiken in plaats van lasagnebladen.",
+      "variationBody": "Vervang voor een plantaaardige versie de mascarpone door 300 g van een plantaardig alternatief (ofwel een crème fraîche alternatief of spread - dikker dan een room alternatief). Gebruik in dat geval maar 100ml bouillon zodat de saus niet te dun wordt. Kies ook een plantaardige pesto en laat de parmezaan weg.\n\nVoor een volledige groente versie kun je dunne courgette plakken gebruiken in plaats van lasagnebladen.",
       "ingredients": [
         {
           "name": "Lasagnebladen (volkoren)",
@@ -7512,7 +7512,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Roomkaas (mascarpone) of haver spread",
+          "name": "Roomkaas (mascarpone) of plantaardig alternatief",
           "type": "taste",
           "quantity": 500,
           "quantityType": "g"

@@ -1970,7 +1970,7 @@
           "time": 3
         },
         {
-          "title": "Risottoreis und Knoblauch hinzufügen",
+          "title": "Risottoreis, Knoblauch und Zitronenabrieb hinzufügen",
           "detail": "Reis rühren bis er glasig wird, aber lasse ihn nicht braun werden, würze mit Salz und Pfeffer",
           "panType": "fryingPan1",
           "emoji": "",
@@ -1996,6 +1996,13 @@
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
+        },
+        {
+          "title": "Zitronensaft hinzufügen",
+          "detail": "erst eine kleine Menge und gebe nach persönlichem Geschmack mehr hinzu",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 0
         },
         {
           "title": "Gerösteten Fenchel und die Zucchini hinzufügen oder sie auf dem Risotto servieren",

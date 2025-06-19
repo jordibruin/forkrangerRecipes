@@ -1970,7 +1970,7 @@
           "time": 3
         },
         {
-          "title": "Voeg de risottorijst en knoflook toe",
+          "title": "Voeg de risottorijst, knoflook en citroenrasp toe",
           "detail": "roer tot de rijstkorrels glazig zijn, maar laat ze niet bruin worden, breng op smaak met zout en peper",
           "panType": "fryingPan1",
           "emoji": "",
@@ -1996,6 +1996,13 @@
           "panType": "fryingPan1",
           "emoji": "",
           "time": 2
+        },
+        {
+          "title": "Knijp de citroen uit",
+          "detail": "begin met een beetje en voeg meer toe naar eigen smaak",
+          "panType": "fryingPan1",
+          "emoji": "",
+          "time": 0
         },
         {
           "title": "Meng de geroosterde venkel en courgette erdoor of serveer het bovenop de risotto",

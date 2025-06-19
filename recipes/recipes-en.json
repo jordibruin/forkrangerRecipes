@@ -7477,14 +7477,14 @@
       "url": "https://forkranger.com/easy-pesto-lasagne/?share",
       "id": 51,
       "title": "Easy Pesto Lasagne",
-      "description": "The nice thing about this lasagne is that it's completely different than the traditional one. And it's also super easy. We tested it with mascarpone and oat spread and to our surprise, we liked the oat one better!",
+      "description": "The nice thing about this lasagne is that it's completely different than the traditional one. And it's also super easy. We tested it with mascarpone and plant-based oat spread and to our surprise, we liked the oat one better!",
       "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/easy-pesto-lasagna.jpg",
       "duration": 45,
       "rewardTitle": "You're a chef!",
       "rewardText": "Well done!",
       "servings": 4,
       "variationHeader": "Variations",
-      "variationBody": "For a plant-based version substitute the mascarpone by 300 g plant-based oat spread. In that case, use 100ml bouillon so that the sauce doesn't become too thin. Also, choose a plant-based pesto and leave away the parmesan on top.\n\nFor a full veggie version you can use sliced courgette instead of the lasagne sheets.",
+      "variationBody": "For a plant-based version substitute the mascarpone by 300 g plant-based alternative (either a creme fraiche alternative or spread - thicker than a cream alternative). In that case, use 100ml bouillon so that the sauce doesn't become too thin. Also, choose a plant-based pesto and leave away the parmesan on top.\n\nFor a full veggie version you can use sliced courgette instead of the lasagne sheets.",
       "ingredients": [
         {
           "name": "Lasagne sheets (whole wheat)",
@@ -7517,7 +7517,7 @@
           "quantityType": "g"
         },
         {
-          "name": "Mascarpone (or oat spread)",
+          "name": "Mascarpone (or plant-based alternative)",
           "type": "taste",
           "quantity": 500,
           "quantityType": "g"
@@ -7557,7 +7557,7 @@
       "cookTime": 35,
       "cookSteps": [
         {
-          "title": "Heat mascarpone (or oat spread), bouillon and pesto",
+          "title": "Heat mascarpone (or plant-based alternative), bouillon and pesto",
           "detail": "mix well, heat until bubbling",
           "panType": "cookingPan1",
           "emoji": "",

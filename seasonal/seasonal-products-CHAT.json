@@ -1052,5 +1052,310 @@
     "SN": [
       6
     ]
+  },
+  {
+    "id": "78",
+    "nameNL": "Radicchio",
+    "nameEN": "Radicchio",
+    "nameDE": "Radicchio",
+    "image": "radicchio",
+    "LC": [
+      1
+    ],
+    "GFS": [
+      12
+    ],
+    "PT": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "75",
+    "nameNL": "Snijbiet",
+    "nameEN": "Chard",
+    "nameDE": "Mangold",
+    "image": "chard",
+    "LC": [
+      11
+    ],
+    "GFS": [],
+    "PT": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "SN": [
+      4
+    ]
+  },
+  {
+    "id": "60",
+    "nameNL": "Peterseliewortel",
+    "nameEN": "Parsley root",
+    "nameDE": "Petersilienwurzel",
+    "image": "parsleyroot",
+    "LC": [
+      2
+    ],
+    "GFS": [
+      12,
+      1
+    ],
+    "PT": [
+      10,
+      11
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "79",
+    "nameNL": "Rettich",
+    "nameEN": "Daikon",
+    "nameDE": "Rettich",
+    "image": "rettich",
+    "LC": [
+      12
+    ],
+    "GFS": [],
+    "PT": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "SN": [
+      4
+    ]
+  },
+  {
+    "id": "67",
+    "nameNL": "Watermeloen",
+    "nameEN": "Watermelon",
+    "nameDE": "Wassermelone",
+    "image": "watermelon",
+    "LC": [
+      8
+    ],
+    "GFS": [],
+    "PT": [],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "80",
+    "nameNL": "Gele pruim",
+    "nameEN": "Yellow plum",
+    "nameDE": "Mirabelle",
+    "image": "yellowplum",
+    "LC": [
+      8
+    ],
+    "GFS": [],
+    "PT": [],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "69",
+    "nameNL": "Perzik",
+    "nameEN": "Peach",
+    "nameDE": "Pfirsich",
+    "image": "peach",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      8
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "81",
+    "nameNL": "Rode bosbes",
+    "nameEN": "Lingonberry",
+    "nameDE": "Preiselbeeren",
+    "image": "lingonberry",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      9
+    ],
+    "SN": [
+      8
+    ]
+  },
+  {
+    "id": "82",
+    "nameNL": "Kweepeer",
+    "nameEN": "Quince",
+    "nameDE": "Quitte",
+    "image": "quince",
+    "LC": [
+      11
+    ],
+    "GFS": [],
+    "PT": [
+      10
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "83",
+    "nameNL": "Kruisbes",
+    "nameEN": "Gooseberry",
+    "nameDE": "Stachelbeeren",
+    "image": "gooseberry",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      8
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "84",
+    "nameNL": "Kruisbes",
+    "nameEN": "Gooseberry",
+    "nameDE": "Stachelbeeren",
+    "image": "gooseberry",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      8
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "73",
+    "nameNL": "Druiven",
+    "nameEN": "Grapes",
+    "nameDE": "Trauben",
+    "image": "grapes",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      9
+    ],
+    "SN": [
+      8
+    ]
+  },
+  {
+    "id": "85",
+    "nameNL": "Kwets",
+    "nameEN": "Prune plum",
+    "nameDE": "Zwetschge",
+    "image": "pruneplum",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      8
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "86",
+    "nameNL": "Vlierbessen",
+    "nameEN": "Elderberry",
+    "nameDE": "Holunderbeeren",
+    "image": "elderberry",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      8,
+      9
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "70",
+    "nameNL": "Nectarine",
+    "nameEN": "Nectarine",
+    "nameDE": "Nektarine",
+    "image": "nectarine",
+    "LC": [],
+    "GFS": [],
+    "PT": [
+      8
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "76",
+    "nameNL": "Artisjok",
+    "nameEN": "Artichoke",
+    "nameDE": "Artischocke",
+    "image": "artichoke",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      8
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "66",
+    "nameNL": "Abrikoos",
+    "nameEN": "Apricot",
+    "nameDE": "Aprikose",
+    "image": "apricot",
+    "LC": [
+      8
+    ],
+    "GFS": [],
+    "PT": [
+      7
+    ],
+    "SN": [
+      6
+    ]
   }
 ]

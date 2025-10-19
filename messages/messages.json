@@ -270,5 +270,22 @@
     "bodyDE": "Kennst du jemanden, der sich leidenschaftlich für Klimalösungen und die Entwicklung benutzerfreundlicher Apps interessiert und über Programmierkenntnisse oder Erfahrung in einer Entwicklungsumgebung verfügt? Wir suchen jemanden, der David und Jesse im Freiwilligenteam unterstützt.",
     "buttonTextDE": "Mehr erfahren",
     "buttonURLDE": "https://www.forkranger.com/about/android-developer/"
+  },
+  {
+    "id": 21,
+    "startDate": "19-10-2025",
+    "endDate": "31-10-2025",
+    "titleEN": "The Fork Ranger book is now also available in German!🥳",
+    "bodyEN": "The book is complementary to the app: it tells the bigger story of why our individual choices can make a difference and it summarizes the most important tips about sustainable food with personal stories. Of course it also includes 40 recipes.",
+    "buttonTextEN": "Learn more",
+    "buttonURLEN": "https://www.forkranger.com/product/book/",
+    "titleNL": "Leuk nieuws: gratis seizoenskalender bij een groente & fruitbox 🍎",
+    "bodyNL": "Bij de groente & fruitbox van Boerschappen ontvang je nu gratis onze seizoenskalender en bij de 5e box ook het boek. We worden niet gesponsord maar wilden dit met jullie delen omdat het seizoensgebonden eten nog makkelijker maakt!",
+    "buttonTextNL": "Lees meer",
+    "buttonURLNL": "https://www.boerschappen.nl/forkranger",
+    "titleDE": "Das Fork Ranger-Buch ist jetzt auf Deutsch erhältlich!🥳",
+    "bodyDE": "Das Buch ergänzt die App: Es erzählt die größere Geschichte, warum unsere individuellen Entscheidungen einen Unterschied machen können, und fasst die wichtigsten Tipps für nachhaltig Essen mit persönlichen Geschichten zusammen. Natürlich enthält es auch 40 Rezepte.",
+    "buttonTextDE": "Mehr erfahren",
+    "buttonURLDE": "https://www.forkranger.com/de/produkt/book/"
   }
 ]

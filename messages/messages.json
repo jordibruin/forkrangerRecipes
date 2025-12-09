@@ -287,5 +287,22 @@
     "bodyDE": "Das Buch ergänzt die App: Es erzählt die größere Geschichte, warum unsere individuellen Entscheidungen einen Unterschied machen können, und fasst die wichtigsten Tipps für nachhaltig Essen mit persönlichen Geschichten zusammen. Natürlich enthält es auch 40 Rezepte.",
     "buttonTextDE": "Mehr erfahren",
     "buttonURLDE": "https://www.forkranger.com/de/produkt/book/"
+  },
+  {
+    "id": 22,
+    "startDate": "09-12-2025",
+    "endDate": "10-12-2025",
+    "titleEN": "Christmas gifts 🎄",
+    "bodyEN": "If you’re planning to order something from our webshop as a Christmas gift, we recommend placing your order today (for all countries except the Netherlands). If you live in the Netherlands, please order before December 19th. This will help ensure your items arrive on time. Thank you to everyone who spreads the message through giving Fork Ranger gifts!",
+    "buttonTextEN": "Go to webshop",
+    "buttonURLEN": "https://www.forkranger.com/shop/",
+    "titleNL": "Kerstcadeaus 🎄",
+    "bodyNL": "Wil je iets uit onze webshop bestellen als kerstcadeau? Dan raden we aan om voor 19 december te bestellen (voor Nederland). Als je het buiten Nederland wil ontvangen kun je het beste vandaag bestellen. Zo vergroot je de kans dat je cadeau op tijd aankomt. Bedankt aan iedereen die de boodschap verspreidt door Fork Ranger-cadeaus te geven!",
+    "buttonTextNL": "Ga naar de webshop",
+    "buttonURLNL": "https://www.forkranger.com/nl/shop/",
+    "titleDE": "Weihnachtsgeschenke 🎄",
+    "bodyDE": "Wenn du vorhast, etwas aus unserem Webshop als Weihnachtsgeschenk zu bestellen, empfehlen wir dir, deine Bestellung heute aufzugeben. So erhöhst du die Chance, dass deine Geschenke rechtzeitig ankommen. Vielen Dank an alle, die unsere Mission unterstützen und Fork Ranger zu Weihnachten verschenken!",
+    "buttonTextDE": "Zum Webshop",
+    "buttonURLDE": "https://www.forkranger.com/de/shop/"
   }
 ]

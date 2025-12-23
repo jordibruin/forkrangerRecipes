@@ -308,7 +308,7 @@
   {
     "id": 23,
     "startDate": "22-12-2025",
-    "endDate": "23-12-2025",
+    "endDate": "22-12-2025",
     "limitTo": "Android",
     "titleEN": "Did you experience any bugs in our app?",
     "bodyEN": "We've realized some people have issues with recipes not showing up under 'Recipes'. We are working on this.\n\nLately we’ve also received feedback that someone “was stuck on one story and couldn’t progress”. And someone else reported that some messages are not fully shown, e.g. cut off mid sentence or buttons miss the last letter. Did this happen to you too?\n\nPlease send an email to Mareike (mareike@forkranger.com) with the details. This helps to understand the issue and solve it.\n\nLeave other feedback? Use this form 👇",
@@ -320,6 +320,24 @@
     "buttonURLNL": "https://docs.google.com/forms/d/e/1FAIpQLSchs-WM4PuZKRjytObJK1D9WnaLEFZTBmISe9ANWJnbVdkeGw/viewform",
     "titleDE": "Sind Dir Fehler in unserer App aufgefallen? 🐞",
     "bodyDE": "Uns ist aufgefallen, dass für einige Nutzer Probleme keine Rezepte unter „Rezepte“ angezeigt werden. Wir arbeiten an einer Lösung.\n\nWir haben in letzter Zeit Rückmeldungen erhalten, dass jemand „bei einer Story feststeckt und nicht weiterkam“. Außerdem hat jemand berichtet, dass manche Nachrichten nicht vollständig angezeigt werden, z. B. mitten im Satz abgeschnitten sind oder den letzten Buchstaben vermissen. Ist das Dir auch passiert?\n\nBitte sende eine E-Mail mit den Details an Mareike (mareike@forkranger.com). Dies hilft uns, das Problem zu verstehen und zu beheben.\n\nHast du weiteres Feedback? Nutze dieses Formular 👇",
+    "buttonTextDE": "Weiteres Feedback",
+    "buttonURLDE": "https://docs.google.com/forms/d/e/1FAIpQLSdwuC_RNecOawdnmxxAluEw1dI13XoGSBr3rVJKg2lsFBrPpw/viewform"
+  },
+  {
+    "id": 23,
+    "startDate": "23-12-2025",
+    "endDate": "26-12-2025",
+    "limitTo": "Android",
+    "titleEN": "➡️ Update to the new version (to avoid bugs affecting you)!",
+    "bodyEN": "To make sure all your unlocked recipes are showing up under ‘Recipes’, make sure you update to the newest version (4.0.1). If you are missing recipes you’ve unlocked these last days, please email mareike@forkranger.com how many days you’ve completed (My Journey) and she can help you.\n\nIf you’re new to Fork Ranger and downloaded 19th of December (Friday) until 22nd of December (last Monday), please delete the app and start again. We’re really sorry, but we’ve realized this is the best fix.\n\nHope you have a wonderful Christmas and happy new year ✨ we are looking forward to 2026! Thanks for joining us on the Fork Ranger journey.",
+    "buttonTextEN": "Leave other feedback",
+    "buttonURLEN": "https://docs.google.com/forms/d/e/1FAIpQLSdwuC_RNecOawdnmxxAluEw1dI13XoGSBr3rVJKg2lsFBrPpw/viewform",
+    "titleNL": "➡️ Update naar de nieuwste versie (om bugs te vermijden)!",
+    "bodyNL": "Zorg ervoor dat je update naar de nieuwste versie (4.0.1.) om te zorgen dat al je ontgrendelde recepten ook bij ‘Recepten’ worden getoond. Als er bij jou recepten ontbreken die je de afgelopen dagen hebt ontgrendeld, stuur dan een mail naar mareike@forkranger.com met het aantal dagen dat je al hebt voltooid (Mijn Reis) en zij kan je helpen.\n\nAls je nieuw bent bij Fork Ranger en de app hebt gedownload tussen 19 december (afgelopen vrijdag) en 22 december (afgelopen maandag), willen we je vragen de app te verwijderen en opnieuw te starten. Onze excuses, maar dit lijkt wel echt de beste oplossing voor jouw geval.\n\nWe willen je ook alvast fijne feeestdagen en een heel gelukkig nieuwjaar wensen ✨ we zien uit naar 2026! Dankjewel dat je onderdeel bent van de reis die we met Fork Ranger maken.",
+    "buttonTextNL": "Deel andere feedback",
+    "buttonURLNL": "https://docs.google.com/forms/d/e/1FAIpQLSchs-WM4PuZKRjytObJK1D9WnaLEFZTBmISe9ANWJnbVdkeGw/viewform",
+    "titleDE": "➡️ Aktualisiere auf die neue Version (um Fehler zu vermeiden)!",
+    "bodyDE": "Damit alle deine freigeschalteten Rezepte unter „Rezepte“ angezeigt werden, aktualisiere bitte auf die neueste Version (4.0.1). Falls dir Rezepte fehlen, die du in den letzten Tagen freigeschaltet hast, schreib bitte eine E-Mail an mareike@forkranger.com und gib an, wie viele Tage du bereits abgeschlossen hast (Meine Reise). Sie hilft dir gerne weiter.\n\nBist du neu bei Fork Ranger und hast du die App zwischen dem 19. Dezember (Freitag) und dem 22. Dezember (letzter Montag) heruntergeladen, lösche die App bitte und installiere sie erneut. Es tut uns sehr leid, aber wir haben festgestellt, dass dies die beste Lösung ist.\n\nWir wünschen dir ein frohes Weihnachtsfest und ein gutes neues Jahr! ✨ Wir freuen uns auf 2026! Danke, dass du uns auf der Fork Ranger Reise begleitet hast.",
     "buttonTextDE": "Weiteres Feedback",
     "buttonURLDE": "https://docs.google.com/forms/d/e/1FAIpQLSdwuC_RNecOawdnmxxAluEw1dI13XoGSBr3rVJKg2lsFBrPpw/viewform"
   }

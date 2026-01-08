@@ -4608,30 +4608,30 @@
           "id": 5,
           "supporterOnly": true,
           "type": "question",
-          "title": "Hoeveel vispopulaties hebben een duurzaam niveau? 🐟",
-          "subtitle": "wat betekent dat ze niet overbevist zijn",
+          "title": "Wat is de huidige situatie rondom overbevissing? 🐟",
+          "subtitle": "als we kijken maar het aantal vispopulaties dat overbevist is",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Bijna geen enkele",
+              "title": "Er is minder overbevissing dan 10 jaar geleden",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Eén derde",
+              "title": "Het is stabiel",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Tweederde",
+              "title": "Overbevissing neemt nog steeds toe",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Je hebt misschien gehoord dat de oceanen in 2048 leeg zouden kunnen zijn. Dit is niet waar. Het merendeel van de vispopulaties heeft nog steeds een duurzaam niveau en als we actie ondernemen is het mogelijk om ook het overige 1/3e te verbeteren.\n\nOver het geheel genomen kunnen we besluiten om duurzame hoeveelheden vis te eten en als we in het wild gevangen vis eten, om MSC-gecertificeerde vis te kopen. Het is de beste garantie (maar zeker niet perfect) dat je geen vis eet die overbevist wordt.\n\nEn hoe zit het met gekweekte vis? We zullen daar de volgende keer dat we het thema Ocean bezoeken naar kijken.",
+            "text": "Volgens de FAO neemt overbevissing nog steeds toe met 1% per jaar. Hoewel dit echt niet goed is, is het niet het doemscenario waarover je misschien wel eens hebt gehoord: dat de oceanen in 2048 leeg zouden kunnen zijn. Dit is niet waar (aangezien het onderzoek veel genuanceerder is). Er zijn ook vispopulaties die wel op een duurzaam niveau zitten. Maar dat twee derde van de vispopulaties een duurzaam niveau hebben, zoals de FAO zegt, daarvan denken onderzoekers in het veld dat het een te positief beeld schetst. \n\nMaar laten we niet afhaken door deze ingewikkelde interpraties van data over vispopulaties: tijd voor actie! Het is mogelijk om overbeviste populaties te herstellen en de natuurlijke balans terug te vinden.\n\nOver het geheel genomen kunnen we besluiten om duurzame hoeveelheden vis te eten en als we in het wild gevangen vis eten, om MSC-gecertificeerde vis te kopen. Het is de beste garantie (maar zeker niet perfect) dat je geen vis eet die overbevist wordt.\n\nEn hoe zit het met gekweekte vis? We zullen daar de volgende keer dat we het thema Ocean bezoeken naar kijken.",
             "imageURL": "",
             "title": "🐟",
-            "sourceURL": "https://www.fao.org/3/cc0461en/online/sofia/2022/status-of-fishery-resources.html",
+            "sourceURL": "https://www.fao.org/newsroom/detail/fao-releases-the-most-detailed-global-assessment-of-marine-fish-stocks-to-date/en",
             "urlButtonText": "Bekijk de bron"
           }
         }

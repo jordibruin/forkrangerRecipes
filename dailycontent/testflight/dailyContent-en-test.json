@@ -4605,30 +4605,30 @@
           "id": 5,
           "supporterOnly": true,
           "type": "question",
-          "title": "How many fish populations have a sustainable level? 🐟",
-          "subtitle": "meaning they are not overfished",
+          "title": "What is the current situation with overfishing? 🐟",
+          "subtitle": "in terms of the number of fish populations which are overfished",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Almost zero",
+              "title": "Less overfishing over the last 10 years",
               "correct": false
             },
             {
               "id": 1,
-              "title": "One third",
+              "title": "It’s stable",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Two-thirds",
+              "title": "Overfishing is still increasing",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "You might have heard that the Oceans might be empty by 2048. This is not true. The majority of fish populations still have a sustainable level and if we take action it’s possible to improve the other 1/3 as well.\n\nOverall we can decide to eat sustainable amounts of seafood and if we do eat wild-caught seafood, to buy MSC-certified fish. It's the best guarantee (definitely not perfect) that you don't eat fish that's being overfished.\n\nAnd what about farmed fish? We’ll look at it next time we visit the Ocean.",
+            "text": "According to the FAO overfishing still increases with 1% per year. While this is certainly bad, it’s not the doom scenario about which you might have heard: that the Oceans will be empty by 2048. This is not true (as the research is more nuanced). There are also some fish populations which actually have a sustainable level. But the FAO’s figure of two-thirds at a sustainable level might be too positive, according to researchers in the field.\n\nBut let’s not be stopped by the difficulties in interpreting data about fish populations: let’s take action! It is possible to recover the overfished stocks and bring back nature’s balance.\n\nOverall we can decide to eat sustainable amounts of seafood and if we do eat wild-caught seafood, to buy MSC-certified fish. It's the best guarantee (definitely not perfect) that you don't eat fish that's being overfished.\n\nAnd what about farmed fish? We’ll look at it next time we visit the Ocean.",
             "imageURL": "",
             "title": "🐟",
-            "sourceURL": "https://www.fao.org/3/cc0461en/online/sofia/2022/status-of-fishery-resources.html",
+            "sourceURL": "https://www.fao.org/newsroom/detail/fao-releases-the-most-detailed-global-assessment-of-marine-fish-stocks-to-date/en",
             "urlButtonText": "View source"
           }
         }

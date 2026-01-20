@@ -1728,5 +1728,21 @@
       79,
       32
     ]
+  },
+  {
+    "code": "ouwehand",
+    "recipeIDs": [
+      55,
+      12,
+      22
+    ]
+  },
+  {
+    "code": "ouwehands",
+    "recipeIDs": [
+      55,
+      12,
+      22
+    ]
   }
 ]

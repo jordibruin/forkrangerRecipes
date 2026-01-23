@@ -960,6 +960,7 @@
   {
     "code": "boerenkool",
     "unlockSeasonalInfo": true,
+    "setSeasonalRegionToSlug": "nlBeDeUk",
     "recipeIDs": [
       0,
       1,
@@ -1014,6 +1015,7 @@
   {
     "code": "boerenkool ",
     "unlockSeasonalInfo": true,
+    "setSeasonalRegionToSlug": "nlBeDeUk",
     "recipeIDs": [
       0,
       1,
@@ -1748,6 +1750,7 @@
   {
     "code": "plum",
     "unlockSeasonalInfo": true,
+    "setSeasonalRegionToSlug": "chAt",
     "recipeIDs": [
       87,
       70,
@@ -1802,6 +1805,7 @@
   {
     "code": "parsley root",
     "unlockSeasonalInfo": true,
+    "setSeasonalRegionToSlug": "dkSeNo",
     "recipeIDs": [
       82,
       70,
@@ -1856,6 +1860,7 @@
   {
     "code": "parsleyroot",
     "unlockSeasonalInfo": true,
+    "setSeasonalRegionToSlug": "dkSeNo",
     "recipeIDs": [
       82,
       70,
@@ -1910,6 +1915,7 @@
   {
     "code": "orange",
     "unlockSeasonalInfo": true,
+    "setSeasonalRegionToSlug": "esPtIt",
     "recipeIDs": [
       47,
       70,

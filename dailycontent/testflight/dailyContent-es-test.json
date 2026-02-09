@@ -2,42 +2,42 @@
   "dailyContent": [
     {
       "id": 1,
-      "notificationTitle": "Italian... Today: The Big Ranch",
-      "notificationText": "Italian... What makes a bigger difference: eating vegetarian or eating different meats? 🌍 - Recipe of the day: Smokey Chilli",
+      "notificationTitle": "Spanish... Today: The Big Ranch",
+      "notificationText": "Spanish... What makes a bigger difference: eating vegetarian or eating different meats? 🌍 - Recipe of the day: Smokey Chilli",
       "home": {
-        "title": "Italian... A small step with a big impact",
+        "title": "Spanish... A small step with a big impact",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Italian...Welcome to the Big Ranch! Here we are going to explore the impact of meat and what you can do about it."
+          "title": "Spanish...Welcome to the Big Ranch! Here we are going to explore the impact of meat and what you can do about it."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Italian... There is one small step everyone can take to immediately reduce their impact 🥾"
+          "title": "Spanish... There is one small step everyone can take to immediately reduce their impact 🥾"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Italian...What makes a bigger difference?",
-          "subtitle": "Italian...for reducing CO2 in average European or North American diet",
+          "title": "Spanish...What makes a bigger difference?",
+          "subtitle": "Spanish...for reducing CO2 in average European or North American diet",
           "answerOptions": [
             {
               "id": 1,
-              "title": "Italian..Eating vegetarian 1 day a week",
+              "title": "Spanish..Eating vegetarian 1 day a week",
               "correct": false
             },
             {
               "id": 0,
-              "title": "Italian...Replacing beef with chicken",
+              "title": "Spanish...Replacing beef with chicken",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Italian...Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!\n\nOf course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference. ",
+            "text": "Spanish...Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!\n\nOf course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference. ",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/replacing_beef_vs_vegetarian_for_1_day.png?v=1756981221"
           }
         },
@@ -45,12 +45,12 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 22,
-          "subtitle": "Italian...This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
+          "subtitle": "Spanish...This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
         },
         {
           "id": 4,
           "type": "text",
-          "title": "Italian..Come back tomorrow to discover the climate impact of nuts"
+          "title": "Spanish..Come back tomorrow to discover the climate impact of nuts"
         },
         {
           "id": 5,

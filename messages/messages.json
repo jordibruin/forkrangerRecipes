@@ -340,5 +340,22 @@
     "bodyDE": "Damit alle deine freigeschalteten Rezepte unter „Rezepte“ angezeigt werden, aktualisiere bitte auf die neueste Version (4.0.1). Falls dir Rezepte fehlen, die du in den letzten Tagen freigeschaltet hast, schreib bitte eine E-Mail an mareike@forkranger.com und gib an, wie viele Tage du bereits abgeschlossen hast (Meine Reise). Sie hilft dir gerne weiter.\n\nBist du neu bei Fork Ranger und hast du die App zwischen dem 19. Dezember (Freitag) und dem 22. Dezember (letzter Montag) heruntergeladen, lösche die App bitte und installiere sie erneut. Es tut uns sehr leid, aber wir haben festgestellt, dass dies die beste Lösung ist.\n\nWir wünschen dir ein frohes Weihnachtsfest und ein gutes neues Jahr! ✨ Wir freuen uns auf 2026! Danke, dass du uns auf der Fork Ranger Reise begleitet hast.",
     "buttonTextDE": "Weiteres Feedback",
     "buttonURLDE": "https://docs.google.com/forms/d/e/1FAIpQLSdwuC_RNecOawdnmxxAluEw1dI13XoGSBr3rVJKg2lsFBrPpw/viewform"
+  },
+  {
+    "id": 24,
+    "startDate": "12-02-2026",
+    "endDate": "24-02-2026",
+    "titleEN": "Seasonal calendar for more regions 🎊",
+    "bodyEN": "Exciting news for everyone in Southern Europe, the Alps, and Scandinavia: you can now order the seasonal calendar with 48 easy recipes for your region! Until recently it was only available for Northwestern Europe. You can also get access to the seasonal information in the app for all those regions when becoming a supporter.",
+    "buttonTextEN": "Buy the seasonal calendar",
+    "buttonURLEN": "https://www.forkranger.com/product/seasonal-calendar/",
+    "titleNL": "Seizoenskalenders zijn nu voor meer regio's beschikbaar 🎊",
+    "bodyNL": "Woon je in het buitenland of heb je vrienden over de grens? Onze seizoenskalender met 48 makkelijke recepten is er nu ook voor iedereen in Zuid-Europa, de Alpen en Scandinavië. Tot voor kort was deze alleen beschikbaar voor Noordwest-Europa. Als supporter ontvang je trouwens ook toegang tot de seizoensinformatie voor al deze regio's in de app.",
+    "buttonTextNL": "Koop de seizoenskalender",
+    "buttonURLNL": "https://www.forkranger.com/nl/product/seizoenskalender/",
+    "titleDE": "Den Saisonkalender gibt es jetzt für mehr Regionen 🎊",
+    "bodyDE": "Tolle Neuigkeiten für alle in Südeuropa, den Alpen und Skandinavien: Ab sofort gibt es den Saisonkalender mit 48 einfachen Rezepten auch für diese Regionen! Bisher war er nur für Nordwesteuropa erhältlich. Als Unterstützer erhaltest du übrigens auch Zugriff auf die Saisoninformationen in der App für alle diese Regionen.",
+    "buttonTextDE": "Kaufe den Saisonkalender",
+    "buttonURLDE": "https://www.forkranger.com/de/produkt/seasonal-calendar/"
   }
 ]

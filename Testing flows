@@ -1,3 +1,11 @@
+## The feature itself
+
+- [ ]  light mode
+- [ ]  dark mode
+- [ ]  english
+- [ ]  dutch
+- [ ]  german
+
 ## CORE flows
 
 *These have to be tested for each update - even if the change code base shouldn’t affect the flow, as we don’t want to publish any releases with bugs in these. Bugs in these flows immediately impact using the app.*
@@ -21,7 +29,8 @@
     - [ ]  Unlocks ‘Now in Season’ - quick filter
     - [ ]  Adds all recipes to Recipes
     - [ ]  Viewing old stories works
-- [ ]  Scanning QR-code of the calendar
+- [ ]  Scanning recipe QR-code of the OLD calendars
+- [ ]  Scanning month QR-code of the calendar
     - [ ]  Adds all recipes to Recipes
     - [ ]  Opens monthly overview bottom sheet/overlay
     - [ ]  Unlocks seasonal tile ‘Fruits & Vegetables of X’
@@ -47,6 +56,9 @@
     - [ ]  Diet
     - [ ]  Less is more
 - [ ]  Voucher codes unlock recipes
+- [ ]  Making a recipe
+    - [ ]  First time
+    - [ ]  Second time
 
 **Today**
 
@@ -74,3 +86,4 @@ Supporter
     - [ ]  Units (metric/imperial)
     - [ ]  Region
     - [ ]  Language
+- [ ]  Stop supporting blocks the features

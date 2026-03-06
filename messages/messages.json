@@ -357,5 +357,22 @@
     "bodyDE": "Tolle Neuigkeiten für alle in Südeuropa, den Alpen und Skandinavien: Ab sofort gibt es den Saisonkalender mit 48 einfachen Rezepten auch für diese Regionen! Bisher war er nur für Nordwesteuropa erhältlich. Als Unterstützer erhaltest du übrigens auch Zugriff auf die Saisoninformationen in der App für alle diese Regionen.",
     "buttonTextDE": "Kaufe den Saisonkalender",
     "buttonURLDE": "https://www.forkranger.com/de/produkt/seasonal-calendar/"
+  },
+  {
+    "id": 25,
+    "startDate": "06-03-2026",
+    "endDate": "15-03-2026",
+    "titleEN": "For all sandwich lovers: our Lunch magazine 🥪",
+    "bodyEN": "It’s a guide for a sustainable & healthy lunch with 20 simple ideas for sandwiches, home-made spreads and super quick meals. For anyone who is trying to replace their salami or cheese sandwich (digital in English, and printed in Dutch).",
+    "buttonTextEN": "Learn more",
+    "buttonURLEN": "https://www.forkranger.com/product/lunch-box-collection/",
+    "titleNL": "Nieuw: Fork Ranger starterpack met Lunch magazine! 🥪",
+    "bodyNL": "Een gids voor een duurzame & gezonde lunch met 20 simpele ideeën voor broodjes, zelfgemaakte spreads en supersnelle maaltijden. Voor iedereen die zijn boterham met salami of kaas wil vervangen (dit was al beschikbaar als ebook maar nu ook geprint). De starterpack bevat alles wat je nodig hebt om duurzamer te eten. Het boek, de seizoenskalender, het Leftover Legends spel en je krijgt het lunch magazine er bijna gratis bij!",
+    "buttonTextNL": "Naar de starterpack",
+    "buttonURLNL": "https://www.forkranger.com/product/fork-ranger-starterpack/",
+    "titleDE": "Für Brot-Liebhaber: unser Lunch Magazine (Englisch) 🥪",
+    "bodyDE": "Es ist ein Ratgeber für eine nachhaltige & gesunde Brotzeit mit 20 einfachen Ideen für Sandwiches, selbstgemachte Aufstriche und superschnelle Mahlzeiten. Für alle, die ihr Salami- oder Käsesandwich ersetzen möchten (digital auf Englisch und gedruckt auf Niederländisch).",
+    "buttonTextDE": "Mehr erfahren",
+    "buttonURLDE": "https://www.forkranger.com/product/lunch-magazine/"
   }
 ]

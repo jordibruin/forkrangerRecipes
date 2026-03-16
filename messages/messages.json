@@ -374,5 +374,22 @@
     "bodyDE": "Es ist ein Ratgeber für eine nachhaltige & gesunde Brotzeit mit 20 einfachen Ideen für Sandwiches, selbstgemachte Aufstriche und superschnelle Mahlzeiten. Für alle, die ihr Salami- oder Käsesandwich ersetzen möchten (digital auf Englisch und gedruckt auf Niederländisch).",
     "buttonTextDE": "Mehr erfahren",
     "buttonURLDE": "https://www.forkranger.com/product/lunch-box-collection/"
+  },
+  {
+    "id": 26,
+    "startDate": "16-03-2026",
+    "endDate": "30-03-2026",
+    "titleEN": "Tell us what you think about notifications 🤔",
+    "bodyEN": "Every now and then we’d like to pick your brain about this app. We use your feedback to make the app even better.\n\nThe focus this time: notifications. Whether you have them or not, please share your thoughts.",
+    "buttonTextEN": "Go to survey (3 min)",
+    "buttonURLEN": "https://tally.so/r/KY0l97",
+    "titleNL": "Vertel ons wat je denkt over notificaties 🤔",
+    "bodyNL": "Zo nu en dan vinden we het leuk om te weten wat je van deze app vindt. We gebruiken je feedback om de app nog beter te maken.\n\nDe focus deze keer: notificaties. Of je ze nu wel of niet aan hebt staan, maakt niet uit!",
+    "buttonTextNL": "Naar de enquête (3 min)",
+    "buttonURLNL": "https://tally.so/r/KY06ez",
+    "titleDE": "Teile deine Meinung zu Benachrichtigungen 🤔",
+    "bodyDE": "Hin und wieder möchten wir dein Feedback zu dieser App einholen. Wir nutzen die Rückmeldungen, um die App weiter zu verbessern.\n\nDas Thema diesmal: Benachrichtigungen. Egal ob du diese nutzt oder nicht, deine Meinung ist wertvol.",
+    "buttonTextDE": "Zur Umfrage (3 Min - English)",
+    "buttonURLDE": "https://tally.so/r/KY0l97"
   }
 ]

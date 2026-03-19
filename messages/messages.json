@@ -378,7 +378,7 @@
   {
     "id": 26,
     "startDate": "16-03-2026",
-    "endDate": "30-03-2026",
+    "endDate": "19-03-2026",
     "titleEN": "Tell us what you think about notifications 🤔",
     "bodyEN": "Every now and then we’d like to pick your brain about this app. We use your feedback to make the app even better.\n\nThe focus this time: notifications. Whether you have them or not, please share your thoughts.",
     "buttonTextEN": "Go to survey (3 min)",
@@ -391,5 +391,23 @@
     "bodyDE": "Hin und wieder möchten wir dein Feedback zu dieser App einholen. Wir nutzen die Rückmeldungen, um die App weiter zu verbessern.\n\nDas Thema diesmal: Benachrichtigungen. Egal ob du diese nutzt oder nicht, deine Meinung ist wertvol.",
     "buttonTextDE": "Zur Umfrage (3 Min - English)",
     "buttonURLDE": "https://tally.so/r/KY0l97"
+  },
+  {
+    "id": 27,
+    "startDate": "20-03-2026",
+    "endDate": "27-03-2026",
+    "limitTo": "Android",
+    "titleEN": "🐞 Bug: unfortunately it's not possible to support us right now!",
+    "bodyEN": "If you're a monthly supporter or want to become a new supporter of Fork Ranger, it might not be possible right now. We are aware of this bug and are working on getting everything up and running again! If you another bug, please tell us (mareike@forkranger.com) or for general feedback use the form below!",
+    "buttonTextEN": "Leave other feedback",
+    "buttonURLEN": "https://docs.google.com/forms/d/e/1FAIpQLSdwuC_RNecOawdnmxxAluEw1dI13XoGSBr3rVJKg2lsFBrPpw/viewform",
+    "titleNL": "🐞 Bug: op dit moment kan je ons helaas niet steunen als supporter!",
+    "bodyNL": "Als je een maandelijkse supporter bent of supporter van Fork Ranger wilt worden, dan is dat momenteel helaas niet mogelijk. We zijn op de hoogte van deze bug en werken eraan om alles weer werkend te krijgen! \n\nAls je een andere bug tegenkomt, laat het ons dan weten (mareike@forkranger.com). Voor algemene feedback kun je onderstaand formulier gebruiken!",
+    "buttonTextNL": "Deel andere feedback",
+    "buttonURLNL": "https://docs.google.com/forms/d/e/1FAIpQLSchs-WM4PuZKRjytObJK1D9WnaLEFZTBmISe9ANWJnbVdkeGw/viewform",
+    "titleDE": "🐞 Bug: Leider ist es momentan nicht möglich, uns zu unterstützen!",
+    "bodyDE": "Wenn du Fork Ranger monatlich unterstützt oder neu unterstützen möchtest, ist dies momentan leider nicht möglich. Wir sind uns dieses Problems bewusst und arbeiten daran, alles wieder zum Laufen zu bringen! \nWenn du einen anderen Fehler entdeckst, bitte teile uns dies mit (mareike@forkranger.com). Für allgemeines Feedback gibt es das untenstehende Formular!",
+    "buttonTextDE": "Weiteres Feedback",
+    "buttonURLDE": "https://docs.google.com/forms/d/e/1FAIpQLSdwuC_RNecOawdnmxxAluEw1dI13XoGSBr3rVJKg2lsFBrPpw/viewform"
   }
 ]

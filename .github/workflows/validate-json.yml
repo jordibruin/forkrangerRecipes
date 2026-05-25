@@ -1,0 +1,70 @@
+name: Validate JSON
+
+on:
+  push:
+    paths:
+      - "dailycontent/*.json"
+      - "dailycontent/**/*.json"
+      - ".github/workflows/validate-json.yml"
+  pull_request:
+    paths:
+      - "dailycontent/*.json"
+      - "dailycontent/**/*.json"
+      - ".github/workflows/validate-json.yml"
+
+jobs:
+  validate-json:
+    name: Validate JSON files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Parse JSON files
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+          const path = require("path");
+
+          const targetDirectory = path.join(process.cwd(), "dailycontent");
+
+          function listJsonFiles(directory) {
+            const files = [];
+
+            for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+              const entryPath = path.join(directory, entry.name);
+              if (entry.isDirectory()) {
+                files.push(...listJsonFiles(entryPath));
+              } else if (entry.isFile() && entry.name.endsWith(".json")) {
+                files.push(entryPath);
+              }
+            }
+
+            return files;
+          }
+
+          const jsonFiles = listJsonFiles(targetDirectory).sort();
+          const failures = [];
+
+          for (const file of jsonFiles) {
+            try {
+              JSON.parse(fs.readFileSync(file, "utf8"));
+            } catch (error) {
+              const relativePath = path.relative(process.cwd(), file);
+              failures.push({ file: relativePath, message: error.message });
+              console.error(`::error file=${relativePath}::Invalid JSON: ${error.message}`);
+            }
+          }
+
+          if (failures.length > 0) {
+            console.error(`\nInvalid JSON files: ${failures.length}`);
+            for (const failure of failures) {
+              console.error(`- ${failure.file}: ${failure.message}`);
+            }
+            process.exit(1);
+          }
+
+          console.log(`Validated ${jsonFiles.length} JSON files.`);
+          NODE

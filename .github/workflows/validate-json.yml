@@ -2,11 +2,15 @@ name: Validate JSON
 
 on:
   push:
+    branches:
+      - develop
     paths:
       - "dailycontent/*.json"
       - "dailycontent/**/*.json"
       - ".github/workflows/validate-json.yml"
   pull_request:
+    branches:
+      - main
     paths:
       - "dailycontent/*.json"
       - "dailycontent/**/*.json"

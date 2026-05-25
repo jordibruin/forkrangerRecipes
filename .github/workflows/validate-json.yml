@@ -1,4 +1,4 @@
-name: Validate JSON
+name: Validate Daily Content and Sync Main
 
 on:
   push:
@@ -18,7 +18,7 @@ on:
 
 jobs:
   validate-json:
-    name: Validate JSON files
+    name: Validate dailycontent JSON files
     runs-on: ubuntu-latest
 
     steps:

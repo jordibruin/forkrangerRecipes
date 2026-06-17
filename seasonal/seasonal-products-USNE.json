@@ -1120,7 +1120,7 @@
     "nameEN": "Cantaloupe",
     "nameDE": "Kantalupe",
     "nameUS": "Cantaloupe",
-    "image": "",
+    "image": "melon",
     "LC": [
       10
     ],
@@ -1139,7 +1139,7 @@
     "nameEN": "Collard greens",
     "nameDE": "Blattkohl",
     "nameUS": "Collard greens",
-    "image": "",
+    "image": "collardgreens",
     "LC": [
       11
     ],
@@ -1155,12 +1155,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "84",
     "nameNL": "Kruisbes",
     "nameEN": "Gooseberry",
     "nameDE": "Stachelbeeren",
     "nameUS": "Gooseberry",
-    "image": "",
+    "image": "gooseberry",
     "LC": [
       8
     ],
@@ -1178,7 +1178,7 @@
     "nameEN": "Horseradish",
     "nameDE": "Meerrettich",
     "nameUS": "Horseradish",
-    "image": "",
+    "image": "horseradish",
     "LC": [
       4
     ],
@@ -1201,7 +1201,7 @@
     "nameEN": "Okra",
     "nameDE": "Okraschote",
     "nameUS": "Okra",
-    "image": "",
+    "image": "okra",
     "LC": [
       9
     ],
@@ -1219,7 +1219,7 @@
     "nameEN": "Pawpaw",
     "nameDE": "Papau",
     "nameUS": "Pawpaw",
-    "image": "",
+    "image": "pawpaw",
     "LC": [
       10
     ],
@@ -1235,7 +1235,7 @@
     "nameEN": "Purslane",
     "nameDE": "Portulak",
     "nameUS": "Purslane",
-    "image": "",
+    "image": "purslane",
     "LC": [
       11
     ],
@@ -1253,12 +1253,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "82",
     "nameNL": "Kweepeer",
     "nameEN": "Quince",
     "nameDE": "Quitte",
     "nameUS": "Quince",
-    "image": "",
+    "image": "quince",
     "LC": [
       11
     ],
@@ -1271,12 +1271,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "78",
     "nameNL": "Radicchio",
     "nameEN": "Radicchio",
     "nameDE": "Radicchio",
     "nameUS": "Radicchio",
-    "image": "",
+    "image": "radicchio",
     "LC": [
       11
     ],
@@ -1295,7 +1295,7 @@
     "nameEN": "Snow peas",
     "nameDE": "Zuckerschoten",
     "nameUS": "Snow peas",
-    "image": "",
+    "image": "snowpeas",
     "LC": [
       9
     ],
@@ -1314,7 +1314,7 @@
     "nameEN": "Sugar snaps",
     "nameDE": "Zuckerschoten",
     "nameUS": "Sugar snap peas",
-    "image": "",
+    "image": "sugarsnappeas",
     "LC": [
       9
     ],

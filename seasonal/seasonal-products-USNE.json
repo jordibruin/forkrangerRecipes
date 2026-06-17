@@ -49,7 +49,7 @@
     "nameNL": "Andijvie",
     "nameEN": "Endive",
     "nameDE": "Endivie",
-    "nameUS": "Endive",
+    "nameUS": "Curly endive",
     "image": "endive",
     "LC": [
       10
@@ -699,6 +699,32 @@
     ]
   },
   {
+    "id": 40,
+    "nameNL": "Rodekool",
+    "nameEN": "Red cabbage",
+    "nameDE": "Rotkohl",
+    "nameUS": "Red cabbage",
+    "image": "redcabbage",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2,
+      12
+    ],
+    "PT": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
     "id": 41,
     "nameNL": "Rucola",
     "nameEN": "Rocket",
@@ -718,6 +744,32 @@
     ],
     "SN": [
       5
+    ]
+  },
+  {
+    "id": 42,
+    "nameNL": "Savooikool",
+    "nameEN": "Savoy cabbage",
+    "nameDE": "Wirsingkohl",
+    "nameUS": "Savoy cabbage",
+    "image": "savoycabbage",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2,
+      12
+    ],
+    "PT": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "SN": [
+      6
     ]
   },
   {
@@ -845,7 +897,7 @@
     "nameNL": "Witlof",
     "nameEN": "Chicory",
     "nameDE": "Chicorée",
-    "nameUS": "Chicory",
+    "nameUS": "Belgian endive",
     "image": "chicory",
     "LC": [
       10
@@ -1068,7 +1120,7 @@
     "nameEN": "Cantaloupe",
     "nameDE": "Kantalupe",
     "nameUS": "Cantaloupe",
-    "image": "melon",
+    "image": "",
     "LC": [
       10
     ],
@@ -1087,7 +1139,7 @@
     "nameEN": "Collard greens",
     "nameDE": "Blattkohl",
     "nameUS": "Collard greens",
-    "image": "collardgreens",
+    "image": "",
     "LC": [
       11
     ],
@@ -1103,12 +1155,12 @@
     ]
   },
   {
-    "id": "84",
+    "id": "",
     "nameNL": "Kruisbes",
     "nameEN": "Gooseberry",
     "nameDE": "Stachelbeeren",
     "nameUS": "Gooseberry",
-    "image": "gooseberry",
+    "image": "",
     "LC": [
       8
     ],
@@ -1126,7 +1178,7 @@
     "nameEN": "Horseradish",
     "nameDE": "Meerrettich",
     "nameUS": "Horseradish",
-    "image": "horseradish",
+    "image": "",
     "LC": [
       4
     ],
@@ -1149,7 +1201,7 @@
     "nameEN": "Okra",
     "nameDE": "Okraschote",
     "nameUS": "Okra",
-    "image": "okra",
+    "image": "",
     "LC": [
       9
     ],
@@ -1167,7 +1219,7 @@
     "nameEN": "Pawpaw",
     "nameDE": "Papau",
     "nameUS": "Pawpaw",
-    "image": "pawpaw",
+    "image": "",
     "LC": [
       10
     ],
@@ -1183,7 +1235,7 @@
     "nameEN": "Purslane",
     "nameDE": "Portulak",
     "nameUS": "Purslane",
-    "image": "purslane",
+    "image": "",
     "LC": [
       11
     ],
@@ -1201,12 +1253,12 @@
     ]
   },
   {
-    "id": "82",
+    "id": "",
     "nameNL": "Kweepeer",
     "nameEN": "Quince",
     "nameDE": "Quitte",
     "nameUS": "Quince",
-    "image": "quince",
+    "image": "",
     "LC": [
       11
     ],
@@ -1219,12 +1271,12 @@
     ]
   },
   {
-    "id": "78",
+    "id": "",
     "nameNL": "Radicchio",
     "nameEN": "Radicchio",
     "nameDE": "Radicchio",
     "nameUS": "Radicchio",
-    "image": "radicchio",
+    "image": "",
     "LC": [
       11
     ],
@@ -1243,7 +1295,7 @@
     "nameEN": "Snow peas",
     "nameDE": "Zuckerschoten",
     "nameUS": "Snow peas",
-    "image": "snowpeas",
+    "image": "",
     "LC": [
       9
     ],
@@ -1262,7 +1314,7 @@
     "nameEN": "Sugar snaps",
     "nameDE": "Zuckerschoten",
     "nameUS": "Sugar snap peas",
-    "image": "sugarsnappeas",
+    "image": "",
     "LC": [
       9
     ],

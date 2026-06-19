@@ -7882,11 +7882,11 @@
           "id": 2,
           "type": "question",
           "title": "How much of their income do people in the Netherlands spend on food? 💰",
-          "subtitle": "as percentage of household income in 2018",
+          "subtitle": "as percentage of household income in 2024",
           "answerOptions": [
             {
               "id": 0,
-              "title": "8%",
+              "title": "11%",
               "correct": true
             },
             {
@@ -7902,7 +7902,7 @@
           ],
           "answerExplanation": {
             "text": "In rich Western countries we only spend around 6-12% on food. But Dutch people think it’s three times higher!\n\nEating sustainably is often cheaper because meat is expensive. But we also need to make farming more sustainable and fair and buying those products is often more expensive at the moment. So if you can allow it, don’t be too stingy with food.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food.png?v=1756981438",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food_2_EN.png?v=1781862615",
             "infographicSourceURL": "https://www.lto.nl/nederlander-overschat-uitgaven-voedsel/"
           }
         },

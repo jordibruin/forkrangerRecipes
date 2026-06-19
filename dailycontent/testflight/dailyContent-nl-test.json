@@ -7886,27 +7886,27 @@
           "id": 2,
           "type": "question",
           "title": "Hoeveel van het inkomen geven mensen in Nederland uit aan eten? 💰",
-          "subtitle": "als percentage van het huishoudinkomen in 2018",
+          "subtitle": "als percentage van het huishoudinkomen in 2024",
           "answerOptions": [
             {
               "id": 0,
-              "title": "8%",
+              "title": "11 %",
               "correct": true
             },
             {
               "id": 1,
-              "title": "19%",
+              "title": "19 %",
               "correct": false
             },
             {
               "id": 2,
-              "title": "33%",
+              "title": "33 %",
               "correct": false
             }
           ],
           "answerExplanation": {
             "text": "In rijke westerse landen geven we slechts zo'n 6-12% uit aan voedsel. Maar Nederlanders denken dat het drie keer zo hoog is!\n\nDuurzaam eten is vaak goedkoper omdat vlees duur is. Maar we moeten de landbouw ook duurzamer en eerlijker maken en het kopen van die producten is op dit moment vaak duurder. Dus als je je het kunt veroorloven, wees dan niet te zuinig met geld aan eten besteden.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food_NL.png?v=1756981437",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food_2_NL.png?v=1781862615",
             "infographicSourceURL": "https://www.lto.nl/nederlander-overschat-uitgaven-voedsel/"
           }
         },

@@ -4746,11 +4746,11 @@
           "id": 2,
           "type": "question",
           "title": "Wie viel von ihrem Einkommen geben die Menschen in den Niederlanden für Essen aus? 💰",
-          "subtitle": "als Prozentsatz des Haushaltseinkommens im Jahr 2018",
+          "subtitle": "als Prozentsatz des Haushaltseinkommens im Jahr 2024",
           "answerOptions": [
             {
               "id": 0,
-              "title": "8 %",
+              "title": "11 %",
               "correct": true
             },
             {
@@ -4766,7 +4766,7 @@
           ],
           "answerExplanation": {
             "text": "In reichen westlichen Ländern geben wir nur etwa 6-12 % für Lebensmittel aus. Aber die Niederländer glauben, dass es dreimal so viel ist!\n\nNachhaltig zu essen ist oft günstiger, weil Fleisch teuer ist. Aber wir müssen auch die Landwirtschaft nachhaltiger und fairer gestalten, und der Kauf dieser Produkte ist im Moment oft teurer. Wenn du es dir also leisten kannst, sei nicht zu sparsam bei Lebensmitteln.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food_DE.png?v=1756981437",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food_2_DE.png?v=1781862615",
             "infographicSourceURL": "https://www.lto.nl/nederlander-overschat-uitgaven-voedsel/"
           }
         },

@@ -5,22 +5,26 @@ on:
     branches:
       - develop
     paths:
-      - "onboarding/*.json"
-      - "dailycontent/*.json"
+      - "seasonal/**/*.json"
       - "dailycontent/**/*.json"
+      - "onboarding/**/*.json"
+      - "messages/**/*.json"
+      - "vouchers/**/*.json"
       - ".github/workflows/validate-json.yml"
   pull_request:
     branches:
       - main
     paths:
-      - "onboarding/*.json"
-      - "dailycontent/*.json"
+      - "seasonal/**/*.json"
       - "dailycontent/**/*.json"
+      - "onboarding/**/*.json"
+      - "messages/**/*.json"
+      - "vouchers/**/*.json"
       - ".github/workflows/validate-json.yml"
 
 jobs:
   validate-json:
-    name: Validate dailycontent JSON files
+    name: Validate content JSON files
     runs-on: ubuntu-latest
 
     steps:
@@ -34,7 +38,13 @@ jobs:
           const fs = require("fs");
           const path = require("path");
 
-          const targetDirectory = path.join(process.cwd(), "dailycontent");
+          const targetDirectories = [
+            "seasonal",
+            "dailycontent",
+            "onboarding",
+            "messages",
+            "vouchers",
+          ].map((directory) => path.join(process.cwd(), directory));
 
           function listJsonFiles(directory) {
             const files = [];
@@ -51,7 +61,7 @@ jobs:
             return files;
           }
 
-          const jsonFiles = listJsonFiles(targetDirectory).sort();
+          const jsonFiles = targetDirectories.flatMap(listJsonFiles).sort();
           const failures = [];
 
           for (const file of jsonFiles) {
@@ -95,5 +105,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout main
-          git merge --ff-only origin/develop
+          git merge --ff-only "$GITHUB_SHA"
           git push origin main

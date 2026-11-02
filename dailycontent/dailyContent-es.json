@@ -237,12 +237,12 @@
             {
               "id": 1,
               "title": "55 %",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 2,
               "title": "77 %",
-              "correct": "verdadero" 
+              "correct": true 
             }
           ],
           "answerExplanation": {

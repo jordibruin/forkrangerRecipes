@@ -461,17 +461,17 @@
             {
               "id": 0,
               "title": "1 persona que lleva una dieta vegana",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "2 personas que llevan una dieta vegetariana",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 2,
               "title": "3 personas que sustituyen la ternera por cerdo y pollo",
-              "correct": "verdadero"
+              "correct": true
             }
           ],
           "answerExplanation": {
@@ -496,22 +496,22 @@
             {
               "id": 0,
               "title": "Tener estudios superiores 🎓",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "Compartir piso con una persona vegetariana 🏠",
-              "correct": "verdadero"
+              "correct": true
             },
             {
               "id": 2,
               "title": "Ser joven 💁‍♂️",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 3,
               "title": "Ser mujer 💃",
-              "correct": "falso"
+              "correct": false
             }
           ],
           "answerExplanation": {
@@ -547,17 +547,17 @@
             {
               "id": 0,
               "title": "Durante el proceso de producción",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "En el supermercado",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 2,
               "title": "En casa",
-              "correct": "verdadero"
+              "correct": true
             }
           ],
           "answerExplanation": {

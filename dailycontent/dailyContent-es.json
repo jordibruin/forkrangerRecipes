@@ -376,22 +376,22 @@
             {
               "id": 0,
               "title": "Judías",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "Quinoa",
-              "correct": "verdadero"
+              "correct": true
             },
             {
               "id": 2,
               "title": "Lentejas",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 3,
               "title": "Garbanzos",
-              "correct": "falso"
+              "correct": false
             }
           ],
           "answerExplanation": {

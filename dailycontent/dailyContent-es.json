@@ -115,12 +115,12 @@
             {
               "id": 0,
               "title": "Alta",
-              "correct": "falso"
+              "correct": "false"
             },
             {
               "id": 1,
               "title": "Baja",
-              "correct": "verdadero"
+              "correct": "true"
             }
           ],
           "answerExplanation": {

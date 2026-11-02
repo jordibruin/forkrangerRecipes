@@ -416,12 +416,12 @@
             {
               "id": 0,
               "title": "En conserva 🥫",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "Secas 🫘",
-              "correct": "verdadero"
+              "correct": true
             }
           ],
           "answerExplanation": {

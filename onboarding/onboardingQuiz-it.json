@@ -3,8 +3,8 @@
     {
       "id": 1,
       "type": "question",
-      "title": "¿En qué medida contribuyen nuestros alimentos al cambio climático?",
-      "subtitle": "Emisiones anuales de gases de efecto invernadero en todo el mundo",
+      "title": "Quanto contribuisce il nostro cibo al cambiamento climatico?",
+      "subtitle": "emissioni annuali di gas serra a livello mondiale",
       "answerOptions": [
         {
           "id": 0,
@@ -23,64 +23,64 @@
         }
       ],
       "answerExplanation": {
-        "text": "Nuestro sistema alimentario mundial genera un tercio del total de las emisiones.\n\nEn tu aventura con Fork Ranger, vas a descubrir cuáles son las principales fuentes de estas emisiones y qué podemos hacer al respecto.",
-        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change_ES.png?v=1793637341"
+        "text": "Il nostro sistema alimentare globale è responsabile di un terzo di tutte le emissioni. \n\nNel tuo viaggio con Fork Ranger esplorerai le fonti più importanti di queste emissioni e cosa possiamo fare al riguardo.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change_IT.png?v=1793637341"
       },
       "recipe": 12,
-      "recipeSubtitle" : "Esta fue la primera receta de Fork Ranger y se ha convertido en una de las favoritas de decenas de personas."
+      "recipeSubtitle" : "Questa è stata la prima ricetta di Fork Ranger ed è diventata la preferita di decine di persone."
     },
     {
       "id": 2,
       "type": "question",
-      "title": "¿Qué ayuda más a reducir las emisiones de CO₂?",
+      "title": "Cosa può ridurre maggiormente le emissioni di CO2?",
       "subtitle": "",
       "answerOptions": [
         {
           "id": 1,
-          "title": "Cambiar lo que comemos",
+          "title": "Cambiare ciò che mangiamo",
           "correct": true
         },
         {
           "id": 0,
-          "title": "Hacer que las granjas sean más sostenibles",
+          "title": "Rendere le aziende agricole più sostenibili",
           "correct": false
         }
       ],
       "answerExplanation": {
-        "text": "La forma más eficaz de reducir la huella ecológica de nuestra alimentación es comer menos carne y productos lácteos.\n\nNo hace falta hacerse vegetariano para formar parte de la solución. Introducir unos pocos cambios sencillos pueden marcar una gran diferencia.",
-        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet_ES_2.png?v=1793637392"
+        "text": "Il modo più efficace per ridurre l'impatto ambientale del nostro cibo è mangiare meno carne e latticini.\n\nNon è necessario diventare vegetariani per far parte della soluzione. Bastano pochi semplici cambiamenti per fare un'enorme differenza.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet_IT_2.png?v=1793717800"
       },
       "recipe": 4,
-      "recipeSubtitle" : "La mayoría de nosotros necesitamos comer más verduras y esta receta te lo pone mucho más fácil."
+      "recipeSubtitle" : "Molti di noi dovrebbero mangiare più verdura e questa ricetta rende tutto molto più semplice."
     },
     {
       "id": 3,
       "type": "question",
-      "title": "¿Qué solución ayuda más a reducir las emisiones de CO₂?",
-      "subtitle": "eeducción global de CO₂e según Project Drawdown",
+      "title": "Quale soluzione può far risparmiare più CO2?",
+      "subtitle": "riduzione globale di CO₂e secondo Project Drawdown",
       "answerOptions": [
         {
           "id": 0,
-          "title": "Conseguir que el 80 % de todos los coches sean eléctricos 🚗",
+          "title": "🚗 Rendere l'80% di tutte le auto elettriche",
           "correct": false
         },
         {
           "id": 1,
-          "title": "Reducción del desperdicio de alimentos 🗑",
+          "title": "🗑 Riduci gli sprechi alimentari del 50%",
           "correct": true
         },
         {
           "id": 2,
-          "title": "Dietas ricas en alimentos vegetales 🥦",
+          "title": "🥩 Mangia il 53% in meno di carne di manzo",
           "correct": false
         }
       ],
       "answerExplanation": {
-        "text": "En Fork Ranger, nos inspira saber que existen algunas soluciones muy al alcance de las personas que pueden reducir las emisiones de CO₂ más allá de la tecnología.\n\nSe trata de encontrar una nueva forma de vida en armonía con la naturaleza:\n- menos carne, más vegetales\n- menos vuelos, más aventuras locales\n- menos cosas, más recuerdos",
-        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Top_climate_solutions_Drawdown_2_ES.png?v=1793638009"
+        "text": "Noi di Fork Ranger siamo ispirati dal fatto che esistono soluzioni molto umane in grado di far risparmiare molta più CO2 rispetto alla tecnologia.\n\nSi tratta di trovare un nuovo modo di vivere in armonia con la natura:\n- meno carne, più vegetali\n- meno voli, più avventure locali\n- meno cose materiali, più ricordi",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Top_climate_solutions_Drawdown_IT.png?v=1793717998"
       },
       "recipe": 69,
-      "recipeSubtitle" : "Las recetas de curry como esta son una de las formas más fáciles de comer más vegetales."
+      "recipeSubtitle" : "Ricette veloci come questa sono uno dei modi più semplici per mangiare più vegetali."
     }
   ]
 }
